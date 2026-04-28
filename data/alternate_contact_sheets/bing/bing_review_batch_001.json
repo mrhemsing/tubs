@@ -1,0 +1,82 @@
+[
+  {
+    "listing_id": "10658951",
+    "address": "9444 MOYIE SHORES ESTATES W Road",
+    "has_useful_bing_overhead": "unclear",
+    "best_tile_position": "center",
+    "coverage_strength": "low",
+    "notes": "Heavily treed and blurry; possible roof/clearing at right side of center tile, but house and backyard/lot are not clearly visible together."
+  },
+  {
+    "listing_id": "20028580",
+    "address": "1309 BIRCHWOOD Place",
+    "has_useful_bing_overhead": "yes",
+    "best_tile_position": "center",
+    "coverage_strength": "medium",
+    "notes": "Center tile shows part of the house/roof edge with adjacent lawn and treed backyard area; useful though partially obscured by trees and not a full house view."
+  },
+  {
+    "listing_id": "20078363",
+    "address": "1357 Cypress Drive",
+    "has_useful_bing_overhead": "yes",
+    "best_tile_position": "center",
+    "coverage_strength": "medium",
+    "notes": "Center tile shows house/driveway area, lawn, road frontage, and surrounding yard; tree cover obscures some detail but overall usable."
+  },
+  {
+    "listing_id": "10683161",
+    "address": "2313 FALCON Court",
+    "has_useful_bing_overhead": "yes",
+    "best_tile_position": "center",
+    "coverage_strength": "high",
+    "notes": "Clear overhead view of house, driveway, cul-de-sac frontage, and backyard/lot boundaries; strongest usable Bing overhead."
+  },
+  {
+    "listing_id": "20080409",
+    "address": "1668 Tranquility Road",
+    "has_useful_bing_overhead": "unclear",
+    "best_tile_position": "center",
+    "coverage_strength": "low",
+    "notes": "Dense tree cover; possible driveway/clearing visible but no clear house + backyard/lot view together."
+  },
+  {
+    "listing_id": "20058040",
+    "address": "205 309th Avenue",
+    "has_useful_bing_overhead": "yes",
+    "best_tile_position": "center",
+    "coverage_strength": "low",
+    "notes": "Center tile includes partial house roof and treed lot/backyard area, but structure is cut off and vegetation obscures details."
+  },
+  {
+    "listing_id": "20074790",
+    "address": "215 13th Avenue S",
+    "has_useful_bing_overhead": "yes",
+    "best_tile_position": "center",
+    "coverage_strength": "medium",
+    "notes": "Center/red tile shows house/yard context, though tree cover and soft imagery reduce clarity."
+  },
+  {
+    "listing_id": "10672915",
+    "address": "3415 CROOKED TREE Place",
+    "has_useful_bing_overhead": "yes",
+    "best_tile_position": "middle-left",
+    "coverage_strength": "medium",
+    "notes": "Middle-left tile provides the clearest view of a house/structure with surrounding open lot; center tile mostly shows driveway/clearing."
+  },
+  {
+    "listing_id": "20022519",
+    "address": "611 NELSON Street",
+    "has_useful_bing_overhead": "yes",
+    "best_tile_position": "center",
+    "coverage_strength": "medium",
+    "notes": "Center tile gives usable neighborhood overhead context with house and yard portions, though the road bisects the tile and exact target is somewhat unclear."
+  },
+  {
+    "listing_id": "20078478",
+    "address": "75 103RD Avenue",
+    "has_useful_bing_overhead": "unclear",
+    "best_tile_position": "center",
+    "coverage_strength": "low",
+    "notes": "Center/red tile mostly shows road bend and trees with only partial/obscured structures near edges; target house and lot are not clearly visible together."
+  }
+]
