@@ -269,10 +269,10 @@
     "center_tile_contrast": "40.5",
     "backyard_visibility": "partial",
     "overhead_quality": "fair",
-    "hot_tub_visible": "unclear",
+    "hot_tub_visible": "no_mls_crosscheck",
     "mls_photo_count": "44",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 002: print_mockup_potential=medium; best_candidate_tile=center; Center tile shows house and yard but imagery is soft; small circular feature may be a tub/pool or yard object."
+    "notes": "Vision batch 002: print_mockup_potential=medium; best_candidate_tile=center; Center tile shows house and yard but imagery is soft; small circular feature may be a tub/pool or yard object. MLS crosscheck batch 001: backyard_photos=yes; drone_or_aerial=no; hot_tub_or_pool=no; best_mls_photos=27,29,30,26,28; Strong backyard/outdoor MLS candidates with deck, lawn, landscaping, mountain views, and rear/side yard context. No visible aerial/drone or hot tub/pool."
   },
   {
     "priority_rank": "12",
@@ -369,10 +369,10 @@
     "center_tile_contrast": "33.2",
     "backyard_visibility": "partial",
     "overhead_quality": "fair",
-    "hot_tub_visible": "unclear",
+    "hot_tub_visible": "no_mls_crosscheck",
     "mls_photo_count": "15",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 002: print_mockup_potential=medium; best_candidate_tile=center; Center/right area shows a lot with yard and structures; possible round feature but not confidently identifiable."
+    "notes": "Vision batch 002: print_mockup_potential=medium; best_candidate_tile=center; Center/right area shows a lot with yard and structures; possible round feature but not confidently identifiable. MLS crosscheck batch 001: backyard_photos=yes; drone_or_aerial=no; hot_tub_or_pool=no; best_mls_photos=7,8,12,14,3,6,11; Excellent outdoor/waterfront MLS candidates including rear exterior, decks, lake views, dock/marina, shoreline, and wooded setting. No true aerial/drone imagery; lake visible but no pool or hot tub."
   },
   {
     "priority_rank": "16",

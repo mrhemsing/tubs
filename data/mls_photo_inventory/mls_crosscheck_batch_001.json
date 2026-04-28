@@ -1,0 +1,26 @@
+[
+  {
+    "listing_id": "20059379",
+    "address": "1265 VALLEY VIEW Place",
+    "reason": "Overhead vision review had unclear possible round tub/pool-like feature.",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "no",
+    "best_photo_indices": [27, 29, 30, 26, 28],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Strong backyard/outdoor MLS candidates with deck, lawn, landscaping, mountain views, and rear/side yard context. No visible aerial/drone or hot tub/pool."
+  },
+  {
+    "listing_id": "10621595",
+    "address": "9382 MOYIE SHORES ESTATE Road",
+    "reason": "Overhead vision review had unclear possible round tub/pool-like feature.",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "no",
+    "best_photo_indices": [7, 8, 12, 14, 3, 6, 11],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Excellent outdoor/waterfront MLS candidates including rear exterior, decks, lake views, dock/marina, shoreline, and wooded setting. No true aerial/drone imagery; lake visible but no pool or hot tub."
+  }
+]
