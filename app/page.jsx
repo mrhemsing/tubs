@@ -26,6 +26,8 @@ function Stat({ label, value }) {
   );
 }
 
+const areaOrder = ['Columbia Valley', 'Cranbrook/Kimberley', 'Fernie/Sparwood'];
+
 function CandidateCard({ card }) {
   const links = [
     ['MLS contact sheet', card.links?.mlsContactSheet],
@@ -120,9 +122,32 @@ export default function Home() {
         <p>Ranked by strongest available house + backyard/lot aerial or elevated coverage. Each listing shows the actual best candidate photo first, followed by remaining candidate photos.</p>
       </section>
 
-      <section className="cards">
-        {data.cards.map((card) => <CandidateCard card={card} key={`${card.rank}-${card.listingId}`} />)}
-      </section>
+      {areaOrder.map((area) => {
+        const cards = data.cards.filter((card) => card.sourceLabel === area);
+        if (cards.length === 0) return null;
+        const aerialCount = cards.filter((card) => card.recommendedSource === 'mls_drone_or_aerial_candidate').length;
+        const arcgisCount = cards.filter((card) => card.recommendedSource === 'arcgis_overhead_house_backyard_candidate').length;
+        const possibleCount = cards.filter((card) => card.recommendedSource === 'possible_mls_elevated_candidate_needs_verify').length;
+        return (
+          <section className="areaSection" key={area} id={area.toLowerCase().replaceAll(/[^a-z0-9]+/g, '-')}>
+            <div className="areaHeader">
+              <div>
+                <p className="areaKicker">Area</p>
+                <h2>{area}</h2>
+              </div>
+              <div className="areaStats">
+                <span>{cards.length} candidates</span>
+                <span>{aerialCount} MLS aerial/elevated</span>
+                <span>{arcgisCount} ArcGIS overhead</span>
+                <span>{possibleCount} possible elevated</span>
+              </div>
+            </div>
+            <div className="cards">
+              {cards.map((card) => <CandidateCard card={card} key={`${card.rank}-${card.listingId}`} />)}
+            </div>
+          </section>
+        );
+      })}
     </main>
   );
 }

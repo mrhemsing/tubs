@@ -42,6 +42,12 @@ h1 { font-size: clamp(34px, 5vw, 64px); line-height: .95; margin: 0 0 18px; lett
 .statValue { font-size: 28px; font-weight: 850; letter-spacing: -.04em; }
 .statLabel { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .06em; font-weight: 700; }
 .toolbar { color: var(--muted); font-size: 14px; margin: 22px 4px; }
+.areaSection { margin-top: 34px; }
+.areaHeader { display: flex; justify-content: space-between; align-items: flex-end; gap: 18px; margin: 0 4px 14px; padding-top: 10px; border-top: 1px solid rgba(100, 116, 139, .22); }
+.areaHeader h2 { font-size: 34px; margin: 0; }
+.areaKicker { color: var(--blue); font-weight: 850; letter-spacing: .08em; text-transform: uppercase; font-size: 12px; margin: 0 0 4px; }
+.areaStats { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 8px; color: var(--muted); font-size: 12px; font-weight: 750; }
+.areaStats span { border: 1px solid var(--line); background: rgba(255,255,255,.72); border-radius: 999px; padding: 7px 10px; }
 .cards { display: grid; gap: 18px; }
 .card {
   background: var(--card);
@@ -86,6 +92,8 @@ h2 { margin: 0; font-size: 23px; letter-spacing: -.025em; }
   .listingLayout { grid-template-columns: 1fr; }
   .details { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .primaryPhoto img { height: 340px; }
+  .areaHeader { align-items: flex-start; flex-direction: column; }
+  .areaStats { justify-content: flex-start; }
   .cardHeader { flex-wrap: wrap; }
   .badge { margin-left: 68px; }
 }
