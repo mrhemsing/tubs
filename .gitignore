@@ -1,6 +1,10 @@
 __pycache__/
 .venv/
 .env
+node_modules/
+.next/
+out/
+.vercel/
 xposure_sample.html
 arcgis_test.jpg
 data/raw/
