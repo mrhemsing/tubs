@@ -179,11 +179,14 @@ export default function ReviewPage({ areaFilter = null }) {
   return (
     <main>
       <section className="hero">
-        <div>
+        <div className="heroCopy">
           <p className="eyebrow">Tubs Review</p>
           <h1>{title}</h1>
           <p className="lede">{data.goal}</p>
           <p className="rights">{data.rightsNotice}</p>
+        </div>
+        <div className="heroArtWrap">
+          <img className="heroArt" src="/header-illustration.jpg" alt="Illustration of friends in a snowy mountain hot tub" />
         </div>
         <div className="stats">
           <Stat label="Properties" value={areaFilter ? data.allAddresses.filter((row) => row.sourceLabel === areaFilter).length : data.summary.properties} />
