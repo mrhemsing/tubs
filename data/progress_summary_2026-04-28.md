@@ -16,7 +16,7 @@ Not the goal: hot tubs, pools, amenities, or ground-level backyard marketing pho
 - ArcGIS imagery availability check: 27 listings have real aerial tiles; 273 are all-placeholder/no usable ArcGIS imagery; 1 has no coordinate
 - MLS thumbnails inventoried: 7,467
 - MLS contact sheets generated: 299
-- MLS contact sheets reviewed for house+backyard aerial/elevated candidates so far: 142
+- MLS contact sheets reviewed for house+backyard aerial/elevated candidates so far: 152
 
 ## Corrected consolidated triage output
 
@@ -27,12 +27,12 @@ All-listing candidate table, ranked for house + backyard aerial/elevated coverag
 
 Current recommended-source split:
 
-- MLS drone/aerial candidates: 40
+- MLS drone/aerial candidates: 41
 - ArcGIS overhead house+backyard candidates: 10
-- Possible MLS elevated candidates needing verification: 14
-- MLS ground backyard context only: 11
-- Still needs aerial review: 21
-- Blocked by ArcGIS no imagery: 203
+- Possible MLS elevated candidates needing verification: 15
+- MLS ground backyard context only: 14
+- Still needs aerial review: 18
+- Blocked by ArcGIS no imagery: 201
 - Blocked no coordinate: 1
 
 ## Current best aerial/elevated candidates
@@ -59,6 +59,8 @@ New candidates from latest review batch:
 
 Additional latest candidates:
 
+- 4874 RIDGE Crescent - strong drone/elevated near-overhead house/patio/backyard/treed-lot coverage; best photo indices 6,4,5.
+- Possible elevated/needs-verify: 4585 COLUMERE Road.
 - 233 Boulder Creek - elevated/drone-style house/yard/lot coverage; best photo indices 4,30,29,2.
 - 782 4TH Avenue - strong aerial neighborhood/property context; best photo indices 10,6,7,4,5.
 - 13-640 UPPER LAKEVIEW Road - medium elevated/drone-like house+lot context; best photo indices 6,3.

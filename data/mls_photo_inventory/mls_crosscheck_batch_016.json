@@ -1,0 +1,122 @@
+[
+  {
+    "listing_id": "10665854",
+    "address": "4874 RIDGE Crescent",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [6, 4, 5],
+    "aerial_or_elevated_photo_indices": [4, 5, 6],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: strong drone/elevated coverage. Photo 6 is best top-down/near-overhead showing house, patio/backyard and treed lot context; photo 4 also shows house/yard; photo 5 gives wider setting."
+  },
+  {
+    "listing_id": "10660407",
+    "address": "2589 LEDGEROCK Court",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [3, 4, 1, 2],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no clear aerial/top-down images. Best available are ground-level exterior/yard views: photos 3 and 4 show house with lawn/lot context; photos 1-2 show front exterior."
+  },
+  {
+    "listing_id": "10659027",
+    "address": "4642 ROWAN Street",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 2, 5, 6],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial or top-down lot view. Only ground-level exterior/patio/yard images; photo 1 best shows house with surrounding yard, photo 2 side/drive area, photos 5-6 patio/yard context."
+  },
+  {
+    "listing_id": "10658951",
+    "address": "9444 MOYIE SHORES ESTATES W Road",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [2, 3, 6, 1, 5],
+    "aerial_or_elevated_photo_indices": [13, 15, 24],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no true aerial/top-down house+lot view. Strong ground-level yard/lot coverage with house visible in photos 2, 3, 6; photos 13/15/24 are elevated/deck-style views but mostly yard/lake rather than full house+backyard together."
+  },
+  {
+    "listing_id": "20078352",
+    "address": "2071 Golden Eagle Drive",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/top-down or backyard/lot overview apparent. Only useful exterior context is photo 1 front elevation; remaining images are interiors or views through windows."
+  },
+  {
+    "listing_id": "20053388",
+    "address": "2715 3rd Street S",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/top-down/elevated property views visible. Only useful exterior is front/yard view photo 1; backyard/lot not shown together."
+  },
+  {
+    "listing_id": "20021525",
+    "address": "4585 COLUMERE Road",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "unclear",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [2, 4, 5, 7, 25],
+    "aerial_or_elevated_photo_indices": [24, 25],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no true aerial. Several ground-level rear/yard views show house with backyard/deck; photo 25 appears elevated from deck/balcony over yard but does not clearly show whole house and lot together."
+  },
+  {
+    "listing_id": "10685535",
+    "address": "112 PURCELL Place",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [5, 29, 1, 2, 3],
+    "aerial_or_elevated_photo_indices": [4],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 4 is an elevated/scenic area view, not clearly the property. Property photos are mostly ground-level exterior/front/rear; photo 5 shows rear deck/house but limited lot context."
+  },
+  {
+    "listing_id": "10683098",
+    "address": "1440 CANTERBURY Close",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [10, 8, 9, 12, 11],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/top-down/elevated views. Multiple ground-level exterior views show rear/side yard and house together, especially photos 8-12."
+  },
+  {
+    "listing_id": "20073830",
+    "address": "311 302nd Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [3, 6, 7, 4, 11],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/top-down/elevated views. Wide ground-level exterior shots show house, detached garage, yard/lot, and treed surroundings; photos 3 and 6 are strongest."
+  }
+]
