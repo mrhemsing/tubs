@@ -1,5 +1,9 @@
 # Tubs progress summary - 2026-04-28
 
+## Goal correction
+
+Matt clarified the target: prioritize **aerial/top-down or elevated shots that show the house and backyard together**. Hot tubs/pools are not the objective and should not drive ranking. They remain only incidental notes if visible while reviewing imagery.
+
 ## Current counts
 
 - Listings parsed: 300
@@ -12,46 +16,44 @@
 - MLS contact sheets generated: 299
 - MLS contact sheets vision-reviewed so far: 32
 
-## Consolidated triage output
+## Corrected consolidated triage output
 
-Generated all-listing candidate table:
+Regenerated all-listing candidate table with ranking focused on house + backyard aerial/elevated coverage:
 
 - `data/triage/property_candidate_triage.csv`
 - `data/triage/property_candidate_triage.json`
 
 Current recommended-source split:
 
-- ArcGIS overhead candidates: 10
 - MLS drone/aerial candidates: 8
-- MLS backyard candidates: 22
-- Blocked by ArcGIS no imagery: 221
-- Still needs review: 38
+- ArcGIS overhead house+backyard candidates: 10
+- Possible MLS elevated candidate needing verification: 1
+- MLS ground backyard context only: 1
+- Still needs aerial review: 38
+- Blocked by ArcGIS no imagery: 241
 - Blocked no coordinate: 1
 
-## Best current candidates
+## Current best aerial/elevated candidates
 
-Top ranked rows in `property_candidate_triage.csv`:
+Top rows in the corrected ranking:
 
-1. `4576 COLUMERE Road` - MLS drone/aerial-style context plus visible hot tub on deck/patio; needs human verification.\n2. `75 103RD Avenue` - MLS backyard candidate; possible covered hot tub visible in photo 29; needs human verification.
-3. `814 307TH Avenue` - MLS backyard candidate; hot tub clearly visible in photo 28 per vision pass; needs human verification.
-4. `1265 VALLEY VIEW Place` - ArcGIS overhead candidate plus strong MLS backyard photos; no visible tub/pool.
-5. `1681 KOOCANUSA LAKE Drive` - best ArcGIS overhead/backyard candidate from aerial pass.
-6. `9382 MOYIE SHORES ESTATE Road` - ArcGIS overhead candidate plus strong waterfront MLS candidates; no visible tub/pool.
-
-Current MLS drone/aerial candidates:
-
-- `1732 20TH S Avenue`\n- `2510 COBBLESTONE Trail`\n- `2543 LEDGEROCK Ridge`
-- `4891 Glen Eagle Drive`
-- `4992 MOUNTAIN VIEW Drive`
-- `960 COPPER POINT Way`\n- `804 17TH S Street`\n- `4576 COLUMERE Road`
+1. `1732 20TH S Avenue` - MLS drone/aerial candidate, likely house + backyard elevated context.
+2. `2510 COBBLESTONE Trail` - MLS drone/aerial candidate, likely house + backyard elevated context.
+3. `2543 LEDGEROCK Ridge` - MLS drone/aerial candidate, likely house + backyard elevated context.
+4. `4576 COLUMERE Road` - MLS drone/aerial candidate, likely house + backyard elevated context.
+5. `4891 Glen Eagle Drive` - MLS drone/aerial candidate, likely house + backyard elevated context.
+6. `4992 MOUNTAIN VIEW Drive` - MLS drone/aerial candidate, likely house + backyard elevated context.
+7. `804 17TH S Street` - MLS drone/aerial candidate, likely house + backyard elevated context.
+8. `960 COPPER POINT Way` - MLS drone/aerial candidate, likely house + backyard elevated context.
+9. `1681 KOOCANUSA LAKE Drive` - ArcGIS overhead house+backyard candidate.
+10. `1643 Koocanusa Lake Drive` - ArcGIS overhead house+backyard candidate.
 
 ## Blockers / cautions
 
 - ArcGIS World Imagery is mostly unavailable for this property set at the collected zoom/area: most tiles are Esri placeholder images.
 - MLS photos are inventoried for internal research only. Reuse rights remain unknown and must be verified before using or publishing any MLS image.
-- Vision flags are triage, not final labels. Hot tub/pool positives should be human-verified at full resolution.
+- MLS drone/aerial labels are vision-triage labels from contact sheets and should be verified at full resolution.
 
 ## Next best action
 
-Continue MLS contact-sheet review for the remaining high-candidate / needs-review properties, then optionally add an alternate overhead imagery source if Matt wants more true top-down backyard coverage beyond the limited ArcGIS availability.
-
+Continue MLS contact-sheet review specifically for **true aerial/drone/elevated shots that capture house + backyard together**, not amenity detection. If Matt wants broader top-down coverage, add an alternate overhead imagery source because ArcGIS coverage is sparse here.

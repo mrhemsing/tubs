@@ -51,28 +51,36 @@ def load_mls_reviews() -> dict[str, dict[str, object]]:
 
 
 def score_row(row: dict[str, object]) -> int:
+    """Rank for Matt's goal: aerial/elevated views showing house + backyard together."""
     score = 0
     aerial_quality = row.get("aerial_overhead_quality", "")
-    if aerial_quality == "good":
-        score += 40
-    elif aerial_quality == "fair":
-        score += 20
-    if row.get("aerial_backyard_visibility") == "good":
-        score += 35
-    elif row.get("aerial_backyard_visibility") == "partial":
-        score += 20
+    backyard_visibility = row.get("aerial_backyard_visibility", "")
+
+    # True overhead/aerial evidence is the main objective.
     if row.get("mls_drone_or_aerial") == "yes":
-        score += 30
+        score += 70
+    elif row.get("mls_drone_or_aerial") == "unclear":
+        score += 25
+
+    if aerial_quality == "good":
+        score += 45
+    elif aerial_quality == "fair":
+        score += 28
+
+    if backyard_visibility == "good":
+        score += 40
+    elif backyard_visibility == "partial":
+        score += 24
+
+    # MLS ground-level backyard photos are useful context, but not the target.
     if row.get("mls_backyard_photos") == "yes":
-        score += 20
-    if row.get("hot_tub_or_pool_signal") == "yes":
-        score += 50
-    elif row.get("hot_tub_or_pool_signal") == "unclear":
-        score += 10
-    if row.get("mls_candidate_strength") == "high":
-        score += 15
-    elif row.get("mls_candidate_strength") == "medium":
         score += 8
+    if row.get("mls_candidate_strength") == "high":
+        score += 8
+    elif row.get("mls_candidate_strength") == "medium":
+        score += 4
+
+    # Hot tub/pool is retained only as a secondary note, not a ranking driver.
     if row.get("coordinate_confidence") == "unresolved":
         score -= 25
     return score
@@ -95,17 +103,27 @@ def main() -> None:
         ms = mls_summary.get(lid, {})
         mr = mls_reviews.get(lid, {})
         hot_signal = mr.get("hot_tub_or_pool_visible") or r.get("hot_tub_visible") or "unclear"
-        best_source = "needs_review"
+        has_arcgis_house_backyard = r.get("overhead_quality") in {"good", "fair"} and r.get("backyard_visibility") in {"good", "partial"}
+        best_source = "needs_aerial_review"
+        aerial_coverage_goal = "unreviewed"
         if mr.get("has_drone_or_aerial_photos") == "yes":
             best_source = "mls_drone_or_aerial_candidate"
-        elif r.get("overhead_quality") in {"good", "fair"} and r.get("backyard_visibility") in {"good", "partial"}:
-            best_source = "arcgis_overhead_candidate"
-        elif mr.get("has_backyard_photos") == "yes":
-            best_source = "mls_backyard_candidate"
+            aerial_coverage_goal = "likely_house_and_backyard_elevated_context"
+        elif has_arcgis_house_backyard:
+            best_source = "arcgis_overhead_house_backyard_candidate"
+            aerial_coverage_goal = "likely_house_and_backyard_overhead"
+        elif mr.get("has_drone_or_aerial_photos") == "unclear":
+            best_source = "possible_mls_elevated_candidate_needs_verify"
+            aerial_coverage_goal = "possible_elevated_context_needs_verify"
         elif r.get("review_status") == "blocked_no_aerial_imagery":
             best_source = "blocked_arcgis_no_imagery"
+            aerial_coverage_goal = "no_arcgis_overhead_available"
         elif r.get("coordinate_confidence") == "unresolved":
             best_source = "blocked_no_coordinate"
+            aerial_coverage_goal = "no_coordinate_for_overhead_collection"
+        elif mr.get("has_backyard_photos") == "yes":
+            best_source = "mls_ground_backyard_context_only"
+            aerial_coverage_goal = "ground_context_not_aerial"
 
         row = {
             "listing_id": lid,
@@ -117,6 +135,7 @@ def main() -> None:
             "latitude": r.get("latitude", ""),
             "longitude": r.get("longitude", ""),
             "recommended_source": best_source,
+            "aerial_coverage_goal": aerial_coverage_goal,
             "best_overhead_candidate": r.get("best_overhead_candidate", ""),
             "aerial_contact_sheet": r.get("contact_sheet", ""),
             "aerial_review_status": r.get("review_status", ""),
@@ -143,7 +162,7 @@ def main() -> None:
 
     fields = [
         "triage_rank", "triage_score", "listing_id", "address", "source_label", "area", "subarea",
-        "coordinate_confidence", "latitude", "longitude", "recommended_source", "best_overhead_candidate",
+        "coordinate_confidence", "latitude", "longitude", "recommended_source", "aerial_coverage_goal", "best_overhead_candidate",
         "aerial_contact_sheet", "aerial_review_status", "aerial_backyard_visibility", "aerial_overhead_quality",
         "aerial_real_tiles", "aerial_placeholder_tiles", "mls_contact_sheet", "mls_photo_count",
         "mls_backyard_photos", "mls_drone_or_aerial", "mls_best_photo_indices", "mls_candidate_strength",
@@ -155,7 +174,7 @@ def main() -> None:
     print(f"MLS vision-reviewed listings: {len(mls_reviews)}")
     print("Top 10:")
     for row in rows[:10]:
-        print(f"#{row['triage_rank']} score={row['triage_score']} {row['address']} [{row['recommended_source']}] hot_tub={row['hot_tub_or_pool_signal']} mls_aerial={row['mls_drone_or_aerial']}")
+        print(f"#{row['triage_rank']} score={row['triage_score']} {row['address']} [{row['recommended_source']}] coverage={row['aerial_coverage_goal']} mls_aerial={row['mls_drone_or_aerial']}")
 
 
 if __name__ == "__main__":
