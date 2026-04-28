@@ -1,0 +1,122 @@
+[
+  {
+    "listing_id": "20021290",
+    "address": "147 THE WHINS",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [3, 24, 26, 27, 29],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no clear aerial/top-down/elevated image showing house and backyard/lot together. Only ground-level exterior/yard/context shots; photo 29 appears elevated scenic/context but not clearly the property."
+  },
+  {
+    "listing_id": "10683660",
+    "address": "5138 RIVERVIEW Crescent",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [27, 29, 1, 2],
+    "aerial_or_elevated_photo_indices": [27, 29],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photos 27 and 29 are the strongest elevated/yard-context views with rear/side house plus landscaped lot/backyard visible. Photos 1-2 add front exterior context but are not aerial."
+  },
+  {
+    "listing_id": "10682429",
+    "address": "4476 COLUMBIA VIEW Road",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "unclear",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [7, 2, 3, 8, 12],
+    "aerial_or_elevated_photo_indices": [7],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 7 is an elevated/aerial-style neighborhood/waterfront context image but the subject house/backyard is not clearly identifiable. Best property lot context is mostly ground-level exterior/yard shots."
+  },
+  {
+    "listing_id": "10671641",
+    "address": "16 MT MINTON Street",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 8, 4, 2, 3],
+    "aerial_or_elevated_photo_indices": [1, 8],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 1 is the clearest elevated/aerial-style view showing houses and surrounding lots; likely useful for house-plus-yard context. Photo 8 gives elevated deck/backyard perspective; photo 4 adds yard coverage."
+  },
+  {
+    "listing_id": "10655082",
+    "address": "39 ELKVIEW Drive",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [27, 22, 24, 25, 26, 1],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/top-down/elevated view found. Backyard/lot coverage is good at ground level, especially photos 22-27, with photo 27 showing rear house/patio plus yard context."
+  },
+  {
+    "listing_id": "20080078",
+    "address": "335 16th Avenue S",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: only visible exterior candidate is front/streetside snowy view; no clear aerial, top-down, elevated backyard, or full lot coverage."
+  },
+  {
+    "listing_id": "20075439",
+    "address": "2950 Mellor Road",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 2, 3, 4],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: several ground-level exterior shots show house and snowy yard/setting, but no true aerial/top-down/elevated house-plus-backyard view."
+  },
+  {
+    "listing_id": "20048728",
+    "address": "313 17TH Street S",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [2, 3],
+    "aerial_or_elevated_photo_indices": [2, 3],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 2 is a top-down drone-style view showing house/roof and lot relationship; photo 3 gives elevated neighborhood/lot context."
+  },
+  {
+    "listing_id": "20042910",
+    "address": "307 LEGACY LOOKOUT",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [2, 1],
+    "aerial_or_elevated_photo_indices": [1, 2, 3],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 2 is the strongest top-down lot/house view; photo 1 provides elevated front/lot context; photo 3 is elevated scenic/context but less useful for backyard/lot."
+  },
+  {
+    "listing_id": "20036703",
+    "address": "805 31ST Avenue S",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [2, 24, 17],
+    "aerial_or_elevated_photo_indices": [2, 24],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 2 appears to be an elevated/aerial oblique showing house with treed lot/backyard context; photo 24 shows elevated backyard/house relationship; photo 17 supports deck/backyard context."
+  }
+]
