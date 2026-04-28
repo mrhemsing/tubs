@@ -14,6 +14,11 @@ export const areaSlugs = {
   'Fernie/Sparwood': 'fernie-sparwood',
 };
 export const slugToArea = Object.fromEntries(Object.entries(areaSlugs).map(([area, slug]) => [slug, area]));
+const areaBanners = {
+  'Columbia Valley': '/banner-columbia-valley.jpg',
+  'Cranbrook/Kimberley': '/banner-cranbrook-kimberley.jpg',
+  'Fernie/Sparwood': '/banner-fernie-sparwood.jpg',
+};
 
 function loadData() {
   const file = path.join(process.cwd(), 'public', 'review-data.json');
@@ -114,16 +119,17 @@ function AreaBlock({ area, cards, rows }) {
 
   return (
     <section className="areaSection" id={areaSlugs[area]}>
-      <div className="areaHeader">
-        <div>
+      <div className="areaBanner">
+        <img src={areaBanners[area]} alt={`${area} banner illustration`} loading="lazy" />
+        <div className="areaBannerOverlay">
           <p className="areaKicker">Area</p>
           <h2>{area}</h2>
-        </div>
-        <div className="areaStats">
-          <span>{cards.length} candidates</span>
-          <span>{aerialCount} MLS aerial/elevated</span>
-          <span>{arcgisCount} ArcGIS overhead</span>
-          <span>{possibleCount} possible elevated</span>
+          <div className="areaStats">
+            <span>{cards.length} candidates</span>
+            <span>{aerialCount} MLS aerial/elevated</span>
+            <span>{arcgisCount} ArcGIS overhead</span>
+            <span>{possibleCount} possible elevated</span>
+          </div>
         </div>
       </div>
 
