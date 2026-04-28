@@ -1,5 +1,34 @@
 [
   {
+    "listing_id": "10673047",
+    "address": "4576 COLUMERE Road",
+    "source_label": "Columbia Valley",
+    "area": "Kootenay",
+    "subarea": "INRU - Fairmont/Columbia Lake",
+    "coordinate_confidence": "listing",
+    "latitude": "50.28959785",
+    "longitude": "-115.87779063",
+    "recommended_source": "mls_drone_or_aerial_candidate",
+    "best_overhead_candidate": "data\\aerial\\columbia_valley\\4576-columere-road-10673047\\esri_world_imagery_z19\\z19_x93384_y177151.jpg",
+    "aerial_contact_sheet": "data\\contact_sheets\\columbia_valley\\4576-columere-road-10673047\\aerial_contact_sheet.jpg",
+    "aerial_review_status": "blocked_no_aerial_imagery",
+    "aerial_backyard_visibility": "unclear",
+    "aerial_overhead_quality": "poor",
+    "aerial_real_tiles": "0",
+    "aerial_placeholder_tiles": "9",
+    "mls_contact_sheet": "data\\mls_contact_sheets\\columbia_valley\\4576-columere-road-10673047\\mls_contact_sheet.jpg",
+    "mls_photo_count": "30",
+    "mls_backyard_photos": "yes",
+    "mls_drone_or_aerial": "yes",
+    "mls_best_photo_indices": "1,2,3,4,5,6,7,9,10",
+    "mls_candidate_strength": "high",
+    "hot_tub_or_pool_signal": "yes",
+    "source_risk": "research_only_verify_license",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Strong exterior/yard/deck set with lake/mountain aerial-style context; hot tub visible on deck/patio. Needs human verification before relying on it.",
+    "triage_score": 115,
+    "triage_rank": 1
+  },
+  {
     "listing_id": "20078478",
     "address": "75 103RD Avenue",
     "source_label": "Cranbrook/Kimberley",
@@ -26,7 +55,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Strong backyard/lawn and deck images; photo 29 appears to show a covered hot tub on deck. Needs human verification before relying on it.",
     "triage_score": 85,
-    "triage_rank": 1
+    "triage_rank": 2
   },
   {
     "listing_id": "20020840",
@@ -55,7 +84,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Good lawn/backyard/deck inventory; hot tub clearly visible in photo 28. Needs human verification before relying on it.",
     "triage_score": 85,
-    "triage_rank": 2
+    "triage_rank": 3
   },
   {
     "listing_id": "20059379",
@@ -84,7 +113,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 002: print_mockup_potential=medium; best_candidate_tile=center; Center tile shows house and yard but imagery is soft; small circular feature may be a tub/pool or yard object. MLS crosscheck batch 001: backyard_photos=yes; drone_or_aerial=no; hot_tub_or_pool=no; best_mls_photos=27,29,30,26,28; Strong backyard/outdoor MLS candidates with deck, lawn, landscaping, mountain views, and rear/side yard context. No visible aerial/drone or hot tub/pool.; Strong backyard/outdoor MLS candidates with deck, lawn, landscaping, mountain views, and rear/side yard context. No visible aerial/drone or hot tub/pool.",
     "triage_score": 75,
-    "triage_rank": 3
+    "triage_rank": 4
   },
   {
     "listing_id": "10679423",
@@ -113,7 +142,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 001: print_mockup_potential=high; best_candidate_tile=center; Clear lakeside property with yard, beach, and shoreline context; no obvious hot tub or pool.",
     "triage_score": 75,
-    "triage_rank": 4
+    "triage_rank": 5
   },
   {
     "listing_id": "10621595",
@@ -142,7 +171,65 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 002: print_mockup_potential=medium; best_candidate_tile=center; Center/right area shows a lot with yard and structures; possible round feature but not confidently identifiable. MLS crosscheck batch 001: backyard_photos=yes; drone_or_aerial=no; hot_tub_or_pool=no; best_mls_photos=7,8,12,14,3,6,11; Excellent outdoor/waterfront MLS candidates including rear exterior, decks, lake views, dock/marina, shoreline, and wooded setting. No true aerial/drone imagery; lake visible but no pool or hot tub.; Excellent outdoor/waterfront MLS candidates including rear exterior, decks, lake views, dock/marina, shoreline, and wooded setting. No true aerial/drone imagery; lake visible but no pool or hot tub.",
     "triage_score": 75,
-    "triage_rank": 5
+    "triage_rank": 6
+  },
+  {
+    "listing_id": "10675733",
+    "address": "1732 20TH S Avenue",
+    "source_label": "Cranbrook/Kimberley",
+    "area": "Kootenay",
+    "subarea": "CRAN - Cranbrook South",
+    "coordinate_confidence": "listing",
+    "latitude": "49.49179681",
+    "longitude": "-115.7538321",
+    "recommended_source": "mls_drone_or_aerial_candidate",
+    "best_overhead_candidate": "data\\aerial\\cranbrook_kimberley\\1732-20th-s-avenue-10675733\\esri_world_imagery_z19\\z19_x93565_y178954.jpg",
+    "aerial_contact_sheet": "data\\contact_sheets\\cranbrook_kimberley\\1732-20th-s-avenue-10675733\\aerial_contact_sheet.jpg",
+    "aerial_review_status": "blocked_no_aerial_imagery",
+    "aerial_backyard_visibility": "unclear",
+    "aerial_overhead_quality": "poor",
+    "aerial_real_tiles": "0",
+    "aerial_placeholder_tiles": "9",
+    "mls_contact_sheet": "data\\mls_contact_sheets\\cranbrook_kimberley\\1732-20th-s-avenue-10675733\\mls_contact_sheet.jpg",
+    "mls_photo_count": "30",
+    "mls_backyard_photos": "yes",
+    "mls_drone_or_aerial": "yes",
+    "mls_best_photo_indices": "1,2,3,4,5,6,7,9",
+    "mls_candidate_strength": "high",
+    "hot_tub_or_pool_signal": "no",
+    "source_risk": "research_only_verify_license",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Good outdoor set with lawn, deck, exterior, RV/yard context, and clear aerial/drone parcel views.",
+    "triage_score": 65,
+    "triage_rank": 7
+  },
+  {
+    "listing_id": "10680589",
+    "address": "2510 COBBLESTONE Trail",
+    "source_label": "Columbia Valley",
+    "area": "Kootenay",
+    "subarea": "IN - Invermere",
+    "coordinate_confidence": "listing",
+    "latitude": "50.48338259",
+    "longitude": "-116.04173624",
+    "recommended_source": "mls_drone_or_aerial_candidate",
+    "best_overhead_candidate": "data\\aerial\\columbia_valley\\2510-cobblestone-trail-10680589\\esri_world_imagery_z19\\z19_x93145_y176708.jpg",
+    "aerial_contact_sheet": "data\\contact_sheets\\columbia_valley\\2510-cobblestone-trail-10680589\\aerial_contact_sheet.jpg",
+    "aerial_review_status": "vision_reviewed_batch_003_no_aerial_imagery",
+    "aerial_backyard_visibility": "unclear",
+    "aerial_overhead_quality": "poor",
+    "aerial_real_tiles": "0",
+    "aerial_placeholder_tiles": "9",
+    "mls_contact_sheet": "data\\mls_contact_sheets\\columbia_valley\\2510-cobblestone-trail-10680589\\mls_contact_sheet.jpg",
+    "mls_photo_count": "30",
+    "mls_backyard_photos": "yes",
+    "mls_drone_or_aerial": "yes",
+    "mls_best_photo_indices": "1,2,3,4,8,9",
+    "mls_candidate_strength": "high",
+    "hot_tub_or_pool_signal": "no",
+    "source_risk": "research_only_verify_license",
+    "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.; Strong winter exterior plus elevated/drone-style views of home/setting and nearby landscape.",
+    "triage_score": 65,
+    "triage_rank": 8
   },
   {
     "listing_id": "10684446",
@@ -171,7 +258,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Exterior, patio, and scenic mountain/view shots; photo 3 appears to be elevated drone/aerial-style.",
     "triage_score": 65,
-    "triage_rank": 6
+    "triage_rank": 9
   },
   {
     "listing_id": "20059692",
@@ -200,7 +287,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Clear drone/aerial mountain/neighborhood view plus patio/covered outdoor sitting area.",
     "triage_score": 65,
-    "triage_rank": 7
+    "triage_rank": 10
   },
   {
     "listing_id": "20026072",
@@ -229,7 +316,36 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Aerial/property overview plus deck/patio outdoor living views; no clear pool or hot tub.",
     "triage_score": 65,
-    "triage_rank": 8
+    "triage_rank": 11
+  },
+  {
+    "listing_id": "10672776",
+    "address": "804 17TH S Street",
+    "source_label": "Cranbrook/Kimberley",
+    "area": "Kootenay",
+    "subarea": "CRAN - Cranbrook South",
+    "coordinate_confidence": "listing",
+    "latitude": "49.4929927",
+    "longitude": "-115.7701496",
+    "recommended_source": "mls_drone_or_aerial_candidate",
+    "best_overhead_candidate": "data\\aerial\\cranbrook_kimberley\\804-17th-s-street-10672776\\esri_world_imagery_z19\\z19_x93541_y178952.jpg",
+    "aerial_contact_sheet": "data\\contact_sheets\\cranbrook_kimberley\\804-17th-s-street-10672776\\aerial_contact_sheet.jpg",
+    "aerial_review_status": "blocked_no_aerial_imagery",
+    "aerial_backyard_visibility": "unclear",
+    "aerial_overhead_quality": "poor",
+    "aerial_real_tiles": "0",
+    "aerial_placeholder_tiles": "9",
+    "mls_contact_sheet": "data\\mls_contact_sheets\\cranbrook_kimberley\\804-17th-s-street-10672776\\mls_contact_sheet.jpg",
+    "mls_photo_count": "30",
+    "mls_backyard_photos": "yes",
+    "mls_drone_or_aerial": "yes",
+    "mls_best_photo_indices": "1,2,4,5,7,8,9,15,16,19,20,21,22,24,25",
+    "mls_candidate_strength": "high",
+    "hot_tub_or_pool_signal": "no",
+    "source_risk": "research_only_verify_license",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Very strong backyard/landscaping set with overhead aerial/drone angles and many lawn/garden/view shots; no visible pool/hot tub.",
+    "triage_score": 65,
+    "triage_rank": 12
   },
   {
     "listing_id": "20038863",
@@ -258,7 +374,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Clear true aerial/drone neighborhood and mountain views; exterior/front outdoor shots also present.",
     "triage_score": 65,
-    "triage_rank": 9
+    "triage_rank": 13
   },
   {
     "listing_id": "20068707",
@@ -287,7 +403,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 001: print_mockup_potential=medium; best_candidate_tile=other; Center tile is mostly road and driveway; adjacent right-side tiles show better homes and lawns near water.",
     "triage_score": 60,
-    "triage_rank": 10
+    "triage_rank": 14
   },
   {
     "listing_id": "20046554",
@@ -316,7 +432,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 001: print_mockup_potential=medium; best_candidate_tile=other; Wooded acreage setting with partial roofs and yard areas; tree cover obscures the center, and a dark rectangular feature in another tile is ambiguous.",
     "triage_score": 50,
-    "triage_rank": 11
+    "triage_rank": 15
   },
   {
     "listing_id": "10683952",
@@ -345,7 +461,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 001: print_mockup_potential=medium; best_candidate_tile=center; Center tile shows the home edge, lawn, driveway, and road; somewhat soft but usable for a basic overhead crop.",
     "triage_score": 40,
-    "triage_rank": 12
+    "triage_rank": 16
   },
   {
     "listing_id": "20022704",
@@ -374,7 +490,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 001: print_mockup_potential=medium; best_candidate_tile=center; Same contact-sheet area as prior image, with partial house and yard visible in center; no obvious pool or hot tub.",
     "triage_score": 40,
-    "triage_rank": 13
+    "triage_rank": 17
   },
   {
     "listing_id": "20049830",
@@ -403,7 +519,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 001: print_mockup_potential=medium; best_candidate_tile=center; Center tile includes a visible structure and yard beside a curved road, though resolution is soft.",
     "triage_score": 40,
-    "triage_rank": 14
+    "triage_rank": 18
   },
   {
     "listing_id": "10667637",
@@ -432,7 +548,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 002: print_mockup_potential=medium; best_candidate_tile=center; Center tile shows a cleared rural area within trees; no clear house or amenity, but usable open-space context.",
     "triage_score": 40,
-    "triage_rank": 15
+    "triage_rank": 19
   },
   {
     "listing_id": "10641909",
@@ -461,7 +577,36 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 002: print_mockup_potential=medium; best_candidate_tile=center; Lakefront property context is attractive, but yard detail is partly obscured by trees and resolution.",
     "triage_score": 40,
-    "triage_rank": 16
+    "triage_rank": 20
+  },
+  {
+    "listing_id": "10680848",
+    "address": "2400 34TH S Avenue",
+    "source_label": "Cranbrook/Kimberley",
+    "area": "Kootenay",
+    "subarea": "CRANL Cranbrook Periphery",
+    "coordinate_confidence": "listing",
+    "latitude": "49.48655061",
+    "longitude": "-115.73283811",
+    "recommended_source": "mls_backyard_candidate",
+    "best_overhead_candidate": "data\\aerial\\cranbrook_kimberley\\2400-34th-s-avenue-10680848\\esri_world_imagery_z19\\z19_x93595_y178966.jpg",
+    "aerial_contact_sheet": "data\\contact_sheets\\cranbrook_kimberley\\2400-34th-s-avenue-10680848\\aerial_contact_sheet.jpg",
+    "aerial_review_status": "blocked_no_aerial_imagery",
+    "aerial_backyard_visibility": "unclear",
+    "aerial_overhead_quality": "poor",
+    "aerial_real_tiles": "0",
+    "aerial_placeholder_tiles": "9",
+    "mls_contact_sheet": "data\\mls_contact_sheets\\cranbrook_kimberley\\2400-34th-s-avenue-10680848\\mls_contact_sheet.jpg",
+    "mls_photo_count": "30",
+    "mls_backyard_photos": "yes",
+    "mls_drone_or_aerial": "no",
+    "mls_best_photo_indices": "1,2,3,4,5,29,30",
+    "mls_candidate_strength": "medium",
+    "hot_tub_or_pool_signal": "unclear",
+    "source_risk": "research_only_verify_license",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Snowy exterior/yard/garage shots plus gazebo/deck area; no clear drone; possible covered spa/gazebo but hot tub not clearly visible.",
+    "triage_score": 38,
+    "triage_rank": 21
   },
   {
     "listing_id": "20058040",
@@ -490,7 +635,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Strong yard/lawn/deck imagery; no apparent aerial or pool/hot tub.",
     "triage_score": 35,
-    "triage_rank": 17
+    "triage_rank": 22
   },
   {
     "listing_id": "20074790",
@@ -519,7 +664,36 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Extensive landscaped garden/backyard sequence with paths, fencing, patio seating.",
     "triage_score": 35,
-    "triage_rank": 18
+    "triage_rank": 23
+  },
+  {
+    "listing_id": "10672915",
+    "address": "3415 CROOKED TREE Place",
+    "source_label": "Columbia Valley",
+    "area": "Kootenay",
+    "subarea": "INRU - Fairmont/Columbia Lake",
+    "coordinate_confidence": "listing",
+    "latitude": "50.4071838",
+    "longitude": "-115.8829229",
+    "recommended_source": "mls_backyard_candidate",
+    "best_overhead_candidate": "data\\aerial\\columbia_valley\\3415-crooked-tree-place-10672915\\esri_world_imagery_z19\\z19_x93377_y176883.jpg",
+    "aerial_contact_sheet": "data\\contact_sheets\\columbia_valley\\3415-crooked-tree-place-10672915\\aerial_contact_sheet.jpg",
+    "aerial_review_status": "blocked_no_aerial_imagery",
+    "aerial_backyard_visibility": "unclear",
+    "aerial_overhead_quality": "poor",
+    "aerial_real_tiles": "0",
+    "aerial_placeholder_tiles": "9",
+    "mls_contact_sheet": "data\\mls_contact_sheets\\columbia_valley\\3415-crooked-tree-place-10672915\\mls_contact_sheet.jpg",
+    "mls_photo_count": "30",
+    "mls_backyard_photos": "yes",
+    "mls_drone_or_aerial": "no",
+    "mls_best_photo_indices": "1,2,3,4,5,6,7,8,9,10,11,12,13",
+    "mls_candidate_strength": "high",
+    "hot_tub_or_pool_signal": "no",
+    "source_risk": "research_only_verify_license",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Extensive ground-level exterior, yard, driveway, deck, and mountain/setting views; no definite drone; no pool/hot tub.",
+    "triage_score": 35,
+    "triage_rank": 24
   },
   {
     "listing_id": "20022519",
@@ -548,7 +722,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Strong backyard/deck/patio and garden coverage; all appear ground-level.",
     "triage_score": 35,
-    "triage_rank": 19
+    "triage_rank": 25
   },
   {
     "listing_id": "10682918",
@@ -577,7 +751,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Strong exterior/yard and mountain-view seating shots; no aerial or hot tub/pool visible.",
     "triage_score": 35,
-    "triage_rank": 20
+    "triage_rank": 26
   },
   {
     "listing_id": "10683812",
@@ -606,7 +780,36 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Many deck, yard, patio, and view photos; no confirmed aerial or hot tub/pool.",
     "triage_score": 35,
-    "triage_rank": 21
+    "triage_rank": 27
+  },
+  {
+    "listing_id": "10673089",
+    "address": "112 FOREST CROWNE Crescent",
+    "source_label": "Cranbrook/Kimberley",
+    "area": "Kootenay",
+    "subarea": "KI - Kimberley",
+    "coordinate_confidence": "listing",
+    "latitude": "49.64230669",
+    "longitude": "-115.97194226",
+    "recommended_source": "mls_backyard_candidate",
+    "best_overhead_candidate": "data\\aerial\\cranbrook_kimberley\\112-forest-crowne-crescent-10673089\\esri_world_imagery_z19\\z19_x93247_y178616.jpg",
+    "aerial_contact_sheet": "data\\contact_sheets\\cranbrook_kimberley\\112-forest-crowne-crescent-10673089\\aerial_contact_sheet.jpg",
+    "aerial_review_status": "blocked_no_aerial_imagery",
+    "aerial_backyard_visibility": "unclear",
+    "aerial_overhead_quality": "poor",
+    "aerial_real_tiles": "0",
+    "aerial_placeholder_tiles": "9",
+    "mls_contact_sheet": "data\\mls_contact_sheets\\cranbrook_kimberley\\112-forest-crowne-crescent-10673089\\mls_contact_sheet.jpg",
+    "mls_photo_count": "30",
+    "mls_backyard_photos": "yes",
+    "mls_drone_or_aerial": "no",
+    "mls_best_photo_indices": "1,3,6,7,8,22",
+    "mls_candidate_strength": "medium",
+    "hot_tub_or_pool_signal": "no",
+    "source_risk": "research_only_verify_license",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Exterior, patio/railing views, and scenic outlook shots; no clear drone/aerial or pool/hot tub.",
+    "triage_score": 28,
+    "triage_rank": 28
   },
   {
     "listing_id": "10683127",
@@ -635,7 +838,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Exterior and covered patio/front approach photos; photo 3 is elevated/neighborhood view but drone status unclear.",
     "triage_score": 28,
-    "triage_rank": 22
+    "triage_rank": 29
   },
   {
     "listing_id": "20077373",
@@ -664,7 +867,36 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Multiple exterior/courtyard/deck views, but no clear drone/aerial or water feature.",
     "triage_score": 28,
-    "triage_rank": 23
+    "triage_rank": 30
+  },
+  {
+    "listing_id": "10677502",
+    "address": "2537 LEDGEROCK Ridge",
+    "source_label": "Columbia Valley",
+    "area": "Kootenay",
+    "subarea": "IN - Invermere",
+    "coordinate_confidence": "listing",
+    "latitude": "50.48067248",
+    "longitude": "-116.0404858",
+    "recommended_source": "mls_backyard_candidate",
+    "best_overhead_candidate": "data\\aerial\\columbia_valley\\2537-ledgerock-ridge-10677502\\esri_world_imagery_z19\\z19_x93147_y176714.jpg",
+    "aerial_contact_sheet": "data\\contact_sheets\\columbia_valley\\2537-ledgerock-ridge-10677502\\aerial_contact_sheet.jpg",
+    "aerial_review_status": "vision_reviewed_batch_003_no_aerial_imagery",
+    "aerial_backyard_visibility": "unclear",
+    "aerial_overhead_quality": "poor",
+    "aerial_real_tiles": "0",
+    "aerial_placeholder_tiles": "9",
+    "mls_contact_sheet": "data\\mls_contact_sheets\\columbia_valley\\2537-ledgerock-ridge-10677502\\mls_contact_sheet.jpg",
+    "mls_photo_count": "30",
+    "mls_backyard_photos": "yes",
+    "mls_drone_or_aerial": "no",
+    "mls_best_photo_indices": "1,18,22,23,24",
+    "mls_candidate_strength": "medium",
+    "hot_tub_or_pool_signal": "no",
+    "source_risk": "research_only_verify_license",
+    "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.; Exterior, deck, patio/view, and treed outlook images; no true aerial; no visible pool/hot tub.",
+    "triage_score": 28,
+    "triage_rank": 31
   },
   {
     "listing_id": "20022685",
@@ -693,7 +925,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Multiple exterior/front/yard angles; no aerial or amenity water feature visible.",
     "triage_score": 28,
-    "triage_rank": 24
+    "triage_rank": 32
   },
   {
     "listing_id": "20003058",
@@ -722,7 +954,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Cabin exterior and wooded setting shots; no clear drone/aerial or hot tub/pool.",
     "triage_score": 28,
-    "triage_rank": 25
+    "triage_rank": 33
   },
   {
     "listing_id": "20070160",
@@ -751,7 +983,36 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Outdoor marketing mostly front/exterior and walkway/yard context; limited backyard content in visible set.",
     "triage_score": 28,
-    "triage_rank": 26
+    "triage_rank": 34
+  },
+  {
+    "listing_id": "10679813",
+    "address": "701 34TH S Avenue",
+    "source_label": "Cranbrook/Kimberley",
+    "area": "Kootenay",
+    "subarea": "CRAN - Cranbrook South",
+    "coordinate_confidence": "listing",
+    "latitude": "49.50164769",
+    "longitude": "-115.73385134",
+    "recommended_source": "mls_backyard_candidate",
+    "best_overhead_candidate": "data\\aerial\\cranbrook_kimberley\\701-34th-s-avenue-10679813\\esri_world_imagery_z19\\z19_x93594_y178932.jpg",
+    "aerial_contact_sheet": "data\\contact_sheets\\cranbrook_kimberley\\701-34th-s-avenue-10679813\\aerial_contact_sheet.jpg",
+    "aerial_review_status": "blocked_no_aerial_imagery",
+    "aerial_backyard_visibility": "unclear",
+    "aerial_overhead_quality": "poor",
+    "aerial_real_tiles": "0",
+    "aerial_placeholder_tiles": "9",
+    "mls_contact_sheet": "data\\mls_contact_sheets\\cranbrook_kimberley\\701-34th-s-avenue-10679813\\mls_contact_sheet.jpg",
+    "mls_photo_count": "30",
+    "mls_backyard_photos": "yes",
+    "mls_drone_or_aerial": "no",
+    "mls_best_photo_indices": "1,2,3,4,5,6,7",
+    "mls_candidate_strength": "medium",
+    "hot_tub_or_pool_signal": "no",
+    "source_risk": "research_only_verify_license",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Multiple exterior/yard angles and driveway/porch shots; no clear drone or water feature.",
+    "triage_score": 28,
+    "triage_rank": 35
   },
   {
     "listing_id": "10693834",
@@ -780,7 +1041,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Winter exterior/yard photos only; limited outdoor marketing beyond front/side views.",
     "triage_score": 28,
-    "triage_rank": 27
+    "triage_rank": 36
   },
   {
     "listing_id": "20028580",
@@ -809,7 +1070,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 002: print_mockup_potential=low; best_candidate_tile=center; Heavily treed lot with obscured yard and blurry imagery; limited usable backyard detail.",
     "triage_score": 20,
-    "triage_rank": 28
+    "triage_rank": 37
   },
   {
     "listing_id": "20078363",
@@ -838,7 +1099,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 001: print_mockup_potential=low; best_candidate_tile=center; Blurry residential view with some yard and tree cover, but details are weak for print marketing.",
     "triage_score": 20,
-    "triage_rank": 29
+    "triage_rank": 38
   },
   {
     "listing_id": "10681347",
@@ -867,7 +1128,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Only one clear exterior/front-yard shot; remainder appears interior-focused.",
     "triage_score": 20,
-    "triage_rank": 30
+    "triage_rank": 39
   },
   {
     "listing_id": "20043865",
@@ -896,7 +1157,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Only visible outdoor candidate is front exterior/driveway in snow; no backyard sequence.",
     "triage_score": 20,
-    "triage_rank": 31
+    "triage_rank": 40
   },
   {
     "listing_id": "20080409",
@@ -925,7 +1186,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 002: print_mockup_potential=low; best_candidate_tile=none; Dense tree canopy dominates center tile; property/backyard is obscured.",
     "triage_score": 20,
-    "triage_rank": 32
+    "triage_rank": 41
   },
   {
     "listing_id": "10683161",
@@ -954,7 +1215,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 002: print_mockup_potential=low; best_candidate_tile=center; House and lot are visible but very blurry with little usable backyard detail.",
     "triage_score": 20,
-    "triage_rank": 33
+    "triage_rank": 42
   },
   {
     "listing_id": "20043585",
@@ -983,7 +1244,36 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Outdoor content appears limited to front exterior/driveway and landscaping; no backyard or aerial visible.",
     "triage_score": 20,
-    "triage_rank": 34
+    "triage_rank": 43
+  },
+  {
+    "listing_id": "10680439",
+    "address": "913 17TH S Street",
+    "source_label": "Cranbrook/Kimberley",
+    "area": "Kootenay",
+    "subarea": "CRAN - Cranbrook South",
+    "coordinate_confidence": "listing",
+    "latitude": "49.4925857",
+    "longitude": "-115.7682942",
+    "recommended_source": "mls_backyard_candidate",
+    "best_overhead_candidate": "data\\aerial\\cranbrook_kimberley\\913-17th-s-street-10680439\\esri_world_imagery_z19\\z19_x93544_y178953.jpg",
+    "aerial_contact_sheet": "data\\contact_sheets\\cranbrook_kimberley\\913-17th-s-street-10680439\\aerial_contact_sheet.jpg",
+    "aerial_review_status": "blocked_no_aerial_imagery",
+    "aerial_backyard_visibility": "unclear",
+    "aerial_overhead_quality": "poor",
+    "aerial_real_tiles": "0",
+    "aerial_placeholder_tiles": "9",
+    "mls_contact_sheet": "data\\mls_contact_sheets\\cranbrook_kimberley\\913-17th-s-street-10680439\\mls_contact_sheet.jpg",
+    "mls_photo_count": "30",
+    "mls_backyard_photos": "yes",
+    "mls_drone_or_aerial": "no",
+    "mls_best_photo_indices": "1,2",
+    "mls_candidate_strength": "low",
+    "hot_tub_or_pool_signal": "no",
+    "source_risk": "research_only_verify_license",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Only front driveway/exterior visible; no backyard, aerial, pool, or hot tub marketing photos apparent.",
+    "triage_score": 20,
+    "triage_rank": 44
   },
   {
     "listing_id": "10658951",
@@ -1012,7 +1302,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 002: print_mockup_potential=low; best_candidate_tile=none; Wooded rural setting with property mostly hidden by trees; no visible backyard focal point.",
     "triage_score": 20,
-    "triage_rank": 35
+    "triage_rank": 45
   },
   {
     "listing_id": "10606465",
@@ -1041,7 +1331,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 36
+    "triage_rank": 46
   },
   {
     "listing_id": "10574816",
@@ -1070,7 +1360,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 002: print_mockup_potential=low; best_candidate_tile=none; Map data not available; no imagery to evaluate.",
     "triage_score": 10,
-    "triage_rank": 37
+    "triage_rank": 47
   },
   {
     "listing_id": "10681651",
@@ -1099,7 +1389,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 38
+    "triage_rank": 48
   },
   {
     "listing_id": "10563296",
@@ -1128,7 +1418,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 002: print_mockup_potential=low; best_candidate_tile=none; Map data not available; no imagery to evaluate.",
     "triage_score": 10,
-    "triage_rank": 39
+    "triage_rank": 49
   },
   {
     "listing_id": "10674172",
@@ -1157,7 +1447,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 40
+    "triage_rank": 50
   },
   {
     "listing_id": "10667320",
@@ -1186,7 +1476,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 002: print_mockup_potential=low; best_candidate_tile=none; Map data not available; no imagery to evaluate.",
     "triage_score": 10,
-    "triage_rank": 41
+    "triage_rank": 51
   },
   {
     "listing_id": "10658844",
@@ -1215,7 +1505,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
     "triage_score": 10,
-    "triage_rank": 42
+    "triage_rank": 52
   },
   {
     "listing_id": "10559698",
@@ -1244,7 +1534,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 43
+    "triage_rank": 53
   },
   {
     "listing_id": "10663402",
@@ -1273,7 +1563,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 44
+    "triage_rank": 54
   },
   {
     "listing_id": "10636711",
@@ -1302,7 +1592,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 45
+    "triage_rank": 55
   },
   {
     "listing_id": "10675551",
@@ -1331,7 +1621,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
     "triage_score": 10,
-    "triage_rank": 46
+    "triage_rank": 56
   },
   {
     "listing_id": "10676037",
@@ -1360,36 +1650,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 47
-  },
-  {
-    "listing_id": "10673089",
-    "address": "112 FOREST CROWNE Crescent",
-    "source_label": "Cranbrook/Kimberley",
-    "area": "Kootenay",
-    "subarea": "KI - Kimberley",
-    "coordinate_confidence": "listing",
-    "latitude": "49.64230669",
-    "longitude": "-115.97194226",
-    "recommended_source": "blocked_arcgis_no_imagery",
-    "best_overhead_candidate": "data\\aerial\\cranbrook_kimberley\\112-forest-crowne-crescent-10673089\\esri_world_imagery_z19\\z19_x93247_y178616.jpg",
-    "aerial_contact_sheet": "data\\contact_sheets\\cranbrook_kimberley\\112-forest-crowne-crescent-10673089\\aerial_contact_sheet.jpg",
-    "aerial_review_status": "blocked_no_aerial_imagery",
-    "aerial_backyard_visibility": "unclear",
-    "aerial_overhead_quality": "poor",
-    "aerial_real_tiles": "0",
-    "aerial_placeholder_tiles": "9",
-    "mls_contact_sheet": "data\\mls_contact_sheets\\cranbrook_kimberley\\112-forest-crowne-crescent-10673089\\mls_contact_sheet.jpg",
-    "mls_photo_count": "30",
-    "mls_backyard_photos": "unreviewed",
-    "mls_drone_or_aerial": "unreviewed",
-    "mls_best_photo_indices": "",
-    "mls_candidate_strength": "unreviewed",
-    "hot_tub_or_pool_signal": "unclear",
-    "source_risk": "research_only_verify_license",
-    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
-    "triage_score": 10,
-    "triage_rank": 48
+    "triage_rank": 57
   },
   {
     "listing_id": "10685535",
@@ -1418,7 +1679,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 49
+    "triage_rank": 58
   },
   {
     "listing_id": "10657869",
@@ -1447,7 +1708,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
     "triage_score": 10,
-    "triage_rank": 50
+    "triage_rank": 59
   },
   {
     "listing_id": "20066310",
@@ -1476,7 +1737,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 51
+    "triage_rank": 60
   },
   {
     "listing_id": "10637598",
@@ -1505,7 +1766,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 52
+    "triage_rank": 61
   },
   {
     "listing_id": "10672499",
@@ -1534,7 +1795,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 53
+    "triage_rank": 62
   },
   {
     "listing_id": "10659866",
@@ -1563,7 +1824,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 54
+    "triage_rank": 63
   },
   {
     "listing_id": "10663856",
@@ -1592,7 +1853,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 55
+    "triage_rank": 64
   },
   {
     "listing_id": "10674183",
@@ -1621,7 +1882,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 56
+    "triage_rank": 65
   },
   {
     "listing_id": "20027125",
@@ -1650,7 +1911,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 57
+    "triage_rank": 66
   },
   {
     "listing_id": "10667018",
@@ -1679,7 +1940,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 58
+    "triage_rank": 67
   },
   {
     "listing_id": "20021647",
@@ -1708,7 +1969,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
     "triage_score": 10,
-    "triage_rank": 59
+    "triage_rank": 68
   },
   {
     "listing_id": "20060624",
@@ -1737,7 +1998,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 60
+    "triage_rank": 69
   },
   {
     "listing_id": "20049552",
@@ -1766,7 +2027,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
     "triage_score": 10,
-    "triage_rank": 61
+    "triage_rank": 70
   },
   {
     "listing_id": "10675686",
@@ -1795,7 +2056,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 62
+    "triage_rank": 71
   },
   {
     "listing_id": "10612922",
@@ -1824,7 +2085,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 63
+    "triage_rank": 72
   },
   {
     "listing_id": "10663121",
@@ -1853,7 +2114,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 64
+    "triage_rank": 73
   },
   {
     "listing_id": "20026178",
@@ -1882,7 +2143,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
     "triage_score": 10,
-    "triage_rank": 65
+    "triage_rank": 74
   },
   {
     "listing_id": "10681443",
@@ -1911,7 +2172,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 66
+    "triage_rank": 75
   },
   {
     "listing_id": "10682383",
@@ -1940,7 +2201,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 67
+    "triage_rank": 76
   },
   {
     "listing_id": "20079642",
@@ -1969,7 +2230,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 68
+    "triage_rank": 77
   },
   {
     "listing_id": "10683098",
@@ -1998,7 +2259,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
     "triage_score": 10,
-    "triage_rank": 69
+    "triage_rank": 78
   },
   {
     "listing_id": "10654223",
@@ -2027,7 +2288,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 70
+    "triage_rank": 79
   },
   {
     "listing_id": "10589073",
@@ -2056,7 +2317,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
     "triage_score": 10,
-    "triage_rank": 71
+    "triage_rank": 80
   },
   {
     "listing_id": "10670512",
@@ -2085,7 +2346,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 72
+    "triage_rank": 81
   },
   {
     "listing_id": "10667357",
@@ -2114,7 +2375,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 73
+    "triage_rank": 82
   },
   {
     "listing_id": "20021290",
@@ -2143,7 +2404,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 74
+    "triage_rank": 83
   },
   {
     "listing_id": "10656960",
@@ -2172,7 +2433,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 75
+    "triage_rank": 84
   },
   {
     "listing_id": "10629259",
@@ -2201,7 +2462,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 76
+    "triage_rank": 85
   },
   {
     "listing_id": "20083862",
@@ -2230,7 +2491,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 77
+    "triage_rank": 86
   },
   {
     "listing_id": "10672843",
@@ -2259,7 +2520,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 78
+    "triage_rank": 87
   },
   {
     "listing_id": "10647009",
@@ -2288,7 +2549,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
     "triage_score": 10,
-    "triage_rank": 79
+    "triage_rank": 88
   },
   {
     "listing_id": "20049602",
@@ -2317,7 +2578,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
     "triage_score": 10,
-    "triage_rank": 80
+    "triage_rank": 89
   },
   {
     "listing_id": "10573769",
@@ -2346,7 +2607,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
     "triage_score": 10,
-    "triage_rank": 81
+    "triage_rank": 90
   },
   {
     "listing_id": "10552417",
@@ -2375,7 +2636,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 82
+    "triage_rank": 91
   },
   {
     "listing_id": "10652596",
@@ -2404,7 +2665,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 83
+    "triage_rank": 92
   },
   {
     "listing_id": "10671641",
@@ -2433,7 +2694,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 84
+    "triage_rank": 93
   },
   {
     "listing_id": "10669905",
@@ -2462,7 +2723,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 85
+    "triage_rank": 94
   },
   {
     "listing_id": "10684522",
@@ -2491,7 +2752,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 86
+    "triage_rank": 95
   },
   {
     "listing_id": "20062684",
@@ -2520,7 +2781,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 87
+    "triage_rank": 96
   },
   {
     "listing_id": "20069196",
@@ -2549,7 +2810,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 88
+    "triage_rank": 97
   },
   {
     "listing_id": "10615862",
@@ -2578,7 +2839,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 89
+    "triage_rank": 98
   },
   {
     "listing_id": "10657484",
@@ -2607,7 +2868,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 90
+    "triage_rank": 99
   },
   {
     "listing_id": "10685465",
@@ -2636,36 +2897,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
     "triage_score": 10,
-    "triage_rank": 91
-  },
-  {
-    "listing_id": "10675733",
-    "address": "1732 20TH S Avenue",
-    "source_label": "Cranbrook/Kimberley",
-    "area": "Kootenay",
-    "subarea": "CRAN - Cranbrook South",
-    "coordinate_confidence": "listing",
-    "latitude": "49.49179681",
-    "longitude": "-115.7538321",
-    "recommended_source": "blocked_arcgis_no_imagery",
-    "best_overhead_candidate": "data\\aerial\\cranbrook_kimberley\\1732-20th-s-avenue-10675733\\esri_world_imagery_z19\\z19_x93565_y178954.jpg",
-    "aerial_contact_sheet": "data\\contact_sheets\\cranbrook_kimberley\\1732-20th-s-avenue-10675733\\aerial_contact_sheet.jpg",
-    "aerial_review_status": "blocked_no_aerial_imagery",
-    "aerial_backyard_visibility": "unclear",
-    "aerial_overhead_quality": "poor",
-    "aerial_real_tiles": "0",
-    "aerial_placeholder_tiles": "9",
-    "mls_contact_sheet": "data\\mls_contact_sheets\\cranbrook_kimberley\\1732-20th-s-avenue-10675733\\mls_contact_sheet.jpg",
-    "mls_photo_count": "30",
-    "mls_backyard_photos": "unreviewed",
-    "mls_drone_or_aerial": "unreviewed",
-    "mls_best_photo_indices": "",
-    "mls_candidate_strength": "unreviewed",
-    "hot_tub_or_pool_signal": "unclear",
-    "source_risk": "research_only_verify_license",
-    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
-    "triage_score": 10,
-    "triage_rank": 92
+    "triage_rank": 100
   },
   {
     "listing_id": "10675078",
@@ -2694,7 +2926,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
     "triage_score": 10,
-    "triage_rank": 93
+    "triage_rank": 101
   },
   {
     "listing_id": "10521676",
@@ -2723,7 +2955,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
     "triage_score": 10,
-    "triage_rank": 94
+    "triage_rank": 102
   },
   {
     "listing_id": "10681930",
@@ -2752,7 +2984,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 95
+    "triage_rank": 103
   },
   {
     "listing_id": "10677481",
@@ -2781,7 +3013,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 96
+    "triage_rank": 104
   },
   {
     "listing_id": "10626846",
@@ -2810,7 +3042,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 97
+    "triage_rank": 105
   },
   {
     "listing_id": "10676060",
@@ -2839,7 +3071,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
     "triage_score": 10,
-    "triage_rank": 98
+    "triage_rank": 106
   },
   {
     "listing_id": "20057967",
@@ -2868,7 +3100,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 99
+    "triage_rank": 107
   },
   {
     "listing_id": "10670897",
@@ -2897,7 +3129,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 100
+    "triage_rank": 108
   },
   {
     "listing_id": "20068527",
@@ -2926,7 +3158,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 101
+    "triage_rank": 109
   },
   {
     "listing_id": "10652500",
@@ -2955,7 +3187,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 102
+    "triage_rank": 110
   },
   {
     "listing_id": "20020845",
@@ -2984,7 +3216,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
     "triage_score": 10,
-    "triage_rank": 103
+    "triage_rank": 111
   },
   {
     "listing_id": "10681575",
@@ -3013,7 +3245,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 104
+    "triage_rank": 112
   },
   {
     "listing_id": "10650416",
@@ -3042,7 +3274,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
     "triage_score": 10,
-    "triage_rank": 105
+    "triage_rank": 113
   },
   {
     "listing_id": "10579894",
@@ -3071,7 +3303,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 106
+    "triage_rank": 114
   },
   {
     "listing_id": "10681344",
@@ -3100,7 +3332,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 107
+    "triage_rank": 115
   },
   {
     "listing_id": "10644420",
@@ -3129,7 +3361,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 108
+    "triage_rank": 116
   },
   {
     "listing_id": "20022971",
@@ -3158,7 +3390,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 109
+    "triage_rank": 117
   },
   {
     "listing_id": "10675368",
@@ -3187,7 +3419,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 110
+    "triage_rank": 118
   },
   {
     "listing_id": "20040986",
@@ -3216,7 +3448,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 111
+    "triage_rank": 119
   },
   {
     "listing_id": "10625065",
@@ -3245,7 +3477,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 112
+    "triage_rank": 120
   },
   {
     "listing_id": "20078342",
@@ -3274,7 +3506,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 113
+    "triage_rank": 121
   },
   {
     "listing_id": "10654287",
@@ -3303,7 +3535,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 114
+    "triage_rank": 122
   },
   {
     "listing_id": "10683832",
@@ -3332,7 +3564,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 115
+    "triage_rank": 123
   },
   {
     "listing_id": "10670943",
@@ -3361,7 +3593,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 116
+    "triage_rank": 124
   },
   {
     "listing_id": "10685240",
@@ -3390,7 +3622,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 117
+    "triage_rank": 125
   },
   {
     "listing_id": "20035684",
@@ -3419,7 +3651,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 118
+    "triage_rank": 126
   },
   {
     "listing_id": "20049485",
@@ -3448,7 +3680,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 119
+    "triage_rank": 127
   },
   {
     "listing_id": "10670868",
@@ -3477,7 +3709,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 120
+    "triage_rank": 128
   },
   {
     "listing_id": "20084357",
@@ -3506,36 +3738,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 121
-  },
-  {
-    "listing_id": "10680848",
-    "address": "2400 34TH S Avenue",
-    "source_label": "Cranbrook/Kimberley",
-    "area": "Kootenay",
-    "subarea": "CRANL Cranbrook Periphery",
-    "coordinate_confidence": "listing",
-    "latitude": "49.48655061",
-    "longitude": "-115.73283811",
-    "recommended_source": "blocked_arcgis_no_imagery",
-    "best_overhead_candidate": "data\\aerial\\cranbrook_kimberley\\2400-34th-s-avenue-10680848\\esri_world_imagery_z19\\z19_x93595_y178966.jpg",
-    "aerial_contact_sheet": "data\\contact_sheets\\cranbrook_kimberley\\2400-34th-s-avenue-10680848\\aerial_contact_sheet.jpg",
-    "aerial_review_status": "blocked_no_aerial_imagery",
-    "aerial_backyard_visibility": "unclear",
-    "aerial_overhead_quality": "poor",
-    "aerial_real_tiles": "0",
-    "aerial_placeholder_tiles": "9",
-    "mls_contact_sheet": "data\\mls_contact_sheets\\cranbrook_kimberley\\2400-34th-s-avenue-10680848\\mls_contact_sheet.jpg",
-    "mls_photo_count": "30",
-    "mls_backyard_photos": "unreviewed",
-    "mls_drone_or_aerial": "unreviewed",
-    "mls_best_photo_indices": "",
-    "mls_candidate_strength": "unreviewed",
-    "hot_tub_or_pool_signal": "unclear",
-    "source_risk": "research_only_verify_license",
-    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
-    "triage_score": 10,
-    "triage_rank": 122
+    "triage_rank": 129
   },
   {
     "listing_id": "20087226",
@@ -3564,7 +3767,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 123
+    "triage_rank": 130
   },
   {
     "listing_id": "10599160",
@@ -3593,36 +3796,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 124
-  },
-  {
-    "listing_id": "10680589",
-    "address": "2510 COBBLESTONE Trail",
-    "source_label": "Columbia Valley",
-    "area": "Kootenay",
-    "subarea": "IN - Invermere",
-    "coordinate_confidence": "listing",
-    "latitude": "50.48338259",
-    "longitude": "-116.04173624",
-    "recommended_source": "needs_review",
-    "best_overhead_candidate": "data\\aerial\\columbia_valley\\2510-cobblestone-trail-10680589\\esri_world_imagery_z19\\z19_x93145_y176708.jpg",
-    "aerial_contact_sheet": "data\\contact_sheets\\columbia_valley\\2510-cobblestone-trail-10680589\\aerial_contact_sheet.jpg",
-    "aerial_review_status": "vision_reviewed_batch_003_no_aerial_imagery",
-    "aerial_backyard_visibility": "unclear",
-    "aerial_overhead_quality": "poor",
-    "aerial_real_tiles": "0",
-    "aerial_placeholder_tiles": "9",
-    "mls_contact_sheet": "data\\mls_contact_sheets\\columbia_valley\\2510-cobblestone-trail-10680589\\mls_contact_sheet.jpg",
-    "mls_photo_count": "30",
-    "mls_backyard_photos": "unreviewed",
-    "mls_drone_or_aerial": "unreviewed",
-    "mls_best_photo_indices": "",
-    "mls_candidate_strength": "unreviewed",
-    "hot_tub_or_pool_signal": "unclear",
-    "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
-    "triage_score": 10,
-    "triage_rank": 125
+    "triage_rank": 131
   },
   {
     "listing_id": "10631447",
@@ -3651,36 +3825,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
     "triage_score": 10,
-    "triage_rank": 126
-  },
-  {
-    "listing_id": "10677502",
-    "address": "2537 LEDGEROCK Ridge",
-    "source_label": "Columbia Valley",
-    "area": "Kootenay",
-    "subarea": "IN - Invermere",
-    "coordinate_confidence": "listing",
-    "latitude": "50.48067248",
-    "longitude": "-116.0404858",
-    "recommended_source": "needs_review",
-    "best_overhead_candidate": "data\\aerial\\columbia_valley\\2537-ledgerock-ridge-10677502\\esri_world_imagery_z19\\z19_x93147_y176714.jpg",
-    "aerial_contact_sheet": "data\\contact_sheets\\columbia_valley\\2537-ledgerock-ridge-10677502\\aerial_contact_sheet.jpg",
-    "aerial_review_status": "vision_reviewed_batch_003_no_aerial_imagery",
-    "aerial_backyard_visibility": "unclear",
-    "aerial_overhead_quality": "poor",
-    "aerial_real_tiles": "0",
-    "aerial_placeholder_tiles": "9",
-    "mls_contact_sheet": "data\\mls_contact_sheets\\columbia_valley\\2537-ledgerock-ridge-10677502\\mls_contact_sheet.jpg",
-    "mls_photo_count": "30",
-    "mls_backyard_photos": "unreviewed",
-    "mls_drone_or_aerial": "unreviewed",
-    "mls_best_photo_indices": "",
-    "mls_candidate_strength": "unreviewed",
-    "hot_tub_or_pool_signal": "unclear",
-    "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
-    "triage_score": 10,
-    "triage_rank": 127
+    "triage_rank": 132
   },
   {
     "listing_id": "10669410",
@@ -3709,7 +3854,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 128
+    "triage_rank": 133
   },
   {
     "listing_id": "10672111",
@@ -3738,7 +3883,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 129
+    "triage_rank": 134
   },
   {
     "listing_id": "10680456",
@@ -3767,7 +3912,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 130
+    "triage_rank": 135
   },
   {
     "listing_id": "10671250",
@@ -3796,7 +3941,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 131
+    "triage_rank": 136
   },
   {
     "listing_id": "10660407",
@@ -3825,7 +3970,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 132
+    "triage_rank": 137
   },
   {
     "listing_id": "20053388",
@@ -3854,7 +3999,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 133
+    "triage_rank": 138
   },
   {
     "listing_id": "20042580",
@@ -3883,7 +4028,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 134
+    "triage_rank": 139
   },
   {
     "listing_id": "10676027",
@@ -3912,7 +4057,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 135
+    "triage_rank": 140
   },
   {
     "listing_id": "20072535",
@@ -3941,7 +4086,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 136
+    "triage_rank": 141
   },
   {
     "listing_id": "20075439",
@@ -3970,7 +4115,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 137
+    "triage_rank": 142
   },
   {
     "listing_id": "20073619",
@@ -3999,7 +4144,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 138
+    "triage_rank": 143
   },
   {
     "listing_id": "10681908",
@@ -4028,7 +4173,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 139
+    "triage_rank": 144
   },
   {
     "listing_id": "20047369",
@@ -4057,7 +4202,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 140
+    "triage_rank": 145
   },
   {
     "listing_id": "20042910",
@@ -4086,7 +4231,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 141
+    "triage_rank": 146
   },
   {
     "listing_id": "20051381",
@@ -4115,7 +4260,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 142
+    "triage_rank": 147
   },
   {
     "listing_id": "20063623",
@@ -4144,7 +4289,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 143
+    "triage_rank": 148
   },
   {
     "listing_id": "20046086",
@@ -4173,7 +4318,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 144
+    "triage_rank": 149
   },
   {
     "listing_id": "20073830",
@@ -4202,7 +4347,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 145
+    "triage_rank": 150
   },
   {
     "listing_id": "20048728",
@@ -4231,7 +4376,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 146
+    "triage_rank": 151
   },
   {
     "listing_id": "20071254",
@@ -4260,7 +4405,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 147
+    "triage_rank": 152
   },
   {
     "listing_id": "10628923",
@@ -4289,7 +4434,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 148
+    "triage_rank": 153
   },
   {
     "listing_id": "20026282",
@@ -4318,7 +4463,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 149
+    "triage_rank": 154
   },
   {
     "listing_id": "20045387",
@@ -4347,7 +4492,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 150
+    "triage_rank": 155
   },
   {
     "listing_id": "20080078",
@@ -4376,36 +4521,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 151
-  },
-  {
-    "listing_id": "10672915",
-    "address": "3415 CROOKED TREE Place",
-    "source_label": "Columbia Valley",
-    "area": "Kootenay",
-    "subarea": "INRU - Fairmont/Columbia Lake",
-    "coordinate_confidence": "listing",
-    "latitude": "50.4071838",
-    "longitude": "-115.8829229",
-    "recommended_source": "blocked_arcgis_no_imagery",
-    "best_overhead_candidate": "data\\aerial\\columbia_valley\\3415-crooked-tree-place-10672915\\esri_world_imagery_z19\\z19_x93377_y176883.jpg",
-    "aerial_contact_sheet": "data\\contact_sheets\\columbia_valley\\3415-crooked-tree-place-10672915\\aerial_contact_sheet.jpg",
-    "aerial_review_status": "blocked_no_aerial_imagery",
-    "aerial_backyard_visibility": "unclear",
-    "aerial_overhead_quality": "poor",
-    "aerial_real_tiles": "0",
-    "aerial_placeholder_tiles": "9",
-    "mls_contact_sheet": "data\\mls_contact_sheets\\columbia_valley\\3415-crooked-tree-place-10672915\\mls_contact_sheet.jpg",
-    "mls_photo_count": "30",
-    "mls_backyard_photos": "unreviewed",
-    "mls_drone_or_aerial": "unreviewed",
-    "mls_best_photo_indices": "",
-    "mls_candidate_strength": "unreviewed",
-    "hot_tub_or_pool_signal": "unclear",
-    "source_risk": "research_only_verify_license",
-    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
-    "triage_score": 10,
-    "triage_rank": 152
+    "triage_rank": 156
   },
   {
     "listing_id": "20050060",
@@ -4434,7 +4550,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 153
+    "triage_rank": 157
   },
   {
     "listing_id": "20087063",
@@ -4463,7 +4579,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 154
+    "triage_rank": 158
   },
   {
     "listing_id": "10619308",
@@ -4492,7 +4608,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 155
+    "triage_rank": 159
   },
   {
     "listing_id": "10629333",
@@ -4521,7 +4637,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 156
+    "triage_rank": 160
   },
   {
     "listing_id": "10655082",
@@ -4550,7 +4666,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 157
+    "triage_rank": 161
   },
   {
     "listing_id": "10666517",
@@ -4579,7 +4695,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 158
+    "triage_rank": 162
   },
   {
     "listing_id": "20021100",
@@ -4608,7 +4724,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 159
+    "triage_rank": 163
   },
   {
     "listing_id": "10650499",
@@ -4637,7 +4753,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 160
+    "triage_rank": 164
   },
   {
     "listing_id": "20027834",
@@ -4666,7 +4782,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 161
+    "triage_rank": 165
   },
   {
     "listing_id": "10470205",
@@ -4695,7 +4811,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 162
+    "triage_rank": 166
   },
   {
     "listing_id": "10673661",
@@ -4724,7 +4840,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 163
+    "triage_rank": 167
   },
   {
     "listing_id": "20048760",
@@ -4753,7 +4869,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 164
+    "triage_rank": 168
   },
   {
     "listing_id": "10682881",
@@ -4782,7 +4898,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 165
+    "triage_rank": 169
   },
   {
     "listing_id": "10682429",
@@ -4811,7 +4927,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 166
+    "triage_rank": 170
   },
   {
     "listing_id": "10577345",
@@ -4840,7 +4956,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 167
+    "triage_rank": 171
   },
   {
     "listing_id": "20073637",
@@ -4869,7 +4985,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 168
+    "triage_rank": 172
   },
   {
     "listing_id": "10572288",
@@ -4898,7 +5014,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 169
+    "triage_rank": 173
   },
   {
     "listing_id": "10559208",
@@ -4927,7 +5043,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 170
+    "triage_rank": 174
   },
   {
     "listing_id": "10545164",
@@ -4956,7 +5072,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 171
+    "triage_rank": 175
   },
   {
     "listing_id": "20076380",
@@ -4985,36 +5101,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 172
-  },
-  {
-    "listing_id": "10673047",
-    "address": "4576 COLUMERE Road",
-    "source_label": "Columbia Valley",
-    "area": "Kootenay",
-    "subarea": "INRU - Fairmont/Columbia Lake",
-    "coordinate_confidence": "listing",
-    "latitude": "50.28959785",
-    "longitude": "-115.87779063",
-    "recommended_source": "blocked_arcgis_no_imagery",
-    "best_overhead_candidate": "data\\aerial\\columbia_valley\\4576-columere-road-10673047\\esri_world_imagery_z19\\z19_x93384_y177151.jpg",
-    "aerial_contact_sheet": "data\\contact_sheets\\columbia_valley\\4576-columere-road-10673047\\aerial_contact_sheet.jpg",
-    "aerial_review_status": "blocked_no_aerial_imagery",
-    "aerial_backyard_visibility": "unclear",
-    "aerial_overhead_quality": "poor",
-    "aerial_real_tiles": "0",
-    "aerial_placeholder_tiles": "9",
-    "mls_contact_sheet": "data\\mls_contact_sheets\\columbia_valley\\4576-columere-road-10673047\\mls_contact_sheet.jpg",
-    "mls_photo_count": "30",
-    "mls_backyard_photos": "unreviewed",
-    "mls_drone_or_aerial": "unreviewed",
-    "mls_best_photo_indices": "",
-    "mls_candidate_strength": "unreviewed",
-    "hot_tub_or_pool_signal": "unclear",
-    "source_risk": "research_only_verify_license",
-    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
-    "triage_score": 10,
-    "triage_rank": 173
+    "triage_rank": 176
   },
   {
     "listing_id": "10592929",
@@ -5043,7 +5130,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 174
+    "triage_rank": 177
   },
   {
     "listing_id": "10616755",
@@ -5072,7 +5159,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 175
+    "triage_rank": 178
   },
   {
     "listing_id": "20021525",
@@ -5101,7 +5188,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 176
+    "triage_rank": 179
   },
   {
     "listing_id": "10622169",
@@ -5130,7 +5217,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 177
+    "triage_rank": 180
   },
   {
     "listing_id": "10605182",
@@ -5159,7 +5246,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 178
+    "triage_rank": 181
   },
   {
     "listing_id": "10590002",
@@ -5188,7 +5275,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 179
+    "triage_rank": 182
   },
   {
     "listing_id": "10659027",
@@ -5217,7 +5304,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 180
+    "triage_rank": 183
   },
   {
     "listing_id": "10680461",
@@ -5246,7 +5333,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 181
+    "triage_rank": 184
   },
   {
     "listing_id": "10671043",
@@ -5275,7 +5362,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 182
+    "triage_rank": 185
   },
   {
     "listing_id": "10607338",
@@ -5304,7 +5391,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 183
+    "triage_rank": 186
   },
   {
     "listing_id": "10644065",
@@ -5333,7 +5420,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 184
+    "triage_rank": 187
   },
   {
     "listing_id": "10631280",
@@ -5362,7 +5449,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 185
+    "triage_rank": 188
   },
   {
     "listing_id": "10629099",
@@ -5391,7 +5478,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 186
+    "triage_rank": 189
   },
   {
     "listing_id": "10662523",
@@ -5420,7 +5507,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 187
+    "triage_rank": 190
   },
   {
     "listing_id": "20046407",
@@ -5449,7 +5536,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 188
+    "triage_rank": 191
   },
   {
     "listing_id": "10565896",
@@ -5478,7 +5565,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 189
+    "triage_rank": 192
   },
   {
     "listing_id": "10665854",
@@ -5507,7 +5594,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 190
+    "triage_rank": 193
   },
   {
     "listing_id": "20084577",
@@ -5536,7 +5623,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 191
+    "triage_rank": 194
   },
   {
     "listing_id": "10676258",
@@ -5565,7 +5652,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 192
+    "triage_rank": 195
   },
   {
     "listing_id": "10587559",
@@ -5594,7 +5681,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 193
+    "triage_rank": 196
   },
   {
     "listing_id": "10569690",
@@ -5623,7 +5710,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 194
+    "triage_rank": 197
   },
   {
     "listing_id": "10666174",
@@ -5652,7 +5739,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 195
+    "triage_rank": 198
   },
   {
     "listing_id": "10660433",
@@ -5681,7 +5768,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 196
+    "triage_rank": 199
   },
   {
     "listing_id": "10673650",
@@ -5710,7 +5797,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 197
+    "triage_rank": 200
   },
   {
     "listing_id": "10680493",
@@ -5739,7 +5826,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 198
+    "triage_rank": 201
   },
   {
     "listing_id": "10673667",
@@ -5768,7 +5855,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 199
+    "triage_rank": 202
   },
   {
     "listing_id": "10573050",
@@ -5797,7 +5884,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 200
+    "triage_rank": 203
   },
   {
     "listing_id": "10608316",
@@ -5826,7 +5913,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 201
+    "triage_rank": 204
   },
   {
     "listing_id": "10682769",
@@ -5855,7 +5942,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 202
+    "triage_rank": 205
   },
   {
     "listing_id": "20040797",
@@ -5884,7 +5971,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 203
+    "triage_rank": 206
   },
   {
     "listing_id": "20080295",
@@ -5913,7 +6000,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 204
+    "triage_rank": 207
   },
   {
     "listing_id": "10683660",
@@ -5942,7 +6029,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 205
+    "triage_rank": 208
   },
   {
     "listing_id": "10523709",
@@ -5971,7 +6058,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 206
+    "triage_rank": 209
   },
   {
     "listing_id": "10677817",
@@ -6000,7 +6087,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 207
+    "triage_rank": 210
   },
   {
     "listing_id": "10570990",
@@ -6029,7 +6116,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 208
+    "triage_rank": 211
   },
   {
     "listing_id": "10623245",
@@ -6058,7 +6145,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 209
+    "triage_rank": 212
   },
   {
     "listing_id": "10669940",
@@ -6087,7 +6174,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 210
+    "triage_rank": 213
   },
   {
     "listing_id": "20061096",
@@ -6116,7 +6203,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 211
+    "triage_rank": 214
   },
   {
     "listing_id": "10561093",
@@ -6145,7 +6232,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 212
+    "triage_rank": 215
   },
   {
     "listing_id": "10660236",
@@ -6174,7 +6261,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 213
+    "triage_rank": 216
   },
   {
     "listing_id": "10674370",
@@ -6203,7 +6290,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 214
+    "triage_rank": 217
   },
   {
     "listing_id": "20053873",
@@ -6232,7 +6319,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 215
+    "triage_rank": 218
   },
   {
     "listing_id": "10665347",
@@ -6261,7 +6348,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 216
+    "triage_rank": 219
   },
   {
     "listing_id": "10660875",
@@ -6290,7 +6377,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 217
+    "triage_rank": 220
   },
   {
     "listing_id": "20081980",
@@ -6319,7 +6406,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 218
+    "triage_rank": 221
   },
   {
     "listing_id": "20037931",
@@ -6348,7 +6435,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 219
+    "triage_rank": 222
   },
   {
     "listing_id": "20022594",
@@ -6377,7 +6464,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 220
+    "triage_rank": 223
   },
   {
     "listing_id": "10574318",
@@ -6406,7 +6493,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 221
+    "triage_rank": 224
   },
   {
     "listing_id": "10665467",
@@ -6435,7 +6522,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 222
+    "triage_rank": 225
   },
   {
     "listing_id": "10638277",
@@ -6464,7 +6551,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 223
+    "triage_rank": 226
   },
   {
     "listing_id": "20066454",
@@ -6493,7 +6580,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 224
+    "triage_rank": 227
   },
   {
     "listing_id": "10673062",
@@ -6522,7 +6609,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 225
+    "triage_rank": 228
   },
   {
     "listing_id": "10672919",
@@ -6551,7 +6638,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 226
+    "triage_rank": 229
   },
   {
     "listing_id": "10672747",
@@ -6580,7 +6667,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 227
+    "triage_rank": 230
   },
   {
     "listing_id": "10675110",
@@ -6609,7 +6696,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 228
+    "triage_rank": 231
   },
   {
     "listing_id": "10647683",
@@ -6638,7 +6725,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 229
+    "triage_rank": 232
   },
   {
     "listing_id": "20057362",
@@ -6667,7 +6754,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 230
+    "triage_rank": 233
   },
   {
     "listing_id": "10685008",
@@ -6696,36 +6783,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 231
-  },
-  {
-    "listing_id": "10679813",
-    "address": "701 34TH S Avenue",
-    "source_label": "Cranbrook/Kimberley",
-    "area": "Kootenay",
-    "subarea": "CRAN - Cranbrook South",
-    "coordinate_confidence": "listing",
-    "latitude": "49.50164769",
-    "longitude": "-115.73385134",
-    "recommended_source": "blocked_arcgis_no_imagery",
-    "best_overhead_candidate": "data\\aerial\\cranbrook_kimberley\\701-34th-s-avenue-10679813\\esri_world_imagery_z19\\z19_x93594_y178932.jpg",
-    "aerial_contact_sheet": "data\\contact_sheets\\cranbrook_kimberley\\701-34th-s-avenue-10679813\\aerial_contact_sheet.jpg",
-    "aerial_review_status": "blocked_no_aerial_imagery",
-    "aerial_backyard_visibility": "unclear",
-    "aerial_overhead_quality": "poor",
-    "aerial_real_tiles": "0",
-    "aerial_placeholder_tiles": "9",
-    "mls_contact_sheet": "data\\mls_contact_sheets\\cranbrook_kimberley\\701-34th-s-avenue-10679813\\mls_contact_sheet.jpg",
-    "mls_photo_count": "30",
-    "mls_backyard_photos": "unreviewed",
-    "mls_drone_or_aerial": "unreviewed",
-    "mls_best_photo_indices": "",
-    "mls_candidate_strength": "unreviewed",
-    "hot_tub_or_pool_signal": "unclear",
-    "source_risk": "research_only_verify_license",
-    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
-    "triage_score": 10,
-    "triage_rank": 232
+    "triage_rank": 234
   },
   {
     "listing_id": "10661891",
@@ -6754,7 +6812,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 233
+    "triage_rank": 235
   },
   {
     "listing_id": "10669795",
@@ -6783,7 +6841,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 234
+    "triage_rank": 236
   },
   {
     "listing_id": "20060670",
@@ -6812,7 +6870,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 235
+    "triage_rank": 237
   },
   {
     "listing_id": "10676696",
@@ -6841,7 +6899,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 236
+    "triage_rank": 238
   },
   {
     "listing_id": "10662424",
@@ -6870,7 +6928,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 237
+    "triage_rank": 239
   },
   {
     "listing_id": "10638399",
@@ -6899,7 +6957,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 238
+    "triage_rank": 240
   },
   {
     "listing_id": "20022380",
@@ -6928,7 +6986,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 239
+    "triage_rank": 241
   },
   {
     "listing_id": "20021336",
@@ -6957,7 +7015,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 240
+    "triage_rank": 242
   },
   {
     "listing_id": "20020418",
@@ -6986,7 +7044,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 241
+    "triage_rank": 243
   },
   {
     "listing_id": "10636454",
@@ -7015,7 +7073,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 242
+    "triage_rank": 244
   },
   {
     "listing_id": "10645721",
@@ -7044,7 +7102,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 243
+    "triage_rank": 245
   },
   {
     "listing_id": "10669531",
@@ -7073,7 +7131,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 244
+    "triage_rank": 246
   },
   {
     "listing_id": "10669856",
@@ -7102,7 +7160,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 245
+    "triage_rank": 247
   },
   {
     "listing_id": "10614914",
@@ -7131,7 +7189,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 246
+    "triage_rank": 248
   },
   {
     "listing_id": "20085434",
@@ -7160,36 +7218,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 247
-  },
-  {
-    "listing_id": "10672776",
-    "address": "804 17TH S Street",
-    "source_label": "Cranbrook/Kimberley",
-    "area": "Kootenay",
-    "subarea": "CRAN - Cranbrook South",
-    "coordinate_confidence": "listing",
-    "latitude": "49.4929927",
-    "longitude": "-115.7701496",
-    "recommended_source": "blocked_arcgis_no_imagery",
-    "best_overhead_candidate": "data\\aerial\\cranbrook_kimberley\\804-17th-s-street-10672776\\esri_world_imagery_z19\\z19_x93541_y178952.jpg",
-    "aerial_contact_sheet": "data\\contact_sheets\\cranbrook_kimberley\\804-17th-s-street-10672776\\aerial_contact_sheet.jpg",
-    "aerial_review_status": "blocked_no_aerial_imagery",
-    "aerial_backyard_visibility": "unclear",
-    "aerial_overhead_quality": "poor",
-    "aerial_real_tiles": "0",
-    "aerial_placeholder_tiles": "9",
-    "mls_contact_sheet": "data\\mls_contact_sheets\\cranbrook_kimberley\\804-17th-s-street-10672776\\mls_contact_sheet.jpg",
-    "mls_photo_count": "30",
-    "mls_backyard_photos": "unreviewed",
-    "mls_drone_or_aerial": "unreviewed",
-    "mls_best_photo_indices": "",
-    "mls_candidate_strength": "unreviewed",
-    "hot_tub_or_pool_signal": "unclear",
-    "source_risk": "research_only_verify_license",
-    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
-    "triage_score": 10,
-    "triage_rank": 248
+    "triage_rank": 249
   },
   {
     "listing_id": "10670913",
@@ -7218,7 +7247,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 249
+    "triage_rank": 250
   },
   {
     "listing_id": "20020530",
@@ -7247,7 +7276,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 250
+    "triage_rank": 251
   },
   {
     "listing_id": "20036703",
@@ -7276,7 +7305,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 251
+    "triage_rank": 252
   },
   {
     "listing_id": "10658252",
@@ -7305,7 +7334,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 252
+    "triage_rank": 253
   },
   {
     "listing_id": "10646987",
@@ -7334,7 +7363,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 253
+    "triage_rank": 254
   },
   {
     "listing_id": "10665254",
@@ -7363,7 +7392,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 254
+    "triage_rank": 255
   },
   {
     "listing_id": "10639146",
@@ -7392,7 +7421,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 255
+    "triage_rank": 256
   },
   {
     "listing_id": "10665147",
@@ -7421,7 +7450,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 256
+    "triage_rank": 257
   },
   {
     "listing_id": "10673624",
@@ -7450,7 +7479,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 257
+    "triage_rank": 258
   },
   {
     "listing_id": "20022908",
@@ -7479,7 +7508,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 258
+    "triage_rank": 259
   },
   {
     "listing_id": "10654610",
@@ -7508,7 +7537,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 259
+    "triage_rank": 260
   },
   {
     "listing_id": "10666129",
@@ -7537,7 +7566,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 260
+    "triage_rank": 261
   },
   {
     "listing_id": "20086371",
@@ -7566,7 +7595,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 261
+    "triage_rank": 262
   },
   {
     "listing_id": "10588693",
@@ -7595,7 +7624,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 262
+    "triage_rank": 263
   },
   {
     "listing_id": "10684558",
@@ -7624,7 +7653,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 263
+    "triage_rank": 264
   },
   {
     "listing_id": "20087320",
@@ -7653,7 +7682,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 264
+    "triage_rank": 265
   },
   {
     "listing_id": "10669621",
@@ -7682,7 +7711,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 265
+    "triage_rank": 266
   },
   {
     "listing_id": "10667796",
@@ -7711,7 +7740,7 @@
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "triage_score": 10,
-    "triage_rank": 266
+    "triage_rank": 267
   },
   {
     "listing_id": "10669578",
@@ -7731,35 +7760,6 @@
     "aerial_real_tiles": "0",
     "aerial_placeholder_tiles": "9",
     "mls_contact_sheet": "data\\mls_contact_sheets\\cranbrook_kimberley\\9-6324-laurier-avenue-10669578\\mls_contact_sheet.jpg",
-    "mls_photo_count": "30",
-    "mls_backyard_photos": "unreviewed",
-    "mls_drone_or_aerial": "unreviewed",
-    "mls_best_photo_indices": "",
-    "mls_candidate_strength": "unreviewed",
-    "hot_tub_or_pool_signal": "unclear",
-    "source_risk": "research_only_verify_license",
-    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
-    "triage_score": 10,
-    "triage_rank": 267
-  },
-  {
-    "listing_id": "10680439",
-    "address": "913 17TH S Street",
-    "source_label": "Cranbrook/Kimberley",
-    "area": "Kootenay",
-    "subarea": "CRAN - Cranbrook South",
-    "coordinate_confidence": "listing",
-    "latitude": "49.4925857",
-    "longitude": "-115.7682942",
-    "recommended_source": "blocked_arcgis_no_imagery",
-    "best_overhead_candidate": "data\\aerial\\cranbrook_kimberley\\913-17th-s-street-10680439\\esri_world_imagery_z19\\z19_x93544_y178953.jpg",
-    "aerial_contact_sheet": "data\\contact_sheets\\cranbrook_kimberley\\913-17th-s-street-10680439\\aerial_contact_sheet.jpg",
-    "aerial_review_status": "blocked_no_aerial_imagery",
-    "aerial_backyard_visibility": "unclear",
-    "aerial_overhead_quality": "poor",
-    "aerial_real_tiles": "0",
-    "aerial_placeholder_tiles": "9",
-    "mls_contact_sheet": "data\\mls_contact_sheets\\cranbrook_kimberley\\913-17th-s-street-10680439\\mls_contact_sheet.jpg",
     "mls_photo_count": "30",
     "mls_backyard_photos": "unreviewed",
     "mls_drone_or_aerial": "unreviewed",

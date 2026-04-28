@@ -10,7 +10,7 @@
 - ArcGIS imagery availability check: 27 listings have real aerial tiles; 273 are all-placeholder/no usable ArcGIS imagery; 1 has no coordinate
 - MLS thumbnails inventoried: 7,467
 - MLS contact sheets generated: 299
-- MLS contact sheets vision-reviewed so far: 22
+- MLS contact sheets vision-reviewed so far: 32
 
 ## Consolidated triage output
 
@@ -22,28 +22,28 @@ Generated all-listing candidate table:
 Current recommended-source split:
 
 - ArcGIS overhead candidates: 10
-- MLS drone/aerial candidates: 4
-- MLS backyard candidates: 16
-- Blocked by ArcGIS no imagery: 229
-- Still needs review: 40
+- MLS drone/aerial candidates: 8
+- MLS backyard candidates: 22
+- Blocked by ArcGIS no imagery: 221
+- Still needs review: 38
 - Blocked no coordinate: 1
 
 ## Best current candidates
 
 Top ranked rows in `property_candidate_triage.csv`:
 
-1. `75 103RD Avenue` - MLS backyard candidate; possible covered hot tub visible in photo 29; needs human verification.
-2. `814 307TH Avenue` - MLS backyard candidate; hot tub clearly visible in photo 28 per vision pass; needs human verification.
-3. `1265 VALLEY VIEW Place` - ArcGIS overhead candidate plus strong MLS backyard photos; no visible tub/pool.
-4. `1681 KOOCANUSA LAKE Drive` - best ArcGIS overhead/backyard candidate from aerial pass.
-5. `9382 MOYIE SHORES ESTATE Road` - ArcGIS overhead candidate plus strong waterfront MLS candidates; no visible tub/pool.
+1. `4576 COLUMERE Road` - MLS drone/aerial-style context plus visible hot tub on deck/patio; needs human verification.\n2. `75 103RD Avenue` - MLS backyard candidate; possible covered hot tub visible in photo 29; needs human verification.
+3. `814 307TH Avenue` - MLS backyard candidate; hot tub clearly visible in photo 28 per vision pass; needs human verification.
+4. `1265 VALLEY VIEW Place` - ArcGIS overhead candidate plus strong MLS backyard photos; no visible tub/pool.
+5. `1681 KOOCANUSA LAKE Drive` - best ArcGIS overhead/backyard candidate from aerial pass.
+6. `9382 MOYIE SHORES ESTATE Road` - ArcGIS overhead candidate plus strong waterfront MLS candidates; no visible tub/pool.
 
 Current MLS drone/aerial candidates:
 
-- `2543 LEDGEROCK Ridge`
+- `1732 20TH S Avenue`\n- `2510 COBBLESTONE Trail`\n- `2543 LEDGEROCK Ridge`
 - `4891 Glen Eagle Drive`
 - `4992 MOUNTAIN VIEW Drive`
-- `960 COPPER POINT Way`
+- `960 COPPER POINT Way`\n- `804 17TH S Street`\n- `4576 COLUMERE Road`
 
 ## Blockers / cautions
 
@@ -54,3 +54,4 @@ Current MLS drone/aerial candidates:
 ## Next best action
 
 Continue MLS contact-sheet review for the remaining high-candidate / needs-review properties, then optionally add an alternate overhead imagery source if Matt wants more true top-down backyard coverage beyond the limited ArcGIS availability.
+
