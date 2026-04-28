@@ -127,8 +127,8 @@ h2 { margin: 0; font-size: 23px; letter-spacing: -.025em; }
 
 @media (max-width: 560px) {
   .toolbar { position: static; top: auto; padding: 8px; }
-  .areaNav { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px; }
-  .areaNav a { padding: 8px 6px; font-size: 11px; text-align: center; white-space: nowrap; }
+  .areaNav { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+  .areaNav a { padding: 13px 10px; font-size: 15px; line-height: 1.15; text-align: center; white-space: normal; display: flex; align-items: center; justify-content: center; min-height: 54px; }
   .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
   .areaBanner { border-radius: 22px; min-height: 220px; }
   .areaBanner img { height: 250px; }
