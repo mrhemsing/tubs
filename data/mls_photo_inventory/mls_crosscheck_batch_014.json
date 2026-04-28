@@ -1,0 +1,122 @@
+[
+  {
+    "listing_id": "20076380",
+    "address": "4573 Columere Road",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [2, 12, 16, 1],
+    "aerial_or_elevated_photo_indices": [10],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no clear aerial/top-down of house plus backyard/lot. Photo 10 is aerial/marina context but does not show the house/yard. Best usable are ground/elevated exterior/backyard angles."
+  },
+  {
+    "listing_id": "20068527",
+    "address": "1908 12th Street S",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [3, 2],
+    "aerial_or_elevated_photo_indices": [2, 3, 4, 5],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 3 gives elevated/top-down view of rear yard with house; photo 2 shows house/lot from above. Photos 4-5 are broader neighborhood aerial context."
+  },
+  {
+    "listing_id": "20060624",
+    "address": "1302 11th Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [30, 29, 24],
+    "aerial_or_elevated_photo_indices": [29, 30],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 30 is top-down lot/house view with outline; photo 29 is elevated oblique showing house and fenced yard. Photo 24 is useful rear-yard ground support."
+  },
+  {
+    "listing_id": "20050440",
+    "address": "959 COPPER POINT Way",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [7, 6, 3, 5],
+    "aerial_or_elevated_photo_indices": [3, 6, 7],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photos 6-7 provide top-down backyard/lot details but only partial house context; photo 3 is elevated front/setting view. Photo 5 supports rear/yard relationship from ground level."
+  },
+  {
+    "listing_id": "20028580",
+    "address": "1309 BIRCHWOOD Place",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/top-down/elevated lot view visible. Only exterior candidate is photo 1, a ground-level front/driveway view with limited lot/backyard information."
+  },
+  {
+    "listing_id": "20021336",
+    "address": "781 WESTRIDGE Drive",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [11, 1, 2],
+    "aerial_or_elevated_photo_indices": [1, 2, 3, 11],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 11 is the clearest top-down/aerial-like view showing roof/lot context; photos 1-2 are elevated oblique exterior views with some surrounding lot but limited backyard detail."
+  },
+  {
+    "listing_id": "10683923",
+    "address": "2135 WHISKEY JACK Drive",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 2],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: only ground-level front exterior/driveway views found; no aerial/elevated backyard or lot overview visible."
+  },
+  {
+    "listing_id": "10683161",
+    "address": "2313 FALCON Court",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 1 is a ground-level front exterior only; no aerial/elevated image showing house with backyard/lot together."
+  },
+  {
+    "listing_id": "10672919",
+    "address": "6894 COLUMBIA RIDGE Drive",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 2, 3, 4, 5],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: several ground-level exterior/front/lot-view shots, especially photos 1-5, but no aerial/top-down/elevated house-plus-backyard coverage."
+  },
+  {
+    "listing_id": "10671578",
+    "address": "2140 WHISKEY JACK Drive",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 1 is the only exterior and appears ground-level front-facing; no aerial/elevated backyard/lot overview present."
+  }
+]

@@ -16,7 +16,7 @@ Not the goal: hot tubs, pools, amenities, or ground-level backyard marketing pho
 - ArcGIS imagery availability check: 27 listings have real aerial tiles; 273 are all-placeholder/no usable ArcGIS imagery; 1 has no coordinate
 - MLS thumbnails inventoried: 7,467
 - MLS contact sheets generated: 299
-- MLS contact sheets reviewed for house+backyard aerial/elevated candidates so far: 122
+- MLS contact sheets reviewed for house+backyard aerial/elevated candidates so far: 132
 
 ## Corrected consolidated triage output
 
@@ -27,12 +27,12 @@ All-listing candidate table, ranked for house + backyard aerial/elevated coverag
 
 Current recommended-source split:
 
-- MLS drone/aerial candidates: 33
+- MLS drone/aerial candidates: 37
 - ArcGIS overhead house+backyard candidates: 10
 - Possible MLS elevated candidates needing verification: 13
-- MLS ground backyard context only: 6
-- Still needs aerial review: 27
-- Blocked by ArcGIS no imagery: 210
+- MLS ground backyard context only: 10
+- Still needs aerial review: 23
+- Blocked by ArcGIS no imagery: 206
 - Blocked no coordinate: 1
 
 ## Current best aerial/elevated candidates
@@ -59,6 +59,10 @@ New candidates from latest review batch:
 
 Additional latest candidates:
 
+- 1908 12th Street S - elevated/top-down rear yard with house; best photo indices 3,2.
+- 1302 11th Avenue - top-down lot/house plus elevated oblique; best photo indices 30,29,24.
+- 959 COPPER POINT Way - medium top-down/backyard details with partial house context; best photo indices 7,6,3,5.
+- 781 WESTRIDGE Drive - medium aerial-like roof/lot context; best photo indices 11,1,2.
 - 18 ELKVIEW Crescent - strong aerial/elevated coverage; best photo indices 6,7,3,2,5,1.
 - 2 RIDGEMONT Avenue - clear elevated/top-down aerial-style view; best photo indices 3,2,1.
 - 14 MT TRINITY Avenue - medium elevated/oblique house+lot context; best photo indices 2,1,30.
