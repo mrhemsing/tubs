@@ -204,7 +204,7 @@ export default function ReviewPage({ areaFilter = null }) {
         <p>{areaFilter ? `Showing only ${areaFilter}.` : 'Choose a dedicated area page, or view all areas below.'}</p>
         <nav className="areaNav" aria-label="Area navigation">
           {areaOrder.map((area) => (
-            <a className={area === areaFilter ? 'active' : ''} href={`/${areaSlugs[area]}`} key={area}>{area}</a>
+            <a className={area === areaFilter || (!areaFilter && area === 'Columbia Valley') ? 'active' : ''} href={`/${areaSlugs[area]}`} key={area}>{area}</a>
           ))}
         </nav>
       </section>
