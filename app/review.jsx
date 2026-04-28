@@ -130,7 +130,7 @@ function AreaBlock({ area, cards, rows }) {
           <p className="areaKicker">Area</p>
           <h2>{area}</h2>
           <div className="areaStats">
-            <span>{cards.length} candidates</span>
+            <span>{cards.length}/{rows.length} candidates</span>
             <span>{aerialCount} MLS aerial/elevated</span>
             <span>{arcgisCount} ArcGIS overhead</span>
             <span>{possibleCount} possible elevated</span>
