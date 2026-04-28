@@ -1,0 +1,112 @@
+[
+  {
+    "listing_id": "20078478",
+    "address": "75 103RD Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "yes",
+    "best_photo_indices": [2, 1, 29],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Strong backyard/lawn and deck images; photo 29 appears to show a covered hot tub on deck. Needs human verification before relying on it."
+  },
+  {
+    "listing_id": "20077373",
+    "address": "166 304th Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "no",
+    "best_photo_indices": [3, 2, 17, 24, 25],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Multiple exterior/courtyard/deck views, but no clear drone/aerial or water feature."
+  },
+  {
+    "listing_id": "20074790",
+    "address": "215 13th Avenue S",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "no",
+    "best_photo_indices": [20, 22, 23, 27, 29],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Extensive landscaped garden/backyard sequence with paths, fencing, patio seating."
+  },
+  {
+    "listing_id": "20070160",
+    "address": "530 Trail Street",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "no",
+    "best_photo_indices": [1, 2, 3],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Outdoor marketing mostly front/exterior and walkway/yard context; limited backyard content in visible set."
+  },
+  {
+    "listing_id": "20059692",
+    "address": "4891 Glen Eagle Drive",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "no",
+    "best_photo_indices": [1, 4, 5, 23],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Clear drone/aerial mountain/neighborhood view plus patio/covered outdoor sitting area."
+  },
+  {
+    "listing_id": "20058040",
+    "address": "205 309th Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "no",
+    "best_photo_indices": [1, 3, 5, 4],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Strong yard/lawn/deck imagery; no apparent aerial or pool/hot tub."
+  },
+  {
+    "listing_id": "20043865",
+    "address": "1622 11 Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "no",
+    "best_photo_indices": [1],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Only visible outdoor candidate is front exterior/driveway in snow; no backyard sequence."
+  },
+  {
+    "listing_id": "20043585",
+    "address": "254 305TH Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "no",
+    "best_photo_indices": [1, 2],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Outdoor content appears limited to front exterior/driveway and landscaping; no backyard or aerial visible."
+  },
+  {
+    "listing_id": "20038863",
+    "address": "960 COPPER POINT Way",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "no",
+    "best_photo_indices": [7, 6, 3, 5, 1],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Clear true aerial/drone neighborhood and mountain views; exterior/front outdoor shots also present."
+  },
+  {
+    "listing_id": "20026072",
+    "address": "4992 MOUNTAIN VIEW Drive",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "no",
+    "best_photo_indices": [1, 17, 18, 19],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Aerial/property overview plus deck/patio outdoor living views; no clear pool or hot tub."
+  }
+]
