@@ -180,7 +180,11 @@ export default function ReviewPage({ areaFilter = null }) {
   const data = loadData();
   const counts = data.summary.counts;
   const pageAreas = areaFilter ? [areaFilter] : areaOrder;
-  const title = areaFilter ? `${areaFilter} aerial candidates` : 'Aerial + elevated property candidates';
+  const title = areaFilter === 'Cranbrook/Kimberley'
+    ? 'Cranbrook & Kimberley aerial candidates'
+    : areaFilter
+      ? `${areaFilter} aerial candidates`
+      : 'Aerial + elevated property candidates';
 
   return (
     <main>
