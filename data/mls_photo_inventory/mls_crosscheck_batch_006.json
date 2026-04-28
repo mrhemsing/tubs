@@ -1,0 +1,119 @@
+[
+  {
+    "listing_id": "10666517",
+    "address": "4 MT PROCTOR Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 2],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: only ground-level front/exterior candidates visible; no aerial/elevated or backyard/lot overview showing house and yard together."
+  },
+  {
+    "listing_id": "10666129",
+    "address": "862 10TH Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "unclear",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [5, 4, 6, 1, 2],
+    "aerial_or_elevated_photo_indices": [4, 6],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no true aerial; photos 4/6 are deck/elevated yard views, while photo 5 shows rear/side of house with yard from ground level."
+  },
+  {
+    "listing_id": "10665467",
+    "address": "661 3RD Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [3, 4, 5, 6, 7],
+    "aerial_or_elevated_photo_indices": [7, 8],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: strong backyard/lot coverage; photo 7 is top-down/elevated yard view, with multiple ground views showing house/yard context."
+  },
+  {
+    "listing_id": "10665347",
+    "address": "592 9TH Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [10, 11, 13, 4, 5],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: good ground-level exterior/yard context, especially rear/side, but no aerial/top-down/elevated overview visible."
+  },
+  {
+    "listing_id": "10663402",
+    "address": "11 PARKLAND Drive",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 2],
+    "aerial_or_elevated_photo_indices": [3, 4],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photos 3/4 are elevated/scenic mountain views but do not show house with backyard/lot; only front exterior context visible."
+  },
+  {
+    "listing_id": "10663121",
+    "address": "1362 11TH Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 7, 10, 11, 13, 16],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: many ground-level exterior/patio/yard views showing house and yard context; no aerial or top-down/elevated overview."
+  },
+  {
+    "listing_id": "10662424",
+    "address": "7503 SUN VALLEY Place",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 2, 3, 16],
+    "aerial_or_elevated_photo_indices": [16],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 16 is an elevated/open-view shot but does not include house; photos 1/2 show front/driveway only with limited lot context."
+  },
+  {
+    "listing_id": "10660433",
+    "address": "4942 MOUNTAIN HILL Road",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "unclear",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 4, 5, 3],
+    "aerial_or_elevated_photo_indices": [2, 3],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 3 is elevated deck/view and photo 2 may be elevated/driveway view, but house+backyard together is mainly ground-level exterior/landscape context."
+  },
+  {
+    "listing_id": "10658844",
+    "address": "1059 SWANSEA Road",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "unclear",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 2, 17, 16],
+    "aerial_or_elevated_photo_indices": [17],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no true aerial; photo 17 is elevated balcony/view over lot/scenery, while photos 1/2 provide ground-level house and surrounding lot context."
+  },
+  {
+    "listing_id": "10654287",
+    "address": "21 MT MINTON Street",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [29, 30, 28, 1],
+    "aerial_or_elevated_photo_indices": [28, 29, 30],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photos 28-30 are elevated deck/backyard/lot views; they show usable rear-lot context though not a full overhead house+yard aerial."
+  }
+]

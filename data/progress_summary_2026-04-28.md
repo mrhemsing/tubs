@@ -16,7 +16,7 @@ Not the goal: hot tubs, pools, amenities, or ground-level backyard marketing pho
 - ArcGIS imagery availability check: 27 listings have real aerial tiles; 273 are all-placeholder/no usable ArcGIS imagery; 1 has no coordinate
 - MLS thumbnails inventoried: 7,467
 - MLS contact sheets generated: 299
-- MLS contact sheets reviewed for house+backyard aerial/elevated candidates so far: 42
+- MLS contact sheets reviewed for house+backyard aerial/elevated candidates so far: 52
 
 ## Corrected consolidated triage output
 
@@ -27,12 +27,12 @@ All-listing candidate table, ranked for house + backyard aerial/elevated coverag
 
 Current recommended-source split:
 
-- MLS drone/aerial candidates: 12
+- MLS drone/aerial candidates: 14
 - ArcGIS overhead house+backyard candidates: 10
-- Possible MLS elevated candidate needing verification: 1
+- Possible MLS elevated candidates needing verification: 4
 - MLS ground backyard context only: 1
-- Still needs aerial review: 37
-- Blocked by ArcGIS no imagery: 238
+- Still needs aerial review: 36
+- Blocked by ArcGIS no imagery: 234
 - Blocked no coordinate: 1
 
 ## Current best aerial/elevated candidates
@@ -56,6 +56,11 @@ New candidates from latest review batch:
 - `1609 8TH S Avenue` - MLS elevated/aerial oblique, best photo indices `8,7,5`.
 - `8042 MCINTOSH LOOP Road` - MLS aerial/top-down wooded lot view, best photo indices `4,5,14,16`.
 - `921 11TH Avenue` - MLS elevated/aerial property/neighborhood view, best photo indices `4,24,25,26,27`.
+
+Additional latest candidates:
+
+- 21 MT MINTON Street - MLS elevated rear-lot views; best photo indices 29,30,28,1.
+- Possible elevated/needs-verify: 862 10TH Avenue, 4942 MOUNTAIN HILL Road, 1059 SWANSEA Road.
 
 ## Blockers / cautions
 
