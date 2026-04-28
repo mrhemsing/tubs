@@ -1,0 +1,122 @@
+[
+  {
+    "listing_id": "20022971",
+    "address": "200 BOULDER Creek",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "unclear",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [19, 20, 18, 1],
+    "aerial_or_elevated_photo_indices": [18, 19, 20, 21],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no true aerial/top-down visible. Deck/elevated backyard-view shots show lot/view and partial rear/deck context; photo 1 is front exterior only."
+  },
+  {
+    "listing_id": "20022908",
+    "address": "842 8TH Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [2, 4, 5, 6, 7, 20],
+    "aerial_or_elevated_photo_indices": [20],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no drone/top-down. Several ground-level yard shots show house plus large lot/backyard well; photo 20 appears elevated/front-window view but not backyard-focused."
+  },
+  {
+    "listing_id": "10685008",
+    "address": "700 22ND S Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "unclear",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [2, 11, 10, 30],
+    "aerial_or_elevated_photo_indices": [2, 10, 11, 30],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 2 is elevated/neighborhood view but subject house/backyard not clearly identifiable. Other elevated/yard views show lot/outlook, not house and backyard together clearly."
+  },
+  {
+    "listing_id": "10682881",
+    "address": "447 CROWNE RISE Forest",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 2, 3, 4, 15],
+    "aerial_or_elevated_photo_indices": [15],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/top-down. Exterior photos are ground-level front/driveway views; photo 15 is elevated deck/outlook but does not show full house and backyard/lot together."
+  },
+  {
+    "listing_id": "10681930",
+    "address": "176 SHADOW MOUNTAIN Boulevard",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 2, 3, 4],
+    "aerial_or_elevated_photo_indices": [4],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/top-down or clear backyard/lot overview. Early exterior shots show house/front/entry; photo 4 is porch/deck view with wooded setting but limited lot context."
+  },
+  {
+    "listing_id": "10681651",
+    "address": "1 MT PROCTOR Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 30, 2],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/top-down/elevated lot overview visible. Only front exterior and deck/porch views; backyard/lot not shown together with house."
+  },
+  {
+    "listing_id": "10680456",
+    "address": "2580 SANDSTONE View",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [7, 1, 3, 6, 8],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no true aerial/top-down/elevated house+yard view. Best available are front exterior and patio/deck/yard-adjacent views, but lot context is limited."
+  },
+  {
+    "listing_id": "10679212",
+    "address": "2108 WHISKEY JACK Drive",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [7, 6, 3, 4, 1, 5],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/top-down shot, but several wide exterior ground-level photos show house with large surrounding lawn/lot; photos 7 and 6 are strongest for house+yard context."
+  },
+  {
+    "listing_id": "10676258",
+    "address": "49 MT PROCTOR Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [3, 2, 1, 30],
+    "aerial_or_elevated_photo_indices": [3],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 3 is a top-down/aerial view showing house/roof and surrounding lot context. Photos 1/2 show house with lawn from ground level; photo 30 gives yard/neighborhood context from an elevated deck/porch angle."
+  },
+  {
+    "listing_id": "10676060",
+    "address": "1825 TAYNTON Road",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "unclear",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 4, 5, 3, 2],
+    "aerial_or_elevated_photo_indices": [1],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 1 appears elevated/aerial but the specific house/lot is not clearly identifiable in the thumbnail. Photos 4/5 are best ground-level exterior views showing house with treed lot context."
+  }
+]
