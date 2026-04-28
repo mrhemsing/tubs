@@ -4,17 +4,17 @@
   "rightsNotice": "MLS/listing photos are inventoried for internal research only. Reuse rights are unknown and must be verified before publishing or reusing.",
   "summary": {
     "properties": 300,
-    "mlsReviewed": 152,
+    "mlsReviewed": 162,
     "counts": {
-      "mls_drone_or_aerial_candidate": 41,
+      "mls_drone_or_aerial_candidate": 43,
       "arcgis_overhead_house_backyard_candidate": 10,
-      "mls_ground_backyard_context_only": 14,
-      "possible_mls_elevated_candidate_needs_verify": 15,
-      "needs_aerial_review": 18,
-      "blocked_arcgis_no_imagery": 201,
+      "mls_ground_backyard_context_only": 16,
+      "possible_mls_elevated_candidate_needs_verify": 17,
+      "needs_aerial_review": 15,
+      "blocked_arcgis_no_imagery": 198,
       "blocked_no_coordinate": 1
     },
-    "candidateCards": 66
+    "candidateCards": 70
   },
   "cards": [
     {
@@ -73,6 +73,43 @@
     {
       "rank": 2,
       "score": 86,
+      "listingId": "20066310",
+      "address": "1170 Mcdonald Avenue",
+      "sourceLabel": "Fernie/Sparwood",
+      "recommendedSource": "mls_drone_or_aerial_candidate",
+      "coverageGoal": "likely_house_and_backyard_elevated_context",
+      "bestPhotoIndices": "6,5,3,4",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Goal review: photo 6 appears to be a close top-down/overhead lot view showing house and yard layout; photo 5 gives broader aerial neighborhood context. Photos 3-4 add ground/elevated exterior lot context.",
+      "thumbs": [
+        {
+          "label": "#6",
+          "url": "/review-assets/002-1170-mcdonald-avenue-20066310-mls-6.jpg"
+        },
+        {
+          "label": "#5",
+          "url": "/review-assets/002-1170-mcdonald-avenue-20066310-mls-5.jpg"
+        },
+        {
+          "label": "#3",
+          "url": "/review-assets/002-1170-mcdonald-avenue-20066310-mls-3.jpg"
+        },
+        {
+          "label": "#4",
+          "url": "/review-assets/002-1170-mcdonald-avenue-20066310-mls-4.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/002-1170-mcdonald-avenue-20066310-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/002-1170-mcdonald-avenue-20066310-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/002-1170-mcdonald-avenue-20066310-arcgis-tile.jpg"
+      }
+    },
+    {
+      "rank": 3,
+      "score": 86,
       "listingId": "20027125",
       "address": "1282 23RD S Street",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -86,17 +123,17 @@
       "thumbs": [
         {
           "label": "#1",
-          "url": "/review-assets/002-1282-23rd-s-street-20027125-mls-1.jpg"
+          "url": "/review-assets/003-1282-23rd-s-street-20027125-mls-1.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/002-1282-23rd-s-street-20027125-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/002-1282-23rd-s-street-20027125-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/002-1282-23rd-s-street-20027125-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/003-1282-23rd-s-street-20027125-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/003-1282-23rd-s-street-20027125-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/003-1282-23rd-s-street-20027125-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "score": 86,
       "listingId": "20060624",
       "address": "1302 11th Avenue",
@@ -111,25 +148,25 @@
       "thumbs": [
         {
           "label": "#30",
-          "url": "/review-assets/003-1302-11th-avenue-20060624-mls-30.jpg"
+          "url": "/review-assets/004-1302-11th-avenue-20060624-mls-30.jpg"
         },
         {
           "label": "#29",
-          "url": "/review-assets/003-1302-11th-avenue-20060624-mls-29.jpg"
+          "url": "/review-assets/004-1302-11th-avenue-20060624-mls-29.jpg"
         },
         {
           "label": "#24",
-          "url": "/review-assets/003-1302-11th-avenue-20060624-mls-24.jpg"
+          "url": "/review-assets/004-1302-11th-avenue-20060624-mls-24.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/003-1302-11th-avenue-20060624-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/003-1302-11th-avenue-20060624-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/003-1302-11th-avenue-20060624-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/004-1302-11th-avenue-20060624-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/004-1302-11th-avenue-20060624-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/004-1302-11th-avenue-20060624-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "score": 86,
       "listingId": "20062684",
       "address": "1629 Staple Crescent",
@@ -144,37 +181,37 @@
       "thumbs": [
         {
           "label": "#5",
-          "url": "/review-assets/004-1629-staple-crescent-20062684-mls-5.jpg"
+          "url": "/review-assets/005-1629-staple-crescent-20062684-mls-5.jpg"
         },
         {
           "label": "#2",
-          "url": "/review-assets/004-1629-staple-crescent-20062684-mls-2.jpg"
+          "url": "/review-assets/005-1629-staple-crescent-20062684-mls-2.jpg"
         },
         {
           "label": "#3",
-          "url": "/review-assets/004-1629-staple-crescent-20062684-mls-3.jpg"
+          "url": "/review-assets/005-1629-staple-crescent-20062684-mls-3.jpg"
         },
         {
           "label": "#1",
-          "url": "/review-assets/004-1629-staple-crescent-20062684-mls-1.jpg"
+          "url": "/review-assets/005-1629-staple-crescent-20062684-mls-1.jpg"
         },
         {
           "label": "#4",
-          "url": "/review-assets/004-1629-staple-crescent-20062684-mls-4.jpg"
+          "url": "/review-assets/005-1629-staple-crescent-20062684-mls-4.jpg"
         },
         {
           "label": "#6",
-          "url": "/review-assets/004-1629-staple-crescent-20062684-mls-6.jpg"
+          "url": "/review-assets/005-1629-staple-crescent-20062684-mls-6.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/004-1629-staple-crescent-20062684-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/004-1629-staple-crescent-20062684-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/004-1629-staple-crescent-20062684-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/005-1629-staple-crescent-20062684-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/005-1629-staple-crescent-20062684-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/005-1629-staple-crescent-20062684-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "score": 86,
       "listingId": "10675733",
       "address": "1732 20TH S Avenue",
@@ -189,45 +226,45 @@
       "thumbs": [
         {
           "label": "#1",
-          "url": "/review-assets/005-1732-20th-s-avenue-10675733-mls-1.jpg"
+          "url": "/review-assets/006-1732-20th-s-avenue-10675733-mls-1.jpg"
         },
         {
           "label": "#2",
-          "url": "/review-assets/005-1732-20th-s-avenue-10675733-mls-2.jpg"
+          "url": "/review-assets/006-1732-20th-s-avenue-10675733-mls-2.jpg"
         },
         {
           "label": "#3",
-          "url": "/review-assets/005-1732-20th-s-avenue-10675733-mls-3.jpg"
+          "url": "/review-assets/006-1732-20th-s-avenue-10675733-mls-3.jpg"
         },
         {
           "label": "#4",
-          "url": "/review-assets/005-1732-20th-s-avenue-10675733-mls-4.jpg"
+          "url": "/review-assets/006-1732-20th-s-avenue-10675733-mls-4.jpg"
         },
         {
           "label": "#5",
-          "url": "/review-assets/005-1732-20th-s-avenue-10675733-mls-5.jpg"
+          "url": "/review-assets/006-1732-20th-s-avenue-10675733-mls-5.jpg"
         },
         {
           "label": "#6",
-          "url": "/review-assets/005-1732-20th-s-avenue-10675733-mls-6.jpg"
+          "url": "/review-assets/006-1732-20th-s-avenue-10675733-mls-6.jpg"
         },
         {
           "label": "#7",
-          "url": "/review-assets/005-1732-20th-s-avenue-10675733-mls-7.jpg"
+          "url": "/review-assets/006-1732-20th-s-avenue-10675733-mls-7.jpg"
         },
         {
           "label": "#9",
-          "url": "/review-assets/005-1732-20th-s-avenue-10675733-mls-9.jpg"
+          "url": "/review-assets/006-1732-20th-s-avenue-10675733-mls-9.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/005-1732-20th-s-avenue-10675733-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/005-1732-20th-s-avenue-10675733-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/005-1732-20th-s-avenue-10675733-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/006-1732-20th-s-avenue-10675733-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/006-1732-20th-s-avenue-10675733-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/006-1732-20th-s-avenue-10675733-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "score": 86,
       "listingId": "10677481",
       "address": "18 ELKVIEW Crescent",
@@ -242,37 +279,37 @@
       "thumbs": [
         {
           "label": "#6",
-          "url": "/review-assets/006-18-elkview-crescent-10677481-mls-6.jpg"
+          "url": "/review-assets/007-18-elkview-crescent-10677481-mls-6.jpg"
         },
         {
           "label": "#7",
-          "url": "/review-assets/006-18-elkview-crescent-10677481-mls-7.jpg"
+          "url": "/review-assets/007-18-elkview-crescent-10677481-mls-7.jpg"
         },
         {
           "label": "#3",
-          "url": "/review-assets/006-18-elkview-crescent-10677481-mls-3.jpg"
+          "url": "/review-assets/007-18-elkview-crescent-10677481-mls-3.jpg"
         },
         {
           "label": "#2",
-          "url": "/review-assets/006-18-elkview-crescent-10677481-mls-2.jpg"
+          "url": "/review-assets/007-18-elkview-crescent-10677481-mls-2.jpg"
         },
         {
           "label": "#5",
-          "url": "/review-assets/006-18-elkview-crescent-10677481-mls-5.jpg"
+          "url": "/review-assets/007-18-elkview-crescent-10677481-mls-5.jpg"
         },
         {
           "label": "#1",
-          "url": "/review-assets/006-18-elkview-crescent-10677481-mls-1.jpg"
+          "url": "/review-assets/007-18-elkview-crescent-10677481-mls-1.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/006-18-elkview-crescent-10677481-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/006-18-elkview-crescent-10677481-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/006-18-elkview-crescent-10677481-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/007-18-elkview-crescent-10677481-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/007-18-elkview-crescent-10677481-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/007-18-elkview-crescent-10677481-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "score": 86,
       "listingId": "20068527",
       "address": "1908 12th Street S",
@@ -287,21 +324,21 @@
       "thumbs": [
         {
           "label": "#3",
-          "url": "/review-assets/007-1908-12th-street-s-20068527-mls-3.jpg"
+          "url": "/review-assets/008-1908-12th-street-s-20068527-mls-3.jpg"
         },
         {
           "label": "#2",
-          "url": "/review-assets/007-1908-12th-street-s-20068527-mls-2.jpg"
+          "url": "/review-assets/008-1908-12th-street-s-20068527-mls-2.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/007-1908-12th-street-s-20068527-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/007-1908-12th-street-s-20068527-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/007-1908-12th-street-s-20068527-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/008-1908-12th-street-s-20068527-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/008-1908-12th-street-s-20068527-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/008-1908-12th-street-s-20068527-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "score": 86,
       "listingId": "10681344",
       "address": "2 RIDGEMONT Avenue",
@@ -316,25 +353,66 @@
       "thumbs": [
         {
           "label": "#3",
-          "url": "/review-assets/008-2-ridgemont-avenue-10681344-mls-3.jpg"
+          "url": "/review-assets/009-2-ridgemont-avenue-10681344-mls-3.jpg"
         },
         {
           "label": "#2",
-          "url": "/review-assets/008-2-ridgemont-avenue-10681344-mls-2.jpg"
+          "url": "/review-assets/009-2-ridgemont-avenue-10681344-mls-2.jpg"
         },
         {
           "label": "#1",
-          "url": "/review-assets/008-2-ridgemont-avenue-10681344-mls-1.jpg"
+          "url": "/review-assets/009-2-ridgemont-avenue-10681344-mls-1.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/008-2-ridgemont-avenue-10681344-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/008-2-ridgemont-avenue-10681344-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/008-2-ridgemont-avenue-10681344-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/009-2-ridgemont-avenue-10681344-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/009-2-ridgemont-avenue-10681344-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/009-2-ridgemont-avenue-10681344-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
+      "score": 86,
+      "listingId": "20035684",
+      "address": "222 Boulder Creek",
+      "sourceLabel": "Cranbrook/Kimberley",
+      "recommendedSource": "mls_drone_or_aerial_candidate",
+      "coverageGoal": "likely_house_and_backyard_elevated_context",
+      "bestPhotoIndices": "3,8,9,4,5",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Goal review: multiple drone/elevated snow views show building roofs, surrounding lots, and complex context. Best set for house plus lot/backyard relationship.",
+      "thumbs": [
+        {
+          "label": "#3",
+          "url": "/review-assets/010-222-boulder-creek-20035684-mls-3.jpg"
+        },
+        {
+          "label": "#8",
+          "url": "/review-assets/010-222-boulder-creek-20035684-mls-8.jpg"
+        },
+        {
+          "label": "#9",
+          "url": "/review-assets/010-222-boulder-creek-20035684-mls-9.jpg"
+        },
+        {
+          "label": "#4",
+          "url": "/review-assets/010-222-boulder-creek-20035684-mls-4.jpg"
+        },
+        {
+          "label": "#5",
+          "url": "/review-assets/010-222-boulder-creek-20035684-mls-5.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/010-222-boulder-creek-20035684-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/010-222-boulder-creek-20035684-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/010-222-boulder-creek-20035684-arcgis-tile.jpg"
+      }
+    },
+    {
+      "rank": 11,
       "score": 86,
       "listingId": "20049485",
       "address": "224 Lindsay Street",
@@ -349,17 +427,17 @@
       "thumbs": [
         {
           "label": "#3",
-          "url": "/review-assets/009-224-lindsay-street-20049485-mls-3.jpg"
+          "url": "/review-assets/011-224-lindsay-street-20049485-mls-3.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/009-224-lindsay-street-20049485-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/009-224-lindsay-street-20049485-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/009-224-lindsay-street-20049485-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/011-224-lindsay-street-20049485-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/011-224-lindsay-street-20049485-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/011-224-lindsay-street-20049485-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 10,
+      "rank": 12,
       "score": 86,
       "listingId": "20084357",
       "address": "233 Boulder Creek",
@@ -374,29 +452,29 @@
       "thumbs": [
         {
           "label": "#4",
-          "url": "/review-assets/010-233-boulder-creek-20084357-mls-4.jpg"
+          "url": "/review-assets/012-233-boulder-creek-20084357-mls-4.jpg"
         },
         {
           "label": "#30",
-          "url": "/review-assets/010-233-boulder-creek-20084357-mls-30.jpg"
+          "url": "/review-assets/012-233-boulder-creek-20084357-mls-30.jpg"
         },
         {
           "label": "#29",
-          "url": "/review-assets/010-233-boulder-creek-20084357-mls-29.jpg"
+          "url": "/review-assets/012-233-boulder-creek-20084357-mls-29.jpg"
         },
         {
           "label": "#2",
-          "url": "/review-assets/010-233-boulder-creek-20084357-mls-2.jpg"
+          "url": "/review-assets/012-233-boulder-creek-20084357-mls-2.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/010-233-boulder-creek-20084357-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/010-233-boulder-creek-20084357-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/010-233-boulder-creek-20084357-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/012-233-boulder-creek-20084357-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/012-233-boulder-creek-20084357-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/012-233-boulder-creek-20084357-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 11,
+      "rank": 13,
       "score": 86,
       "listingId": "10680589",
       "address": "2510 COBBLESTONE Trail",
@@ -411,37 +489,37 @@
       "thumbs": [
         {
           "label": "#1",
-          "url": "/review-assets/011-2510-cobblestone-trail-10680589-mls-1.jpg"
+          "url": "/review-assets/013-2510-cobblestone-trail-10680589-mls-1.jpg"
         },
         {
           "label": "#2",
-          "url": "/review-assets/011-2510-cobblestone-trail-10680589-mls-2.jpg"
+          "url": "/review-assets/013-2510-cobblestone-trail-10680589-mls-2.jpg"
         },
         {
           "label": "#3",
-          "url": "/review-assets/011-2510-cobblestone-trail-10680589-mls-3.jpg"
+          "url": "/review-assets/013-2510-cobblestone-trail-10680589-mls-3.jpg"
         },
         {
           "label": "#4",
-          "url": "/review-assets/011-2510-cobblestone-trail-10680589-mls-4.jpg"
+          "url": "/review-assets/013-2510-cobblestone-trail-10680589-mls-4.jpg"
         },
         {
           "label": "#8",
-          "url": "/review-assets/011-2510-cobblestone-trail-10680589-mls-8.jpg"
+          "url": "/review-assets/013-2510-cobblestone-trail-10680589-mls-8.jpg"
         },
         {
           "label": "#9",
-          "url": "/review-assets/011-2510-cobblestone-trail-10680589-mls-9.jpg"
+          "url": "/review-assets/013-2510-cobblestone-trail-10680589-mls-9.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/011-2510-cobblestone-trail-10680589-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/011-2510-cobblestone-trail-10680589-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/011-2510-cobblestone-trail-10680589-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/013-2510-cobblestone-trail-10680589-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/013-2510-cobblestone-trail-10680589-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/013-2510-cobblestone-trail-10680589-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 12,
+      "rank": 14,
       "score": 86,
       "listingId": "10684446",
       "address": "2543 LEDGEROCK Ridge",
@@ -456,37 +534,37 @@
       "thumbs": [
         {
           "label": "#1",
-          "url": "/review-assets/012-2543-ledgerock-ridge-10684446-mls-1.jpg"
+          "url": "/review-assets/014-2543-ledgerock-ridge-10684446-mls-1.jpg"
         },
         {
           "label": "#3",
-          "url": "/review-assets/012-2543-ledgerock-ridge-10684446-mls-3.jpg"
+          "url": "/review-assets/014-2543-ledgerock-ridge-10684446-mls-3.jpg"
         },
         {
           "label": "#26",
-          "url": "/review-assets/012-2543-ledgerock-ridge-10684446-mls-26.jpg"
+          "url": "/review-assets/014-2543-ledgerock-ridge-10684446-mls-26.jpg"
         },
         {
           "label": "#27",
-          "url": "/review-assets/012-2543-ledgerock-ridge-10684446-mls-27.jpg"
+          "url": "/review-assets/014-2543-ledgerock-ridge-10684446-mls-27.jpg"
         },
         {
           "label": "#29",
-          "url": "/review-assets/012-2543-ledgerock-ridge-10684446-mls-29.jpg"
+          "url": "/review-assets/014-2543-ledgerock-ridge-10684446-mls-29.jpg"
         },
         {
           "label": "#30",
-          "url": "/review-assets/012-2543-ledgerock-ridge-10684446-mls-30.jpg"
+          "url": "/review-assets/014-2543-ledgerock-ridge-10684446-mls-30.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/012-2543-ledgerock-ridge-10684446-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/012-2543-ledgerock-ridge-10684446-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/012-2543-ledgerock-ridge-10684446-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/014-2543-ledgerock-ridge-10684446-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/014-2543-ledgerock-ridge-10684446-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/014-2543-ledgerock-ridge-10684446-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 13,
+      "rank": 15,
       "score": 86,
       "listingId": "20072535",
       "address": "2904 Edgewood Drive",
@@ -501,29 +579,29 @@
       "thumbs": [
         {
           "label": "#3",
-          "url": "/review-assets/013-2904-edgewood-drive-20072535-mls-3.jpg"
+          "url": "/review-assets/015-2904-edgewood-drive-20072535-mls-3.jpg"
         },
         {
           "label": "#1",
-          "url": "/review-assets/013-2904-edgewood-drive-20072535-mls-1.jpg"
+          "url": "/review-assets/015-2904-edgewood-drive-20072535-mls-1.jpg"
         },
         {
           "label": "#5",
-          "url": "/review-assets/013-2904-edgewood-drive-20072535-mls-5.jpg"
+          "url": "/review-assets/015-2904-edgewood-drive-20072535-mls-5.jpg"
         },
         {
           "label": "#4",
-          "url": "/review-assets/013-2904-edgewood-drive-20072535-mls-4.jpg"
+          "url": "/review-assets/015-2904-edgewood-drive-20072535-mls-4.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/013-2904-edgewood-drive-20072535-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/013-2904-edgewood-drive-20072535-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/013-2904-edgewood-drive-20072535-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/015-2904-edgewood-drive-20072535-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/015-2904-edgewood-drive-20072535-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/015-2904-edgewood-drive-20072535-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 14,
+      "rank": 16,
       "score": 86,
       "listingId": "10673047",
       "address": "4576 COLUMERE Road",
@@ -538,45 +616,45 @@
       "thumbs": [
         {
           "label": "#1",
-          "url": "/review-assets/014-4576-columere-road-10673047-mls-1.jpg"
+          "url": "/review-assets/016-4576-columere-road-10673047-mls-1.jpg"
         },
         {
           "label": "#2",
-          "url": "/review-assets/014-4576-columere-road-10673047-mls-2.jpg"
+          "url": "/review-assets/016-4576-columere-road-10673047-mls-2.jpg"
         },
         {
           "label": "#3",
-          "url": "/review-assets/014-4576-columere-road-10673047-mls-3.jpg"
+          "url": "/review-assets/016-4576-columere-road-10673047-mls-3.jpg"
         },
         {
           "label": "#4",
-          "url": "/review-assets/014-4576-columere-road-10673047-mls-4.jpg"
+          "url": "/review-assets/016-4576-columere-road-10673047-mls-4.jpg"
         },
         {
           "label": "#5",
-          "url": "/review-assets/014-4576-columere-road-10673047-mls-5.jpg"
+          "url": "/review-assets/016-4576-columere-road-10673047-mls-5.jpg"
         },
         {
           "label": "#6",
-          "url": "/review-assets/014-4576-columere-road-10673047-mls-6.jpg"
+          "url": "/review-assets/016-4576-columere-road-10673047-mls-6.jpg"
         },
         {
           "label": "#7",
-          "url": "/review-assets/014-4576-columere-road-10673047-mls-7.jpg"
+          "url": "/review-assets/016-4576-columere-road-10673047-mls-7.jpg"
         },
         {
           "label": "#9",
-          "url": "/review-assets/014-4576-columere-road-10673047-mls-9.jpg"
+          "url": "/review-assets/016-4576-columere-road-10673047-mls-9.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/014-4576-columere-road-10673047-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/014-4576-columere-road-10673047-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/014-4576-columere-road-10673047-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/016-4576-columere-road-10673047-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/016-4576-columere-road-10673047-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/016-4576-columere-road-10673047-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 15,
+      "rank": 17,
       "score": 86,
       "listingId": "20046407",
       "address": "4824 MCKAY Street",
@@ -591,25 +669,25 @@
       "thumbs": [
         {
           "label": "#5",
-          "url": "/review-assets/015-4824-mckay-street-20046407-mls-5.jpg"
+          "url": "/review-assets/017-4824-mckay-street-20046407-mls-5.jpg"
         },
         {
           "label": "#3",
-          "url": "/review-assets/015-4824-mckay-street-20046407-mls-3.jpg"
+          "url": "/review-assets/017-4824-mckay-street-20046407-mls-3.jpg"
         },
         {
           "label": "#4",
-          "url": "/review-assets/015-4824-mckay-street-20046407-mls-4.jpg"
+          "url": "/review-assets/017-4824-mckay-street-20046407-mls-4.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/015-4824-mckay-street-20046407-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/015-4824-mckay-street-20046407-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/015-4824-mckay-street-20046407-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/017-4824-mckay-street-20046407-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/017-4824-mckay-street-20046407-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/017-4824-mckay-street-20046407-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 16,
+      "rank": 18,
       "score": 86,
       "listingId": "10665854",
       "address": "4874 RIDGE Crescent",
@@ -624,25 +702,25 @@
       "thumbs": [
         {
           "label": "#6",
-          "url": "/review-assets/016-4874-ridge-crescent-10665854-mls-6.jpg"
+          "url": "/review-assets/018-4874-ridge-crescent-10665854-mls-6.jpg"
         },
         {
           "label": "#4",
-          "url": "/review-assets/016-4874-ridge-crescent-10665854-mls-4.jpg"
+          "url": "/review-assets/018-4874-ridge-crescent-10665854-mls-4.jpg"
         },
         {
           "label": "#5",
-          "url": "/review-assets/016-4874-ridge-crescent-10665854-mls-5.jpg"
+          "url": "/review-assets/018-4874-ridge-crescent-10665854-mls-5.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/016-4874-ridge-crescent-10665854-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/016-4874-ridge-crescent-10665854-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/016-4874-ridge-crescent-10665854-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/018-4874-ridge-crescent-10665854-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/018-4874-ridge-crescent-10665854-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/018-4874-ridge-crescent-10665854-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 17,
+      "rank": 19,
       "score": 86,
       "listingId": "20059692",
       "address": "4891 Glen Eagle Drive",
@@ -657,29 +735,29 @@
       "thumbs": [
         {
           "label": "#1",
-          "url": "/review-assets/017-4891-glen-eagle-drive-20059692-mls-1.jpg"
+          "url": "/review-assets/019-4891-glen-eagle-drive-20059692-mls-1.jpg"
         },
         {
           "label": "#4",
-          "url": "/review-assets/017-4891-glen-eagle-drive-20059692-mls-4.jpg"
+          "url": "/review-assets/019-4891-glen-eagle-drive-20059692-mls-4.jpg"
         },
         {
           "label": "#5",
-          "url": "/review-assets/017-4891-glen-eagle-drive-20059692-mls-5.jpg"
+          "url": "/review-assets/019-4891-glen-eagle-drive-20059692-mls-5.jpg"
         },
         {
           "label": "#23",
-          "url": "/review-assets/017-4891-glen-eagle-drive-20059692-mls-23.jpg"
+          "url": "/review-assets/019-4891-glen-eagle-drive-20059692-mls-23.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/017-4891-glen-eagle-drive-20059692-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/017-4891-glen-eagle-drive-20059692-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/017-4891-glen-eagle-drive-20059692-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/019-4891-glen-eagle-drive-20059692-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/019-4891-glen-eagle-drive-20059692-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/019-4891-glen-eagle-drive-20059692-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 18,
+      "rank": 20,
       "score": 86,
       "listingId": "10676258",
       "address": "49 MT PROCTOR Avenue",
@@ -694,29 +772,29 @@
       "thumbs": [
         {
           "label": "#3",
-          "url": "/review-assets/018-49-mt-proctor-avenue-10676258-mls-3.jpg"
+          "url": "/review-assets/020-49-mt-proctor-avenue-10676258-mls-3.jpg"
         },
         {
           "label": "#2",
-          "url": "/review-assets/018-49-mt-proctor-avenue-10676258-mls-2.jpg"
+          "url": "/review-assets/020-49-mt-proctor-avenue-10676258-mls-2.jpg"
         },
         {
           "label": "#1",
-          "url": "/review-assets/018-49-mt-proctor-avenue-10676258-mls-1.jpg"
+          "url": "/review-assets/020-49-mt-proctor-avenue-10676258-mls-1.jpg"
         },
         {
           "label": "#30",
-          "url": "/review-assets/018-49-mt-proctor-avenue-10676258-mls-30.jpg"
+          "url": "/review-assets/020-49-mt-proctor-avenue-10676258-mls-30.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/018-49-mt-proctor-avenue-10676258-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/018-49-mt-proctor-avenue-10676258-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/018-49-mt-proctor-avenue-10676258-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/020-49-mt-proctor-avenue-10676258-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/020-49-mt-proctor-avenue-10676258-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/020-49-mt-proctor-avenue-10676258-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 19,
+      "rank": 21,
       "score": 86,
       "listingId": "20026072",
       "address": "4992 MOUNTAIN VIEW Drive",
@@ -731,29 +809,29 @@
       "thumbs": [
         {
           "label": "#1",
-          "url": "/review-assets/019-4992-mountain-view-drive-20026072-mls-1.jpg"
+          "url": "/review-assets/021-4992-mountain-view-drive-20026072-mls-1.jpg"
         },
         {
           "label": "#17",
-          "url": "/review-assets/019-4992-mountain-view-drive-20026072-mls-17.jpg"
+          "url": "/review-assets/021-4992-mountain-view-drive-20026072-mls-17.jpg"
         },
         {
           "label": "#18",
-          "url": "/review-assets/019-4992-mountain-view-drive-20026072-mls-18.jpg"
+          "url": "/review-assets/021-4992-mountain-view-drive-20026072-mls-18.jpg"
         },
         {
           "label": "#19",
-          "url": "/review-assets/019-4992-mountain-view-drive-20026072-mls-19.jpg"
+          "url": "/review-assets/021-4992-mountain-view-drive-20026072-mls-19.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/019-4992-mountain-view-drive-20026072-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/019-4992-mountain-view-drive-20026072-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/019-4992-mountain-view-drive-20026072-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/021-4992-mountain-view-drive-20026072-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/021-4992-mountain-view-drive-20026072-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/021-4992-mountain-view-drive-20026072-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 20,
+      "rank": 22,
       "score": 86,
       "listingId": "10665467",
       "address": "661 3RD Avenue",
@@ -768,33 +846,33 @@
       "thumbs": [
         {
           "label": "#3",
-          "url": "/review-assets/020-661-3rd-avenue-10665467-mls-3.jpg"
+          "url": "/review-assets/022-661-3rd-avenue-10665467-mls-3.jpg"
         },
         {
           "label": "#4",
-          "url": "/review-assets/020-661-3rd-avenue-10665467-mls-4.jpg"
+          "url": "/review-assets/022-661-3rd-avenue-10665467-mls-4.jpg"
         },
         {
           "label": "#5",
-          "url": "/review-assets/020-661-3rd-avenue-10665467-mls-5.jpg"
+          "url": "/review-assets/022-661-3rd-avenue-10665467-mls-5.jpg"
         },
         {
           "label": "#6",
-          "url": "/review-assets/020-661-3rd-avenue-10665467-mls-6.jpg"
+          "url": "/review-assets/022-661-3rd-avenue-10665467-mls-6.jpg"
         },
         {
           "label": "#7",
-          "url": "/review-assets/020-661-3rd-avenue-10665467-mls-7.jpg"
+          "url": "/review-assets/022-661-3rd-avenue-10665467-mls-7.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/020-661-3rd-avenue-10665467-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/020-661-3rd-avenue-10665467-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/020-661-3rd-avenue-10665467-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/022-661-3rd-avenue-10665467-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/022-661-3rd-avenue-10665467-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/022-661-3rd-avenue-10665467-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 21,
+      "rank": 23,
       "score": 86,
       "listingId": "20020418",
       "address": "782 4TH Avenue",
@@ -809,33 +887,33 @@
       "thumbs": [
         {
           "label": "#10",
-          "url": "/review-assets/021-782-4th-avenue-20020418-mls-10.jpg"
+          "url": "/review-assets/023-782-4th-avenue-20020418-mls-10.jpg"
         },
         {
           "label": "#6",
-          "url": "/review-assets/021-782-4th-avenue-20020418-mls-6.jpg"
+          "url": "/review-assets/023-782-4th-avenue-20020418-mls-6.jpg"
         },
         {
           "label": "#7",
-          "url": "/review-assets/021-782-4th-avenue-20020418-mls-7.jpg"
+          "url": "/review-assets/023-782-4th-avenue-20020418-mls-7.jpg"
         },
         {
           "label": "#4",
-          "url": "/review-assets/021-782-4th-avenue-20020418-mls-4.jpg"
+          "url": "/review-assets/023-782-4th-avenue-20020418-mls-4.jpg"
         },
         {
           "label": "#5",
-          "url": "/review-assets/021-782-4th-avenue-20020418-mls-5.jpg"
+          "url": "/review-assets/023-782-4th-avenue-20020418-mls-5.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/021-782-4th-avenue-20020418-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/021-782-4th-avenue-20020418-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/021-782-4th-avenue-20020418-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/023-782-4th-avenue-20020418-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/023-782-4th-avenue-20020418-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/023-782-4th-avenue-20020418-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 22,
+      "rank": 24,
       "score": 86,
       "listingId": "10672776",
       "address": "804 17TH S Street",
@@ -850,45 +928,45 @@
       "thumbs": [
         {
           "label": "#1",
-          "url": "/review-assets/022-804-17th-s-street-10672776-mls-1.jpg"
+          "url": "/review-assets/024-804-17th-s-street-10672776-mls-1.jpg"
         },
         {
           "label": "#2",
-          "url": "/review-assets/022-804-17th-s-street-10672776-mls-2.jpg"
+          "url": "/review-assets/024-804-17th-s-street-10672776-mls-2.jpg"
         },
         {
           "label": "#4",
-          "url": "/review-assets/022-804-17th-s-street-10672776-mls-4.jpg"
+          "url": "/review-assets/024-804-17th-s-street-10672776-mls-4.jpg"
         },
         {
           "label": "#5",
-          "url": "/review-assets/022-804-17th-s-street-10672776-mls-5.jpg"
+          "url": "/review-assets/024-804-17th-s-street-10672776-mls-5.jpg"
         },
         {
           "label": "#7",
-          "url": "/review-assets/022-804-17th-s-street-10672776-mls-7.jpg"
+          "url": "/review-assets/024-804-17th-s-street-10672776-mls-7.jpg"
         },
         {
           "label": "#8",
-          "url": "/review-assets/022-804-17th-s-street-10672776-mls-8.jpg"
+          "url": "/review-assets/024-804-17th-s-street-10672776-mls-8.jpg"
         },
         {
           "label": "#9",
-          "url": "/review-assets/022-804-17th-s-street-10672776-mls-9.jpg"
+          "url": "/review-assets/024-804-17th-s-street-10672776-mls-9.jpg"
         },
         {
           "label": "#15",
-          "url": "/review-assets/022-804-17th-s-street-10672776-mls-15.jpg"
+          "url": "/review-assets/024-804-17th-s-street-10672776-mls-15.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/022-804-17th-s-street-10672776-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/022-804-17th-s-street-10672776-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/022-804-17th-s-street-10672776-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/024-804-17th-s-street-10672776-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/024-804-17th-s-street-10672776-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/024-804-17th-s-street-10672776-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 23,
+      "rank": 25,
       "score": 86,
       "listingId": "20039625",
       "address": "941 5th Avenue",
@@ -903,17 +981,17 @@
       "thumbs": [
         {
           "label": "#29",
-          "url": "/review-assets/023-941-5th-avenue-20039625-mls-29.jpg"
+          "url": "/review-assets/025-941-5th-avenue-20039625-mls-29.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/023-941-5th-avenue-20039625-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/023-941-5th-avenue-20039625-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/023-941-5th-avenue-20039625-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/025-941-5th-avenue-20039625-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/025-941-5th-avenue-20039625-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/025-941-5th-avenue-20039625-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 24,
+      "rank": 26,
       "score": 86,
       "listingId": "10665224",
       "address": "946 RIDGE Place",
@@ -928,25 +1006,25 @@
       "thumbs": [
         {
           "label": "#3",
-          "url": "/review-assets/024-946-ridge-place-10665224-mls-3.jpg"
+          "url": "/review-assets/026-946-ridge-place-10665224-mls-3.jpg"
         },
         {
           "label": "#12",
-          "url": "/review-assets/024-946-ridge-place-10665224-mls-12.jpg"
+          "url": "/review-assets/026-946-ridge-place-10665224-mls-12.jpg"
         },
         {
           "label": "#2",
-          "url": "/review-assets/024-946-ridge-place-10665224-mls-2.jpg"
+          "url": "/review-assets/026-946-ridge-place-10665224-mls-2.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/024-946-ridge-place-10665224-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/024-946-ridge-place-10665224-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/024-946-ridge-place-10665224-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/026-946-ridge-place-10665224-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/026-946-ridge-place-10665224-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/026-946-ridge-place-10665224-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 25,
+      "rank": 27,
       "score": 86,
       "listingId": "20038863",
       "address": "960 COPPER POINT Way",
@@ -961,33 +1039,33 @@
       "thumbs": [
         {
           "label": "#7",
-          "url": "/review-assets/025-960-copper-point-way-20038863-mls-7.jpg"
+          "url": "/review-assets/027-960-copper-point-way-20038863-mls-7.jpg"
         },
         {
           "label": "#6",
-          "url": "/review-assets/025-960-copper-point-way-20038863-mls-6.jpg"
+          "url": "/review-assets/027-960-copper-point-way-20038863-mls-6.jpg"
         },
         {
           "label": "#3",
-          "url": "/review-assets/025-960-copper-point-way-20038863-mls-3.jpg"
+          "url": "/review-assets/027-960-copper-point-way-20038863-mls-3.jpg"
         },
         {
           "label": "#5",
-          "url": "/review-assets/025-960-copper-point-way-20038863-mls-5.jpg"
+          "url": "/review-assets/027-960-copper-point-way-20038863-mls-5.jpg"
         },
         {
           "label": "#1",
-          "url": "/review-assets/025-960-copper-point-way-20038863-mls-1.jpg"
+          "url": "/review-assets/027-960-copper-point-way-20038863-mls-1.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/025-960-copper-point-way-20038863-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/025-960-copper-point-way-20038863-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/025-960-copper-point-way-20038863-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/027-960-copper-point-way-20038863-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/027-960-copper-point-way-20038863-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/027-960-copper-point-way-20038863-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 26,
+      "rank": 28,
       "score": 85,
       "listingId": "10679423",
       "address": "1681 KOOCANUSA LAKE Drive",
@@ -1002,17 +1080,17 @@
       "thumbs": [
         {
           "label": "ArcGIS",
-          "url": "/review-assets/026-1681-koocanusa-lake-drive-10679423-arcgis-best.jpg"
+          "url": "/review-assets/028-1681-koocanusa-lake-drive-10679423-arcgis-best.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/026-1681-koocanusa-lake-drive-10679423-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/026-1681-koocanusa-lake-drive-10679423-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/026-1681-koocanusa-lake-drive-10679423-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/028-1681-koocanusa-lake-drive-10679423-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/028-1681-koocanusa-lake-drive-10679423-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/028-1681-koocanusa-lake-drive-10679423-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 27,
+      "rank": 29,
       "score": 82,
       "listingId": "20021647",
       "address": "13-640 UPPER LAKEVIEW Road",
@@ -1027,21 +1105,21 @@
       "thumbs": [
         {
           "label": "#6",
-          "url": "/review-assets/027-13-640-upper-lakeview-road-20021647-mls-6.jpg"
+          "url": "/review-assets/029-13-640-upper-lakeview-road-20021647-mls-6.jpg"
         },
         {
           "label": "#3",
-          "url": "/review-assets/027-13-640-upper-lakeview-road-20021647-mls-3.jpg"
+          "url": "/review-assets/029-13-640-upper-lakeview-road-20021647-mls-3.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/027-13-640-upper-lakeview-road-20021647-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/027-13-640-upper-lakeview-road-20021647-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/027-13-640-upper-lakeview-road-20021647-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/029-13-640-upper-lakeview-road-20021647-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/029-13-640-upper-lakeview-road-20021647-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/029-13-640-upper-lakeview-road-20021647-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 28,
+      "rank": 30,
       "score": 82,
       "listingId": "20049552",
       "address": "1325 12 Avenue",
@@ -1056,29 +1134,29 @@
       "thumbs": [
         {
           "label": "#11",
-          "url": "/review-assets/028-1325-12-avenue-20049552-mls-11.jpg"
+          "url": "/review-assets/030-1325-12-avenue-20049552-mls-11.jpg"
         },
         {
           "label": "#12",
-          "url": "/review-assets/028-1325-12-avenue-20049552-mls-12.jpg"
+          "url": "/review-assets/030-1325-12-avenue-20049552-mls-12.jpg"
         },
         {
           "label": "#19",
-          "url": "/review-assets/028-1325-12-avenue-20049552-mls-19.jpg"
+          "url": "/review-assets/030-1325-12-avenue-20049552-mls-19.jpg"
         },
         {
           "label": "#20",
-          "url": "/review-assets/028-1325-12-avenue-20049552-mls-20.jpg"
+          "url": "/review-assets/030-1325-12-avenue-20049552-mls-20.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/028-1325-12-avenue-20049552-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/028-1325-12-avenue-20049552-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/028-1325-12-avenue-20049552-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/030-1325-12-avenue-20049552-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/030-1325-12-avenue-20049552-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/030-1325-12-avenue-20049552-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 29,
+      "rank": 31,
       "score": 82,
       "listingId": "10682383",
       "address": "14 MT TRINITY Avenue",
@@ -1093,25 +1171,25 @@
       "thumbs": [
         {
           "label": "#2",
-          "url": "/review-assets/029-14-mt-trinity-avenue-10682383-mls-2.jpg"
+          "url": "/review-assets/031-14-mt-trinity-avenue-10682383-mls-2.jpg"
         },
         {
           "label": "#1",
-          "url": "/review-assets/029-14-mt-trinity-avenue-10682383-mls-1.jpg"
+          "url": "/review-assets/031-14-mt-trinity-avenue-10682383-mls-1.jpg"
         },
         {
           "label": "#30",
-          "url": "/review-assets/029-14-mt-trinity-avenue-10682383-mls-30.jpg"
+          "url": "/review-assets/031-14-mt-trinity-avenue-10682383-mls-30.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/029-14-mt-trinity-avenue-10682383-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/029-14-mt-trinity-avenue-10682383-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/029-14-mt-trinity-avenue-10682383-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/031-14-mt-trinity-avenue-10682383-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/031-14-mt-trinity-avenue-10682383-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/031-14-mt-trinity-avenue-10682383-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 30,
+      "rank": 32,
       "score": 82,
       "listingId": "10647009",
       "address": "1502 PINERIDGE MOUNTAIN Place",
@@ -1126,37 +1204,37 @@
       "thumbs": [
         {
           "label": "#3",
-          "url": "/review-assets/030-1502-pineridge-mountain-place-10647009-mls-3.jpg"
+          "url": "/review-assets/032-1502-pineridge-mountain-place-10647009-mls-3.jpg"
         },
         {
           "label": "#4",
-          "url": "/review-assets/030-1502-pineridge-mountain-place-10647009-mls-4.jpg"
+          "url": "/review-assets/032-1502-pineridge-mountain-place-10647009-mls-4.jpg"
         },
         {
           "label": "#9",
-          "url": "/review-assets/030-1502-pineridge-mountain-place-10647009-mls-9.jpg"
+          "url": "/review-assets/032-1502-pineridge-mountain-place-10647009-mls-9.jpg"
         },
         {
           "label": "#10",
-          "url": "/review-assets/030-1502-pineridge-mountain-place-10647009-mls-10.jpg"
+          "url": "/review-assets/032-1502-pineridge-mountain-place-10647009-mls-10.jpg"
         },
         {
           "label": "#12",
-          "url": "/review-assets/030-1502-pineridge-mountain-place-10647009-mls-12.jpg"
+          "url": "/review-assets/032-1502-pineridge-mountain-place-10647009-mls-12.jpg"
         },
         {
           "label": "#13",
-          "url": "/review-assets/030-1502-pineridge-mountain-place-10647009-mls-13.jpg"
+          "url": "/review-assets/032-1502-pineridge-mountain-place-10647009-mls-13.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/030-1502-pineridge-mountain-place-10647009-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/030-1502-pineridge-mountain-place-10647009-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/030-1502-pineridge-mountain-place-10647009-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/032-1502-pineridge-mountain-place-10647009-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/032-1502-pineridge-mountain-place-10647009-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/032-1502-pineridge-mountain-place-10647009-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 31,
+      "rank": 33,
       "score": 82,
       "listingId": "10669905",
       "address": "1609 8TH S Avenue",
@@ -1171,25 +1249,25 @@
       "thumbs": [
         {
           "label": "#8",
-          "url": "/review-assets/031-1609-8th-s-avenue-10669905-mls-8.jpg"
+          "url": "/review-assets/033-1609-8th-s-avenue-10669905-mls-8.jpg"
         },
         {
           "label": "#7",
-          "url": "/review-assets/031-1609-8th-s-avenue-10669905-mls-7.jpg"
+          "url": "/review-assets/033-1609-8th-s-avenue-10669905-mls-7.jpg"
         },
         {
           "label": "#5",
-          "url": "/review-assets/031-1609-8th-s-avenue-10669905-mls-5.jpg"
+          "url": "/review-assets/033-1609-8th-s-avenue-10669905-mls-5.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/031-1609-8th-s-avenue-10669905-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/031-1609-8th-s-avenue-10669905-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/031-1609-8th-s-avenue-10669905-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/033-1609-8th-s-avenue-10669905-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/033-1609-8th-s-avenue-10669905-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/033-1609-8th-s-avenue-10669905-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 32,
+      "rank": 34,
       "score": 82,
       "listingId": "10654287",
       "address": "21 MT MINTON Street",
@@ -1204,29 +1282,29 @@
       "thumbs": [
         {
           "label": "#29",
-          "url": "/review-assets/032-21-mt-minton-street-10654287-mls-29.jpg"
+          "url": "/review-assets/034-21-mt-minton-street-10654287-mls-29.jpg"
         },
         {
           "label": "#30",
-          "url": "/review-assets/032-21-mt-minton-street-10654287-mls-30.jpg"
+          "url": "/review-assets/034-21-mt-minton-street-10654287-mls-30.jpg"
         },
         {
           "label": "#28",
-          "url": "/review-assets/032-21-mt-minton-street-10654287-mls-28.jpg"
+          "url": "/review-assets/034-21-mt-minton-street-10654287-mls-28.jpg"
         },
         {
           "label": "#1",
-          "url": "/review-assets/032-21-mt-minton-street-10654287-mls-1.jpg"
+          "url": "/review-assets/034-21-mt-minton-street-10654287-mls-1.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/032-21-mt-minton-street-10654287-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/032-21-mt-minton-street-10654287-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/032-21-mt-minton-street-10654287-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/034-21-mt-minton-street-10654287-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/034-21-mt-minton-street-10654287-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/034-21-mt-minton-street-10654287-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 33,
+      "rank": 35,
       "score": 82,
       "listingId": "20061096",
       "address": "5221 Columbia River Road",
@@ -1241,25 +1319,25 @@
       "thumbs": [
         {
           "label": "#1",
-          "url": "/review-assets/033-5221-columbia-river-road-20061096-mls-1.jpg"
+          "url": "/review-assets/035-5221-columbia-river-road-20061096-mls-1.jpg"
         },
         {
           "label": "#20",
-          "url": "/review-assets/033-5221-columbia-river-road-20061096-mls-20.jpg"
+          "url": "/review-assets/035-5221-columbia-river-road-20061096-mls-20.jpg"
         },
         {
           "label": "#21",
-          "url": "/review-assets/033-5221-columbia-river-road-20061096-mls-21.jpg"
+          "url": "/review-assets/035-5221-columbia-river-road-20061096-mls-21.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/033-5221-columbia-river-road-20061096-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/033-5221-columbia-river-road-20061096-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/033-5221-columbia-river-road-20061096-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/035-5221-columbia-river-road-20061096-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/035-5221-columbia-river-road-20061096-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/035-5221-columbia-river-road-20061096-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 34,
+      "rank": 36,
       "score": 82,
       "listingId": "20066454",
       "address": "6740 Rosen Lake Road",
@@ -1274,33 +1352,33 @@
       "thumbs": [
         {
           "label": "#3",
-          "url": "/review-assets/034-6740-rosen-lake-road-20066454-mls-3.jpg"
+          "url": "/review-assets/036-6740-rosen-lake-road-20066454-mls-3.jpg"
         },
         {
           "label": "#1",
-          "url": "/review-assets/034-6740-rosen-lake-road-20066454-mls-1.jpg"
+          "url": "/review-assets/036-6740-rosen-lake-road-20066454-mls-1.jpg"
         },
         {
           "label": "#26",
-          "url": "/review-assets/034-6740-rosen-lake-road-20066454-mls-26.jpg"
+          "url": "/review-assets/036-6740-rosen-lake-road-20066454-mls-26.jpg"
         },
         {
           "label": "#27",
-          "url": "/review-assets/034-6740-rosen-lake-road-20066454-mls-27.jpg"
+          "url": "/review-assets/036-6740-rosen-lake-road-20066454-mls-27.jpg"
         },
         {
           "label": "#2",
-          "url": "/review-assets/034-6740-rosen-lake-road-20066454-mls-2.jpg"
+          "url": "/review-assets/036-6740-rosen-lake-road-20066454-mls-2.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/034-6740-rosen-lake-road-20066454-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/034-6740-rosen-lake-road-20066454-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/034-6740-rosen-lake-road-20066454-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/036-6740-rosen-lake-road-20066454-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/036-6740-rosen-lake-road-20066454-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/036-6740-rosen-lake-road-20066454-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 35,
+      "rank": 37,
       "score": 82,
       "listingId": "10647683",
       "address": "6949 COLUMBIA RIDGE Drive",
@@ -1315,37 +1393,37 @@
       "thumbs": [
         {
           "label": "#1",
-          "url": "/review-assets/035-6949-columbia-ridge-drive-10647683-mls-1.jpg"
+          "url": "/review-assets/037-6949-columbia-ridge-drive-10647683-mls-1.jpg"
         },
         {
           "label": "#3",
-          "url": "/review-assets/035-6949-columbia-ridge-drive-10647683-mls-3.jpg"
+          "url": "/review-assets/037-6949-columbia-ridge-drive-10647683-mls-3.jpg"
         },
         {
           "label": "#12",
-          "url": "/review-assets/035-6949-columbia-ridge-drive-10647683-mls-12.jpg"
+          "url": "/review-assets/037-6949-columbia-ridge-drive-10647683-mls-12.jpg"
         },
         {
           "label": "#13",
-          "url": "/review-assets/035-6949-columbia-ridge-drive-10647683-mls-13.jpg"
+          "url": "/review-assets/037-6949-columbia-ridge-drive-10647683-mls-13.jpg"
         },
         {
           "label": "#8",
-          "url": "/review-assets/035-6949-columbia-ridge-drive-10647683-mls-8.jpg"
+          "url": "/review-assets/037-6949-columbia-ridge-drive-10647683-mls-8.jpg"
         },
         {
           "label": "#10",
-          "url": "/review-assets/035-6949-columbia-ridge-drive-10647683-mls-10.jpg"
+          "url": "/review-assets/037-6949-columbia-ridge-drive-10647683-mls-10.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/035-6949-columbia-ridge-drive-10647683-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/035-6949-columbia-ridge-drive-10647683-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/035-6949-columbia-ridge-drive-10647683-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/037-6949-columbia-ridge-drive-10647683-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/037-6949-columbia-ridge-drive-10647683-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/037-6949-columbia-ridge-drive-10647683-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 36,
+      "rank": 38,
       "score": 82,
       "listingId": "20021336",
       "address": "781 WESTRIDGE Drive",
@@ -1360,25 +1438,25 @@
       "thumbs": [
         {
           "label": "#11",
-          "url": "/review-assets/036-781-westridge-drive-20021336-mls-11.jpg"
+          "url": "/review-assets/038-781-westridge-drive-20021336-mls-11.jpg"
         },
         {
           "label": "#1",
-          "url": "/review-assets/036-781-westridge-drive-20021336-mls-1.jpg"
+          "url": "/review-assets/038-781-westridge-drive-20021336-mls-1.jpg"
         },
         {
           "label": "#2",
-          "url": "/review-assets/036-781-westridge-drive-20021336-mls-2.jpg"
+          "url": "/review-assets/038-781-westridge-drive-20021336-mls-2.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/036-781-westridge-drive-20021336-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/036-781-westridge-drive-20021336-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/036-781-westridge-drive-20021336-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/038-781-westridge-drive-20021336-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/038-781-westridge-drive-20021336-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/038-781-westridge-drive-20021336-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 37,
+      "rank": 39,
       "score": 82,
       "listingId": "10670913",
       "address": "8042 MCINTOSH LOOP Road",
@@ -1393,29 +1471,29 @@
       "thumbs": [
         {
           "label": "#4",
-          "url": "/review-assets/037-8042-mcintosh-loop-road-10670913-mls-4.jpg"
+          "url": "/review-assets/039-8042-mcintosh-loop-road-10670913-mls-4.jpg"
         },
         {
           "label": "#5",
-          "url": "/review-assets/037-8042-mcintosh-loop-road-10670913-mls-5.jpg"
+          "url": "/review-assets/039-8042-mcintosh-loop-road-10670913-mls-5.jpg"
         },
         {
           "label": "#14",
-          "url": "/review-assets/037-8042-mcintosh-loop-road-10670913-mls-14.jpg"
+          "url": "/review-assets/039-8042-mcintosh-loop-road-10670913-mls-14.jpg"
         },
         {
           "label": "#16",
-          "url": "/review-assets/037-8042-mcintosh-loop-road-10670913-mls-16.jpg"
+          "url": "/review-assets/039-8042-mcintosh-loop-road-10670913-mls-16.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/037-8042-mcintosh-loop-road-10670913-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/037-8042-mcintosh-loop-road-10670913-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/037-8042-mcintosh-loop-road-10670913-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/039-8042-mcintosh-loop-road-10670913-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/039-8042-mcintosh-loop-road-10670913-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/039-8042-mcintosh-loop-road-10670913-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 38,
+      "rank": 40,
       "score": 82,
       "listingId": "10646987",
       "address": "815 LAKEVIEW MEADOWS GREEN",
@@ -1430,25 +1508,25 @@
       "thumbs": [
         {
           "label": "#4",
-          "url": "/review-assets/038-815-lakeview-meadows-green-10646987-mls-4.jpg"
+          "url": "/review-assets/040-815-lakeview-meadows-green-10646987-mls-4.jpg"
         },
         {
           "label": "#5",
-          "url": "/review-assets/038-815-lakeview-meadows-green-10646987-mls-5.jpg"
+          "url": "/review-assets/040-815-lakeview-meadows-green-10646987-mls-5.jpg"
         },
         {
           "label": "#20",
-          "url": "/review-assets/038-815-lakeview-meadows-green-10646987-mls-20.jpg"
+          "url": "/review-assets/040-815-lakeview-meadows-green-10646987-mls-20.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/038-815-lakeview-meadows-green-10646987-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/038-815-lakeview-meadows-green-10646987-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/038-815-lakeview-meadows-green-10646987-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/040-815-lakeview-meadows-green-10646987-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/040-815-lakeview-meadows-green-10646987-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/040-815-lakeview-meadows-green-10646987-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 39,
+      "rank": 41,
       "score": 82,
       "listingId": "10654610",
       "address": "850 LAKEVIEW MEADOWS Road",
@@ -1463,29 +1541,29 @@
       "thumbs": [
         {
           "label": "#3",
-          "url": "/review-assets/039-850-lakeview-meadows-road-10654610-mls-3.jpg"
+          "url": "/review-assets/041-850-lakeview-meadows-road-10654610-mls-3.jpg"
         },
         {
           "label": "#4",
-          "url": "/review-assets/039-850-lakeview-meadows-road-10654610-mls-4.jpg"
+          "url": "/review-assets/041-850-lakeview-meadows-road-10654610-mls-4.jpg"
         },
         {
           "label": "#1",
-          "url": "/review-assets/039-850-lakeview-meadows-road-10654610-mls-1.jpg"
+          "url": "/review-assets/041-850-lakeview-meadows-road-10654610-mls-1.jpg"
         },
         {
           "label": "#2",
-          "url": "/review-assets/039-850-lakeview-meadows-road-10654610-mls-2.jpg"
+          "url": "/review-assets/041-850-lakeview-meadows-road-10654610-mls-2.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/039-850-lakeview-meadows-road-10654610-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/039-850-lakeview-meadows-road-10654610-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/039-850-lakeview-meadows-road-10654610-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/041-850-lakeview-meadows-road-10654610-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/041-850-lakeview-meadows-road-10654610-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/041-850-lakeview-meadows-road-10654610-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 40,
+      "rank": 42,
       "score": 82,
       "listingId": "10668743",
       "address": "921 11TH Avenue",
@@ -1500,33 +1578,33 @@
       "thumbs": [
         {
           "label": "#4",
-          "url": "/review-assets/040-921-11th-avenue-10668743-mls-4.jpg"
+          "url": "/review-assets/042-921-11th-avenue-10668743-mls-4.jpg"
         },
         {
           "label": "#24",
-          "url": "/review-assets/040-921-11th-avenue-10668743-mls-24.jpg"
+          "url": "/review-assets/042-921-11th-avenue-10668743-mls-24.jpg"
         },
         {
           "label": "#25",
-          "url": "/review-assets/040-921-11th-avenue-10668743-mls-25.jpg"
+          "url": "/review-assets/042-921-11th-avenue-10668743-mls-25.jpg"
         },
         {
           "label": "#26",
-          "url": "/review-assets/040-921-11th-avenue-10668743-mls-26.jpg"
+          "url": "/review-assets/042-921-11th-avenue-10668743-mls-26.jpg"
         },
         {
           "label": "#27",
-          "url": "/review-assets/040-921-11th-avenue-10668743-mls-27.jpg"
+          "url": "/review-assets/042-921-11th-avenue-10668743-mls-27.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/040-921-11th-avenue-10668743-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/040-921-11th-avenue-10668743-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/040-921-11th-avenue-10668743-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/042-921-11th-avenue-10668743-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/042-921-11th-avenue-10668743-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/042-921-11th-avenue-10668743-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 41,
+      "rank": 43,
       "score": 82,
       "listingId": "20042244",
       "address": "954 313th Drive",
@@ -1541,25 +1619,25 @@
       "thumbs": [
         {
           "label": "#28",
-          "url": "/review-assets/041-954-313th-drive-20042244-mls-28.jpg"
+          "url": "/review-assets/043-954-313th-drive-20042244-mls-28.jpg"
         },
         {
           "label": "#29",
-          "url": "/review-assets/041-954-313th-drive-20042244-mls-29.jpg"
+          "url": "/review-assets/043-954-313th-drive-20042244-mls-29.jpg"
         },
         {
           "label": "#25",
-          "url": "/review-assets/041-954-313th-drive-20042244-mls-25.jpg"
+          "url": "/review-assets/043-954-313th-drive-20042244-mls-25.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/041-954-313th-drive-20042244-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/041-954-313th-drive-20042244-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/041-954-313th-drive-20042244-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/043-954-313th-drive-20042244-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/043-954-313th-drive-20042244-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/043-954-313th-drive-20042244-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 42,
+      "rank": 44,
       "score": 82,
       "listingId": "20050440",
       "address": "959 COPPER POINT Way",
@@ -1574,29 +1652,29 @@
       "thumbs": [
         {
           "label": "#7",
-          "url": "/review-assets/042-959-copper-point-way-20050440-mls-7.jpg"
+          "url": "/review-assets/044-959-copper-point-way-20050440-mls-7.jpg"
         },
         {
           "label": "#6",
-          "url": "/review-assets/042-959-copper-point-way-20050440-mls-6.jpg"
+          "url": "/review-assets/044-959-copper-point-way-20050440-mls-6.jpg"
         },
         {
           "label": "#3",
-          "url": "/review-assets/042-959-copper-point-way-20050440-mls-3.jpg"
+          "url": "/review-assets/044-959-copper-point-way-20050440-mls-3.jpg"
         },
         {
           "label": "#5",
-          "url": "/review-assets/042-959-copper-point-way-20050440-mls-5.jpg"
+          "url": "/review-assets/044-959-copper-point-way-20050440-mls-5.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/042-959-copper-point-way-20050440-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/042-959-copper-point-way-20050440-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/042-959-copper-point-way-20050440-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/044-959-copper-point-way-20050440-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/044-959-copper-point-way-20050440-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/044-959-copper-point-way-20050440-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 43,
+      "rank": 45,
       "score": 69,
       "listingId": "20068707",
       "address": "1643 Koocanusa Lake Drive",
@@ -1611,17 +1689,17 @@
       "thumbs": [
         {
           "label": "ArcGIS",
-          "url": "/review-assets/043-1643-koocanusa-lake-drive-20068707-arcgis-best.jpg"
+          "url": "/review-assets/045-1643-koocanusa-lake-drive-20068707-arcgis-best.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/043-1643-koocanusa-lake-drive-20068707-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/043-1643-koocanusa-lake-drive-20068707-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/043-1643-koocanusa-lake-drive-20068707-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/045-1643-koocanusa-lake-drive-20068707-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/045-1643-koocanusa-lake-drive-20068707-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/045-1643-koocanusa-lake-drive-20068707-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 44,
+      "rank": 46,
       "score": 68,
       "listingId": "20059379",
       "address": "1265 VALLEY VIEW Place",
@@ -1636,33 +1714,33 @@
       "thumbs": [
         {
           "label": "#27",
-          "url": "/review-assets/044-1265-valley-view-place-20059379-mls-27.jpg"
+          "url": "/review-assets/046-1265-valley-view-place-20059379-mls-27.jpg"
         },
         {
           "label": "#29",
-          "url": "/review-assets/044-1265-valley-view-place-20059379-mls-29.jpg"
+          "url": "/review-assets/046-1265-valley-view-place-20059379-mls-29.jpg"
         },
         {
           "label": "#30",
-          "url": "/review-assets/044-1265-valley-view-place-20059379-mls-30.jpg"
+          "url": "/review-assets/046-1265-valley-view-place-20059379-mls-30.jpg"
         },
         {
           "label": "#26",
-          "url": "/review-assets/044-1265-valley-view-place-20059379-mls-26.jpg"
+          "url": "/review-assets/046-1265-valley-view-place-20059379-mls-26.jpg"
         },
         {
           "label": "#28",
-          "url": "/review-assets/044-1265-valley-view-place-20059379-mls-28.jpg"
+          "url": "/review-assets/046-1265-valley-view-place-20059379-mls-28.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/044-1265-valley-view-place-20059379-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/044-1265-valley-view-place-20059379-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/044-1265-valley-view-place-20059379-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/046-1265-valley-view-place-20059379-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/046-1265-valley-view-place-20059379-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/046-1265-valley-view-place-20059379-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 45,
+      "rank": 47,
       "score": 68,
       "listingId": "10621595",
       "address": "9382 MOYIE SHORES ESTATE Road",
@@ -1677,41 +1755,41 @@
       "thumbs": [
         {
           "label": "#7",
-          "url": "/review-assets/045-9382-moyie-shores-estate-road-10621595-mls-7.jpg"
+          "url": "/review-assets/047-9382-moyie-shores-estate-road-10621595-mls-7.jpg"
         },
         {
           "label": "#8",
-          "url": "/review-assets/045-9382-moyie-shores-estate-road-10621595-mls-8.jpg"
+          "url": "/review-assets/047-9382-moyie-shores-estate-road-10621595-mls-8.jpg"
         },
         {
           "label": "#12",
-          "url": "/review-assets/045-9382-moyie-shores-estate-road-10621595-mls-12.jpg"
+          "url": "/review-assets/047-9382-moyie-shores-estate-road-10621595-mls-12.jpg"
         },
         {
           "label": "#14",
-          "url": "/review-assets/045-9382-moyie-shores-estate-road-10621595-mls-14.jpg"
+          "url": "/review-assets/047-9382-moyie-shores-estate-road-10621595-mls-14.jpg"
         },
         {
           "label": "#3",
-          "url": "/review-assets/045-9382-moyie-shores-estate-road-10621595-mls-3.jpg"
+          "url": "/review-assets/047-9382-moyie-shores-estate-road-10621595-mls-3.jpg"
         },
         {
           "label": "#6",
-          "url": "/review-assets/045-9382-moyie-shores-estate-road-10621595-mls-6.jpg"
+          "url": "/review-assets/047-9382-moyie-shores-estate-road-10621595-mls-6.jpg"
         },
         {
           "label": "#11",
-          "url": "/review-assets/045-9382-moyie-shores-estate-road-10621595-mls-11.jpg"
+          "url": "/review-assets/047-9382-moyie-shores-estate-road-10621595-mls-11.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/045-9382-moyie-shores-estate-road-10621595-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/045-9382-moyie-shores-estate-road-10621595-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/045-9382-moyie-shores-estate-road-10621595-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/047-9382-moyie-shores-estate-road-10621595-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/047-9382-moyie-shores-estate-road-10621595-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/047-9382-moyie-shores-estate-road-10621595-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 46,
+      "rank": 48,
       "score": 52,
       "listingId": "10683952",
       "address": "1204 VALLEY VIEW Drive",
@@ -1726,17 +1804,17 @@
       "thumbs": [
         {
           "label": "ArcGIS",
-          "url": "/review-assets/046-1204-valley-view-drive-10683952-arcgis-best.jpg"
+          "url": "/review-assets/048-1204-valley-view-drive-10683952-arcgis-best.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/046-1204-valley-view-drive-10683952-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/046-1204-valley-view-drive-10683952-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/046-1204-valley-view-drive-10683952-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/048-1204-valley-view-drive-10683952-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/048-1204-valley-view-drive-10683952-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/048-1204-valley-view-drive-10683952-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 47,
+      "rank": 49,
       "score": 52,
       "listingId": "20022704",
       "address": "1206 VALLEY VIEW Drive",
@@ -1751,17 +1829,17 @@
       "thumbs": [
         {
           "label": "ArcGIS",
-          "url": "/review-assets/047-1206-valley-view-drive-20022704-arcgis-best.jpg"
+          "url": "/review-assets/049-1206-valley-view-drive-20022704-arcgis-best.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/047-1206-valley-view-drive-20022704-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/047-1206-valley-view-drive-20022704-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/047-1206-valley-view-drive-20022704-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/049-1206-valley-view-drive-20022704-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/049-1206-valley-view-drive-20022704-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/049-1206-valley-view-drive-20022704-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 48,
+      "rank": 50,
       "score": 52,
       "listingId": "20049830",
       "address": "1256 Valley View Drive",
@@ -1776,17 +1854,17 @@
       "thumbs": [
         {
           "label": "ArcGIS",
-          "url": "/review-assets/048-1256-valley-view-drive-20049830-arcgis-best.jpg"
+          "url": "/review-assets/050-1256-valley-view-drive-20049830-arcgis-best.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/048-1256-valley-view-drive-20049830-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/048-1256-valley-view-drive-20049830-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/048-1256-valley-view-drive-20049830-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/050-1256-valley-view-drive-20049830-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/050-1256-valley-view-drive-20049830-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/050-1256-valley-view-drive-20049830-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 49,
+      "rank": 51,
       "score": 52,
       "listingId": "10667637",
       "address": "22-9481 ESTATES Road",
@@ -1801,17 +1879,17 @@
       "thumbs": [
         {
           "label": "ArcGIS",
-          "url": "/review-assets/049-22-9481-estates-road-10667637-arcgis-best.jpg"
+          "url": "/review-assets/051-22-9481-estates-road-10667637-arcgis-best.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/049-22-9481-estates-road-10667637-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/049-22-9481-estates-road-10667637-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/049-22-9481-estates-road-10667637-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/051-22-9481-estates-road-10667637-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/051-22-9481-estates-road-10667637-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/051-22-9481-estates-road-10667637-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 50,
+      "rank": 52,
       "score": 52,
       "listingId": "20046554",
       "address": "532 Granzow Road",
@@ -1826,17 +1904,17 @@
       "thumbs": [
         {
           "label": "ArcGIS",
-          "url": "/review-assets/050-532-granzow-road-20046554-arcgis-best.jpg"
+          "url": "/review-assets/052-532-granzow-road-20046554-arcgis-best.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/050-532-granzow-road-20046554-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/050-532-granzow-road-20046554-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/050-532-granzow-road-20046554-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/052-532-granzow-road-20046554-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/052-532-granzow-road-20046554-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/052-532-granzow-road-20046554-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 51,
+      "rank": 53,
       "score": 52,
       "listingId": "10641909",
       "address": "7822 MONROE LAKE Road",
@@ -1851,17 +1929,17 @@
       "thumbs": [
         {
           "label": "ArcGIS",
-          "url": "/review-assets/051-7822-monroe-lake-road-10641909-arcgis-best.jpg"
+          "url": "/review-assets/053-7822-monroe-lake-road-10641909-arcgis-best.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/051-7822-monroe-lake-road-10641909-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/051-7822-monroe-lake-road-10641909-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/051-7822-monroe-lake-road-10641909-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/053-7822-monroe-lake-road-10641909-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/053-7822-monroe-lake-road-10641909-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/053-7822-monroe-lake-road-10641909-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 53,
+      "rank": 55,
       "score": 37,
       "listingId": "10658844",
       "address": "1059 SWANSEA Road",
@@ -1876,29 +1954,74 @@
       "thumbs": [
         {
           "label": "#1",
-          "url": "/review-assets/053-1059-swansea-road-10658844-mls-1.jpg"
+          "url": "/review-assets/055-1059-swansea-road-10658844-mls-1.jpg"
         },
         {
           "label": "#2",
-          "url": "/review-assets/053-1059-swansea-road-10658844-mls-2.jpg"
+          "url": "/review-assets/055-1059-swansea-road-10658844-mls-2.jpg"
         },
         {
           "label": "#17",
-          "url": "/review-assets/053-1059-swansea-road-10658844-mls-17.jpg"
+          "url": "/review-assets/055-1059-swansea-road-10658844-mls-17.jpg"
         },
         {
           "label": "#16",
-          "url": "/review-assets/053-1059-swansea-road-10658844-mls-16.jpg"
+          "url": "/review-assets/055-1059-swansea-road-10658844-mls-16.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/053-1059-swansea-road-10658844-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/053-1059-swansea-road-10658844-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/053-1059-swansea-road-10658844-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/055-1059-swansea-road-10658844-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/055-1059-swansea-road-10658844-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/055-1059-swansea-road-10658844-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 54,
+      "rank": 56,
+      "score": 37,
+      "listingId": "20026178",
+      "address": "137 12A Avenue",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "possible_mls_elevated_candidate_needs_verify",
+      "coverageGoal": "possible_elevated_context_needs_verify",
+      "bestPhotoIndices": "5,1,7,8,29,30",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.; Goal review: photo 5 is an aerial neighborhood/locator view, but thumbnail detail is insufficient to confirm house plus backyard/lot coverage. Photo 1 is a strong ground-level house-and-yard view; 7-8 and 29-30 add lot/backyard context but are not aerial.",
+      "thumbs": [
+        {
+          "label": "#5",
+          "url": "/review-assets/056-137-12a-avenue-20026178-mls-5.jpg"
+        },
+        {
+          "label": "#1",
+          "url": "/review-assets/056-137-12a-avenue-20026178-mls-1.jpg"
+        },
+        {
+          "label": "#7",
+          "url": "/review-assets/056-137-12a-avenue-20026178-mls-7.jpg"
+        },
+        {
+          "label": "#8",
+          "url": "/review-assets/056-137-12a-avenue-20026178-mls-8.jpg"
+        },
+        {
+          "label": "#29",
+          "url": "/review-assets/056-137-12a-avenue-20026178-mls-29.jpg"
+        },
+        {
+          "label": "#30",
+          "url": "/review-assets/056-137-12a-avenue-20026178-mls-30.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/056-137-12a-avenue-20026178-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/056-137-12a-avenue-20026178-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/056-137-12a-avenue-20026178-arcgis-tile.jpg"
+      }
+    },
+    {
+      "rank": 57,
       "score": 37,
       "listingId": "10683127",
       "address": "1400 17TH S Street",
@@ -1913,37 +2036,37 @@
       "thumbs": [
         {
           "label": "#1",
-          "url": "/review-assets/054-1400-17th-s-street-10683127-mls-1.jpg"
+          "url": "/review-assets/057-1400-17th-s-street-10683127-mls-1.jpg"
         },
         {
           "label": "#2",
-          "url": "/review-assets/054-1400-17th-s-street-10683127-mls-2.jpg"
+          "url": "/review-assets/057-1400-17th-s-street-10683127-mls-2.jpg"
         },
         {
           "label": "#3",
-          "url": "/review-assets/054-1400-17th-s-street-10683127-mls-3.jpg"
+          "url": "/review-assets/057-1400-17th-s-street-10683127-mls-3.jpg"
         },
         {
           "label": "#4",
-          "url": "/review-assets/054-1400-17th-s-street-10683127-mls-4.jpg"
+          "url": "/review-assets/057-1400-17th-s-street-10683127-mls-4.jpg"
         },
         {
           "label": "#5",
-          "url": "/review-assets/054-1400-17th-s-street-10683127-mls-5.jpg"
+          "url": "/review-assets/057-1400-17th-s-street-10683127-mls-5.jpg"
         },
         {
           "label": "#6",
-          "url": "/review-assets/054-1400-17th-s-street-10683127-mls-6.jpg"
+          "url": "/review-assets/057-1400-17th-s-street-10683127-mls-6.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/054-1400-17th-s-street-10683127-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/054-1400-17th-s-street-10683127-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/054-1400-17th-s-street-10683127-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/057-1400-17th-s-street-10683127-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/057-1400-17th-s-street-10683127-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/057-1400-17th-s-street-10683127-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 55,
+      "rank": 58,
       "score": 37,
       "listingId": "10676060",
       "address": "1825 TAYNTON Road",
@@ -1958,33 +2081,74 @@
       "thumbs": [
         {
           "label": "#1",
-          "url": "/review-assets/055-1825-taynton-road-10676060-mls-1.jpg"
+          "url": "/review-assets/058-1825-taynton-road-10676060-mls-1.jpg"
         },
         {
           "label": "#4",
-          "url": "/review-assets/055-1825-taynton-road-10676060-mls-4.jpg"
+          "url": "/review-assets/058-1825-taynton-road-10676060-mls-4.jpg"
         },
         {
           "label": "#5",
-          "url": "/review-assets/055-1825-taynton-road-10676060-mls-5.jpg"
+          "url": "/review-assets/058-1825-taynton-road-10676060-mls-5.jpg"
         },
         {
           "label": "#3",
-          "url": "/review-assets/055-1825-taynton-road-10676060-mls-3.jpg"
+          "url": "/review-assets/058-1825-taynton-road-10676060-mls-3.jpg"
         },
         {
           "label": "#2",
-          "url": "/review-assets/055-1825-taynton-road-10676060-mls-2.jpg"
+          "url": "/review-assets/058-1825-taynton-road-10676060-mls-2.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/055-1825-taynton-road-10676060-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/055-1825-taynton-road-10676060-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/055-1825-taynton-road-10676060-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/058-1825-taynton-road-10676060-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/058-1825-taynton-road-10676060-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/058-1825-taynton-road-10676060-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 56,
+      "rank": 59,
+      "score": 37,
+      "listingId": "20027834",
+      "address": "405 FOREST CROWNE Close",
+      "sourceLabel": "Cranbrook/Kimberley",
+      "recommendedSource": "possible_mls_elevated_candidate_needs_verify",
+      "coverageGoal": "possible_elevated_context_needs_verify",
+      "bestPhotoIndices": "3,1,2,4,5",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Goal review: one broad overhead/neighborhood image may show lot context but not clearly the house/backyard together. Exterior/yard shots help, but aerial goal coverage is limited.",
+      "thumbs": [
+        {
+          "label": "#3",
+          "url": "/review-assets/059-405-forest-crowne-close-20027834-mls-3.jpg"
+        },
+        {
+          "label": "#1",
+          "url": "/review-assets/059-405-forest-crowne-close-20027834-mls-1.jpg"
+        },
+        {
+          "label": "#2",
+          "url": "/review-assets/059-405-forest-crowne-close-20027834-mls-2.jpg"
+        },
+        {
+          "label": "#4",
+          "url": "/review-assets/059-405-forest-crowne-close-20027834-mls-4.jpg"
+        },
+        {
+          "label": "#5",
+          "url": "/review-assets/059-405-forest-crowne-close-20027834-mls-5.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/059-405-forest-crowne-close-20027834-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/059-405-forest-crowne-close-20027834-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/059-405-forest-crowne-close-20027834-arcgis-tile.jpg"
+      }
+    },
+    {
+      "rank": 60,
       "score": 37,
       "listingId": "20021525",
       "address": "4585 COLUMERE Road",
@@ -1999,33 +2163,33 @@
       "thumbs": [
         {
           "label": "#2",
-          "url": "/review-assets/056-4585-columere-road-20021525-mls-2.jpg"
+          "url": "/review-assets/060-4585-columere-road-20021525-mls-2.jpg"
         },
         {
           "label": "#4",
-          "url": "/review-assets/056-4585-columere-road-20021525-mls-4.jpg"
+          "url": "/review-assets/060-4585-columere-road-20021525-mls-4.jpg"
         },
         {
           "label": "#5",
-          "url": "/review-assets/056-4585-columere-road-20021525-mls-5.jpg"
+          "url": "/review-assets/060-4585-columere-road-20021525-mls-5.jpg"
         },
         {
           "label": "#7",
-          "url": "/review-assets/056-4585-columere-road-20021525-mls-7.jpg"
+          "url": "/review-assets/060-4585-columere-road-20021525-mls-7.jpg"
         },
         {
           "label": "#25",
-          "url": "/review-assets/056-4585-columere-road-20021525-mls-25.jpg"
+          "url": "/review-assets/060-4585-columere-road-20021525-mls-25.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/056-4585-columere-road-20021525-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/056-4585-columere-road-20021525-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/056-4585-columere-road-20021525-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/060-4585-columere-road-20021525-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/060-4585-columere-road-20021525-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/060-4585-columere-road-20021525-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 57,
+      "rank": 61,
       "score": 37,
       "listingId": "10660433",
       "address": "4942 MOUNTAIN HILL Road",
@@ -2040,29 +2204,29 @@
       "thumbs": [
         {
           "label": "#1",
-          "url": "/review-assets/057-4942-mountain-hill-road-10660433-mls-1.jpg"
+          "url": "/review-assets/061-4942-mountain-hill-road-10660433-mls-1.jpg"
         },
         {
           "label": "#4",
-          "url": "/review-assets/057-4942-mountain-hill-road-10660433-mls-4.jpg"
+          "url": "/review-assets/061-4942-mountain-hill-road-10660433-mls-4.jpg"
         },
         {
           "label": "#5",
-          "url": "/review-assets/057-4942-mountain-hill-road-10660433-mls-5.jpg"
+          "url": "/review-assets/061-4942-mountain-hill-road-10660433-mls-5.jpg"
         },
         {
           "label": "#3",
-          "url": "/review-assets/057-4942-mountain-hill-road-10660433-mls-3.jpg"
+          "url": "/review-assets/061-4942-mountain-hill-road-10660433-mls-3.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/057-4942-mountain-hill-road-10660433-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/057-4942-mountain-hill-road-10660433-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/057-4942-mountain-hill-road-10660433-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/061-4942-mountain-hill-road-10660433-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/061-4942-mountain-hill-road-10660433-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/061-4942-mountain-hill-road-10660433-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 58,
+      "rank": 62,
       "score": 37,
       "listingId": "10666129",
       "address": "862 10TH Avenue",
@@ -2077,33 +2241,33 @@
       "thumbs": [
         {
           "label": "#5",
-          "url": "/review-assets/058-862-10th-avenue-10666129-mls-5.jpg"
+          "url": "/review-assets/062-862-10th-avenue-10666129-mls-5.jpg"
         },
         {
           "label": "#4",
-          "url": "/review-assets/058-862-10th-avenue-10666129-mls-4.jpg"
+          "url": "/review-assets/062-862-10th-avenue-10666129-mls-4.jpg"
         },
         {
           "label": "#6",
-          "url": "/review-assets/058-862-10th-avenue-10666129-mls-6.jpg"
+          "url": "/review-assets/062-862-10th-avenue-10666129-mls-6.jpg"
         },
         {
           "label": "#1",
-          "url": "/review-assets/058-862-10th-avenue-10666129-mls-1.jpg"
+          "url": "/review-assets/062-862-10th-avenue-10666129-mls-1.jpg"
         },
         {
           "label": "#2",
-          "url": "/review-assets/058-862-10th-avenue-10666129-mls-2.jpg"
+          "url": "/review-assets/062-862-10th-avenue-10666129-mls-2.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/058-862-10th-avenue-10666129-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/058-862-10th-avenue-10666129-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/058-862-10th-avenue-10666129-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/062-862-10th-avenue-10666129-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/062-862-10th-avenue-10666129-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/062-862-10th-avenue-10666129-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 59,
+      "rank": 63,
       "score": 33,
       "listingId": "10654223",
       "address": "145 STEMWINDER Drive",
@@ -2118,29 +2282,29 @@
       "thumbs": [
         {
           "label": "#1",
-          "url": "/review-assets/059-145-stemwinder-drive-10654223-mls-1.jpg"
+          "url": "/review-assets/063-145-stemwinder-drive-10654223-mls-1.jpg"
         },
         {
           "label": "#2",
-          "url": "/review-assets/059-145-stemwinder-drive-10654223-mls-2.jpg"
+          "url": "/review-assets/063-145-stemwinder-drive-10654223-mls-2.jpg"
         },
         {
           "label": "#3",
-          "url": "/review-assets/059-145-stemwinder-drive-10654223-mls-3.jpg"
+          "url": "/review-assets/063-145-stemwinder-drive-10654223-mls-3.jpg"
         },
         {
           "label": "#4",
-          "url": "/review-assets/059-145-stemwinder-drive-10654223-mls-4.jpg"
+          "url": "/review-assets/063-145-stemwinder-drive-10654223-mls-4.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/059-145-stemwinder-drive-10654223-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/059-145-stemwinder-drive-10654223-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/059-145-stemwinder-drive-10654223-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/063-145-stemwinder-drive-10654223-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/063-145-stemwinder-drive-10654223-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/063-145-stemwinder-drive-10654223-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 60,
+      "rank": 64,
       "score": 33,
       "listingId": "20022971",
       "address": "200 BOULDER Creek",
@@ -2155,29 +2319,29 @@
       "thumbs": [
         {
           "label": "#19",
-          "url": "/review-assets/060-200-boulder-creek-20022971-mls-19.jpg"
+          "url": "/review-assets/064-200-boulder-creek-20022971-mls-19.jpg"
         },
         {
           "label": "#20",
-          "url": "/review-assets/060-200-boulder-creek-20022971-mls-20.jpg"
+          "url": "/review-assets/064-200-boulder-creek-20022971-mls-20.jpg"
         },
         {
           "label": "#18",
-          "url": "/review-assets/060-200-boulder-creek-20022971-mls-18.jpg"
+          "url": "/review-assets/064-200-boulder-creek-20022971-mls-18.jpg"
         },
         {
           "label": "#1",
-          "url": "/review-assets/060-200-boulder-creek-20022971-mls-1.jpg"
+          "url": "/review-assets/064-200-boulder-creek-20022971-mls-1.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/060-200-boulder-creek-20022971-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/060-200-boulder-creek-20022971-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/060-200-boulder-creek-20022971-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/064-200-boulder-creek-20022971-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/064-200-boulder-creek-20022971-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/064-200-boulder-creek-20022971-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 61,
+      "rank": 65,
       "score": 33,
       "listingId": "20034035",
       "address": "2202 Black Hawk Drive",
@@ -2192,17 +2356,17 @@
       "thumbs": [
         {
           "label": "#1",
-          "url": "/review-assets/061-2202-black-hawk-drive-20034035-mls-1.jpg"
+          "url": "/review-assets/065-2202-black-hawk-drive-20034035-mls-1.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/061-2202-black-hawk-drive-20034035-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/061-2202-black-hawk-drive-20034035-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/061-2202-black-hawk-drive-20034035-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/065-2202-black-hawk-drive-20034035-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/065-2202-black-hawk-drive-20034035-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/065-2202-black-hawk-drive-20034035-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 62,
+      "rank": 66,
       "score": 33,
       "listingId": "10650499",
       "address": "402 WESTRIDGE View",
@@ -2217,29 +2381,29 @@
       "thumbs": [
         {
           "label": "#2",
-          "url": "/review-assets/062-402-westridge-view-10650499-mls-2.jpg"
+          "url": "/review-assets/066-402-westridge-view-10650499-mls-2.jpg"
         },
         {
           "label": "#20",
-          "url": "/review-assets/062-402-westridge-view-10650499-mls-20.jpg"
+          "url": "/review-assets/066-402-westridge-view-10650499-mls-20.jpg"
         },
         {
           "label": "#22",
-          "url": "/review-assets/062-402-westridge-view-10650499-mls-22.jpg"
+          "url": "/review-assets/066-402-westridge-view-10650499-mls-22.jpg"
         },
         {
           "label": "#26",
-          "url": "/review-assets/062-402-westridge-view-10650499-mls-26.jpg"
+          "url": "/review-assets/066-402-westridge-view-10650499-mls-26.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/062-402-westridge-view-10650499-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/062-402-westridge-view-10650499-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/062-402-westridge-view-10650499-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/066-402-westridge-view-10650499-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/066-402-westridge-view-10650499-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/066-402-westridge-view-10650499-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 63,
+      "rank": 67,
       "score": 33,
       "listingId": "20073637",
       "address": "454 Forest Crowne Rise",
@@ -2254,29 +2418,29 @@
       "thumbs": [
         {
           "label": "#2",
-          "url": "/review-assets/063-454-forest-crowne-rise-20073637-mls-2.jpg"
+          "url": "/review-assets/067-454-forest-crowne-rise-20073637-mls-2.jpg"
         },
         {
           "label": "#23",
-          "url": "/review-assets/063-454-forest-crowne-rise-20073637-mls-23.jpg"
+          "url": "/review-assets/067-454-forest-crowne-rise-20073637-mls-23.jpg"
         },
         {
           "label": "#27",
-          "url": "/review-assets/063-454-forest-crowne-rise-20073637-mls-27.jpg"
+          "url": "/review-assets/067-454-forest-crowne-rise-20073637-mls-27.jpg"
         },
         {
           "label": "#30",
-          "url": "/review-assets/063-454-forest-crowne-rise-20073637-mls-30.jpg"
+          "url": "/review-assets/067-454-forest-crowne-rise-20073637-mls-30.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/063-454-forest-crowne-rise-20073637-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/063-454-forest-crowne-rise-20073637-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/063-454-forest-crowne-rise-20073637-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/067-454-forest-crowne-rise-20073637-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/067-454-forest-crowne-rise-20073637-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/067-454-forest-crowne-rise-20073637-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 64,
+      "rank": 68,
       "score": 33,
       "listingId": "10685008",
       "address": "700 22ND S Avenue",
@@ -2291,29 +2455,29 @@
       "thumbs": [
         {
           "label": "#2",
-          "url": "/review-assets/064-700-22nd-s-avenue-10685008-mls-2.jpg"
+          "url": "/review-assets/068-700-22nd-s-avenue-10685008-mls-2.jpg"
         },
         {
           "label": "#11",
-          "url": "/review-assets/064-700-22nd-s-avenue-10685008-mls-11.jpg"
+          "url": "/review-assets/068-700-22nd-s-avenue-10685008-mls-11.jpg"
         },
         {
           "label": "#10",
-          "url": "/review-assets/064-700-22nd-s-avenue-10685008-mls-10.jpg"
+          "url": "/review-assets/068-700-22nd-s-avenue-10685008-mls-10.jpg"
         },
         {
           "label": "#30",
-          "url": "/review-assets/064-700-22nd-s-avenue-10685008-mls-30.jpg"
+          "url": "/review-assets/068-700-22nd-s-avenue-10685008-mls-30.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/064-700-22nd-s-avenue-10685008-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/064-700-22nd-s-avenue-10685008-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/064-700-22nd-s-avenue-10685008-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/068-700-22nd-s-avenue-10685008-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/068-700-22nd-s-avenue-10685008-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/068-700-22nd-s-avenue-10685008-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 65,
+      "rank": 69,
       "score": 33,
       "listingId": "10638399",
       "address": "7549 SPRINGS Terrace",
@@ -2328,33 +2492,33 @@
       "thumbs": [
         {
           "label": "#1",
-          "url": "/review-assets/065-7549-springs-terrace-10638399-mls-1.jpg"
+          "url": "/review-assets/069-7549-springs-terrace-10638399-mls-1.jpg"
         },
         {
           "label": "#2",
-          "url": "/review-assets/065-7549-springs-terrace-10638399-mls-2.jpg"
+          "url": "/review-assets/069-7549-springs-terrace-10638399-mls-2.jpg"
         },
         {
           "label": "#5",
-          "url": "/review-assets/065-7549-springs-terrace-10638399-mls-5.jpg"
+          "url": "/review-assets/069-7549-springs-terrace-10638399-mls-5.jpg"
         },
         {
           "label": "#6",
-          "url": "/review-assets/065-7549-springs-terrace-10638399-mls-6.jpg"
+          "url": "/review-assets/069-7549-springs-terrace-10638399-mls-6.jpg"
         },
         {
           "label": "#24",
-          "url": "/review-assets/065-7549-springs-terrace-10638399-mls-24.jpg"
+          "url": "/review-assets/069-7549-springs-terrace-10638399-mls-24.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/065-7549-springs-terrace-10638399-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/065-7549-springs-terrace-10638399-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/065-7549-springs-terrace-10638399-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/069-7549-springs-terrace-10638399-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/069-7549-springs-terrace-10638399-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/069-7549-springs-terrace-10638399-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 66,
+      "rank": 70,
       "score": 33,
       "listingId": "20020530",
       "address": "805 16TH S Street",
@@ -2369,21 +2533,21 @@
       "thumbs": [
         {
           "label": "#1",
-          "url": "/review-assets/066-805-16th-s-street-20020530-mls-1.jpg"
+          "url": "/review-assets/070-805-16th-s-street-20020530-mls-1.jpg"
         },
         {
           "label": "#2",
-          "url": "/review-assets/066-805-16th-s-street-20020530-mls-2.jpg"
+          "url": "/review-assets/070-805-16th-s-street-20020530-mls-2.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/066-805-16th-s-street-20020530-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/066-805-16th-s-street-20020530-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/066-805-16th-s-street-20020530-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/070-805-16th-s-street-20020530-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/070-805-16th-s-street-20020530-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/070-805-16th-s-street-20020530-arcgis-tile.jpg"
       }
     },
     {
-      "rank": 67,
+      "rank": 71,
       "score": 33,
       "listingId": "10639146",
       "address": "823 LAKEVIEW MEADOWS GREEN",
@@ -2398,17 +2562,17 @@
       "thumbs": [
         {
           "label": "#1",
-          "url": "/review-assets/067-823-lakeview-meadows-green-10639146-mls-1.jpg"
+          "url": "/review-assets/071-823-lakeview-meadows-green-10639146-mls-1.jpg"
         },
         {
           "label": "#12",
-          "url": "/review-assets/067-823-lakeview-meadows-green-10639146-mls-12.jpg"
+          "url": "/review-assets/071-823-lakeview-meadows-green-10639146-mls-12.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/067-823-lakeview-meadows-green-10639146-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/067-823-lakeview-meadows-green-10639146-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/067-823-lakeview-meadows-green-10639146-arcgis-tile.jpg"
+        "mlsContactSheet": "/review-assets/071-823-lakeview-meadows-green-10639146-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/071-823-lakeview-meadows-green-10639146-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/071-823-lakeview-meadows-green-10639146-arcgis-tile.jpg"
       }
     }
   ],
@@ -2428,6 +2592,19 @@
     },
     {
       "rank": 2,
+      "listingId": "20066310",
+      "address": "1170 Mcdonald Avenue",
+      "sourceLabel": "Fernie/Sparwood",
+      "recommendedSource": "mls_drone_or_aerial_candidate",
+      "bestPhotoIndices": "6,5,3,4",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "yes",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 3,
       "listingId": "20027125",
       "address": "1282 23RD S Street",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -2440,7 +2617,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "listingId": "20060624",
       "address": "1302 11th Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -2453,7 +2630,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "listingId": "20062684",
       "address": "1629 Staple Crescent",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -2466,7 +2643,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "listingId": "10675733",
       "address": "1732 20TH S Avenue",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -2479,7 +2656,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "listingId": "10677481",
       "address": "18 ELKVIEW Crescent",
       "sourceLabel": "Fernie/Sparwood",
@@ -2492,7 +2669,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "listingId": "20068527",
       "address": "1908 12th Street S",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -2505,7 +2682,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "listingId": "10681344",
       "address": "2 RIDGEMONT Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -2518,7 +2695,20 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 9,
+      "rank": 10,
+      "listingId": "20035684",
+      "address": "222 Boulder Creek",
+      "sourceLabel": "Cranbrook/Kimberley",
+      "recommendedSource": "mls_drone_or_aerial_candidate",
+      "bestPhotoIndices": "3,8,9,4,5",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "yes",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 11,
       "listingId": "20049485",
       "address": "224 Lindsay Street",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -2531,7 +2721,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 10,
+      "rank": 12,
       "listingId": "20084357",
       "address": "233 Boulder Creek",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -2544,7 +2734,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 11,
+      "rank": 13,
       "listingId": "10680589",
       "address": "2510 COBBLESTONE Trail",
       "sourceLabel": "Columbia Valley",
@@ -2557,7 +2747,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 12,
+      "rank": 14,
       "listingId": "10684446",
       "address": "2543 LEDGEROCK Ridge",
       "sourceLabel": "Columbia Valley",
@@ -2570,7 +2760,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 13,
+      "rank": 15,
       "listingId": "20072535",
       "address": "2904 Edgewood Drive",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -2583,7 +2773,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 14,
+      "rank": 16,
       "listingId": "10673047",
       "address": "4576 COLUMERE Road",
       "sourceLabel": "Columbia Valley",
@@ -2596,7 +2786,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 15,
+      "rank": 17,
       "listingId": "20046407",
       "address": "4824 MCKAY Street",
       "sourceLabel": "Columbia Valley",
@@ -2609,7 +2799,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 16,
+      "rank": 18,
       "listingId": "10665854",
       "address": "4874 RIDGE Crescent",
       "sourceLabel": "Columbia Valley",
@@ -2622,7 +2812,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 17,
+      "rank": 19,
       "listingId": "20059692",
       "address": "4891 Glen Eagle Drive",
       "sourceLabel": "Columbia Valley",
@@ -2635,7 +2825,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 18,
+      "rank": 20,
       "listingId": "10676258",
       "address": "49 MT PROCTOR Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -2648,7 +2838,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 19,
+      "rank": 21,
       "listingId": "20026072",
       "address": "4992 MOUNTAIN VIEW Drive",
       "sourceLabel": "Columbia Valley",
@@ -2661,7 +2851,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 20,
+      "rank": 22,
       "listingId": "10665467",
       "address": "661 3RD Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -2674,7 +2864,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 21,
+      "rank": 23,
       "listingId": "20020418",
       "address": "782 4TH Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -2687,7 +2877,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 22,
+      "rank": 24,
       "listingId": "10672776",
       "address": "804 17TH S Street",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -2700,7 +2890,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 23,
+      "rank": 25,
       "listingId": "20039625",
       "address": "941 5th Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -2713,7 +2903,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 24,
+      "rank": 26,
       "listingId": "10665224",
       "address": "946 RIDGE Place",
       "sourceLabel": "Columbia Valley",
@@ -2726,7 +2916,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 25,
+      "rank": 27,
       "listingId": "20038863",
       "address": "960 COPPER POINT Way",
       "sourceLabel": "Columbia Valley",
@@ -2739,7 +2929,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 26,
+      "rank": 28,
       "listingId": "10679423",
       "address": "1681 KOOCANUSA LAKE Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -2752,7 +2942,7 @@
       "arcgisPlaceholderTiles": "0"
     },
     {
-      "rank": 27,
+      "rank": 29,
       "listingId": "20021647",
       "address": "13-640 UPPER LAKEVIEW Road",
       "sourceLabel": "Columbia Valley",
@@ -2765,7 +2955,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 28,
+      "rank": 30,
       "listingId": "20049552",
       "address": "1325 12 Avenue",
       "sourceLabel": "Columbia Valley",
@@ -2778,7 +2968,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 29,
+      "rank": 31,
       "listingId": "10682383",
       "address": "14 MT TRINITY Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -2791,7 +2981,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 30,
+      "rank": 32,
       "listingId": "10647009",
       "address": "1502 PINERIDGE MOUNTAIN Place",
       "sourceLabel": "Columbia Valley",
@@ -2804,7 +2994,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 31,
+      "rank": 33,
       "listingId": "10669905",
       "address": "1609 8TH S Avenue",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -2817,7 +3007,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 32,
+      "rank": 34,
       "listingId": "10654287",
       "address": "21 MT MINTON Street",
       "sourceLabel": "Fernie/Sparwood",
@@ -2830,7 +3020,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 33,
+      "rank": 35,
       "listingId": "20061096",
       "address": "5221 Columbia River Road",
       "sourceLabel": "Columbia Valley",
@@ -2843,7 +3033,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 34,
+      "rank": 36,
       "listingId": "20066454",
       "address": "6740 Rosen Lake Road",
       "sourceLabel": "Fernie/Sparwood",
@@ -2856,7 +3046,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 35,
+      "rank": 37,
       "listingId": "10647683",
       "address": "6949 COLUMBIA RIDGE Drive",
       "sourceLabel": "Columbia Valley",
@@ -2869,7 +3059,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 36,
+      "rank": 38,
       "listingId": "20021336",
       "address": "781 WESTRIDGE Drive",
       "sourceLabel": "Columbia Valley",
@@ -2882,7 +3072,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 37,
+      "rank": 39,
       "listingId": "10670913",
       "address": "8042 MCINTOSH LOOP Road",
       "sourceLabel": "Columbia Valley",
@@ -2895,7 +3085,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 38,
+      "rank": 40,
       "listingId": "10646987",
       "address": "815 LAKEVIEW MEADOWS GREEN",
       "sourceLabel": "Columbia Valley",
@@ -2908,7 +3098,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 39,
+      "rank": 41,
       "listingId": "10654610",
       "address": "850 LAKEVIEW MEADOWS Road",
       "sourceLabel": "Columbia Valley",
@@ -2921,7 +3111,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 40,
+      "rank": 42,
       "listingId": "10668743",
       "address": "921 11TH Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -2934,7 +3124,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 41,
+      "rank": 43,
       "listingId": "20042244",
       "address": "954 313th Drive",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -2947,7 +3137,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 42,
+      "rank": 44,
       "listingId": "20050440",
       "address": "959 COPPER POINT Way",
       "sourceLabel": "Columbia Valley",
@@ -2960,7 +3150,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 43,
+      "rank": 45,
       "listingId": "20068707",
       "address": "1643 Koocanusa Lake Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -2973,7 +3163,7 @@
       "arcgisPlaceholderTiles": "0"
     },
     {
-      "rank": 44,
+      "rank": 46,
       "listingId": "20059379",
       "address": "1265 VALLEY VIEW Place",
       "sourceLabel": "Fernie/Sparwood",
@@ -2986,7 +3176,7 @@
       "arcgisPlaceholderTiles": "0"
     },
     {
-      "rank": 45,
+      "rank": 47,
       "listingId": "10621595",
       "address": "9382 MOYIE SHORES ESTATE Road",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -2999,7 +3189,7 @@
       "arcgisPlaceholderTiles": "0"
     },
     {
-      "rank": 46,
+      "rank": 48,
       "listingId": "10683952",
       "address": "1204 VALLEY VIEW Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -3012,7 +3202,7 @@
       "arcgisPlaceholderTiles": "0"
     },
     {
-      "rank": 47,
+      "rank": 49,
       "listingId": "20022704",
       "address": "1206 VALLEY VIEW Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -3025,7 +3215,7 @@
       "arcgisPlaceholderTiles": "0"
     },
     {
-      "rank": 48,
+      "rank": 50,
       "listingId": "20049830",
       "address": "1256 Valley View Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -3038,7 +3228,7 @@
       "arcgisPlaceholderTiles": "0"
     },
     {
-      "rank": 49,
+      "rank": 51,
       "listingId": "10667637",
       "address": "22-9481 ESTATES Road",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3051,7 +3241,7 @@
       "arcgisPlaceholderTiles": "0"
     },
     {
-      "rank": 50,
+      "rank": 52,
       "listingId": "20046554",
       "address": "532 Granzow Road",
       "sourceLabel": "Fernie/Sparwood",
@@ -3064,7 +3254,7 @@
       "arcgisPlaceholderTiles": "0"
     },
     {
-      "rank": 51,
+      "rank": 53,
       "listingId": "10641909",
       "address": "7822 MONROE LAKE Road",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3077,7 +3267,7 @@
       "arcgisPlaceholderTiles": "0"
     },
     {
-      "rank": 52,
+      "rank": 54,
       "listingId": "10658951",
       "address": "9444 MOYIE SHORES ESTATES W Road",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3090,7 +3280,7 @@
       "arcgisPlaceholderTiles": "0"
     },
     {
-      "rank": 53,
+      "rank": 55,
       "listingId": "10658844",
       "address": "1059 SWANSEA Road",
       "sourceLabel": "Columbia Valley",
@@ -3103,7 +3293,20 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 54,
+      "rank": 56,
+      "listingId": "20026178",
+      "address": "137 12A Avenue",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "possible_mls_elevated_candidate_needs_verify",
+      "bestPhotoIndices": "5,1,7,8,29,30",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "unclear",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 57,
       "listingId": "10683127",
       "address": "1400 17TH S Street",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3116,7 +3319,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 55,
+      "rank": 58,
       "listingId": "10676060",
       "address": "1825 TAYNTON Road",
       "sourceLabel": "Columbia Valley",
@@ -3129,7 +3332,20 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 56,
+      "rank": 59,
+      "listingId": "20027834",
+      "address": "405 FOREST CROWNE Close",
+      "sourceLabel": "Cranbrook/Kimberley",
+      "recommendedSource": "possible_mls_elevated_candidate_needs_verify",
+      "bestPhotoIndices": "3,1,2,4,5",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "unclear",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 60,
       "listingId": "20021525",
       "address": "4585 COLUMERE Road",
       "sourceLabel": "Columbia Valley",
@@ -3142,7 +3358,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 57,
+      "rank": 61,
       "listingId": "10660433",
       "address": "4942 MOUNTAIN HILL Road",
       "sourceLabel": "Columbia Valley",
@@ -3155,7 +3371,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 58,
+      "rank": 62,
       "listingId": "10666129",
       "address": "862 10TH Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -3168,7 +3384,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 59,
+      "rank": 63,
       "listingId": "10654223",
       "address": "145 STEMWINDER Drive",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3181,7 +3397,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 60,
+      "rank": 64,
       "listingId": "20022971",
       "address": "200 BOULDER Creek",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3194,7 +3410,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 61,
+      "rank": 65,
       "listingId": "20034035",
       "address": "2202 Black Hawk Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -3207,7 +3423,7 @@
       "arcgisPlaceholderTiles": "1"
     },
     {
-      "rank": 62,
+      "rank": 66,
       "listingId": "10650499",
       "address": "402 WESTRIDGE View",
       "sourceLabel": "Columbia Valley",
@@ -3220,7 +3436,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 63,
+      "rank": 67,
       "listingId": "20073637",
       "address": "454 Forest Crowne Rise",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3233,7 +3449,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 64,
+      "rank": 68,
       "listingId": "10685008",
       "address": "700 22ND S Avenue",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3246,7 +3462,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 65,
+      "rank": 69,
       "listingId": "10638399",
       "address": "7549 SPRINGS Terrace",
       "sourceLabel": "Columbia Valley",
@@ -3259,7 +3475,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 66,
+      "rank": 70,
       "listingId": "20020530",
       "address": "805 16TH S Street",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3272,7 +3488,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 67,
+      "rank": 71,
       "listingId": "10639146",
       "address": "823 LAKEVIEW MEADOWS GREEN",
       "sourceLabel": "Columbia Valley",
@@ -3285,7 +3501,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 68,
+      "rank": 72,
       "listingId": "20028580",
       "address": "1309 BIRCHWOOD Place",
       "sourceLabel": "Fernie/Sparwood",
@@ -3298,7 +3514,7 @@
       "arcgisPlaceholderTiles": "0"
     },
     {
-      "rank": 69,
+      "rank": 73,
       "listingId": "20078363",
       "address": "1357 Cypress Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -3311,7 +3527,7 @@
       "arcgisPlaceholderTiles": "0"
     },
     {
-      "rank": 70,
+      "rank": 74,
       "listingId": "10683161",
       "address": "2313 FALCON Court",
       "sourceLabel": "Fernie/Sparwood",
@@ -3324,7 +3540,7 @@
       "arcgisPlaceholderTiles": "1"
     },
     {
-      "rank": 71,
+      "rank": 75,
       "listingId": "20080409",
       "address": "1668 Tranquility Road",
       "sourceLabel": "Fernie/Sparwood",
@@ -3337,7 +3553,7 @@
       "arcgisPlaceholderTiles": "0"
     },
     {
-      "rank": 72,
+      "rank": 76,
       "listingId": "20058040",
       "address": "205 309th Avenue",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3350,7 +3566,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 73,
+      "rank": 77,
       "listingId": "20074790",
       "address": "215 13th Avenue S",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3363,7 +3579,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 74,
+      "rank": 78,
       "listingId": "10672915",
       "address": "3415 CROOKED TREE Place",
       "sourceLabel": "Columbia Valley",
@@ -3376,7 +3592,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 75,
+      "rank": 79,
       "listingId": "20022519",
       "address": "611 NELSON Street",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3389,7 +3605,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 76,
+      "rank": 80,
       "listingId": "20078478",
       "address": "75 103RD Avenue",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3402,7 +3618,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 77,
+      "rank": 81,
       "listingId": "10682918",
       "address": "79 RIDGEMONT Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -3415,7 +3631,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 78,
+      "rank": 82,
       "listingId": "20020840",
       "address": "814 307TH Avenue",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3428,7 +3644,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 79,
+      "rank": 83,
       "listingId": "10683812",
       "address": "958 COPPER POINT Way",
       "sourceLabel": "Columbia Valley",
@@ -3441,7 +3657,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 80,
+      "rank": 84,
       "listingId": "10675551",
       "address": "1101 6TH Street",
       "sourceLabel": "Columbia Valley",
@@ -3454,7 +3670,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 81,
+      "rank": 85,
       "listingId": "10673089",
       "address": "112 FOREST CROWNE Crescent",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3467,7 +3683,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 82,
+      "rank": 86,
       "listingId": "10663121",
       "address": "1362 11TH Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -3480,7 +3696,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 83,
+      "rank": 87,
       "listingId": "10683098",
       "address": "1440 CANTERBURY Close",
       "sourceLabel": "Columbia Valley",
@@ -3493,7 +3709,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 84,
+      "rank": 88,
       "listingId": "20077373",
       "address": "166 304th Avenue",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3506,7 +3722,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 85,
+      "rank": 89,
       "listingId": "10675368",
       "address": "201 1ST Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -3519,7 +3735,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 86,
+      "rank": 90,
       "listingId": "10679212",
       "address": "2108 WHISKEY JACK Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -3532,7 +3748,7 @@
       "arcgisPlaceholderTiles": "2"
     },
     {
-      "rank": 87,
+      "rank": 91,
       "listingId": "10670943",
       "address": "22 COAL CREEK Road",
       "sourceLabel": "Fernie/Sparwood",
@@ -3545,7 +3761,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 88,
+      "rank": 92,
       "listingId": "10680848",
       "address": "2400 34TH S Avenue",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3558,7 +3774,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 89,
+      "rank": 93,
       "listingId": "10677502",
       "address": "2537 LEDGEROCK Ridge",
       "sourceLabel": "Columbia Valley",
@@ -3571,7 +3787,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 90,
+      "rank": 94,
       "listingId": "10660407",
       "address": "2589 LEDGEROCK Court",
       "sourceLabel": "Columbia Valley",
@@ -3584,7 +3800,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 91,
+      "rank": 95,
       "listingId": "10676027",
       "address": "29 RIDGEMONT Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -3597,7 +3813,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 92,
+      "rank": 96,
       "listingId": "20073830",
       "address": "311 302nd Avenue",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3610,7 +3826,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 93,
+      "rank": 97,
       "listingId": "20022685",
       "address": "405 7TH Avenue",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3623,7 +3839,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 94,
+      "rank": 98,
       "listingId": "20003058",
       "address": "4315 LAKEVIEW Drive",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3636,7 +3852,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 95,
+      "rank": 99,
       "listingId": "10671043",
       "address": "4690 NORTH Street",
       "sourceLabel": "Columbia Valley",
@@ -3649,7 +3865,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 96,
+      "rank": 100,
       "listingId": "20070160",
       "address": "530 Trail Street",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3662,7 +3878,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 97,
+      "rank": 101,
       "listingId": "10673062",
       "address": "6853 ROSEN LAKE E Road",
       "sourceLabel": "Fernie/Sparwood",
@@ -3675,7 +3891,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 98,
+      "rank": 102,
       "listingId": "10679813",
       "address": "701 34TH S Avenue",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3688,7 +3904,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 99,
+      "rank": 103,
       "listingId": "10693834",
       "address": "821 6TH Avenue",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3701,7 +3917,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 100,
+      "rank": 104,
       "listingId": "20022908",
       "address": "842 8TH Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -3714,7 +3930,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 101,
+      "rank": 105,
       "listingId": "10667796",
       "address": "9 PINE Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -3727,7 +3943,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 102,
+      "rank": 106,
       "listingId": "10666059",
       "address": "992 8TH Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -3740,7 +3956,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 103,
+      "rank": 107,
       "listingId": "10681651",
       "address": "1 MT PROCTOR Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -3753,7 +3969,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 104,
+      "rank": 108,
       "listingId": "10663402",
       "address": "11 PARKLAND Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -3766,7 +3982,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 105,
+      "rank": 109,
       "listingId": "10685535",
       "address": "112 PURCELL Place",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3779,7 +3995,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 106,
+      "rank": 110,
       "listingId": "10657869",
       "address": "1122 HILLTOP Road",
       "sourceLabel": "Columbia Valley",
@@ -3792,7 +4008,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 107,
+      "rank": 111,
       "listingId": "20020438",
       "address": "1250 VALLEY VIEW Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -3805,7 +4021,7 @@
       "arcgisPlaceholderTiles": "0"
     },
     {
-      "rank": 108,
+      "rank": 112,
       "listingId": "10674183",
       "address": "1274 23RD S Street",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3818,7 +4034,20 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 109,
+      "rank": 113,
+      "listingId": "10675686",
+      "address": "1341 1ST Avenue",
+      "sourceLabel": "Fernie/Sparwood",
+      "recommendedSource": "blocked_arcgis_no_imagery",
+      "bestPhotoIndices": "1,2,3,27,28,29,30",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 114,
       "listingId": "10681443",
       "address": "1391 10TH Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -3831,7 +4060,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 110,
+      "rank": 115,
       "listingId": "10670512",
       "address": "1461 8TH Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -3844,7 +4073,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 111,
+      "rank": 116,
       "listingId": "10681347",
       "address": "15 MT PROCTOR Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -3857,7 +4086,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 112,
+      "rank": 117,
       "listingId": "10672843",
       "address": "150 SULLIVAN Drive",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3870,7 +4099,33 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 113,
+      "rank": 118,
+      "listingId": "20049602",
+      "address": "1509 10th Avenue",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "mls_ground_backyard_context_only",
+      "bestPhotoIndices": "1,14,26",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 119,
+      "listingId": "10652596",
+      "address": "16 CEDAR BOWL Drive",
+      "sourceLabel": "Fernie/Sparwood",
+      "recommendedSource": "blocked_arcgis_no_imagery",
+      "bestPhotoIndices": "21,22,25,26,27",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 120,
       "listingId": "20043865",
       "address": "1622 11 Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -3883,7 +4138,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 114,
+      "rank": 121,
       "listingId": "10681930",
       "address": "176 SHADOW MOUNTAIN Boulevard",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3896,7 +4151,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 115,
+      "rank": 122,
       "listingId": "10670897",
       "address": "1905 16TH S Street",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3909,7 +4164,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 116,
+      "rank": 123,
       "listingId": "10652500",
       "address": "1909 16TH S Street",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3922,7 +4177,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 117,
+      "rank": 124,
       "listingId": "20078352",
       "address": "2071 Golden Eagle Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -3935,7 +4190,7 @@
       "arcgisPlaceholderTiles": "0"
     },
     {
-      "rank": 118,
+      "rank": 125,
       "listingId": "20078342",
       "address": "209 31st Avenue S",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -3948,7 +4203,20 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 119,
+      "rank": 126,
+      "listingId": "10675001",
+      "address": "2134 WHISKEY JACK Drive",
+      "sourceLabel": "Fernie/Sparwood",
+      "recommendedSource": "mls_ground_backyard_context_only",
+      "bestPhotoIndices": "1",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
+      "arcgisRealTiles": "9",
+      "arcgisPlaceholderTiles": "0"
+    },
+    {
+      "rank": 127,
       "listingId": "10683923",
       "address": "2135 WHISKEY JACK Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -3961,7 +4229,7 @@
       "arcgisPlaceholderTiles": "0"
     },
     {
-      "rank": 120,
+      "rank": 128,
       "listingId": "10671578",
       "address": "2140 WHISKEY JACK Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -3974,7 +4242,7 @@
       "arcgisPlaceholderTiles": "0"
     },
     {
-      "rank": 121,
+      "rank": 129,
       "listingId": "20021326",
       "address": "2264 BLACK HAWK Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -3987,7 +4255,7 @@
       "arcgisPlaceholderTiles": "0"
     },
     {
-      "rank": 122,
+      "rank": 130,
       "listingId": "10670868",
       "address": "23 RIDGEMONT Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -4000,7 +4268,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 123,
+      "rank": 131,
       "listingId": "20087226",
       "address": "244 Boulder Creek",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4013,7 +4281,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 124,
+      "rank": 132,
       "listingId": "20043585",
       "address": "254 305TH Avenue",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4026,7 +4294,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 125,
+      "rank": 133,
       "listingId": "10669410",
       "address": "2572 LEDGEROCK Ridge",
       "sourceLabel": "Columbia Valley",
@@ -4039,7 +4307,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 126,
+      "rank": 134,
       "listingId": "10672111",
       "address": "2577 SANDSTONE Circle",
       "sourceLabel": "Columbia Valley",
@@ -4052,7 +4320,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 127,
+      "rank": 135,
       "listingId": "10680456",
       "address": "2580 SANDSTONE View",
       "sourceLabel": "Columbia Valley",
@@ -4065,7 +4333,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 128,
+      "rank": 136,
       "listingId": "10671250",
       "address": "2588 LEDGEROCK Ridge",
       "sourceLabel": "Columbia Valley",
@@ -4078,7 +4346,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 129,
+      "rank": 137,
       "listingId": "20053388",
       "address": "2715 3rd Street S",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4091,7 +4359,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 130,
+      "rank": 138,
       "listingId": "20042580",
       "address": "2850 BLACK BEAR Crescent",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4104,7 +4372,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 131,
+      "rank": 139,
       "listingId": "20063623",
       "address": "3101 5th Street S",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4117,7 +4385,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 132,
+      "rank": 140,
       "listingId": "20045387",
       "address": "3313 3A Street S",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4130,7 +4398,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 133,
+      "rank": 141,
       "listingId": "10666517",
       "address": "4 MT PROCTOR Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -4143,7 +4411,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 134,
+      "rank": 142,
       "listingId": "20048760",
       "address": "438 ALPINE Crescent",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4156,7 +4424,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 135,
+      "rank": 143,
       "listingId": "10682881",
       "address": "447 CROWNE RISE Forest",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4169,7 +4437,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 136,
+      "rank": 144,
       "listingId": "20076380",
       "address": "4573 Columere Road",
       "sourceLabel": "Columbia Valley",
@@ -4182,7 +4450,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 137,
+      "rank": 145,
       "listingId": "10659027",
       "address": "4642 ROWAN Street",
       "sourceLabel": "Columbia Valley",
@@ -4195,7 +4463,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 138,
+      "rank": 146,
       "listingId": "10644065",
       "address": "4806 HOLLAND CREEK RIDGE Road",
       "sourceLabel": "Columbia Valley",
@@ -4208,7 +4476,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 139,
+      "rank": 147,
       "listingId": "20084577",
       "address": "4885 Carnoustie Place",
       "sourceLabel": "Columbia Valley",
@@ -4221,7 +4489,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 140,
+      "rank": 148,
       "listingId": "10673650",
       "address": "4949 MOUNTAIN HILL Road",
       "sourceLabel": "Columbia Valley",
@@ -4234,7 +4502,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 141,
+      "rank": 149,
       "listingId": "20040797",
       "address": "51 100TH Avenue",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4247,7 +4515,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 142,
+      "rank": 150,
       "listingId": "20080295",
       "address": "5132 Riverview Crescent",
       "sourceLabel": "Columbia Valley",
@@ -4260,7 +4528,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 143,
+      "rank": 151,
       "listingId": "10660236",
       "address": "55 RIDGEMONT Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -4273,7 +4541,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 144,
+      "rank": 152,
       "listingId": "10665347",
       "address": "592 9TH Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -4286,7 +4554,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 145,
+      "rank": 153,
       "listingId": "10660875",
       "address": "5938 COLUMBIA LAKE Road",
       "sourceLabel": "Columbia Valley",
@@ -4299,7 +4567,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 146,
+      "rank": 154,
       "listingId": "20081980",
       "address": "606 302nd Street",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4312,7 +4580,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 147,
+      "rank": 155,
       "listingId": "20037931",
       "address": "610 PONDEROSA Drive",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4325,7 +4593,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 148,
+      "rank": 156,
       "listingId": "10672919",
       "address": "6894 COLUMBIA RIDGE Drive",
       "sourceLabel": "Columbia Valley",
@@ -4338,7 +4606,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 149,
+      "rank": 157,
       "listingId": "10669795",
       "address": "7043 ELK RIDGE Road",
       "sourceLabel": "Columbia Valley",
@@ -4351,7 +4619,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 150,
+      "rank": 158,
       "listingId": "10662424",
       "address": "7503 SUN VALLEY Place",
       "sourceLabel": "Columbia Valley",
@@ -4364,7 +4632,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 151,
+      "rank": 159,
       "listingId": "10645721",
       "address": "799 LAKEVIEW MEADOWS Point",
       "sourceLabel": "Columbia Valley",
@@ -4377,7 +4645,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 152,
+      "rank": 160,
       "listingId": "10669531",
       "address": "801 22ND S Avenue",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4390,7 +4658,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 153,
+      "rank": 161,
       "listingId": "10673624",
       "address": "8414 RICHARDSON Crescent",
       "sourceLabel": "Columbia Valley",
@@ -4403,7 +4671,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 154,
+      "rank": 162,
       "listingId": "20086371",
       "address": "87-1401 Willowbrook Drive N",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4416,7 +4684,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 155,
+      "rank": 163,
       "listingId": "10669578",
       "address": "9-6324 LAURIER Avenue",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4429,7 +4697,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 156,
+      "rank": 164,
       "listingId": "10680439",
       "address": "913 17TH S Street",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4442,7 +4710,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 157,
+      "rank": 165,
       "listingId": "20050871",
       "address": "940 313TH Drive",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4455,7 +4723,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 158,
+      "rank": 166,
       "listingId": "10685328",
       "address": "961 COPPER POINT Way",
       "sourceLabel": "Columbia Valley",
@@ -4468,7 +4736,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 159,
+      "rank": 167,
       "listingId": "10606465",
       "address": "#37-6674 WARDNER-KIKOMUN Road",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4481,7 +4749,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 160,
+      "rank": 168,
       "listingId": "10574816",
       "address": "1 BIGHORN SHEEP Lane",
       "sourceLabel": "Columbia Valley",
@@ -4494,7 +4762,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 161,
+      "rank": 169,
       "listingId": "10563296",
       "address": "1007 4TH Avenue",
       "sourceLabel": "Columbia Valley",
@@ -4507,7 +4775,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 162,
+      "rank": 170,
       "listingId": "10674172",
       "address": "101 RIDGEMONT Crescent",
       "sourceLabel": "Fernie/Sparwood",
@@ -4520,7 +4788,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 163,
+      "rank": 171,
       "listingId": "10559698",
       "address": "11 ALPINE TRAIL Lane",
       "sourceLabel": "Fernie/Sparwood",
@@ -4533,7 +4801,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 164,
+      "rank": 172,
       "listingId": "10636711",
       "address": "11 SILVER RIDGE Way",
       "sourceLabel": "Fernie/Sparwood",
@@ -4546,7 +4814,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 165,
+      "rank": 173,
       "listingId": "10676037",
       "address": "1110 BEACH Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -4559,20 +4827,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 166,
-      "listingId": "20066310",
-      "address": "1170 Mcdonald Avenue",
-      "sourceLabel": "Fernie/Sparwood",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 167,
+      "rank": 174,
       "listingId": "10637598",
       "address": "1191 11TH Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -4585,7 +4840,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 168,
+      "rank": 175,
       "listingId": "10672499",
       "address": "1202 4TH Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -4598,7 +4853,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 169,
+      "rank": 176,
       "listingId": "10659866",
       "address": "123 WHITETAIL Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -4611,7 +4866,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 170,
+      "rank": 177,
       "listingId": "10663856",
       "address": "1251 2ND Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -4624,7 +4879,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 171,
+      "rank": 178,
       "listingId": "10667018",
       "address": "129 STEMWINDER Drive",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4637,20 +4892,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 172,
-      "listingId": "10675686",
-      "address": "1341 1ST Avenue",
-      "sourceLabel": "Fernie/Sparwood",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 173,
+      "rank": 179,
       "listingId": "10612922",
       "address": "1357 SOUTHVIEW Drive",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4663,20 +4905,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 174,
-      "listingId": "20026178",
-      "address": "137 12A Avenue",
-      "sourceLabel": "Columbia Valley",
-      "recommendedSource": "needs_aerial_review",
-      "bestPhotoIndices": "",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 175,
+      "rank": 180,
       "listingId": "20079642",
       "address": "140 River Drive",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4689,7 +4918,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 176,
+      "rank": 181,
       "listingId": "10589073",
       "address": "1453 STODDART Avenue",
       "sourceLabel": "Columbia Valley",
@@ -4702,20 +4931,20 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 177,
+      "rank": 182,
       "listingId": "10667357",
       "address": "1464 SOUTHVIEW Drive",
       "sourceLabel": "Cranbrook/Kimberley",
       "recommendedSource": "blocked_arcgis_no_imagery",
       "bestPhotoIndices": "",
       "coordinateConfidence": "listing",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
       "arcgisRealTiles": "0",
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 178,
+      "rank": 183,
       "listingId": "20021290",
       "address": "147 THE WHINS",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4728,7 +4957,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 179,
+      "rank": 184,
       "listingId": "10656960",
       "address": "15 ALPINE TRAIL Crescent",
       "sourceLabel": "Fernie/Sparwood",
@@ -4741,7 +4970,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 180,
+      "rank": 185,
       "listingId": "10629259",
       "address": "15 ALPINE TRAILS Crescent",
       "sourceLabel": "Fernie/Sparwood",
@@ -4754,7 +4983,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 181,
+      "rank": 186,
       "listingId": "20083862",
       "address": "15 Turner Close",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4767,20 +4996,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 182,
-      "listingId": "20049602",
-      "address": "1509 10th Avenue",
-      "sourceLabel": "Columbia Valley",
-      "recommendedSource": "needs_aerial_review",
-      "bestPhotoIndices": "",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 183,
+      "rank": 187,
       "listingId": "10573769",
       "address": "1513 LAKEVIEW Lane",
       "sourceLabel": "Columbia Valley",
@@ -4793,7 +5009,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 184,
+      "rank": 188,
       "listingId": "10552417",
       "address": "153 STEMWINDER Drive",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4806,20 +5022,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 185,
-      "listingId": "10652596",
-      "address": "16 CEDAR BOWL Drive",
-      "sourceLabel": "Fernie/Sparwood",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 186,
+      "rank": 189,
       "listingId": "10671641",
       "address": "16 MT MINTON Street",
       "sourceLabel": "Fernie/Sparwood",
@@ -4832,7 +5035,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 187,
+      "rank": 190,
       "listingId": "10684522",
       "address": "1611 1ST S Avenue",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4845,7 +5048,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 188,
+      "rank": 191,
       "listingId": "20069196",
       "address": "1646 MT PYRAMID Crescent",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4858,7 +5061,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 189,
+      "rank": 192,
       "listingId": "10615862",
       "address": "17 ALPINE Trail",
       "sourceLabel": "Fernie/Sparwood",
@@ -4871,7 +5074,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 190,
+      "rank": 193,
       "listingId": "10657484",
       "address": "1701 3RD S Avenue",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4884,7 +5087,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 191,
+      "rank": 194,
       "listingId": "10685465",
       "address": "1715 3RD Avenue",
       "sourceLabel": "Columbia Valley",
@@ -4897,7 +5100,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 192,
+      "rank": 195,
       "listingId": "10675078",
       "address": "1745 SWANSEA Avenue",
       "sourceLabel": "Columbia Valley",
@@ -4910,7 +5113,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 193,
+      "rank": 196,
       "listingId": "10521676",
       "address": "1753 2ND Avenue",
       "sourceLabel": "Columbia Valley",
@@ -4923,7 +5126,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 194,
+      "rank": 197,
       "listingId": "10626846",
       "address": "18-6674 WARDNER-KIKOMUM Road",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4936,7 +5139,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 195,
+      "rank": 198,
       "listingId": "20057967",
       "address": "1900 12th Street S",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -4949,7 +5152,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 196,
+      "rank": 199,
       "listingId": "20020845",
       "address": "1921 PINERIDGE MOUNTAIN Trail",
       "sourceLabel": "Columbia Valley",
@@ -4962,7 +5165,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 197,
+      "rank": 200,
       "listingId": "10681575",
       "address": "197 RIDGEMONT Lane",
       "sourceLabel": "Fernie/Sparwood",
@@ -4975,7 +5178,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 198,
+      "rank": 201,
       "listingId": "10650416",
       "address": "1973 GREYWOLF Drive",
       "sourceLabel": "Columbia Valley",
@@ -4988,7 +5191,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 199,
+      "rank": 202,
       "listingId": "10579894",
       "address": "2 ALLAN GRAHAM Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -5001,7 +5204,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 200,
+      "rank": 203,
       "listingId": "10644420",
       "address": "20 PINE Crescent",
       "sourceLabel": "Fernie/Sparwood",
@@ -5014,20 +5217,20 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 201,
+      "rank": 204,
       "listingId": "20069119",
       "address": "2030 GOLDEN EAGLE Drive",
       "sourceLabel": "Fernie/Sparwood",
       "recommendedSource": "needs_aerial_review",
       "bestPhotoIndices": "",
       "coordinateConfidence": "listing",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
       "arcgisRealTiles": "9",
       "arcgisPlaceholderTiles": "0"
     },
     {
-      "rank": 202,
+      "rank": 205,
       "listingId": "20040986",
       "address": "205 18 Street S",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -5040,7 +5243,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 203,
+      "rank": 206,
       "listingId": "10625065",
       "address": "208 CROWNE TERRACE Forest",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -5053,7 +5256,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 204,
+      "rank": 207,
       "listingId": "10683832",
       "address": "211 CROWNE TERRACE Forest",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -5066,20 +5269,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 205,
-      "listingId": "10675001",
-      "address": "2134 WHISKEY JACK Drive",
-      "sourceLabel": "Fernie/Sparwood",
-      "recommendedSource": "needs_aerial_review",
-      "bestPhotoIndices": "",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
-      "arcgisRealTiles": "9",
-      "arcgisPlaceholderTiles": "0"
-    },
-    {
-      "rank": 206,
+      "rank": 208,
       "listingId": "10685240",
       "address": "2210 13TH S Avenue",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -5092,20 +5282,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 207,
-      "listingId": "20035684",
-      "address": "222 Boulder Creek",
-      "sourceLabel": "Cranbrook/Kimberley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 208,
+      "rank": 209,
       "listingId": "20084254",
       "address": "2252 Black Hawk Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -5118,7 +5295,7 @@
       "arcgisPlaceholderTiles": "2"
     },
     {
-      "rank": 209,
+      "rank": 210,
       "listingId": "10681059",
       "address": "2260 BLACK HAWK Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -5131,7 +5308,7 @@
       "arcgisPlaceholderTiles": "1"
     },
     {
-      "rank": 210,
+      "rank": 211,
       "listingId": "20035045",
       "address": "2411 Osprey Court",
       "sourceLabel": "Fernie/Sparwood",
@@ -5144,7 +5321,7 @@
       "arcgisPlaceholderTiles": "2"
     },
     {
-      "rank": 211,
+      "rank": 212,
       "listingId": "10599160",
       "address": "25 SKIFTY MORRIS Way",
       "sourceLabel": "Fernie/Sparwood",
@@ -5157,7 +5334,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 212,
+      "rank": 213,
       "listingId": "10631447",
       "address": "2527 LEDGEROCK Ridge",
       "sourceLabel": "Columbia Valley",
@@ -5170,7 +5347,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 213,
+      "rank": 214,
       "listingId": "20075439",
       "address": "2950 Mellor Road",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -5183,7 +5360,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 214,
+      "rank": 215,
       "listingId": "20073619",
       "address": "3 Mt Proctor Avenue",
       "sourceLabel": "Fernie/Sparwood",
@@ -5196,7 +5373,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 215,
+      "rank": 216,
       "listingId": "10681908",
       "address": "300 LEGACY LOOKOUT",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -5209,7 +5386,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 216,
+      "rank": 217,
       "listingId": "20047369",
       "address": "303 Legacy Lookout",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -5222,7 +5399,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 217,
+      "rank": 218,
       "listingId": "20042910",
       "address": "307 LEGACY LOOKOUT",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -5235,7 +5412,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 218,
+      "rank": 219,
       "listingId": "20051381",
       "address": "31 - 640 Upper Lakeview Road",
       "sourceLabel": "Columbia Valley",
@@ -5248,7 +5425,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 219,
+      "rank": 220,
       "listingId": "20046086",
       "address": "3104 5th Street S",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -5261,7 +5438,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 220,
+      "rank": 221,
       "listingId": "20048728",
       "address": "313 17TH Street S",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -5274,7 +5451,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 221,
+      "rank": 222,
       "listingId": "20071254",
       "address": "317 Legacy Lookout",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -5287,7 +5464,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 222,
+      "rank": 223,
       "listingId": "10628923",
       "address": "32 SILVER RIDGE Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -5300,7 +5477,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 223,
+      "rank": 224,
       "listingId": "20026282",
       "address": "32-1401 30TH N Avenue",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -5313,7 +5490,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 224,
+      "rank": 225,
       "listingId": "20080078",
       "address": "335 16th Avenue S",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -5326,7 +5503,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 225,
+      "rank": 226,
       "listingId": "20050060",
       "address": "350 Legacy Lookout",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -5339,7 +5516,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 226,
+      "rank": 227,
       "listingId": "20087063",
       "address": "365 Legacy Lookout",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -5352,7 +5529,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 227,
+      "rank": 228,
       "listingId": "10619308",
       "address": "368 PANORAMA Place",
       "sourceLabel": "Columbia Valley",
@@ -5365,7 +5542,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 228,
+      "rank": 229,
       "listingId": "10629333",
       "address": "37 SILVER RIDGE Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -5378,7 +5555,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 229,
+      "rank": 230,
       "listingId": "10655082",
       "address": "39 ELKVIEW Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -5391,22 +5568,9 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 230,
+      "rank": 231,
       "listingId": "20021100",
       "address": "402 ALPINE Crescent",
-      "sourceLabel": "Cranbrook/Kimberley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 231,
-      "listingId": "20027834",
-      "address": "405 FOREST CROWNE Close",
       "sourceLabel": "Cranbrook/Kimberley",
       "recommendedSource": "blocked_arcgis_no_imagery",
       "bestPhotoIndices": "",
