@@ -197,16 +197,6 @@ export default function ReviewPage({ areaFilter = null }) {
           <p className="lede">{data.goal}</p>
           <p className="rights">{data.rightsNotice}</p>
         </div>
-        <div className="stats">
-          <Stat label="Properties" value={areaFilter ? data.allAddresses.filter((row) => row.sourceLabel === areaFilter).length : data.summary.properties} />
-          <Stat label="MLS reviewed" value={areaFilter ? data.allAddresses.filter((row) => row.sourceLabel === areaFilter && row.mlsReviewed).length : data.summary.mlsReviewed} />
-          <Stat label="Candidate cards" value={areaFilter ? data.cards.filter((card) => card.sourceLabel === areaFilter).length : data.summary.candidateCards} />
-          <Stat label="MLS aerial/elevated" value={areaFilter ? data.cards.filter((card) => card.sourceLabel === areaFilter && card.recommendedSource === 'mls_drone_or_aerial_candidate').length : counts.mls_drone_or_aerial_candidate || 0} />
-          <Stat label="ArcGIS overhead" value={areaFilter ? data.cards.filter((card) => card.sourceLabel === areaFilter && card.recommendedSource === 'arcgis_overhead_house_backyard_candidate').length : counts.arcgis_overhead_house_backyard_candidate || 0} />
-          <Stat label="Possible elevated" value={areaFilter ? data.cards.filter((card) => card.sourceLabel === areaFilter && card.recommendedSource === 'possible_mls_elevated_candidate_needs_verify').length : counts.possible_mls_elevated_candidate_needs_verify || 0} />
-          <Stat label="Needs review" value={areaFilter ? data.allAddresses.filter((row) => row.sourceLabel === areaFilter && row.recommendedSource === 'needs_aerial_review').length : counts.needs_aerial_review || 0} />
-          <Stat label="No ArcGIS imagery" value={areaFilter ? data.allAddresses.filter((row) => row.sourceLabel === areaFilter && row.recommendedSource === 'blocked_arcgis_no_imagery').length : counts.blocked_arcgis_no_imagery || 0} />
-        </div>
       </section>
 
       <section className="toolbar">
