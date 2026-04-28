@@ -18,7 +18,9 @@ OUT_JSON = PUBLIC / "review-data.json"
 KEEP_SOURCES = {
     "mls_drone_or_aerial_candidate",
     "arcgis_overhead_house_backyard_candidate",
+    "bing_overhead_house_backyard_candidate",
     "possible_mls_elevated_candidate_needs_verify",
+    "possible_bing_overhead_needs_verify",
 }
 
 
@@ -80,6 +82,10 @@ def main() -> None:
             continue
         base = f"{str(r['triage_rank']).zfill(3)}-{slug(r['address'])}-{r['listing_id']}"
         thumbs = []
+        if r["recommended_source"].startswith("bing") and r.get("bing_contact_sheet"):
+            url = copy_asset(r["bing_contact_sheet"], f"{base}-bing-sheet-primary")
+            if url:
+                thumbs.append({"label": "Bing", "url": url})
         for idx in parse_indices(r.get("mls_best_photo_indices", ""))[:8]:
             src = photo_map.get((r["listing_id"], idx))
             url = copy_asset(src, f"{base}-mls-{idx}") if src else ""
@@ -89,10 +95,15 @@ def main() -> None:
             url = copy_asset(r["best_overhead_candidate"], f"{base}-arcgis-best")
             if url:
                 thumbs.append({"label": "ArcGIS", "url": url})
+        if not thumbs and r.get("bing_contact_sheet"):
+            url = copy_asset(r["bing_contact_sheet"], f"{base}-bing-sheet-primary")
+            if url:
+                thumbs.append({"label": "Bing", "url": url})
 
         mls_sheet = copy_asset(r.get("mls_contact_sheet", ""), f"{base}-mls-sheet")
         aerial_sheet = copy_asset(r.get("aerial_contact_sheet", ""), f"{base}-arcgis-sheet")
         best_arcgis = copy_asset(r.get("best_overhead_candidate", ""), f"{base}-arcgis-tile")
+        bing_sheet = copy_asset(r.get("bing_contact_sheet", ""), f"{base}-bing-sheet")
 
         cards.append({
             "rank": int(r["triage_rank"]),
@@ -106,12 +117,17 @@ def main() -> None:
             "coordinateConfidence": r.get("coordinate_confidence", ""),
             "arcgisRealTiles": r.get("aerial_real_tiles", ""),
             "arcgisPlaceholderTiles": r.get("aerial_placeholder_tiles", ""),
+            "bingOverhead": r.get("bing_overhead", ""),
+            "bingTileCount": r.get("bing_tile_count", ""),
+            "bingBestTilePosition": r.get("bing_best_tile_position", ""),
+            "bingCoverageStrength": r.get("bing_coverage_strength", ""),
             "notes": r.get("notes", ""),
             "thumbs": thumbs,
             "links": {
                 "mlsContactSheet": mls_sheet,
                 "arcgisContactSheet": aerial_sheet,
                 "bestArcgisTile": best_arcgis,
+                "bingContactSheet": bing_sheet,
             },
         })
 
@@ -131,6 +147,7 @@ def main() -> None:
             "coordinateConfidence": r.get("coordinate_confidence", ""),
             "mlsReviewed": r.get("mls_drone_or_aerial") != "unreviewed",
             "mlsAerial": r.get("mls_drone_or_aerial", ""),
+            "bingOverhead": r.get("bing_overhead", ""),
             "arcgisRealTiles": r.get("aerial_real_tiles", ""),
             "arcgisPlaceholderTiles": r.get("aerial_placeholder_tiles", ""),
         }

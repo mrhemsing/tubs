@@ -13,6 +13,8 @@ MLS_CROSSCHECK_DIR = ROOT / "data" / "mls_photo_inventory"
 OUT_CSV = ROOT / "data" / "triage" / "property_candidate_triage.csv"
 OUT_JSON = ROOT / "data" / "triage" / "property_candidate_triage.json"
 CROSSCHECK_SUMMARY_CSV = ROOT / "data" / "mls_photo_inventory" / "mls_crosscheck_summary.csv"
+BING_INDEX_CSV = ROOT / "data" / "alternate_contact_sheets" / "bing" / "index.csv"
+BING_REVIEW_DIR = ROOT / "data" / "alternate_contact_sheets" / "bing"
 
 
 def read_csv(path: Path) -> list[dict[str, str]]:
@@ -50,6 +52,28 @@ def load_mls_reviews() -> dict[str, dict[str, object]]:
     return reviews
 
 
+def load_bing_reviews() -> dict[str, dict[str, object]]:
+    reviews: dict[str, dict[str, object]] = {}
+    if not BING_INDEX_CSV.exists():
+        return reviews
+    index = {r["listing_id"]: r for r in read_csv(BING_INDEX_CSV)}
+    for p in sorted(BING_REVIEW_DIR.glob("bing_review_batch_*.json")):
+        data = json.loads(p.read_text(encoding="utf-8"))
+        for item in data:
+            lid = str(item["listing_id"])
+            reviews[lid] = {
+                "listing_id": lid,
+                "address": item.get("address", ""),
+                "has_useful_bing_overhead": item.get("has_useful_bing_overhead", "unclear"),
+                "best_tile_position": item.get("best_tile_position", ""),
+                "coverage_strength": item.get("coverage_strength", "unclear"),
+                "notes": item.get("notes", ""),
+                "bing_contact_sheet": index.get(lid, {}).get("bing_contact_sheet", ""),
+                "bing_tile_count": index.get(lid, {}).get("bing_tile_count", ""),
+            }
+    return reviews
+
+
 def score_row(row: dict[str, object]) -> int:
     """Rank for Matt's goal: aerial/elevated views showing house + backyard together."""
     score = 0
@@ -58,9 +82,14 @@ def score_row(row: dict[str, object]) -> int:
 
     # True overhead/aerial evidence is the main objective.
     if row.get("mls_drone_or_aerial") == "yes":
-        score += 70
+        score += 110
     elif row.get("mls_drone_or_aerial") == "unclear":
         score += 25
+
+    if row.get("bing_overhead") == "yes":
+        score += 62
+    elif row.get("bing_overhead") == "unclear":
+        score += 18
 
     if aerial_quality == "good":
         score += 45
@@ -90,6 +119,7 @@ def main() -> None:
     aerial_rows = read_csv(TRIAGE_CSV)
     mls_summary = {r["listing_id"]: r for r in read_csv(MLS_SUMMARY_CSV)}
     mls_reviews = load_mls_reviews()
+    bing_reviews = load_bing_reviews()
 
     cross_fields = [
         "listing_id", "address", "reason", "has_backyard_photos", "has_drone_or_aerial_photos",
@@ -102,6 +132,7 @@ def main() -> None:
         lid = r["listing_id"]
         ms = mls_summary.get(lid, {})
         mr = mls_reviews.get(lid, {})
+        br = bing_reviews.get(lid, {})
         hot_signal = mr.get("hot_tub_or_pool_visible") or r.get("hot_tub_visible") or "unclear"
         has_arcgis_house_backyard = r.get("overhead_quality") in {"good", "fair"} and r.get("backyard_visibility") in {"good", "partial"}
         best_source = "needs_aerial_review"
@@ -112,9 +143,15 @@ def main() -> None:
         elif has_arcgis_house_backyard:
             best_source = "arcgis_overhead_house_backyard_candidate"
             aerial_coverage_goal = "likely_house_and_backyard_overhead"
+        elif br.get("has_useful_bing_overhead") == "yes":
+            best_source = "bing_overhead_house_backyard_candidate"
+            aerial_coverage_goal = "likely_house_and_backyard_bing_overhead"
         elif mr.get("has_drone_or_aerial_photos") == "unclear":
             best_source = "possible_mls_elevated_candidate_needs_verify"
             aerial_coverage_goal = "possible_elevated_context_needs_verify"
+        elif br.get("has_useful_bing_overhead") == "unclear":
+            best_source = "possible_bing_overhead_needs_verify"
+            aerial_coverage_goal = "possible_bing_overhead_needs_verify"
         elif r.get("review_status") == "blocked_no_aerial_imagery":
             best_source = "blocked_arcgis_no_imagery"
             aerial_coverage_goal = "no_arcgis_overhead_available"
@@ -149,9 +186,14 @@ def main() -> None:
             "mls_drone_or_aerial": mr.get("has_drone_or_aerial_photos", "unreviewed"),
             "mls_best_photo_indices": mr.get("best_photo_indices", ""),
             "mls_candidate_strength": mr.get("marketing_candidate_strength", "unreviewed"),
+            "bing_overhead": br.get("has_useful_bing_overhead", "unreviewed"),
+            "bing_contact_sheet": br.get("bing_contact_sheet", ""),
+            "bing_tile_count": br.get("bing_tile_count", ""),
+            "bing_best_tile_position": br.get("best_tile_position", ""),
+            "bing_coverage_strength": br.get("coverage_strength", "unreviewed"),
             "hot_tub_or_pool_signal": hot_signal,
             "source_risk": "research_only_verify_license",
-            "notes": "; ".join(x for x in [r.get("notes", ""), mr.get("notes", "")] if x),
+            "notes": "; ".join(x for x in [r.get("notes", ""), mr.get("notes", ""), br.get("notes", "")] if x),
         }
         row["triage_score"] = score_row(row)
         rows.append(row)
@@ -166,6 +208,7 @@ def main() -> None:
         "aerial_contact_sheet", "aerial_review_status", "aerial_backyard_visibility", "aerial_overhead_quality",
         "aerial_real_tiles", "aerial_placeholder_tiles", "mls_contact_sheet", "mls_photo_count",
         "mls_backyard_photos", "mls_drone_or_aerial", "mls_best_photo_indices", "mls_candidate_strength",
+        "bing_overhead", "bing_contact_sheet", "bing_tile_count", "bing_best_tile_position", "bing_coverage_strength",
         "hot_tub_or_pool_signal", "source_risk", "notes",
     ]
     write_csv(OUT_CSV, rows, fields)
