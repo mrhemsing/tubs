@@ -1,0 +1,117 @@
+[
+  {
+    "listing_id": "10672111",
+    "address": "2577 SANDSTONE Circle",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [4, 6, 9],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/top-down/elevated lot view visible. Best candidates are ground-level exterior/front and patio/pergola views; house and backyard/lot are not well shown together."
+  },
+  {
+    "listing_id": "10671250",
+    "address": "2588 LEDGEROCK Ridge",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 2, 3, 4],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial or elevated backyard/lot overview visible. Front/driveway/exterior shots show house and some landscaping only."
+  },
+  {
+    "listing_id": "10671043",
+    "address": "4690 NORTH Street",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 2, 3],
+    "aerial_or_elevated_photo_indices": [5, 6, 7],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/top-down house+lot image. Ground-level exterior shots show house with lawn/yard; elevated deck/view images show outlook but not house and lot together."
+  },
+  {
+    "listing_id": "10670943",
+    "address": "22 COAL CREEK Road",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 2, 3, 7, 9],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/elevated view visible. Wide ground-level yard/driveway/rear exterior shots give some sense of lot, but not top-down."
+  },
+  {
+    "listing_id": "10670913",
+    "address": "8042 MCINTOSH LOOP Road",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [4, 5, 14, 16],
+    "aerial_or_elevated_photo_indices": [4],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 4 appears to be an aerial/top-down view showing house/drive and surrounding wooded lot. Yard/garden ground shots add backyard context."
+  },
+  {
+    "listing_id": "10670512",
+    "address": "1461 8TH Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [23, 24, 25, 26, 27],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/top-down/elevated property overview visible. Rear yard/deck ground-level shots show backyard and house portions."
+  },
+  {
+    "listing_id": "10669905",
+    "address": "1609 8TH S Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [8, 7, 5],
+    "aerial_or_elevated_photo_indices": [8],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 8 is an elevated/aerial oblique showing house, yard/lot, and neighboring context. Other exterior shots are ground-level."
+  },
+  {
+    "listing_id": "10669795",
+    "address": "7043 ELK RIDGE Road",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/elevated backyard or lot overview visible. Only front driveway/exterior context appears relevant."
+  },
+  {
+    "listing_id": "10668743",
+    "address": "921 11TH Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [4, 24, 25, 26, 27],
+    "aerial_or_elevated_photo_indices": [4],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 4 is an elevated/aerial neighborhood/property view with roof/lot context, though subject/backyard detail is somewhat partial. Deck/yard shots add ground-level context."
+  },
+  {
+    "listing_id": "10667320",
+    "address": "1018 SWANSEA Road",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 4, 5, 7, 8, 9, 10, 11],
+    "aerial_or_elevated_photo_indices": [1, 4, 5],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: multiple aerial/top-down/oblique views show house with driveway, patio, surrounding yard/lot and site context. Strong match for house plus backyard/lot together."
+  }
+]
