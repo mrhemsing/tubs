@@ -1,0 +1,122 @@
+[
+  {
+    "listing_id": "20042244",
+    "address": "954 313th Drive",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [28, 29, 25],
+    "aerial_or_elevated_photo_indices": [25, 28, 29, 30],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no true top-down aerial visible, but photos 28/29 are elevated exterior views showing house, deck, yard/lot context; photo 25 shows rear deck/house from elevated angle; photo 30 gives broader surrounding lot/neighborhood context."
+  },
+  {
+    "listing_id": "20034035",
+    "address": "2202 Black Hawk Drive",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "unclear",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1],
+    "aerial_or_elevated_photo_indices": [1],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 1 is an elevated exterior/oblique view showing the house and some surrounding lot/driveway, but backyard coverage is limited or unclear; no true aerial/top-down backyard image visible."
+  },
+  {
+    "listing_id": "20021326",
+    "address": "2264 BLACK HAWK Drive",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 16, 17],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial or elevated whole-property view visible. Photo 1 is front exterior; photos 16/17 show patio/deck and some yard/view context but not house plus backyard/lot together from above."
+  },
+  {
+    "listing_id": "10685328",
+    "address": "961 COPPER POINT Way",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 2],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: only ground-level front exterior views appear; no visible aerial/elevated backyard or lot overview showing house and yard together."
+  },
+  {
+    "listing_id": "10682383",
+    "address": "14 MT TRINITY Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [2, 1, 30],
+    "aerial_or_elevated_photo_indices": [1, 2],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 2 is the strongest elevated/oblique view showing roof/house and surrounding yard/lot context; photo 1 also shows front/lot context. Photo 30 shows backyard ground-level detail but not aerial."
+  },
+  {
+    "listing_id": "10681443",
+    "address": "1391 10TH Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 4, 5, 6, 7, 8],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no true aerial/top-down/elevated view visible. Best candidates are ground-level exterior shots showing house with portions of yard/lot; backyard/lot context is limited."
+  },
+  {
+    "listing_id": "10681344",
+    "address": "2 RIDGEMONT Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [3, 2, 1],
+    "aerial_or_elevated_photo_indices": [3],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 3 is a clear elevated/top-down aerial-style view showing the house, driveway, and surrounding lot/backyard context. Photos 1-2 provide supporting exterior context."
+  },
+  {
+    "listing_id": "10677481",
+    "address": "18 ELKVIEW Crescent",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [6, 7, 3, 2, 5, 1],
+    "aerial_or_elevated_photo_indices": [1, 2, 3, 4, 5, 6, 7, 8, 9],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: strong aerial/elevated coverage. Photos 6-7 best show house footprint with yard/lot; photos 3 and 5 add top-down neighborhood/lot context; photos 1-2 show elevated house-and-yard views."
+  },
+  {
+    "listing_id": "10674183",
+    "address": "1274 23RD S Street",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 2],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/top-down/elevated exterior photos visible. Only ground-level front/entry exterior views; backyard/lot context is minimal."
+  },
+  {
+    "listing_id": "10673650",
+    "address": "4949 MOUNTAIN HILL Road",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 2, 3],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/top-down/elevated view visible. Ground-level exterior photos show house with lawn/yard and deck/wooded setting, but not comprehensive house-plus-backyard/lot coverage."
+  }
+]
