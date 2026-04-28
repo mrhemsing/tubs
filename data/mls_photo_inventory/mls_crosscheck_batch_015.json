@@ -1,0 +1,122 @@
+[
+  {
+    "listing_id": "10669410",
+    "address": "2572 LEDGEROCK Ridge",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 2, 3, 15, 16],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no clear aerial/top-down/elevated shot showing house and backyard/lot together. Only front exteriors and deck/view shots."
+  },
+  {
+    "listing_id": "20087226",
+    "address": "244 Boulder Creek",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 30],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/top-down/elevated lot coverage. Front exterior and deck/patio image only; backyard/lot context limited."
+  },
+  {
+    "listing_id": "20084357",
+    "address": "233 Boulder Creek",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [4, 30, 29, 2],
+    "aerial_or_elevated_photo_indices": [4, 5, 29, 30],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: strong elevated/drone-style images show house/yard/lot context; photos 4 and 30 appear best for backyard/lot with house, photo 29 gives broader aerial context."
+  },
+  {
+    "listing_id": "20045387",
+    "address": "3313 3A Street S",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/top-down/elevated backyard/lot photo visible. Only front exterior plus interiors."
+  },
+  {
+    "listing_id": "20040797",
+    "address": "51 100TH Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 13, 14],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/top-down/elevated shot showing house with backyard/lot. Front exterior and window/deck views provide limited exterior context only."
+  },
+  {
+    "listing_id": "20021647",
+    "address": "13-640 UPPER LAKEVIEW Road",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [6, 3],
+    "aerial_or_elevated_photo_indices": [3, 6],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photos 6 and 3 are elevated/drone-like and show the house with surrounding lot context; backyard/lot coverage is decent but not fully top-down."
+  },
+  {
+    "listing_id": "20020530",
+    "address": "805 16TH S Street",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "unclear",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 2],
+    "aerial_or_elevated_photo_indices": [1, 2],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: only front/driveway elevated exterior views; limited or no clear backyard visibility. Useful mainly for house and front lot context."
+  },
+  {
+    "listing_id": "20020438",
+    "address": "1250 VALLEY VIEW Drive",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 27, 28, 29, 30],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no clear aerial/top-down house-plus-yard image. Exterior and deck/yard photos provide partial ground-level context only."
+  },
+  {
+    "listing_id": "20020418",
+    "address": "782 4TH Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [10, 6, 7, 4, 5],
+    "aerial_or_elevated_photo_indices": [6, 7, 8, 9, 10, 30],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: strong aerial neighborhood/property context, especially photo 10 with apparent lot/property framing. Photos 4 and 5 show house and fenced backyard area."
+  },
+  {
+    "listing_id": "10669578",
+    "address": "9-6324 LAURIER Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 2, 3, 4],
+    "aerial_or_elevated_photo_indices": [2, 3, 4],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial showing house and backyard/lot together. Photo 1 shows house exterior; photos 2-4 are elevated deck/lake views but do not show the house and lot together."
+  }
+]
