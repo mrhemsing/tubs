@@ -17,6 +17,15 @@ function sourceClass(source) {
   return String(source || '').replaceAll('_', '-');
 }
 
+function statusLabel(source) {
+  return labels[source] || {
+    needs_aerial_review: 'Needs aerial review',
+    blocked_arcgis_no_imagery: 'No ArcGIS imagery',
+    mls_ground_backyard_context_only: 'Ground context only',
+    blocked_no_coordinate: 'No coordinate',
+  }[source] || source;
+}
+
 function Stat({ label, value }) {
   return (
     <div className="stat">
@@ -144,6 +153,47 @@ export default function Home() {
             </div>
             <div className="cards">
               {cards.map((card) => <CandidateCard card={card} key={`${card.rank}-${card.listingId}`} />)}
+            </div>
+          </section>
+        );
+      })}
+
+      {areaOrder.map((area) => {
+        const rows = data.allAddresses.filter((row) => row.sourceLabel === area);
+        return (
+          <section className="addressSection" key={`${area}-all`}>
+            <div className="areaHeader compactHeader">
+              <div>
+                <p className="areaKicker">All addresses</p>
+                <h2>{area}</h2>
+              </div>
+              <div className="areaStats"><span>{rows.length} total properties</span></div>
+            </div>
+            <div className="tableWrap">
+              <table>
+                <thead>
+                  <tr>
+                    <th>Address</th>
+                    <th>Status</th>
+                    <th>Best photos</th>
+                    <th>MLS reviewed</th>
+                    <th>ArcGIS tiles</th>
+                    <th>Coordinate</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {rows.map((row) => (
+                    <tr key={row.listingId} className={sourceClass(row.recommendedSource)}>
+                      <td><b>{row.address}</b><span>{row.listingId}</span></td>
+                      <td>{statusLabel(row.recommendedSource)}</td>
+                      <td>{row.bestPhotoIndices || '—'}</td>
+                      <td>{row.mlsReviewed ? row.mlsAerial : 'No'}</td>
+                      <td>{row.arcgisRealTiles || '0'} / {row.arcgisPlaceholderTiles || '0'}</td>
+                      <td>{row.coordinateConfidence}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
             </div>
           </section>
         );

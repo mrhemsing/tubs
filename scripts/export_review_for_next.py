@@ -120,6 +120,23 @@ def main() -> None:
         counts[r["recommended_source"]] = counts.get(r["recommended_source"], 0) + 1
     reviewed = sum(1 for r in rows if r.get("mls_drone_or_aerial") != "unreviewed")
 
+    all_addresses = [
+        {
+            "rank": int(r["triage_rank"]),
+            "listingId": r["listing_id"],
+            "address": r["address"],
+            "sourceLabel": r["source_label"],
+            "recommendedSource": r["recommended_source"],
+            "bestPhotoIndices": r.get("mls_best_photo_indices", ""),
+            "coordinateConfidence": r.get("coordinate_confidence", ""),
+            "mlsReviewed": r.get("mls_drone_or_aerial") != "unreviewed",
+            "mlsAerial": r.get("mls_drone_or_aerial", ""),
+            "arcgisRealTiles": r.get("aerial_real_tiles", ""),
+            "arcgisPlaceholderTiles": r.get("aerial_placeholder_tiles", ""),
+        }
+        for r in rows
+    ]
+
     payload = {
         "generatedAt": "2026-04-28",
         "goal": "Best available aerial/top-down/elevated photos showing each house and backyard/lot together.",
@@ -131,6 +148,7 @@ def main() -> None:
             "candidateCards": len(cards),
         },
         "cards": cards,
+        "allAddresses": all_addresses,
     }
     PUBLIC.mkdir(exist_ok=True)
     OUT_JSON.write_text(json.dumps(payload, indent=2), encoding="utf-8")
