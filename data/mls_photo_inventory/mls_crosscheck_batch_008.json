@@ -1,0 +1,122 @@
+[
+  {
+    "listing_id": "20057967",
+    "address": "1900 12th Street S",
+    "has_backyard_photos": "no",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: only ground-level front exterior plus interiors/floorplan; no visible aerial, top-down, elevated, or backyard/lot overview."
+  },
+  {
+    "listing_id": "20057362",
+    "address": "7-640 UPPER LAKEVIEW Road",
+    "has_backyard_photos": "no",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: ground-level front exterior only; remaining thumbnails are interiors. No house-plus-backyard/lot aerial candidate."
+  },
+  {
+    "listing_id": "20050871",
+    "address": "940 313TH Drive",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [2, 6],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: several ground exterior views show house and some lawn/lot context, but no aerial/top-down/elevated backyard overview."
+  },
+  {
+    "listing_id": "20049552",
+    "address": "1325 12 Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [11, 12, 19, 20],
+    "aerial_or_elevated_photo_indices": [2, 11, 12, 19, 20],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no true drone/top-down visible, but elevated/yard-view photos show house portions, backyard/lot, and surrounding setting together."
+  },
+  {
+    "listing_id": "20049485",
+    "address": "224 Lindsay Street",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [3],
+    "aerial_or_elevated_photo_indices": [3],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 3 is a clear elevated/top-down aerial showing house, yard/lot, and neighboring context."
+  },
+  {
+    "listing_id": "20046407",
+    "address": "4824 MCKAY Street",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [5, 3, 4],
+    "aerial_or_elevated_photo_indices": [5, 6, 7, 8],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 5 is a strong vertical/top-down aerial of house and lot; photos 3-4 add rear/yard ground context. Photos 6-8 are broader scenic/context aerials."
+  },
+  {
+    "listing_id": "20042580",
+    "address": "2850 BLACK BEAR Crescent",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 3, 4],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: ground-level cabin/lot exterior views only; no aerial, top-down, or elevated house-plus-backyard overview."
+  },
+  {
+    "listing_id": "20039625",
+    "address": "941 5th Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [29],
+    "aerial_or_elevated_photo_indices": [29, 30],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 29 is a useful top-down aerial showing house/roof and lot context; photo 30 provides broader elevated neighborhood/mountain context."
+  },
+  {
+    "listing_id": "20037931",
+    "address": "610 PONDEROSA Drive",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [3],
+    "aerial_or_elevated_photo_indices": [3, 14],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: elevated/balcony-style views show yard/lot area but do not show house and backyard/lot together from above; no true aerial."
+  },
+  {
+    "listing_id": "20027125",
+    "address": "1282 23RD S Street",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1],
+    "aerial_or_elevated_photo_indices": [1],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 1 is an elevated oblique aerial showing the house with surrounding yard/lot context; strong candidate for the stated goal."
+  }
+]

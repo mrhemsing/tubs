@@ -16,7 +16,7 @@ Not the goal: hot tubs, pools, amenities, or ground-level backyard marketing pho
 - ArcGIS imagery availability check: 27 listings have real aerial tiles; 273 are all-placeholder/no usable ArcGIS imagery; 1 has no coordinate
 - MLS thumbnails inventoried: 7,467
 - MLS contact sheets generated: 299
-- MLS contact sheets reviewed for house+backyard aerial/elevated candidates so far: 62
+- MLS contact sheets reviewed for house+backyard aerial/elevated candidates so far: 72
 
 ## Corrected consolidated triage output
 
@@ -27,12 +27,12 @@ All-listing candidate table, ranked for house + backyard aerial/elevated coverag
 
 Current recommended-source split:
 
-- MLS drone/aerial candidates: 19
+- MLS drone/aerial candidates: 24
 - ArcGIS overhead house+backyard candidates: 10
 - Possible MLS elevated candidates needing verification: 7
 - MLS ground backyard context only: 1
-- Still needs aerial review: 35
-- Blocked by ArcGIS no imagery: 227
+- Still needs aerial review: 34
+- Blocked by ArcGIS no imagery: 223
 - Blocked no coordinate: 1
 
 ## Current best aerial/elevated candidates
@@ -59,6 +59,11 @@ New candidates from latest review batch:
 
 Additional latest candidates:
 
+- 224 Lindsay Street - clear elevated/top-down aerial; best photo index 3.
+- 4824 MCKAY Street - strong vertical/top-down aerial; best photo indices 5,3,4.
+- 941 5th Avenue - useful top-down aerial; best photo index 29.
+- 1282 23RD S Street - elevated oblique aerial; best photo index 1.
+- 1325 12 Avenue - medium elevated yard/lot coverage; best photo indices 11,12,19,20.
 - 2904 Edgewood Drive - strong MLS aerial set; best photo indices 3,1,5,4.
 - 1629 Staple Crescent - multiple MLS aerial/oblique views; best photo indices 5,2,3,1,4,6.
 - 5221 Columbia River Road - wooded-lot aerial/elevated coverage; best photo indices 1,20,21.
