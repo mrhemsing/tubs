@@ -203,7 +203,6 @@ export default function ReviewPage({ areaFilter = null }) {
       <section className="toolbar">
         <p>{areaFilter ? `Showing only ${areaFilter}.` : 'Choose a dedicated area page, or view all areas below.'}</p>
         <nav className="areaNav" aria-label="Area navigation">
-          <a href="/">All areas</a>
           {areaOrder.map((area) => (
             <a className={area === areaFilter ? 'active' : ''} href={`/${areaSlugs[area]}`} key={area}>{area}</a>
           ))}
