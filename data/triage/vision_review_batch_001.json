@@ -1,0 +1,112 @@
+[
+  {
+    "priority_rank": 1,
+    "listing_id": "10679423",
+    "address": "1681 KOOCANUSA LAKE Drive",
+    "backyard_visibility": "good",
+    "overhead_quality": "good",
+    "hot_tub_visible": "no",
+    "best_candidate_tile": "center",
+    "print_mockup_potential": "high",
+    "notes": "Clear lakeside property with yard, beach, and shoreline context; no obvious hot tub or pool."
+  },
+  {
+    "priority_rank": 2,
+    "listing_id": "10681059",
+    "address": "2260 BLACK HAWK Drive",
+    "backyard_visibility": "poor",
+    "overhead_quality": "poor",
+    "hot_tub_visible": "no",
+    "best_candidate_tile": "none",
+    "print_mockup_potential": "low",
+    "notes": "Very blurry and mostly road, trees, and undeveloped land; no clear house or usable backyard crop."
+  },
+  {
+    "priority_rank": 3,
+    "listing_id": "20068707",
+    "address": "1643 Koocanusa Lake Drive",
+    "backyard_visibility": "partial",
+    "overhead_quality": "good",
+    "hot_tub_visible": "no",
+    "best_candidate_tile": "other",
+    "print_mockup_potential": "medium",
+    "notes": "Center tile is mostly road and driveway; adjacent right-side tiles show better homes and lawns near water."
+  },
+  {
+    "priority_rank": 4,
+    "listing_id": "20078363",
+    "address": "1357 Cypress Drive",
+    "backyard_visibility": "partial",
+    "overhead_quality": "poor",
+    "hot_tub_visible": "no",
+    "best_candidate_tile": "center",
+    "print_mockup_potential": "low",
+    "notes": "Blurry residential view with some yard and tree cover, but details are weak for print marketing."
+  },
+  {
+    "priority_rank": 5,
+    "listing_id": "20049830",
+    "address": "1256 Valley View Drive",
+    "backyard_visibility": "partial",
+    "overhead_quality": "fair",
+    "hot_tub_visible": "no",
+    "best_candidate_tile": "center",
+    "print_mockup_potential": "medium",
+    "notes": "Center tile includes a visible structure and yard beside a curved road, though resolution is soft."
+  },
+  {
+    "priority_rank": 6,
+    "listing_id": "20020438",
+    "address": "1250 VALLEY VIEW Drive",
+    "backyard_visibility": "poor",
+    "overhead_quality": "poor",
+    "hot_tub_visible": "no",
+    "best_candidate_tile": "none",
+    "print_mockup_potential": "low",
+    "notes": "Center tile is dominated by cul-de-sac pavement with only partial neighboring structures and lawns."
+  },
+  {
+    "priority_rank": 7,
+    "listing_id": "10683923",
+    "address": "2135 WHISKEY JACK Drive",
+    "backyard_visibility": "poor",
+    "overhead_quality": "poor",
+    "hot_tub_visible": "no",
+    "best_candidate_tile": "none",
+    "print_mockup_potential": "low",
+    "notes": "Blurry, mostly wooded or undeveloped view with road frontage; no clear property or backyard feature."
+  },
+  {
+    "priority_rank": 8,
+    "listing_id": "20046554",
+    "address": "532 Granzow Road",
+    "backyard_visibility": "partial",
+    "overhead_quality": "fair",
+    "hot_tub_visible": "unclear",
+    "best_candidate_tile": "other",
+    "print_mockup_potential": "medium",
+    "notes": "Wooded acreage setting with partial roofs and yard areas; tree cover obscures the center, and a dark rectangular feature in another tile is ambiguous."
+  },
+  {
+    "priority_rank": 9,
+    "listing_id": "10683952",
+    "address": "1204 VALLEY VIEW Drive",
+    "backyard_visibility": "partial",
+    "overhead_quality": "fair",
+    "hot_tub_visible": "no",
+    "best_candidate_tile": "center",
+    "print_mockup_potential": "medium",
+    "notes": "Center tile shows the home edge, lawn, driveway, and road; somewhat soft but usable for a basic overhead crop."
+  },
+  {
+    "priority_rank": 10,
+    "listing_id": "20022704",
+    "address": "1206 VALLEY VIEW Drive",
+    "backyard_visibility": "partial",
+    "overhead_quality": "fair",
+    "hot_tub_visible": "no",
+    "best_candidate_tile": "center",
+    "print_mockup_potential": "medium",
+    "notes": "Same contact-sheet area as prior image, with partial house and yard visible in center; no obvious pool or hot tub."
+  }
+]
