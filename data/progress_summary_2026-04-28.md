@@ -16,7 +16,7 @@ Not the goal: hot tubs, pools, amenities, or ground-level backyard marketing pho
 - ArcGIS imagery availability check: 27 listings have real aerial tiles; 273 are all-placeholder/no usable ArcGIS imagery; 1 has no coordinate
 - MLS thumbnails inventoried: 7,467
 - MLS contact sheets generated: 299
-- MLS contact sheets reviewed for house+backyard aerial/elevated candidates so far: 112
+- MLS contact sheets reviewed for house+backyard aerial/elevated candidates so far: 122
 
 ## Corrected consolidated triage output
 
@@ -30,8 +30,8 @@ Current recommended-source split:
 - MLS drone/aerial candidates: 33
 - ArcGIS overhead house+backyard candidates: 10
 - Possible MLS elevated candidates needing verification: 13
-- MLS ground backyard context only: 4
-- Still needs aerial review: 29
+- MLS ground backyard context only: 6
+- Still needs aerial review: 27
 - Blocked by ArcGIS no imagery: 210
 - Blocked no coordinate: 1
 
@@ -83,6 +83,10 @@ Additional latest candidates:
 - 815 LAKEVIEW MEADOWS GREEN - medium elevated yard/deck coverage; best photo indices 4,5,20.
 - 21 MT MINTON Street - MLS elevated rear-lot views; best photo indices 29,30,28,1.
 - Possible elevated/needs-verify: 862 10TH Avenue, 4942 MOUNTAIN HILL Road, 1059 SWANSEA Road.
+
+Latest batch note:
+
+- Batch 013 added no strong aerial/drone candidates; mostly ground-level/context-only views. Good to keep reviewing, but candidate yield is dropping as the highest-proxy MLS sheets are exhausted.
 
 ## Blockers / cautions
 
