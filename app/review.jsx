@@ -119,16 +119,17 @@ function AreaBlock({ area, cards, rows }) {
 
   return (
     <section className="areaSection" id={areaSlugs[area]}>
-      <div className="areaHeader pageAreaHeader">
-        <div>
+      <div className="areaBanner">
+        <img src={areaBanners[area]} alt={`${area} banner illustration`} loading="lazy" />
+        <div className="areaBannerOverlay">
           <p className="areaKicker">Area</p>
           <h2>{area}</h2>
-        </div>
-        <div className="areaStats">
-          <span>{cards.length} candidates</span>
-          <span>{aerialCount} MLS aerial/elevated</span>
-          <span>{arcgisCount} ArcGIS overhead</span>
-          <span>{possibleCount} possible elevated</span>
+          <div className="areaStats">
+            <span>{cards.length} candidates</span>
+            <span>{aerialCount} MLS aerial/elevated</span>
+            <span>{arcgisCount} ArcGIS overhead</span>
+            <span>{possibleCount} possible elevated</span>
+          </div>
         </div>
       </div>
 
@@ -189,12 +190,6 @@ export default function ReviewPage({ areaFilter = null }) {
 
   return (
     <main>
-      {areaFilter && (
-        <section className="topAreaBanner">
-          <img src={areaBanners[areaFilter]} alt={`${areaFilter} banner illustration`} />
-        </section>
-      )}
-
       <section className="toolbar">
         <p>{areaFilter ? `Showing only ${areaFilter}.` : 'Choose a dedicated area page, or view all areas below.'}</p>
         <nav className="areaNav" aria-label="Area navigation">
