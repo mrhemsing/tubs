@@ -182,9 +182,11 @@ export default function ReviewPage({ areaFilter = null }) {
   const pageAreas = areaFilter ? [areaFilter] : areaOrder;
   const title = areaFilter === 'Cranbrook/Kimberley'
     ? 'Cranbrook & Kimberley aerial candidates'
-    : areaFilter
-      ? `${areaFilter} aerial candidates`
-      : 'Aerial + elevated property candidates';
+    : areaFilter === 'Fernie/Sparwood'
+      ? 'Fernie & Sparwood aerial candidates'
+      : areaFilter
+        ? `${areaFilter} aerial candidates`
+        : 'Aerial + elevated property candidates';
 
   return (
     <main>
