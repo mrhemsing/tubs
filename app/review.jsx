@@ -190,15 +190,6 @@ export default function ReviewPage({ areaFilter = null }) {
 
   return (
     <main>
-      <section className="hero">
-        <div className="heroCopy">
-          <p className="eyebrow">Tubs Review</p>
-          <h1>{title}</h1>
-          <p className="lede">{data.goal}</p>
-          <p className="rights">{data.rightsNotice}</p>
-        </div>
-      </section>
-
       <section className="toolbar">
         <p>{areaFilter ? `Showing only ${areaFilter}.` : 'Choose a dedicated area page, or view all areas below.'}</p>
         <nav className="areaNav" aria-label="Area navigation">
