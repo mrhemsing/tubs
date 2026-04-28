@@ -4,9 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "python scripts/export_review_for_next.py && next build",
+    "build": "next build",
     "start": "next start",
-    "export-review": "python scripts/export_review_for_next.py"
+    "export-review": "python scripts/export_review_for_next.py",
+    "refresh-review": "python scripts/export_review_for_next.py"
   },
   "dependencies": {
     "next": "^16.2.4",
