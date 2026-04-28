@@ -133,8 +133,10 @@ function AreaBlock({ area, cards, rows }) {
       <div className="areaBanner">
         <img src={areaBanners[area]} alt={`${area} banner illustration`} loading="lazy" />
         <div className="areaBannerOverlay">
-          <p className="areaKicker">Area</p>
-          <h2>{area}</h2>
+          <div className="areaBannerTitle">
+            <p className="areaKicker">Area</p>
+            <h2>{area}</h2>
+          </div>
           <div className="areaStats">
             <span>{cards.length}/{rows.length} candidates</span>
             <span>{aerialCount} MLS aerial/elevated</span>
