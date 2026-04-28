@@ -13,6 +13,11 @@ export const areaSlugs = {
   'Cranbrook/Kimberley': 'cranbrook-kimberley',
   'Fernie/Sparwood': 'fernie-sparwood',
 };
+const mobileAreaLabels = {
+  'Columbia Valley': ['Columbia', 'Valley'],
+  'Cranbrook/Kimberley': ['Cranbrook', 'Kimberley'],
+  'Fernie/Sparwood': ['Fernie', 'Sparwood'],
+};
 export const slugToArea = Object.fromEntries(Object.entries(areaSlugs).map(([area, slug]) => [slug, area]));
 const areaBanners = {
   'Columbia Valley': '/banner-columbia-valley.jpg',
@@ -193,7 +198,10 @@ export default function ReviewPage({ areaFilter = null }) {
       <section className="toolbar">
         <nav className="areaNav" aria-label="Area navigation">
           {areaOrder.map((area) => (
-            <a className={area === areaFilter || (!areaFilter && area === 'Columbia Valley') ? 'active' : ''} href={`/${areaSlugs[area]}`} key={area}>{area}</a>
+            <a className={area === areaFilter || (!areaFilter && area === 'Columbia Valley') ? 'active' : ''} href={`/${areaSlugs[area]}`} key={area}>
+              <span className="navDesktopLabel">{area}</span>
+              <span className="navMobileLabel">{mobileAreaLabels[area].map((part) => <span key={part}>{part}</span>)}</span>
+            </a>
           ))}
         </nav>
       </section>
