@@ -120,7 +120,11 @@ h2 { margin: 0; font-size: 23px; letter-spacing: -.025em; }
 }
 
 @media (max-width: 560px) {
-  .stats, .details { grid-template-columns: 1fr; }
+  .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
+  .stat { padding: 13px; border-radius: 16px; }
+  .statValue { font-size: 26px; }
+  .statLabel { font-size: 10px; line-height: 1.15; }
+  .details { grid-template-columns: 1fr; }
   .primaryPhoto { min-height: 220px; }
   .primaryPhoto img { height: 260px; }
   .badge { margin-left: 0; }
