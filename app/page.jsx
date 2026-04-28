@@ -32,6 +32,8 @@ function CandidateCard({ card }) {
     ['ArcGIS contact sheet', card.links?.arcgisContactSheet],
     ['Best ArcGIS tile', card.links?.bestArcgisTile],
   ].filter(([, url]) => url);
+  const primary = card.thumbs?.[0];
+  const remaining = card.thumbs?.slice(1) || [];
 
   return (
     <article className={`card ${sourceClass(card.recommendedSource)}`}>
@@ -46,31 +48,45 @@ function CandidateCard({ card }) {
         </span>
       </header>
 
-      <div className="details">
-        <div><b>Best photo indices</b><span>{card.bestPhotoIndices || '—'}</span></div>
-        <div><b>Coverage</b><span>{card.coverageGoal || '—'}</span></div>
-        <div><b>Coordinate confidence</b><span>{card.coordinateConfidence || '—'}</span></div>
-        <div><b>ArcGIS real / placeholder</b><span>{card.arcgisRealTiles || '0'} / {card.arcgisPlaceholderTiles || '0'}</span></div>
-      </div>
-
-      <p className="notes">{card.notes}</p>
-
-      {links.length > 0 && (
-        <nav className="links">
-          {links.map(([label, url]) => <a key={label} href={url}>{label}</a>)}
-        </nav>
-      )}
-
-      {card.thumbs?.length > 0 && (
-        <div className="thumbGrid">
-          {card.thumbs.map((thumb, i) => (
-            <a className="thumb" href={thumb.url} key={`${thumb.label}-${i}`}>
-              <span>{thumb.label}</span>
-              <img src={thumb.url} alt={`${card.address} ${thumb.label}`} loading="lazy" />
+      <div className="listingLayout">
+        <section className="photoPanel">
+          {primary ? (
+            <a className="primaryPhoto" href={primary.url}>
+              <span className="photoLabel">Best candidate {primary.label}</span>
+              <img src={primary.url} alt={`${card.address} best candidate ${primary.label}`} loading="lazy" />
             </a>
-          ))}
-        </div>
-      )}
+          ) : (
+            <div className="primaryPhoto empty">No exported candidate photo</div>
+          )}
+          {remaining.length > 0 && (
+            <div className="thumbGrid compact">
+              {remaining.map((thumb, i) => (
+                <a className="thumb" href={thumb.url} key={`${thumb.label}-${i}`}>
+                  <span>{thumb.label}</span>
+                  <img src={thumb.url} alt={`${card.address} ${thumb.label}`} loading="lazy" />
+                </a>
+              ))}
+            </div>
+          )}
+        </section>
+
+        <section className="infoPanel">
+          <div className="details">
+            <div><b>Best photo indices</b><span>{card.bestPhotoIndices || '—'}</span></div>
+            <div><b>Coverage</b><span>{card.coverageGoal || '—'}</span></div>
+            <div><b>Coordinate confidence</b><span>{card.coordinateConfidence || '—'}</span></div>
+            <div><b>ArcGIS real / placeholder</b><span>{card.arcgisRealTiles || '0'} / {card.arcgisPlaceholderTiles || '0'}</span></div>
+          </div>
+
+          <p className="notes">{card.notes}</p>
+
+          {links.length > 0 && (
+            <nav className="links">
+              {links.map(([label, url]) => <a key={label} href={url}>{label}</a>)}
+            </nav>
+          )}
+        </section>
+      </div>
     </article>
   );
 }
@@ -101,7 +117,7 @@ export default function Home() {
       </section>
 
       <section className="toolbar">
-        <p>Ranked by strongest available house + backyard/lot aerial or elevated coverage. Open each thumbnail for the full local image exported with this deploy.</p>
+        <p>Ranked by strongest available house + backyard/lot aerial or elevated coverage. Each listing shows the actual best candidate photo first, followed by remaining candidate photos.</p>
       </section>
 
       <section className="cards">
