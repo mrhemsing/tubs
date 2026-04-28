@@ -16,7 +16,7 @@ Not the goal: hot tubs, pools, amenities, or ground-level backyard marketing pho
 - ArcGIS imagery availability check: 27 listings have real aerial tiles; 273 are all-placeholder/no usable ArcGIS imagery; 1 has no coordinate
 - MLS thumbnails inventoried: 7,467
 - MLS contact sheets generated: 299
-- MLS contact sheets reviewed for house+backyard aerial/elevated candidates so far: 52
+- MLS contact sheets reviewed for house+backyard aerial/elevated candidates so far: 62
 
 ## Corrected consolidated triage output
 
@@ -27,12 +27,12 @@ All-listing candidate table, ranked for house + backyard aerial/elevated coverag
 
 Current recommended-source split:
 
-- MLS drone/aerial candidates: 14
+- MLS drone/aerial candidates: 19
 - ArcGIS overhead house+backyard candidates: 10
-- Possible MLS elevated candidates needing verification: 4
+- Possible MLS elevated candidates needing verification: 7
 - MLS ground backyard context only: 1
-- Still needs aerial review: 36
-- Blocked by ArcGIS no imagery: 234
+- Still needs aerial review: 35
+- Blocked by ArcGIS no imagery: 227
 - Blocked no coordinate: 1
 
 ## Current best aerial/elevated candidates
@@ -59,6 +59,11 @@ New candidates from latest review batch:
 
 Additional latest candidates:
 
+- 2904 Edgewood Drive - strong MLS aerial set; best photo indices 3,1,5,4.
+- 1629 Staple Crescent - multiple MLS aerial/oblique views; best photo indices 5,2,3,1,4,6.
+- 5221 Columbia River Road - wooded-lot aerial/elevated coverage; best photo indices 1,20,21.
+- 1502 PINERIDGE MOUNTAIN Place - medium elevated/lot coverage; best photo indices 3,4,9,10,12,13.
+- 815 LAKEVIEW MEADOWS GREEN - medium elevated yard/deck coverage; best photo indices 4,5,20.
 - 21 MT MINTON Street - MLS elevated rear-lot views; best photo indices 29,30,28,1.
 - Possible elevated/needs-verify: 862 10TH Avenue, 4942 MOUNTAIN HILL Road, 1059 SWANSEA Road.
 

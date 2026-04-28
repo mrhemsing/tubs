@@ -1,0 +1,122 @@
+[
+  {
+    "listing_id": "10652500",
+    "address": "1909 16TH S Street",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1],
+    "aerial_or_elevated_photo_indices": [1],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: only visible exterior candidate is front/driveway view; no backyard/lot-together aerial or elevated view."
+  },
+  {
+    "listing_id": "10650499",
+    "address": "402 WESTRIDGE View",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "unclear",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [2, 20, 22, 26],
+    "aerial_or_elevated_photo_indices": [1, 2, 5, 20, 22, 26],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: ground/elevated exterior and patio/yard views; no clear top-down aerial showing house and backyard/lot together."
+  },
+  {
+    "listing_id": "10647009",
+    "address": "1502 PINERIDGE MOUNTAIN Place",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [3, 4, 9, 10, 12, 13],
+    "aerial_or_elevated_photo_indices": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: good elevated/ground exterior views of rear facade, lawn, and surrounding treed lot; no true top-down aerial."
+  },
+  {
+    "listing_id": "10646987",
+    "address": "815 LAKEVIEW MEADOWS GREEN",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [4, 5, 20],
+    "aerial_or_elevated_photo_indices": [1, 2, 4, 5, 20],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: rear/elevated exterior and yard/deck views show house with landscaped backyard area; no top-down aerial."
+  },
+  {
+    "listing_id": "10644065",
+    "address": "4806 HOLLAND CREEK RIDGE Road",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1],
+    "aerial_or_elevated_photo_indices": [1],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: only front exterior in wooded setting; does not show backyard/lot together from aerial or elevated angle."
+  },
+  {
+    "listing_id": "10639146",
+    "address": "823 LAKEVIEW MEADOWS GREEN",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "unclear",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 12],
+    "aerial_or_elevated_photo_indices": [1, 11, 12],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: exterior/yard views show landscaping and some lot context, but no clear aerial/top-down and limited house+backyard combined coverage."
+  },
+  {
+    "listing_id": "20073637",
+    "address": "454 Forest Crowne Rise",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "unclear",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [2, 23, 27, 30],
+    "aerial_or_elevated_photo_indices": [1, 2, 18, 23, 27, 28, 29, 30],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: several elevated exterior/deck/lot-view candidates; house and lot context visible, but backyard-together coverage is incomplete and no true aerial."
+  },
+  {
+    "listing_id": "20072535",
+    "address": "2904 Edgewood Drive",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [3, 1, 5, 4],
+    "aerial_or_elevated_photo_indices": [1, 2, 3, 4, 5],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: strong aerial set; photo 3 is best top-down roof/yard/lot view, with oblique house+lot and neighborhood context in photos 1, 4, 5."
+  },
+  {
+    "listing_id": "20062684",
+    "address": "1629 Staple Crescent",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [5, 2, 3, 1, 4, 6],
+    "aerial_or_elevated_photo_indices": [1, 2, 3, 4, 5, 6, 7],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: multiple strong aerial/oblique views showing house, yard, lot edges, and neighborhood context; photo 5 appears most top-down."
+  },
+  {
+    "listing_id": "20061096",
+    "address": "5221 Columbia River Road",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 20, 21],
+    "aerial_or_elevated_photo_indices": [1, 18, 19, 20, 21],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: photo 1 is a useful aerial/overhead view of house within wooded lot, though partially obscured by trees; deck/yard views add context."
+  }
+]
