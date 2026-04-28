@@ -127,6 +127,10 @@ h2 { margin: 0; font-size: 23px; letter-spacing: -.025em; }
   .details { grid-template-columns: 1fr; }
   .primaryPhoto { min-height: 220px; }
   .primaryPhoto img { height: 260px; }
-  .badge { margin-left: 0; }
+  .cardHeader { display: grid; grid-template-columns: auto 1fr; align-items: start; }
+  .rank { grid-column: 1; grid-row: 1; min-width: 44px; }
+  .badge { grid-column: 2; grid-row: 1; justify-self: end; margin-left: 0; }
+  .titleBlock { grid-column: 1 / -1; grid-row: 2; min-width: 0; }
+  h2 { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: clamp(20px, 7vw, 30px); }
   .thumbGrid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }

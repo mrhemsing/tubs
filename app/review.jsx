@@ -42,7 +42,7 @@ function Stat({ label, value }) {
   );
 }
 
-function CandidateCard({ card }) {
+function CandidateCard({ card, displayRank = card.rank }) {
   const links = [
     ['MLS contact sheet', card.links?.mlsContactSheet],
     ['ArcGIS contact sheet', card.links?.arcgisContactSheet],
@@ -54,7 +54,7 @@ function CandidateCard({ card }) {
   return (
     <article className={`card ${sourceClass(card.recommendedSource)}`}>
       <header className="cardHeader">
-        <div className="rank">#{card.rank}</div>
+        <div className="rank">#{displayRank}</div>
         <div className="titleBlock">
           <h2>{card.address}</h2>
           <p className="meta">List ID {card.listingId} · {card.sourceLabel} · score {card.score}</p>
@@ -128,7 +128,7 @@ function AreaBlock({ area, cards, rows }) {
       </div>
 
       <div className="cards">
-        {cards.map((card) => <CandidateCard card={card} key={`${card.rank}-${card.listingId}`} />)}
+        {cards.map((card, index) => <CandidateCard card={card} displayRank={index + 1} key={`${card.rank}-${card.listingId}`} />)}
       </div>
 
       <section className="addressSection">
