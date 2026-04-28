@@ -34,7 +34,8 @@
       "https://images.realtyserver.com/photo_server.php?btnSubmit=GetPhoto&board=air&name=00A1CEE9.L10&failover=portal_Blank.gif"
     ],
     "folder": "columbia_valley/4827-holland-crescent-10604265",
-    "aerial_candidates": []
+    "aerial_candidates": [],
+    "coordinate_confidence": "unresolved"
   },
   {
     "source": "columbia_valley",
@@ -90,7 +91,8 @@
       "data\\aerial\\columbia_valley\\368-panorama-place-10619308\\esri_world_imagery_z19\\z19_x92862_y176765.jpg",
       "data\\aerial\\columbia_valley\\368-panorama-place-10619308\\esri_world_imagery_z19\\z19_x92863_y176765.jpg",
       "data\\aerial\\columbia_valley\\368-panorama-place-10619308\\esri_world_imagery_z19\\z19_x92864_y176765.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -153,7 +155,8 @@
       "data\\aerial\\columbia_valley\\6948-columbia-ridge-drive-10675110\\esri_world_imagery_z19\\z19_x93393_y177266.jpg",
       "data\\aerial\\columbia_valley\\6948-columbia-ridge-drive-10675110\\esri_world_imagery_z19\\z19_x93394_y177266.jpg",
       "data\\aerial\\columbia_valley\\6948-columbia-ridge-drive-10675110\\esri_world_imagery_z19\\z19_x93395_y177266.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -245,7 +248,8 @@
       "data\\aerial\\columbia_valley\\4891-glen-eagle-drive-20059692\\esri_world_imagery_z19\\z19_x93404_y177053.jpg",
       "data\\aerial\\columbia_valley\\4891-glen-eagle-drive-20059692\\esri_world_imagery_z19\\z19_x93405_y177053.jpg",
       "data\\aerial\\columbia_valley\\4891-glen-eagle-drive-20059692\\esri_world_imagery_z19\\z19_x93406_y177053.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -328,7 +332,8 @@
       "data\\aerial\\columbia_valley\\890-copperpoint-way-10684558\\esri_world_imagery_z19\\z19_x93218_y176667.jpg",
       "data\\aerial\\columbia_valley\\890-copperpoint-way-10684558\\esri_world_imagery_z19\\z19_x93219_y176667.jpg",
       "data\\aerial\\columbia_valley\\890-copperpoint-way-10684558\\esri_world_imagery_z19\\z19_x93220_y176667.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -377,7 +382,8 @@
       "data\\aerial\\columbia_valley\\5025-riverview-road-10682769\\esri_world_imagery_z19\\z19_x93409_y177051.jpg",
       "data\\aerial\\columbia_valley\\5025-riverview-road-10682769\\esri_world_imagery_z19\\z19_x93410_y177051.jpg",
       "data\\aerial\\columbia_valley\\5025-riverview-road-10682769\\esri_world_imagery_z19\\z19_x93411_y177051.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -424,7 +430,8 @@
       "data\\aerial\\columbia_valley\\5009-fairway-drive-10573050\\esri_world_imagery_z19\\z19_x93422_y177043.jpg",
       "data\\aerial\\columbia_valley\\5009-fairway-drive-10573050\\esri_world_imagery_z19\\z19_x93423_y177043.jpg",
       "data\\aerial\\columbia_valley\\5009-fairway-drive-10573050\\esri_world_imagery_z19\\z19_x93424_y177043.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -471,7 +478,8 @@
       "data\\aerial\\columbia_valley\\4582-columbia-view-road-10592929\\esri_world_imagery_z19\\z19_x93385_y177158.jpg",
       "data\\aerial\\columbia_valley\\4582-columbia-view-road-10592929\\esri_world_imagery_z19\\z19_x93386_y177158.jpg",
       "data\\aerial\\columbia_valley\\4582-columbia-view-road-10592929\\esri_world_imagery_z19\\z19_x93387_y177158.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -548,7 +556,8 @@
       "data\\aerial\\columbia_valley\\1502-pineridge-mountain-place-10647009\\esri_world_imagery_z19\\z19_x93132_y176672.jpg",
       "data\\aerial\\columbia_valley\\1502-pineridge-mountain-place-10647009\\esri_world_imagery_z19\\z19_x93133_y176672.jpg",
       "data\\aerial\\columbia_valley\\1502-pineridge-mountain-place-10647009\\esri_world_imagery_z19\\z19_x93134_y176672.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -634,7 +643,8 @@
       "data\\aerial\\columbia_valley\\946-ridge-place-10665224\\esri_world_imagery_z19\\z19_x93196_y176685.jpg",
       "data\\aerial\\columbia_valley\\946-ridge-place-10665224\\esri_world_imagery_z19\\z19_x93197_y176685.jpg",
       "data\\aerial\\columbia_valley\\946-ridge-place-10665224\\esri_world_imagery_z19\\z19_x93198_y176685.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -708,7 +718,8 @@
       "data\\aerial\\columbia_valley\\2572-ledgerock-ridge-10669410\\esri_world_imagery_z19\\z19_x93148_y176720.jpg",
       "data\\aerial\\columbia_valley\\2572-ledgerock-ridge-10669410\\esri_world_imagery_z19\\z19_x93149_y176720.jpg",
       "data\\aerial\\columbia_valley\\2572-ledgerock-ridge-10669410\\esri_world_imagery_z19\\z19_x93150_y176720.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -777,7 +788,8 @@
       "data\\aerial\\columbia_valley\\1101-6th-street-10675551\\esri_world_imagery_z19\\z19_x93155_y176652.jpg",
       "data\\aerial\\columbia_valley\\1101-6th-street-10675551\\esri_world_imagery_z19\\z19_x93156_y176652.jpg",
       "data\\aerial\\columbia_valley\\1101-6th-street-10675551\\esri_world_imagery_z19\\z19_x93157_y176652.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -861,7 +873,8 @@
       "data\\aerial\\columbia_valley\\4958-merlo-road-10680493\\esri_world_imagery_z19\\z19_x93218_y176683.jpg",
       "data\\aerial\\columbia_valley\\4958-merlo-road-10680493\\esri_world_imagery_z19\\z19_x93219_y176683.jpg",
       "data\\aerial\\columbia_valley\\4958-merlo-road-10680493\\esri_world_imagery_z19\\z19_x93220_y176683.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -941,7 +954,8 @@
       "data\\aerial\\columbia_valley\\5138-riverview-crescent-10683660\\esri_world_imagery_z19\\z19_x93407_y177064.jpg",
       "data\\aerial\\columbia_valley\\5138-riverview-crescent-10683660\\esri_world_imagery_z19\\z19_x93408_y177064.jpg",
       "data\\aerial\\columbia_valley\\5138-riverview-crescent-10683660\\esri_world_imagery_z19\\z19_x93409_y177064.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -1018,7 +1032,8 @@
       "data\\aerial\\columbia_valley\\4585-columere-road-20021525\\esri_world_imagery_z19\\z19_x93384_y177151.jpg",
       "data\\aerial\\columbia_valley\\4585-columere-road-20021525\\esri_world_imagery_z19\\z19_x93385_y177151.jpg",
       "data\\aerial\\columbia_valley\\4585-columere-road-20021525\\esri_world_imagery_z19\\z19_x93386_y177151.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -1084,7 +1099,8 @@
       "data\\aerial\\columbia_valley\\13-640-upper-lakeview-road-20021647\\esri_world_imagery_z19\\z19_x93192_y176657.jpg",
       "data\\aerial\\columbia_valley\\13-640-upper-lakeview-road-20021647\\esri_world_imagery_z19\\z19_x93193_y176657.jpg",
       "data\\aerial\\columbia_valley\\13-640-upper-lakeview-road-20021647\\esri_world_imagery_z19\\z19_x93194_y176657.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -1205,7 +1221,8 @@
       "data\\aerial\\columbia_valley\\930-copper-point-way-20040895\\esri_world_imagery_z19\\z19_x93223_y176672.jpg",
       "data\\aerial\\columbia_valley\\930-copper-point-way-20040895\\esri_world_imagery_z19\\z19_x93224_y176672.jpg",
       "data\\aerial\\columbia_valley\\930-copper-point-way-20040895\\esri_world_imagery_z19\\z19_x93225_y176672.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -1291,7 +1308,8 @@
       "data\\aerial\\columbia_valley\\4885-carnoustie-place-20084577\\esri_world_imagery_z19\\z19_x93405_y177051.jpg",
       "data\\aerial\\columbia_valley\\4885-carnoustie-place-20084577\\esri_world_imagery_z19\\z19_x93406_y177051.jpg",
       "data\\aerial\\columbia_valley\\4885-carnoustie-place-20084577\\esri_world_imagery_z19\\z19_x93407_y177051.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -1362,7 +1380,8 @@
       "data\\aerial\\columbia_valley\\896-copper-point-way-20087320\\esri_world_imagery_z19\\z19_x93219_y176669.jpg",
       "data\\aerial\\columbia_valley\\896-copper-point-way-20087320\\esri_world_imagery_z19\\z19_x93220_y176669.jpg",
       "data\\aerial\\columbia_valley\\896-copper-point-way-20087320\\esri_world_imagery_z19\\z19_x93221_y176669.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -1460,7 +1479,8 @@
       "data\\aerial\\columbia_valley\\960-copper-point-way-20038863\\esri_world_imagery_z19\\z19_x93223_y176673.jpg",
       "data\\aerial\\columbia_valley\\960-copper-point-way-20038863\\esri_world_imagery_z19\\z19_x93224_y176673.jpg",
       "data\\aerial\\columbia_valley\\960-copper-point-way-20038863\\esri_world_imagery_z19\\z19_x93225_y176673.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -1543,7 +1563,8 @@
       "data\\aerial\\columbia_valley\\31-640-upper-lakeview-road-20051381\\esri_world_imagery_z19\\z19_x93193_y176657.jpg",
       "data\\aerial\\columbia_valley\\31-640-upper-lakeview-road-20051381\\esri_world_imagery_z19\\z19_x93194_y176657.jpg",
       "data\\aerial\\columbia_valley\\31-640-upper-lakeview-road-20051381\\esri_world_imagery_z19\\z19_x93195_y176657.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -1618,7 +1639,8 @@
       "data\\aerial\\columbia_valley\\799-lakeview-meadows-point-10645721\\esri_world_imagery_z19\\z19_x93196_y176670.jpg",
       "data\\aerial\\columbia_valley\\799-lakeview-meadows-point-10645721\\esri_world_imagery_z19\\z19_x93197_y176670.jpg",
       "data\\aerial\\columbia_valley\\799-lakeview-meadows-point-10645721\\esri_world_imagery_z19\\z19_x93198_y176670.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -1737,7 +1759,8 @@
       "data\\aerial\\columbia_valley\\5151-riverview-road-10677817\\esri_world_imagery_z19\\z19_x93404_y177067.jpg",
       "data\\aerial\\columbia_valley\\5151-riverview-road-10677817\\esri_world_imagery_z19\\z19_x93405_y177067.jpg",
       "data\\aerial\\columbia_valley\\5151-riverview-road-10677817\\esri_world_imagery_z19\\z19_x93406_y177067.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -1820,7 +1843,8 @@
       "data\\aerial\\columbia_valley\\958-copper-point-way-10683812\\esri_world_imagery_z19\\z19_x93222_y176676.jpg",
       "data\\aerial\\columbia_valley\\958-copper-point-way-10683812\\esri_world_imagery_z19\\z19_x93223_y176676.jpg",
       "data\\aerial\\columbia_valley\\958-copper-point-way-10683812\\esri_world_imagery_z19\\z19_x93224_y176676.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -1914,7 +1938,8 @@
       "data\\aerial\\columbia_valley\\5132-riverview-crescent-20080295\\esri_world_imagery_z19\\z19_x93408_y177063.jpg",
       "data\\aerial\\columbia_valley\\5132-riverview-crescent-20080295\\esri_world_imagery_z19\\z19_x93409_y177063.jpg",
       "data\\aerial\\columbia_valley\\5132-riverview-crescent-20080295\\esri_world_imagery_z19\\z19_x93410_y177063.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -1991,7 +2016,8 @@
       "data\\aerial\\columbia_valley\\1059-swansea-road-10658844\\esri_world_imagery_z19\\z19_x93227_y176682.jpg",
       "data\\aerial\\columbia_valley\\1059-swansea-road-10658844\\esri_world_imagery_z19\\z19_x93228_y176682.jpg",
       "data\\aerial\\columbia_valley\\1059-swansea-road-10658844\\esri_world_imagery_z19\\z19_x93229_y176682.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -2029,7 +2055,8 @@
       "data\\aerial\\columbia_valley\\1753-2nd-avenue-10521676\\esri_world_imagery_z19\\z19_x93175_y176680.jpg",
       "data\\aerial\\columbia_valley\\1753-2nd-avenue-10521676\\esri_world_imagery_z19\\z19_x93176_y176680.jpg",
       "data\\aerial\\columbia_valley\\1753-2nd-avenue-10521676\\esri_world_imagery_z19\\z19_x93177_y176680.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -2106,7 +2133,8 @@
       "data\\aerial\\columbia_valley\\5938-columbia-lake-road-10660875\\esri_world_imagery_z19\\z19_x93371_y177160.jpg",
       "data\\aerial\\columbia_valley\\5938-columbia-lake-road-10660875\\esri_world_imagery_z19\\z19_x93372_y177160.jpg",
       "data\\aerial\\columbia_valley\\5938-columbia-lake-road-10660875\\esri_world_imagery_z19\\z19_x93373_y177160.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -2183,7 +2211,8 @@
       "data\\aerial\\columbia_valley\\4874-ridge-crescent-10665854\\esri_world_imagery_z19\\z19_x93208_y176685.jpg",
       "data\\aerial\\columbia_valley\\4874-ridge-crescent-10665854\\esri_world_imagery_z19\\z19_x93209_y176685.jpg",
       "data\\aerial\\columbia_valley\\4874-ridge-crescent-10665854\\esri_world_imagery_z19\\z19_x93210_y176685.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -2254,7 +2283,8 @@
       "data\\aerial\\columbia_valley\\2510-cobblestone-trail-10680589\\esri_world_imagery_z19\\z19_x93144_y176709.jpg",
       "data\\aerial\\columbia_valley\\2510-cobblestone-trail-10680589\\esri_world_imagery_z19\\z19_x93145_y176709.jpg",
       "data\\aerial\\columbia_valley\\2510-cobblestone-trail-10680589\\esri_world_imagery_z19\\z19_x93146_y176709.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -2370,7 +2400,8 @@
       "data\\aerial\\columbia_valley\\137-12a-avenue-20026178\\esri_world_imagery_z19\\z19_x93152_y176643.jpg",
       "data\\aerial\\columbia_valley\\137-12a-avenue-20026178\\esri_world_imagery_z19\\z19_x93153_y176643.jpg",
       "data\\aerial\\columbia_valley\\137-12a-avenue-20026178\\esri_world_imagery_z19\\z19_x93154_y176643.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -2456,7 +2487,8 @@
       "data\\aerial\\columbia_valley\\7-640-upper-lakeview-road-20057362\\esri_world_imagery_z19\\z19_x93193_y176660.jpg",
       "data\\aerial\\columbia_valley\\7-640-upper-lakeview-road-20057362\\esri_world_imagery_z19\\z19_x93194_y176660.jpg",
       "data\\aerial\\columbia_valley\\7-640-upper-lakeview-road-20057362\\esri_world_imagery_z19\\z19_x93195_y176660.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -2548,7 +2580,8 @@
       "data\\aerial\\columbia_valley\\5221-columbia-river-road-20061096\\esri_world_imagery_z19\\z19_x93412_y177073.jpg",
       "data\\aerial\\columbia_valley\\5221-columbia-river-road-20061096\\esri_world_imagery_z19\\z19_x93413_y177073.jpg",
       "data\\aerial\\columbia_valley\\5221-columbia-river-road-20061096\\esri_world_imagery_z19\\z19_x93414_y177073.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -2643,7 +2676,8 @@
       "data\\aerial\\columbia_valley\\4985-mountain-top-drive-10673667\\esri_world_imagery_z19\\z19_x93426_y177040.jpg",
       "data\\aerial\\columbia_valley\\4985-mountain-top-drive-10673667\\esri_world_imagery_z19\\z19_x93427_y177040.jpg",
       "data\\aerial\\columbia_valley\\4985-mountain-top-drive-10673667\\esri_world_imagery_z19\\z19_x93428_y177040.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -2722,7 +2756,8 @@
       "data\\aerial\\columbia_valley\\1745-swansea-avenue-10675078\\esri_world_imagery_z19\\z19_x93220_y176762.jpg",
       "data\\aerial\\columbia_valley\\1745-swansea-avenue-10675078\\esri_world_imagery_z19\\z19_x93221_y176762.jpg",
       "data\\aerial\\columbia_valley\\1745-swansea-avenue-10675078\\esri_world_imagery_z19\\z19_x93222_y176762.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -2807,7 +2842,8 @@
       "data\\aerial\\columbia_valley\\9982-wildwood-lane-10664190\\esri_world_imagery_z19\\z19_x92838_y176801.jpg",
       "data\\aerial\\columbia_valley\\9982-wildwood-lane-10664190\\esri_world_imagery_z19\\z19_x92839_y176801.jpg",
       "data\\aerial\\columbia_valley\\9982-wildwood-lane-10664190\\esri_world_imagery_z19\\z19_x92840_y176801.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -2885,7 +2921,8 @@
       "data\\aerial\\columbia_valley\\8042-mcintosh-loop-road-10670913\\esri_world_imagery_z19\\z19_x93137_y176435.jpg",
       "data\\aerial\\columbia_valley\\8042-mcintosh-loop-road-10670913\\esri_world_imagery_z19\\z19_x93138_y176435.jpg",
       "data\\aerial\\columbia_valley\\8042-mcintosh-loop-road-10670913\\esri_world_imagery_z19\\z19_x93139_y176435.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -2983,7 +3020,8 @@
       "data\\aerial\\columbia_valley\\4476-columbia-view-road-10682429\\esri_world_imagery_z19\\z19_x93377_y177145.jpg",
       "data\\aerial\\columbia_valley\\4476-columbia-view-road-10682429\\esri_world_imagery_z19\\z19_x93378_y177145.jpg",
       "data\\aerial\\columbia_valley\\4476-columbia-view-road-10682429\\esri_world_imagery_z19\\z19_x93379_y177145.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -3069,7 +3107,8 @@
       "data\\aerial\\columbia_valley\\1509-10th-avenue-20049602\\esri_world_imagery_z19\\z19_x93158_y176669.jpg",
       "data\\aerial\\columbia_valley\\1509-10th-avenue-20049602\\esri_world_imagery_z19\\z19_x93159_y176669.jpg",
       "data\\aerial\\columbia_valley\\1509-10th-avenue-20049602\\esri_world_imagery_z19\\z19_x93160_y176669.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -3139,7 +3178,8 @@
       "data\\aerial\\columbia_valley\\815-lakeview-meadows-green-10646987\\esri_world_imagery_z19\\z19_x93197_y176671.jpg",
       "data\\aerial\\columbia_valley\\815-lakeview-meadows-green-10646987\\esri_world_imagery_z19\\z19_x93198_y176671.jpg",
       "data\\aerial\\columbia_valley\\815-lakeview-meadows-green-10646987\\esri_world_imagery_z19\\z19_x93199_y176671.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -3232,7 +3272,8 @@
       "data\\aerial\\columbia_valley\\6894-columbia-ridge-drive-10672919\\esri_world_imagery_z19\\z19_x93390_y177267.jpg",
       "data\\aerial\\columbia_valley\\6894-columbia-ridge-drive-10672919\\esri_world_imagery_z19\\z19_x93391_y177267.jpg",
       "data\\aerial\\columbia_valley\\6894-columbia-ridge-drive-10672919\\esri_world_imagery_z19\\z19_x93392_y177267.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -3326,7 +3367,8 @@
       "data\\aerial\\columbia_valley\\1325-12-avenue-20049552\\esri_world_imagery_z19\\z19_x93154_y176665.jpg",
       "data\\aerial\\columbia_valley\\1325-12-avenue-20049552\\esri_world_imagery_z19\\z19_x93155_y176665.jpg",
       "data\\aerial\\columbia_valley\\1325-12-avenue-20049552\\esri_world_imagery_z19\\z19_x93156_y176665.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -3417,7 +3459,8 @@
       "data\\aerial\\columbia_valley\\4576-columere-road-10673047\\esri_world_imagery_z19\\z19_x93383_y177152.jpg",
       "data\\aerial\\columbia_valley\\4576-columere-road-10673047\\esri_world_imagery_z19\\z19_x93384_y177152.jpg",
       "data\\aerial\\columbia_valley\\4576-columere-road-10673047\\esri_world_imagery_z19\\z19_x93385_y177152.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -3471,7 +3514,8 @@
       "data\\aerial\\columbia_valley\\5160-riverside-drive-10623245\\esri_world_imagery_z19\\z19_x93396_y177078.jpg",
       "data\\aerial\\columbia_valley\\5160-riverside-drive-10623245\\esri_world_imagery_z19\\z19_x93397_y177078.jpg",
       "data\\aerial\\columbia_valley\\5160-riverside-drive-10623245\\esri_world_imagery_z19\\z19_x93398_y177078.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -3548,7 +3592,8 @@
       "data\\aerial\\columbia_valley\\6949-columbia-ridge-drive-10647683\\esri_world_imagery_z19\\z19_x93394_y177267.jpg",
       "data\\aerial\\columbia_valley\\6949-columbia-ridge-drive-10647683\\esri_world_imagery_z19\\z19_x93395_y177267.jpg",
       "data\\aerial\\columbia_valley\\6949-columbia-ridge-drive-10647683\\esri_world_imagery_z19\\z19_x93396_y177267.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -3609,7 +3654,8 @@
       "data\\aerial\\columbia_valley\\1973-greywolf-drive-10650416\\esri_world_imagery_z19\\z19_x92849_y176777.jpg",
       "data\\aerial\\columbia_valley\\1973-greywolf-drive-10650416\\esri_world_imagery_z19\\z19_x92850_y176777.jpg",
       "data\\aerial\\columbia_valley\\1973-greywolf-drive-10650416\\esri_world_imagery_z19\\z19_x92851_y176777.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -3686,7 +3732,8 @@
       "data\\aerial\\columbia_valley\\1122-hilltop-road-10657869\\esri_world_imagery_z19\\z19_x93213_y176696.jpg",
       "data\\aerial\\columbia_valley\\1122-hilltop-road-10657869\\esri_world_imagery_z19\\z19_x93214_y176696.jpg",
       "data\\aerial\\columbia_valley\\1122-hilltop-road-10657869\\esri_world_imagery_z19\\z19_x93215_y176696.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -3787,7 +3834,8 @@
       "data\\aerial\\columbia_valley\\3415-crooked-tree-place-10672915\\esri_world_imagery_z19\\z19_x93376_y176884.jpg",
       "data\\aerial\\columbia_valley\\3415-crooked-tree-place-10672915\\esri_world_imagery_z19\\z19_x93377_y176884.jpg",
       "data\\aerial\\columbia_valley\\3415-crooked-tree-place-10672915\\esri_world_imagery_z19\\z19_x93378_y176884.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -3868,7 +3916,8 @@
       "data\\aerial\\columbia_valley\\4949-mountain-hill-road-10673650\\esri_world_imagery_z19\\z19_x93420_y177037.jpg",
       "data\\aerial\\columbia_valley\\4949-mountain-hill-road-10673650\\esri_world_imagery_z19\\z19_x93421_y177037.jpg",
       "data\\aerial\\columbia_valley\\4949-mountain-hill-road-10673650\\esri_world_imagery_z19\\z19_x93422_y177037.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -3947,7 +3996,8 @@
       "data\\aerial\\columbia_valley\\1440-canterbury-close-10683098\\esri_world_imagery_z19\\z19_x93140_y176662.jpg",
       "data\\aerial\\columbia_valley\\1440-canterbury-close-10683098\\esri_world_imagery_z19\\z19_x93141_y176662.jpg",
       "data\\aerial\\columbia_valley\\1440-canterbury-close-10683098\\esri_world_imagery_z19\\z19_x93142_y176662.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -4034,7 +4084,8 @@
       "data\\aerial\\columbia_valley\\2543-ledgerock-ridge-10684446\\esri_world_imagery_z19\\z19_x93147_y176717.jpg",
       "data\\aerial\\columbia_valley\\2543-ledgerock-ridge-10684446\\esri_world_imagery_z19\\z19_x93148_y176717.jpg",
       "data\\aerial\\columbia_valley\\2543-ledgerock-ridge-10684446\\esri_world_imagery_z19\\z19_x93149_y176717.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -4126,7 +4177,8 @@
       "data\\aerial\\columbia_valley\\4671-poplar-street-10680461\\esri_world_imagery_z19\\z19_x93225_y176770.jpg",
       "data\\aerial\\columbia_valley\\4671-poplar-street-10680461\\esri_world_imagery_z19\\z19_x93226_y176770.jpg",
       "data\\aerial\\columbia_valley\\4671-poplar-street-10680461\\esri_world_imagery_z19\\z19_x93227_y176770.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -4205,7 +4257,8 @@
       "data\\aerial\\columbia_valley\\1715-3rd-avenue-10685465\\esri_world_imagery_z19\\z19_x93174_y176677.jpg",
       "data\\aerial\\columbia_valley\\1715-3rd-avenue-10685465\\esri_world_imagery_z19\\z19_x93175_y176677.jpg",
       "data\\aerial\\columbia_valley\\1715-3rd-avenue-10685465\\esri_world_imagery_z19\\z19_x93176_y176677.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -4312,7 +4365,8 @@
       "data\\aerial\\columbia_valley\\2577-sandstone-circle-10672111\\esri_world_imagery_z19\\z19_x93144_y176719.jpg",
       "data\\aerial\\columbia_valley\\2577-sandstone-circle-10672111\\esri_world_imagery_z19\\z19_x93145_y176719.jpg",
       "data\\aerial\\columbia_valley\\2577-sandstone-circle-10672111\\esri_world_imagery_z19\\z19_x93146_y176719.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -4385,7 +4439,8 @@
       "data\\aerial\\columbia_valley\\2580-sandstone-view-10680456\\esri_world_imagery_z19\\z19_x93144_y176721.jpg",
       "data\\aerial\\columbia_valley\\2580-sandstone-view-10680456\\esri_world_imagery_z19\\z19_x93145_y176721.jpg",
       "data\\aerial\\columbia_valley\\2580-sandstone-view-10680456\\esri_world_imagery_z19\\z19_x93146_y176721.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -4474,7 +4529,8 @@
       "data\\aerial\\columbia_valley\\8414-richardson-crescent-10673624\\esri_world_imagery_z19\\z19_x93471_y177400.jpg",
       "data\\aerial\\columbia_valley\\8414-richardson-crescent-10673624\\esri_world_imagery_z19\\z19_x93472_y177400.jpg",
       "data\\aerial\\columbia_valley\\8414-richardson-crescent-10673624\\esri_world_imagery_z19\\z19_x93473_y177400.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -4563,7 +4619,8 @@
       "data\\aerial\\columbia_valley\\974-swansea-view-road-20071157\\esri_world_imagery_z19\\z19_x93223_y176680.jpg",
       "data\\aerial\\columbia_valley\\974-swansea-view-road-20071157\\esri_world_imagery_z19\\z19_x93224_y176680.jpg",
       "data\\aerial\\columbia_valley\\974-swansea-view-road-20071157\\esri_world_imagery_z19\\z19_x93225_y176680.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -4610,7 +4667,8 @@
       "data\\aerial\\columbia_valley\\5156-riverview-crescent-10570990\\esri_world_imagery_z19\\z19_x93406_y177065.jpg",
       "data\\aerial\\columbia_valley\\5156-riverview-crescent-10570990\\esri_world_imagery_z19\\z19_x93407_y177065.jpg",
       "data\\aerial\\columbia_valley\\5156-riverview-crescent-10570990\\esri_world_imagery_z19\\z19_x93408_y177065.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -4667,7 +4725,8 @@
       "data\\aerial\\columbia_valley\\4815-holland-creek-ridge-road-10629099\\esri_world_imagery_z19\\z19_x93660_y176422.jpg",
       "data\\aerial\\columbia_valley\\4815-holland-creek-ridge-road-10629099\\esri_world_imagery_z19\\z19_x93661_y176422.jpg",
       "data\\aerial\\columbia_valley\\4815-holland-creek-ridge-road-10629099\\esri_world_imagery_z19\\z19_x93662_y176422.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -4744,7 +4803,8 @@
       "data\\aerial\\columbia_valley\\823-lakeview-meadows-green-10639146\\esri_world_imagery_z19\\z19_x93197_y176672.jpg",
       "data\\aerial\\columbia_valley\\823-lakeview-meadows-green-10639146\\esri_world_imagery_z19\\z19_x93198_y176672.jpg",
       "data\\aerial\\columbia_valley\\823-lakeview-meadows-green-10639146\\esri_world_imagery_z19\\z19_x93199_y176672.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -4821,7 +4881,8 @@
       "data\\aerial\\columbia_valley\\4816-ridge-drive-10662523\\esri_world_imagery_z19\\z19_x93204_y176686.jpg",
       "data\\aerial\\columbia_valley\\4816-ridge-drive-10662523\\esri_world_imagery_z19\\z19_x93205_y176686.jpg",
       "data\\aerial\\columbia_valley\\4816-ridge-drive-10662523\\esri_world_imagery_z19\\z19_x93206_y176686.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -4924,7 +4985,8 @@
       "data\\aerial\\columbia_valley\\2537-ledgerock-ridge-10677502\\esri_world_imagery_z19\\z19_x93146_y176715.jpg",
       "data\\aerial\\columbia_valley\\2537-ledgerock-ridge-10677502\\esri_world_imagery_z19\\z19_x93147_y176715.jpg",
       "data\\aerial\\columbia_valley\\2537-ledgerock-ridge-10677502\\esri_world_imagery_z19\\z19_x93148_y176715.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -4963,7 +5025,8 @@
       "data\\aerial\\columbia_valley\\1921-pineridge-mountain-trail-20020845\\esri_world_imagery_z19\\z19_x93133_y176674.jpg",
       "data\\aerial\\columbia_valley\\1921-pineridge-mountain-trail-20020845\\esri_world_imagery_z19\\z19_x93134_y176674.jpg",
       "data\\aerial\\columbia_valley\\1921-pineridge-mountain-trail-20020845\\esri_world_imagery_z19\\z19_x93135_y176674.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -5042,7 +5105,8 @@
       "data\\aerial\\columbia_valley\\781-westridge-drive-20021336\\esri_world_imagery_z19\\z19_x93138_y176672.jpg",
       "data\\aerial\\columbia_valley\\781-westridge-drive-20021336\\esri_world_imagery_z19\\z19_x93139_y176672.jpg",
       "data\\aerial\\columbia_valley\\781-westridge-drive-20021336\\esri_world_imagery_z19\\z19_x93140_y176672.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -5128,7 +5192,8 @@
       "data\\aerial\\columbia_valley\\4992-mountain-view-drive-20026072\\esri_world_imagery_z19\\z19_x93424_y177041.jpg",
       "data\\aerial\\columbia_valley\\4992-mountain-view-drive-20026072\\esri_world_imagery_z19\\z19_x93425_y177041.jpg",
       "data\\aerial\\columbia_valley\\4992-mountain-view-drive-20026072\\esri_world_imagery_z19\\z19_x93426_y177041.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -5220,7 +5285,8 @@
       "data\\aerial\\columbia_valley\\4824-mckay-street-20046407\\esri_world_imagery_z19\\z19_x93097_y176404.jpg",
       "data\\aerial\\columbia_valley\\4824-mckay-street-20046407\\esri_world_imagery_z19\\z19_x93098_y176404.jpg",
       "data\\aerial\\columbia_valley\\4824-mckay-street-20046407\\esri_world_imagery_z19\\z19_x93099_y176404.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -5310,7 +5376,8 @@
       "data\\aerial\\columbia_valley\\7043-elk-ridge-road-10669795\\esri_world_imagery_z19\\z19_x93091_y176345.jpg",
       "data\\aerial\\columbia_valley\\7043-elk-ridge-road-10669795\\esri_world_imagery_z19\\z19_x93092_y176345.jpg",
       "data\\aerial\\columbia_valley\\7043-elk-ridge-road-10669795\\esri_world_imagery_z19\\z19_x93093_y176345.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -5354,7 +5421,8 @@
       "data\\aerial\\columbia_valley\\1007-4th-avenue-10563296\\esri_world_imagery_z19\\z19_x93168_y176658.jpg",
       "data\\aerial\\columbia_valley\\1007-4th-avenue-10563296\\esri_world_imagery_z19\\z19_x93169_y176658.jpg",
       "data\\aerial\\columbia_valley\\1007-4th-avenue-10563296\\esri_world_imagery_z19\\z19_x93170_y176658.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -5401,7 +5469,8 @@
       "data\\aerial\\columbia_valley\\4642-rowan-street-10590002\\esri_world_imagery_z19\\z19_x93221_y176767.jpg",
       "data\\aerial\\columbia_valley\\4642-rowan-street-10590002\\esri_world_imagery_z19\\z19_x93222_y176767.jpg",
       "data\\aerial\\columbia_valley\\4642-rowan-street-10590002\\esri_world_imagery_z19\\z19_x93223_y176767.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -5441,7 +5510,8 @@
       "data\\aerial\\columbia_valley\\885-copperview-close-10588693\\esri_world_imagery_z19\\z19_x93660_y176422.jpg",
       "data\\aerial\\columbia_valley\\885-copperview-close-10588693\\esri_world_imagery_z19\\z19_x93661_y176422.jpg",
       "data\\aerial\\columbia_valley\\885-copperview-close-10588693\\esri_world_imagery_z19\\z19_x93662_y176422.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -5518,7 +5588,8 @@
       "data\\aerial\\columbia_valley\\7503-sun-valley-place-10662424\\esri_world_imagery_z19\\z19_x93079_y176397.jpg",
       "data\\aerial\\columbia_valley\\7503-sun-valley-place-10662424\\esri_world_imagery_z19\\z19_x93080_y176397.jpg",
       "data\\aerial\\columbia_valley\\7503-sun-valley-place-10662424\\esri_world_imagery_z19\\z19_x93081_y176397.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -5610,7 +5681,8 @@
       "data\\aerial\\columbia_valley\\959-copper-point-way-20050440\\esri_world_imagery_z19\\z19_x93222_y176675.jpg",
       "data\\aerial\\columbia_valley\\959-copper-point-way-20050440\\esri_world_imagery_z19\\z19_x93223_y176675.jpg",
       "data\\aerial\\columbia_valley\\959-copper-point-way-20050440\\esri_world_imagery_z19\\z19_x93224_y176675.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -5694,7 +5766,8 @@
       "data\\aerial\\columbia_valley\\4573-columere-road-20076380\\esri_world_imagery_z19\\z19_x93383_y177152.jpg",
       "data\\aerial\\columbia_valley\\4573-columere-road-20076380\\esri_world_imagery_z19\\z19_x93384_y177152.jpg",
       "data\\aerial\\columbia_valley\\4573-columere-road-20076380\\esri_world_imagery_z19\\z19_x93385_y177152.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -5771,7 +5844,8 @@
       "data\\aerial\\columbia_valley\\2588-ledgerock-ridge-10671250\\esri_world_imagery_z19\\z19_x93147_y176723.jpg",
       "data\\aerial\\columbia_valley\\2588-ledgerock-ridge-10671250\\esri_world_imagery_z19\\z19_x93148_y176723.jpg",
       "data\\aerial\\columbia_valley\\2588-ledgerock-ridge-10671250\\esri_world_imagery_z19\\z19_x93149_y176723.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -5812,7 +5886,8 @@
       "data\\aerial\\columbia_valley\\815-lakeview-meadows-green-10665254\\esri_world_imagery_z19\\z19_x93198_y176671.jpg",
       "data\\aerial\\columbia_valley\\815-lakeview-meadows-green-10665254\\esri_world_imagery_z19\\z19_x93199_y176671.jpg",
       "data\\aerial\\columbia_valley\\815-lakeview-meadows-green-10665254\\esri_world_imagery_z19\\z19_x93200_y176671.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -5897,7 +5972,8 @@
       "data\\aerial\\columbia_valley\\961-copper-point-way-10685328\\esri_world_imagery_z19\\z19_x93221_y176675.jpg",
       "data\\aerial\\columbia_valley\\961-copper-point-way-10685328\\esri_world_imagery_z19\\z19_x93222_y176675.jpg",
       "data\\aerial\\columbia_valley\\961-copper-point-way-10685328\\esri_world_imagery_z19\\z19_x93223_y176675.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -5935,7 +6011,8 @@
       "data\\aerial\\columbia_valley\\515-lakeview-place-10523709\\esri_world_imagery_z19\\z19_x93222_y176757.jpg",
       "data\\aerial\\columbia_valley\\515-lakeview-place-10523709\\esri_world_imagery_z19\\z19_x93223_y176757.jpg",
       "data\\aerial\\columbia_valley\\515-lakeview-place-10523709\\esri_world_imagery_z19\\z19_x93224_y176757.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -5946,8 +6023,8 @@
     "address": "4859 HOLLAND CK RIDGE Road",
     "area": "Kootenay",
     "subarea": "INRU - Windermere",
-    "latitude": "",
-    "longitude": "",
+    "latitude": "50.49687090",
+    "longitude": "-115.99982139",
     "list_price": "$799,000.00",
     "beds": "4",
     "baths": "3",
@@ -5969,7 +6046,23 @@
       "https://images.realtyserver.com/photo_server.php?btnSubmit=GetPhoto&board=air&name=00A13908.L07&failover=portal_Blank.gif"
     ],
     "folder": "columbia_valley/4859-holland-ck-ridge-road-10565896",
-    "aerial_candidates": []
+    "aerial_candidates": [
+      "data\\aerial\\columbia_valley\\4859-holland-ck-ridge-road-10565896\\esri_world_imagery_z19\\z19_x93206_y176676.jpg",
+      "data\\aerial\\columbia_valley\\4859-holland-ck-ridge-road-10565896\\esri_world_imagery_z19\\z19_x93207_y176676.jpg",
+      "data\\aerial\\columbia_valley\\4859-holland-ck-ridge-road-10565896\\esri_world_imagery_z19\\z19_x93208_y176676.jpg",
+      "data\\aerial\\columbia_valley\\4859-holland-ck-ridge-road-10565896\\esri_world_imagery_z19\\z19_x93206_y176677.jpg",
+      "data\\aerial\\columbia_valley\\4859-holland-ck-ridge-road-10565896\\esri_world_imagery_z19\\z19_x93207_y176677.jpg",
+      "data\\aerial\\columbia_valley\\4859-holland-ck-ridge-road-10565896\\esri_world_imagery_z19\\z19_x93208_y176677.jpg",
+      "data\\aerial\\columbia_valley\\4859-holland-ck-ridge-road-10565896\\esri_world_imagery_z19\\z19_x93206_y176678.jpg",
+      "data\\aerial\\columbia_valley\\4859-holland-ck-ridge-road-10565896\\esri_world_imagery_z19\\z19_x93207_y176678.jpg",
+      "data\\aerial\\columbia_valley\\4859-holland-ck-ridge-road-10565896\\esri_world_imagery_z19\\z19_x93208_y176678.jpg"
+    ],
+    "geocode_source": "arcgis_world_geocoder",
+    "geocode_query": "4859 HOLLAND CK RIDGE Road INRU - Windermere British Columbia Canada",
+    "geocode_match_addr": "4859 Holland Creek Ridge Rd, Invermere, British Columbia, V0A 1K3",
+    "geocode_addr_type": "PointAddress",
+    "geocode_score": 88.15,
+    "coordinate_confidence": "point"
   },
   {
     "source": "columbia_valley",
@@ -5980,8 +6073,8 @@
     "address": "4927 LAKEVIEW MEADOWS Close",
     "area": "Kootenay",
     "subarea": "INRU - Windermere",
-    "latitude": "39.56962",
-    "longitude": "-86.195154",
+    "latitude": "50.49928719",
+    "longitude": "-115.99612238",
     "list_price": "$799,000.00",
     "beds": "3",
     "baths": "3",
@@ -6001,7 +6094,23 @@
       "https://images.realtyserver.com/photo_server.php?btnSubmit=GetPhoto&board=air&name=00A147DA.L05&failover=portal_Blank.gif"
     ],
     "folder": "columbia_valley/4927-lakeview-meadows-close-10569690",
-    "aerial_candidates": []
+    "aerial_candidates": [
+      "data\\aerial\\columbia_valley\\4927-lakeview-meadows-close-10569690\\esri_world_imagery_z19\\z19_x93211_y176671.jpg",
+      "data\\aerial\\columbia_valley\\4927-lakeview-meadows-close-10569690\\esri_world_imagery_z19\\z19_x93212_y176671.jpg",
+      "data\\aerial\\columbia_valley\\4927-lakeview-meadows-close-10569690\\esri_world_imagery_z19\\z19_x93213_y176671.jpg",
+      "data\\aerial\\columbia_valley\\4927-lakeview-meadows-close-10569690\\esri_world_imagery_z19\\z19_x93211_y176672.jpg",
+      "data\\aerial\\columbia_valley\\4927-lakeview-meadows-close-10569690\\esri_world_imagery_z19\\z19_x93212_y176672.jpg",
+      "data\\aerial\\columbia_valley\\4927-lakeview-meadows-close-10569690\\esri_world_imagery_z19\\z19_x93213_y176672.jpg",
+      "data\\aerial\\columbia_valley\\4927-lakeview-meadows-close-10569690\\esri_world_imagery_z19\\z19_x93211_y176673.jpg",
+      "data\\aerial\\columbia_valley\\4927-lakeview-meadows-close-10569690\\esri_world_imagery_z19\\z19_x93212_y176673.jpg",
+      "data\\aerial\\columbia_valley\\4927-lakeview-meadows-close-10569690\\esri_world_imagery_z19\\z19_x93213_y176673.jpg"
+    ],
+    "geocode_source": "arcgis_world_geocoder",
+    "geocode_query": "4927 LAKEVIEW MEADOWS Close INRU - Windermere British Columbia Canada",
+    "geocode_match_addr": "4927 Lakeview Meadows Close, Invermere, British Columbia, V0A 1K3",
+    "geocode_addr_type": "PointAddress",
+    "geocode_score": 95.67,
+    "coordinate_confidence": "point"
   },
   {
     "source": "columbia_valley",
@@ -6048,7 +6157,8 @@
       "data\\aerial\\columbia_valley\\4552-columbia-view-road-10572288\\esri_world_imagery_z19\\z19_x93379_y177156.jpg",
       "data\\aerial\\columbia_valley\\4552-columbia-view-road-10572288\\esri_world_imagery_z19\\z19_x93380_y177156.jpg",
       "data\\aerial\\columbia_valley\\4552-columbia-view-road-10572288\\esri_world_imagery_z19\\z19_x93381_y177156.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -6095,7 +6205,8 @@
       "data\\aerial\\columbia_valley\\1513-lakeview-lane-10573769\\esri_world_imagery_z19\\z19_x93176_y176671.jpg",
       "data\\aerial\\columbia_valley\\1513-lakeview-lane-10573769\\esri_world_imagery_z19\\z19_x93177_y176671.jpg",
       "data\\aerial\\columbia_valley\\1513-lakeview-lane-10573769\\esri_world_imagery_z19\\z19_x93178_y176671.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -6140,7 +6251,8 @@
       "data\\aerial\\columbia_valley\\1-bighorn-sheep-lane-10574816\\esri_world_imagery_z19\\z19_x93485_y177459.jpg",
       "data\\aerial\\columbia_valley\\1-bighorn-sheep-lane-10574816\\esri_world_imagery_z19\\z19_x93486_y177459.jpg",
       "data\\aerial\\columbia_valley\\1-bighorn-sheep-lane-10574816\\esri_world_imagery_z19\\z19_x93487_y177459.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -6187,7 +6299,8 @@
       "data\\aerial\\columbia_valley\\4905-lakeview-meadows-close-10587559\\esri_world_imagery_z19\\z19_x93660_y176422.jpg",
       "data\\aerial\\columbia_valley\\4905-lakeview-meadows-close-10587559\\esri_world_imagery_z19\\z19_x93661_y176422.jpg",
       "data\\aerial\\columbia_valley\\4905-lakeview-meadows-close-10587559\\esri_world_imagery_z19\\z19_x93662_y176422.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -6234,7 +6347,8 @@
       "data\\aerial\\columbia_valley\\1453-stoddart-avenue-10589073\\esri_world_imagery_z19\\z19_x93215_y176731.jpg",
       "data\\aerial\\columbia_valley\\1453-stoddart-avenue-10589073\\esri_world_imagery_z19\\z19_x93216_y176731.jpg",
       "data\\aerial\\columbia_valley\\1453-stoddart-avenue-10589073\\esri_world_imagery_z19\\z19_x93217_y176731.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -6281,7 +6395,8 @@
       "data\\aerial\\columbia_valley\\4764-timber-ridge-road-10607338\\esri_world_imagery_z19\\z19_x93660_y176422.jpg",
       "data\\aerial\\columbia_valley\\4764-timber-ridge-road-10607338\\esri_world_imagery_z19\\z19_x93661_y176422.jpg",
       "data\\aerial\\columbia_valley\\4764-timber-ridge-road-10607338\\esri_world_imagery_z19\\z19_x93662_y176422.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -6328,7 +6443,8 @@
       "data\\aerial\\columbia_valley\\964-lakeview-meadows-glen-10613313\\esri_world_imagery_z19\\z19_x93660_y176422.jpg",
       "data\\aerial\\columbia_valley\\964-lakeview-meadows-glen-10613313\\esri_world_imagery_z19\\z19_x93661_y176422.jpg",
       "data\\aerial\\columbia_valley\\964-lakeview-meadows-glen-10613313\\esri_world_imagery_z19\\z19_x93662_y176422.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -6384,7 +6500,8 @@
       "data\\aerial\\columbia_valley\\4808-lakehill-road-10631280\\esri_world_imagery_z19\\z19_x93199_y176676.jpg",
       "data\\aerial\\columbia_valley\\4808-lakehill-road-10631280\\esri_world_imagery_z19\\z19_x93200_y176676.jpg",
       "data\\aerial\\columbia_valley\\4808-lakehill-road-10631280\\esri_world_imagery_z19\\z19_x93201_y176676.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -6437,7 +6554,8 @@
       "data\\aerial\\columbia_valley\\2527-ledgerock-ridge-10631447\\esri_world_imagery_z19\\z19_x93163_y176656.jpg",
       "data\\aerial\\columbia_valley\\2527-ledgerock-ridge-10631447\\esri_world_imagery_z19\\z19_x93164_y176656.jpg",
       "data\\aerial\\columbia_valley\\2527-ledgerock-ridge-10631447\\esri_world_imagery_z19\\z19_x93165_y176656.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -6509,7 +6627,8 @@
       "data\\aerial\\columbia_valley\\7549-springs-terrace-10638399\\esri_world_imagery_z19\\z19_x93082_y176408.jpg",
       "data\\aerial\\columbia_valley\\7549-springs-terrace-10638399\\esri_world_imagery_z19\\z19_x93083_y176408.jpg",
       "data\\aerial\\columbia_valley\\7549-springs-terrace-10638399\\esri_world_imagery_z19\\z19_x93084_y176408.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -6586,7 +6705,8 @@
       "data\\aerial\\columbia_valley\\4806-holland-creek-ridge-road-10644065\\esri_world_imagery_z19\\z19_x93200_y176679.jpg",
       "data\\aerial\\columbia_valley\\4806-holland-creek-ridge-road-10644065\\esri_world_imagery_z19\\z19_x93201_y176679.jpg",
       "data\\aerial\\columbia_valley\\4806-holland-creek-ridge-road-10644065\\esri_world_imagery_z19\\z19_x93202_y176679.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -6660,7 +6780,8 @@
       "data\\aerial\\columbia_valley\\402-westridge-view-10650499\\esri_world_imagery_z19\\z19_x93142_y176674.jpg",
       "data\\aerial\\columbia_valley\\402-westridge-view-10650499\\esri_world_imagery_z19\\z19_x93143_y176674.jpg",
       "data\\aerial\\columbia_valley\\402-westridge-view-10650499\\esri_world_imagery_z19\\z19_x93144_y176674.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -6737,7 +6858,8 @@
       "data\\aerial\\columbia_valley\\850-lakeview-meadows-road-10654610\\esri_world_imagery_z19\\z19_x93202_y176675.jpg",
       "data\\aerial\\columbia_valley\\850-lakeview-meadows-road-10654610\\esri_world_imagery_z19\\z19_x93203_y176675.jpg",
       "data\\aerial\\columbia_valley\\850-lakeview-meadows-road-10654610\\esri_world_imagery_z19\\z19_x93204_y176675.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -6812,7 +6934,8 @@
       "data\\aerial\\columbia_valley\\4642-rowan-street-10659027\\esri_world_imagery_z19\\z19_x93220_y176768.jpg",
       "data\\aerial\\columbia_valley\\4642-rowan-street-10659027\\esri_world_imagery_z19\\z19_x93221_y176768.jpg",
       "data\\aerial\\columbia_valley\\4642-rowan-street-10659027\\esri_world_imagery_z19\\z19_x93222_y176768.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -6886,7 +7009,8 @@
       "data\\aerial\\columbia_valley\\2589-ledgerock-court-10660407\\esri_world_imagery_z19\\z19_x93148_y176723.jpg",
       "data\\aerial\\columbia_valley\\2589-ledgerock-court-10660407\\esri_world_imagery_z19\\z19_x93149_y176723.jpg",
       "data\\aerial\\columbia_valley\\2589-ledgerock-court-10660407\\esri_world_imagery_z19\\z19_x93150_y176723.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -6960,7 +7084,8 @@
       "data\\aerial\\columbia_valley\\4942-mountain-hill-road-10660433\\esri_world_imagery_z19\\z19_x93421_y177037.jpg",
       "data\\aerial\\columbia_valley\\4942-mountain-hill-road-10660433\\esri_world_imagery_z19\\z19_x93422_y177037.jpg",
       "data\\aerial\\columbia_valley\\4942-mountain-hill-road-10660433\\esri_world_imagery_z19\\z19_x93423_y177037.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -7001,7 +7126,8 @@
       "data\\aerial\\columbia_valley\\4931-mountain-view-drive-10666174\\esri_world_imagery_z19\\z19_x93421_y177034.jpg",
       "data\\aerial\\columbia_valley\\4931-mountain-view-drive-10666174\\esri_world_imagery_z19\\z19_x93422_y177034.jpg",
       "data\\aerial\\columbia_valley\\4931-mountain-view-drive-10666174\\esri_world_imagery_z19\\z19_x93423_y177034.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -7096,7 +7222,8 @@
       "data\\aerial\\columbia_valley\\1018-swansea-road-10667320\\esri_world_imagery_z19\\z19_x93228_y176678.jpg",
       "data\\aerial\\columbia_valley\\1018-swansea-road-10667320\\esri_world_imagery_z19\\z19_x93229_y176678.jpg",
       "data\\aerial\\columbia_valley\\1018-swansea-road-10667320\\esri_world_imagery_z19\\z19_x93230_y176678.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -7178,7 +7305,8 @@
       "data\\aerial\\columbia_valley\\4690-north-street-10671043\\esri_world_imagery_z19\\z19_x93221_y176748.jpg",
       "data\\aerial\\columbia_valley\\4690-north-street-10671043\\esri_world_imagery_z19\\z19_x93222_y176748.jpg",
       "data\\aerial\\columbia_valley\\4690-north-street-10671043\\esri_world_imagery_z19\\z19_x93223_y176748.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -7266,7 +7394,8 @@
       "data\\aerial\\columbia_valley\\6925-columbia-ridge-drive-10672747\\esri_world_imagery_z19\\z19_x93393_y177269.jpg",
       "data\\aerial\\columbia_valley\\6925-columbia-ridge-drive-10672747\\esri_world_imagery_z19\\z19_x93394_y177269.jpg",
       "data\\aerial\\columbia_valley\\6925-columbia-ridge-drive-10672747\\esri_world_imagery_z19\\z19_x93395_y177269.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "columbia_valley",
@@ -7402,7 +7531,8 @@
       "data\\aerial\\columbia_valley\\1825-taynton-road-10676060\\esri_world_imagery_z19\\z19_x93242_y176762.jpg",
       "data\\aerial\\columbia_valley\\1825-taynton-road-10676060\\esri_world_imagery_z19\\z19_x93243_y176762.jpg",
       "data\\aerial\\columbia_valley\\1825-taynton-road-10676060\\esri_world_imagery_z19\\z19_x93244_y176762.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -7495,7 +7625,8 @@
       "data\\aerial\\cranbrook_kimberley\\311-302nd-avenue-20073830\\esri_world_imagery_z19\\z19_x93259_y178629.jpg",
       "data\\aerial\\cranbrook_kimberley\\311-302nd-avenue-20073830\\esri_world_imagery_z19\\z19_x93260_y178629.jpg",
       "data\\aerial\\cranbrook_kimberley\\311-302nd-avenue-20073830\\esri_world_imagery_z19\\z19_x93261_y178629.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -7562,7 +7693,8 @@
       "data\\aerial\\cranbrook_kimberley\\75-103rd-avenue-20078478\\esri_world_imagery_z19\\z19_x93255_y178568.jpg",
       "data\\aerial\\cranbrook_kimberley\\75-103rd-avenue-20078478\\esri_world_imagery_z19\\z19_x93256_y178568.jpg",
       "data\\aerial\\cranbrook_kimberley\\75-103rd-avenue-20078478\\esri_world_imagery_z19\\z19_x93257_y178568.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -7627,7 +7759,8 @@
       "data\\aerial\\cranbrook_kimberley\\317-legacy-lookout-20071254\\esri_world_imagery_z19\\z19_x93555_y178842.jpg",
       "data\\aerial\\cranbrook_kimberley\\317-legacy-lookout-20071254\\esri_world_imagery_z19\\z19_x93556_y178842.jpg",
       "data\\aerial\\cranbrook_kimberley\\317-legacy-lookout-20071254\\esri_world_imagery_z19\\z19_x93557_y178842.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -7678,7 +7811,8 @@
       "data\\aerial\\cranbrook_kimberley\\1701-3rd-s-avenue-10657484\\esri_world_imagery_z19\\z19_x93530_y178950.jpg",
       "data\\aerial\\cranbrook_kimberley\\1701-3rd-s-avenue-10657484\\esri_world_imagery_z19\\z19_x93531_y178950.jpg",
       "data\\aerial\\cranbrook_kimberley\\1701-3rd-s-avenue-10657484\\esri_world_imagery_z19\\z19_x93532_y178950.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -7720,7 +7854,8 @@
       "data\\aerial\\cranbrook_kimberley\\518-forest-crowne-drive-10669940\\esri_world_imagery_z19\\z19_x93245_y178619.jpg",
       "data\\aerial\\cranbrook_kimberley\\518-forest-crowne-drive-10669940\\esri_world_imagery_z19\\z19_x93246_y178619.jpg",
       "data\\aerial\\cranbrook_kimberley\\518-forest-crowne-drive-10669940\\esri_world_imagery_z19\\z19_x93247_y178619.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -7809,7 +7944,8 @@
       "data\\aerial\\cranbrook_kimberley\\3101-5th-street-s-20063623\\esri_world_imagery_z19\\z19_x93587_y178928.jpg",
       "data\\aerial\\cranbrook_kimberley\\3101-5th-street-s-20063623\\esri_world_imagery_z19\\z19_x93588_y178928.jpg",
       "data\\aerial\\cranbrook_kimberley\\3101-5th-street-s-20063623\\esri_world_imagery_z19\\z19_x93589_y178928.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -7880,7 +8016,8 @@
       "data\\aerial\\cranbrook_kimberley\\454-forest-crowne-rise-20073637\\esri_world_imagery_z19\\z19_x93238_y178620.jpg",
       "data\\aerial\\cranbrook_kimberley\\454-forest-crowne-rise-20073637\\esri_world_imagery_z19\\z19_x93239_y178620.jpg",
       "data\\aerial\\cranbrook_kimberley\\454-forest-crowne-rise-20073637\\esri_world_imagery_z19\\z19_x93240_y178620.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -7956,7 +8093,8 @@
       "data\\aerial\\cranbrook_kimberley\\1905-16th-s-street-10670897\\esri_world_imagery_z19\\z19_x93562_y178952.jpg",
       "data\\aerial\\cranbrook_kimberley\\1905-16th-s-street-10670897\\esri_world_imagery_z19\\z19_x93563_y178952.jpg",
       "data\\aerial\\cranbrook_kimberley\\1905-16th-s-street-10670897\\esri_world_imagery_z19\\z19_x93564_y178952.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -8025,7 +8163,8 @@
       "data\\aerial\\cranbrook_kimberley\\233-boulder-creek-20084357\\esri_world_imagery_z19\\z19_x93561_y178851.jpg",
       "data\\aerial\\cranbrook_kimberley\\233-boulder-creek-20084357\\esri_world_imagery_z19\\z19_x93562_y178851.jpg",
       "data\\aerial\\cranbrook_kimberley\\233-boulder-creek-20084357\\esri_world_imagery_z19\\z19_x93563_y178851.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -8132,7 +8271,8 @@
       "data\\aerial\\cranbrook_kimberley\\447-crowne-rise-forest-10682881\\esri_world_imagery_z19\\z19_x93238_y178620.jpg",
       "data\\aerial\\cranbrook_kimberley\\447-crowne-rise-forest-10682881\\esri_world_imagery_z19\\z19_x93239_y178620.jpg",
       "data\\aerial\\cranbrook_kimberley\\447-crowne-rise-forest-10682881\\esri_world_imagery_z19\\z19_x93240_y178620.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -8224,7 +8364,8 @@
       "data\\aerial\\cranbrook_kimberley\\205-309th-avenue-20058040\\esri_world_imagery_z19\\z19_x93274_y178626.jpg",
       "data\\aerial\\cranbrook_kimberley\\205-309th-avenue-20058040\\esri_world_imagery_z19\\z19_x93275_y178626.jpg",
       "data\\aerial\\cranbrook_kimberley\\205-309th-avenue-20058040\\esri_world_imagery_z19\\z19_x93276_y178626.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -8304,7 +8445,8 @@
       "data\\aerial\\cranbrook_kimberley\\821-6th-avenue-10693834\\esri_world_imagery_z19\\z19_x93222_y178485.jpg",
       "data\\aerial\\cranbrook_kimberley\\821-6th-avenue-10693834\\esri_world_imagery_z19\\z19_x93223_y178485.jpg",
       "data\\aerial\\cranbrook_kimberley\\821-6th-avenue-10693834\\esri_world_imagery_z19\\z19_x93224_y178485.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -8387,7 +8529,8 @@
       "data\\aerial\\cranbrook_kimberley\\1282-23rd-s-street-20027125\\esri_world_imagery_z19\\z19_x93553_y178968.jpg",
       "data\\aerial\\cranbrook_kimberley\\1282-23rd-s-street-20027125\\esri_world_imagery_z19\\z19_x93554_y178968.jpg",
       "data\\aerial\\cranbrook_kimberley\\1282-23rd-s-street-20027125\\esri_world_imagery_z19\\z19_x93555_y178968.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -8474,7 +8617,8 @@
       "data\\aerial\\cranbrook_kimberley\\717-27th-avenue-s-20060670\\esri_world_imagery_z19\\z19_x93578_y178934.jpg",
       "data\\aerial\\cranbrook_kimberley\\717-27th-avenue-s-20060670\\esri_world_imagery_z19\\z19_x93579_y178934.jpg",
       "data\\aerial\\cranbrook_kimberley\\717-27th-avenue-s-20060670\\esri_world_imagery_z19\\z19_x93580_y178934.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -8557,7 +8701,8 @@
       "data\\aerial\\cranbrook_kimberley\\215-13th-avenue-s-20074790\\esri_world_imagery_z19\\z19_x93549_y178920.jpg",
       "data\\aerial\\cranbrook_kimberley\\215-13th-avenue-s-20074790\\esri_world_imagery_z19\\z19_x93550_y178920.jpg",
       "data\\aerial\\cranbrook_kimberley\\215-13th-avenue-s-20074790\\esri_world_imagery_z19\\z19_x93551_y178920.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -8626,7 +8771,8 @@
       "data\\aerial\\cranbrook_kimberley\\1732-20th-s-avenue-10675733\\esri_world_imagery_z19\\z19_x93564_y178955.jpg",
       "data\\aerial\\cranbrook_kimberley\\1732-20th-s-avenue-10675733\\esri_world_imagery_z19\\z19_x93565_y178955.jpg",
       "data\\aerial\\cranbrook_kimberley\\1732-20th-s-avenue-10675733\\esri_world_imagery_z19\\z19_x93566_y178955.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -8688,7 +8834,8 @@
       "data\\aerial\\cranbrook_kimberley\\129-stemwinder-drive-10667018\\esri_world_imagery_z19\\z19_x93205_y178516.jpg",
       "data\\aerial\\cranbrook_kimberley\\129-stemwinder-drive-10667018\\esri_world_imagery_z19\\z19_x93206_y178516.jpg",
       "data\\aerial\\cranbrook_kimberley\\129-stemwinder-drive-10667018\\esri_world_imagery_z19\\z19_x93207_y178516.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -8756,7 +8903,8 @@
       "data\\aerial\\cranbrook_kimberley\\1464-southview-drive-10667357\\esri_world_imagery_z19\\z19_x93558_y178964.jpg",
       "data\\aerial\\cranbrook_kimberley\\1464-southview-drive-10667357\\esri_world_imagery_z19\\z19_x93559_y178964.jpg",
       "data\\aerial\\cranbrook_kimberley\\1464-southview-drive-10667357\\esri_world_imagery_z19\\z19_x93560_y178964.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -8850,7 +8998,8 @@
       "data\\aerial\\cranbrook_kimberley\\2715-3rd-street-s-20053388\\esri_world_imagery_z19\\z19_x93581_y178923.jpg",
       "data\\aerial\\cranbrook_kimberley\\2715-3rd-street-s-20053388\\esri_world_imagery_z19\\z19_x93582_y178923.jpg",
       "data\\aerial\\cranbrook_kimberley\\2715-3rd-street-s-20053388\\esri_world_imagery_z19\\z19_x93583_y178923.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -8942,7 +9091,8 @@
       "data\\aerial\\cranbrook_kimberley\\1908-12th-street-s-20068527\\esri_world_imagery_z19\\z19_x93561_y178942.jpg",
       "data\\aerial\\cranbrook_kimberley\\1908-12th-street-s-20068527\\esri_world_imagery_z19\\z19_x93562_y178942.jpg",
       "data\\aerial\\cranbrook_kimberley\\1908-12th-street-s-20068527\\esri_world_imagery_z19\\z19_x93563_y178942.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -9025,7 +9175,8 @@
       "data\\aerial\\cranbrook_kimberley\\530-trail-street-20070160\\esri_world_imagery_z19\\z19_x93231_y178509.jpg",
       "data\\aerial\\cranbrook_kimberley\\530-trail-street-20070160\\esri_world_imagery_z19\\z19_x93232_y178509.jpg",
       "data\\aerial\\cranbrook_kimberley\\530-trail-street-20070160\\esri_world_imagery_z19\\z19_x93233_y178509.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -9112,7 +9263,8 @@
       "data\\aerial\\cranbrook_kimberley\\209-31st-avenue-s-20078342\\esri_world_imagery_z19\\z19_x93586_y178921.jpg",
       "data\\aerial\\cranbrook_kimberley\\209-31st-avenue-s-20078342\\esri_world_imagery_z19\\z19_x93587_y178921.jpg",
       "data\\aerial\\cranbrook_kimberley\\209-31st-avenue-s-20078342\\esri_world_imagery_z19\\z19_x93588_y178921.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -9200,7 +9352,8 @@
       "data\\aerial\\cranbrook_kimberley\\606-302nd-street-20081980\\esri_world_imagery_z19\\z19_x93269_y178625.jpg",
       "data\\aerial\\cranbrook_kimberley\\606-302nd-street-20081980\\esri_world_imagery_z19\\z19_x93270_y178625.jpg",
       "data\\aerial\\cranbrook_kimberley\\606-302nd-street-20081980\\esri_world_imagery_z19\\z19_x93271_y178625.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -9249,7 +9402,8 @@
       "data\\aerial\\cranbrook_kimberley\\303-legacy-lookout-20047369\\esri_world_imagery_z19\\z19_x93556_y178845.jpg",
       "data\\aerial\\cranbrook_kimberley\\303-legacy-lookout-20047369\\esri_world_imagery_z19\\z19_x93557_y178845.jpg",
       "data\\aerial\\cranbrook_kimberley\\303-legacy-lookout-20047369\\esri_world_imagery_z19\\z19_x93558_y178845.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -9336,7 +9490,8 @@
       "data\\aerial\\cranbrook_kimberley\\1646-mt-pyramid-crescent-20069196\\esri_world_imagery_z19\\z19_x93591_y178876.jpg",
       "data\\aerial\\cranbrook_kimberley\\1646-mt-pyramid-crescent-20069196\\esri_world_imagery_z19\\z19_x93592_y178876.jpg",
       "data\\aerial\\cranbrook_kimberley\\1646-mt-pyramid-crescent-20069196\\esri_world_imagery_z19\\z19_x93593_y178876.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -9402,7 +9557,8 @@
       "data\\aerial\\cranbrook_kimberley\\300-legacy-lookout-10681908\\esri_world_imagery_z19\\z19_x93557_y178844.jpg",
       "data\\aerial\\cranbrook_kimberley\\300-legacy-lookout-10681908\\esri_world_imagery_z19\\z19_x93558_y178844.jpg",
       "data\\aerial\\cranbrook_kimberley\\300-legacy-lookout-10681908\\esri_world_imagery_z19\\z19_x93559_y178844.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -9493,7 +9649,8 @@
       "data\\aerial\\cranbrook_kimberley\\254-305th-avenue-20043585\\esri_world_imagery_z19\\z19_x93266_y178627.jpg",
       "data\\aerial\\cranbrook_kimberley\\254-305th-avenue-20043585\\esri_world_imagery_z19\\z19_x93267_y178627.jpg",
       "data\\aerial\\cranbrook_kimberley\\254-305th-avenue-20043585\\esri_world_imagery_z19\\z19_x93268_y178627.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -9581,7 +9738,8 @@
       "data\\aerial\\cranbrook_kimberley\\335-16th-avenue-s-20080078\\esri_world_imagery_z19\\z19_x93555_y178926.jpg",
       "data\\aerial\\cranbrook_kimberley\\335-16th-avenue-s-20080078\\esri_world_imagery_z19\\z19_x93556_y178926.jpg",
       "data\\aerial\\cranbrook_kimberley\\335-16th-avenue-s-20080078\\esri_world_imagery_z19\\z19_x93557_y178926.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -9638,7 +9796,8 @@
       "data\\aerial\\cranbrook_kimberley\\18-6674-wardner-kikomum-road-10626846\\esri_world_imagery_z19\\z19_x93830_y179097.jpg",
       "data\\aerial\\cranbrook_kimberley\\18-6674-wardner-kikomum-road-10626846\\esri_world_imagery_z19\\z19_x93831_y179097.jpg",
       "data\\aerial\\cranbrook_kimberley\\18-6674-wardner-kikomum-road-10626846\\esri_world_imagery_z19\\z19_x93832_y179097.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -9694,7 +9853,8 @@
       "data\\aerial\\cranbrook_kimberley\\32-1401-30th-n-avenue-20026282\\esri_world_imagery_z19\\z19_x93582_y178879.jpg",
       "data\\aerial\\cranbrook_kimberley\\32-1401-30th-n-avenue-20026282\\esri_world_imagery_z19\\z19_x93583_y178879.jpg",
       "data\\aerial\\cranbrook_kimberley\\32-1401-30th-n-avenue-20026282\\esri_world_imagery_z19\\z19_x93584_y178879.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -9770,7 +9930,8 @@
       "data\\aerial\\cranbrook_kimberley\\150-sullivan-drive-10672843\\esri_world_imagery_z19\\z19_x93216_y178493.jpg",
       "data\\aerial\\cranbrook_kimberley\\150-sullivan-drive-10672843\\esri_world_imagery_z19\\z19_x93217_y178493.jpg",
       "data\\aerial\\cranbrook_kimberley\\150-sullivan-drive-10672843\\esri_world_imagery_z19\\z19_x93218_y178493.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -9845,7 +10006,8 @@
       "data\\aerial\\cranbrook_kimberley\\700-22nd-s-avenue-10685008\\esri_world_imagery_z19\\z19_x93568_y178933.jpg",
       "data\\aerial\\cranbrook_kimberley\\700-22nd-s-avenue-10685008\\esri_world_imagery_z19\\z19_x93569_y178933.jpg",
       "data\\aerial\\cranbrook_kimberley\\700-22nd-s-avenue-10685008\\esri_world_imagery_z19\\z19_x93570_y178933.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -9890,7 +10052,8 @@
       "data\\aerial\\cranbrook_kimberley\\812-17th-s-street-10658252\\esri_world_imagery_z19\\z19_x93541_y178952.jpg",
       "data\\aerial\\cranbrook_kimberley\\812-17th-s-street-10658252\\esri_world_imagery_z19\\z19_x93542_y178952.jpg",
       "data\\aerial\\cranbrook_kimberley\\812-17th-s-street-10658252\\esri_world_imagery_z19\\z19_x93543_y178952.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -9978,7 +10141,8 @@
       "data\\aerial\\cranbrook_kimberley\\9-6324-laurier-avenue-10669578\\esri_world_imagery_z19\\z19_x94047_y179131.jpg",
       "data\\aerial\\cranbrook_kimberley\\9-6324-laurier-avenue-10669578\\esri_world_imagery_z19\\z19_x94048_y179131.jpg",
       "data\\aerial\\cranbrook_kimberley\\9-6324-laurier-avenue-10669578\\esri_world_imagery_z19\\z19_x94049_y179131.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -10099,7 +10263,8 @@
       "data\\aerial\\cranbrook_kimberley\\4315-lakeview-drive-20003058\\esri_world_imagery_z19\\z19_x93426_y178974.jpg",
       "data\\aerial\\cranbrook_kimberley\\4315-lakeview-drive-20003058\\esri_world_imagery_z19\\z19_x93427_y178974.jpg",
       "data\\aerial\\cranbrook_kimberley\\4315-lakeview-drive-20003058\\esri_world_imagery_z19\\z19_x93428_y178974.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -10167,7 +10332,8 @@
       "data\\aerial\\cranbrook_kimberley\\814-307th-avenue-20020840\\esri_world_imagery_z19\\z19_x93272_y178639.jpg",
       "data\\aerial\\cranbrook_kimberley\\814-307th-avenue-20020840\\esri_world_imagery_z19\\z19_x93273_y178639.jpg",
       "data\\aerial\\cranbrook_kimberley\\814-307th-avenue-20020840\\esri_world_imagery_z19\\z19_x93274_y178639.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -10261,7 +10427,8 @@
       "data\\aerial\\cranbrook_kimberley\\2904-edgewood-drive-20072535\\esri_world_imagery_z19\\z19_x93585_y178918.jpg",
       "data\\aerial\\cranbrook_kimberley\\2904-edgewood-drive-20072535\\esri_world_imagery_z19\\z19_x93586_y178918.jpg",
       "data\\aerial\\cranbrook_kimberley\\2904-edgewood-drive-20072535\\esri_world_imagery_z19\\z19_x93587_y178918.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -10338,7 +10505,8 @@
       "data\\aerial\\cranbrook_kimberley\\801-22nd-s-avenue-10669531\\esri_world_imagery_z19\\z19_x93568_y178934.jpg",
       "data\\aerial\\cranbrook_kimberley\\801-22nd-s-avenue-10669531\\esri_world_imagery_z19\\z19_x93569_y178934.jpg",
       "data\\aerial\\cranbrook_kimberley\\801-22nd-s-avenue-10669531\\esri_world_imagery_z19\\z19_x93570_y178934.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -10431,7 +10599,8 @@
       "data\\aerial\\cranbrook_kimberley\\176-shadow-mountain-boulevard-10681930\\esri_world_imagery_z19\\z19_x93504_y178764.jpg",
       "data\\aerial\\cranbrook_kimberley\\176-shadow-mountain-boulevard-10681930\\esri_world_imagery_z19\\z19_x93505_y178764.jpg",
       "data\\aerial\\cranbrook_kimberley\\176-shadow-mountain-boulevard-10681930\\esri_world_imagery_z19\\z19_x93506_y178764.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -10491,7 +10660,8 @@
       "data\\aerial\\cranbrook_kimberley\\3104-5th-street-s-20046086\\esri_world_imagery_z19\\z19_x93588_y178927.jpg",
       "data\\aerial\\cranbrook_kimberley\\3104-5th-street-s-20046086\\esri_world_imagery_z19\\z19_x93589_y178927.jpg",
       "data\\aerial\\cranbrook_kimberley\\3104-5th-street-s-20046086\\esri_world_imagery_z19\\z19_x93590_y178927.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -10570,7 +10740,8 @@
       "data\\aerial\\cranbrook_kimberley\\224-lindsay-street-20049485\\esri_world_imagery_z19\\z19_x93233_y178554.jpg",
       "data\\aerial\\cranbrook_kimberley\\224-lindsay-street-20049485\\esri_world_imagery_z19\\z19_x93234_y178554.jpg",
       "data\\aerial\\cranbrook_kimberley\\224-lindsay-street-20049485\\esri_world_imagery_z19\\z19_x93235_y178554.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -10640,7 +10811,8 @@
       "data\\aerial\\cranbrook_kimberley\\350-legacy-lookout-20050060\\esri_world_imagery_z19\\z19_x93554_y178844.jpg",
       "data\\aerial\\cranbrook_kimberley\\350-legacy-lookout-20050060\\esri_world_imagery_z19\\z19_x93555_y178844.jpg",
       "data\\aerial\\cranbrook_kimberley\\350-legacy-lookout-20050060\\esri_world_imagery_z19\\z19_x93556_y178844.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -10730,7 +10902,8 @@
       "data\\aerial\\cranbrook_kimberley\\87-1401-willowbrook-drive-n-20086371\\esri_world_imagery_z19\\z19_x93574_y178880.jpg",
       "data\\aerial\\cranbrook_kimberley\\87-1401-willowbrook-drive-n-20086371\\esri_world_imagery_z19\\z19_x93575_y178880.jpg",
       "data\\aerial\\cranbrook_kimberley\\87-1401-willowbrook-drive-n-20086371\\esri_world_imagery_z19\\z19_x93576_y178880.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -10807,7 +10980,8 @@
       "data\\aerial\\cranbrook_kimberley\\365-legacy-lookout-20087063\\esri_world_imagery_z19\\z19_x93553_y178843.jpg",
       "data\\aerial\\cranbrook_kimberley\\365-legacy-lookout-20087063\\esri_world_imagery_z19\\z19_x93554_y178843.jpg",
       "data\\aerial\\cranbrook_kimberley\\365-legacy-lookout-20087063\\esri_world_imagery_z19\\z19_x93555_y178843.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -10884,7 +11058,8 @@
       "data\\aerial\\cranbrook_kimberley\\244-boulder-creek-20087226\\esri_world_imagery_z19\\z19_x93560_y178850.jpg",
       "data\\aerial\\cranbrook_kimberley\\244-boulder-creek-20087226\\esri_world_imagery_z19\\z19_x93561_y178850.jpg",
       "data\\aerial\\cranbrook_kimberley\\244-boulder-creek-20087226\\esri_world_imagery_z19\\z19_x93562_y178850.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -10968,7 +11143,8 @@
       "data\\aerial\\cranbrook_kimberley\\200-boulder-creek-20022971\\esri_world_imagery_z19\\z19_x93560_y178847.jpg",
       "data\\aerial\\cranbrook_kimberley\\200-boulder-creek-20022971\\esri_world_imagery_z19\\z19_x93561_y178847.jpg",
       "data\\aerial\\cranbrook_kimberley\\200-boulder-creek-20022971\\esri_world_imagery_z19\\z19_x93562_y178847.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -11043,7 +11219,8 @@
       "data\\aerial\\cranbrook_kimberley\\313-17th-street-s-20048728\\esri_world_imagery_z19\\z19_x93529_y178955.jpg",
       "data\\aerial\\cranbrook_kimberley\\313-17th-street-s-20048728\\esri_world_imagery_z19\\z19_x93530_y178955.jpg",
       "data\\aerial\\cranbrook_kimberley\\313-17th-street-s-20048728\\esri_world_imagery_z19\\z19_x93531_y178955.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -11092,7 +11269,8 @@
       "data\\aerial\\cranbrook_kimberley\\610-trail-street-20022594\\esri_world_imagery_z19\\z19_x93234_y178508.jpg",
       "data\\aerial\\cranbrook_kimberley\\610-trail-street-20022594\\esri_world_imagery_z19\\z19_x93235_y178508.jpg",
       "data\\aerial\\cranbrook_kimberley\\610-trail-street-20022594\\esri_world_imagery_z19\\z19_x93236_y178508.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -11158,7 +11336,8 @@
       "data\\aerial\\cranbrook_kimberley\\112-purcell-place-10685535\\esri_world_imagery_z19\\z19_x93500_y178761.jpg",
       "data\\aerial\\cranbrook_kimberley\\112-purcell-place-10685535\\esri_world_imagery_z19\\z19_x93501_y178761.jpg",
       "data\\aerial\\cranbrook_kimberley\\112-purcell-place-10685535\\esri_world_imagery_z19\\z19_x93502_y178761.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -11245,7 +11424,8 @@
       "data\\aerial\\cranbrook_kimberley\\438-alpine-crescent-20048760\\esri_world_imagery_z19\\z19_x93219_y178518.jpg",
       "data\\aerial\\cranbrook_kimberley\\438-alpine-crescent-20048760\\esri_world_imagery_z19\\z19_x93220_y178518.jpg",
       "data\\aerial\\cranbrook_kimberley\\438-alpine-crescent-20048760\\esri_world_imagery_z19\\z19_x93221_y178518.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -11326,7 +11506,8 @@
       "data\\aerial\\cranbrook_kimberley\\805-16th-s-street-20020530\\esri_world_imagery_z19\\z19_x93540_y178952.jpg",
       "data\\aerial\\cranbrook_kimberley\\805-16th-s-street-20020530\\esri_world_imagery_z19\\z19_x93541_y178952.jpg",
       "data\\aerial\\cranbrook_kimberley\\805-16th-s-street-20020530\\esri_world_imagery_z19\\z19_x93542_y178952.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -11400,7 +11581,8 @@
       "data\\aerial\\cranbrook_kimberley\\145-stemwinder-drive-10654223\\esri_world_imagery_z19\\z19_x93205_y178515.jpg",
       "data\\aerial\\cranbrook_kimberley\\145-stemwinder-drive-10654223\\esri_world_imagery_z19\\z19_x93206_y178515.jpg",
       "data\\aerial\\cranbrook_kimberley\\145-stemwinder-drive-10654223\\esri_world_imagery_z19\\z19_x93207_y178515.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -11444,7 +11626,8 @@
       "data\\aerial\\cranbrook_kimberley\\153-stemwinder-drive-10552417\\esri_world_imagery_z19\\z19_x93205_y178514.jpg",
       "data\\aerial\\cranbrook_kimberley\\153-stemwinder-drive-10552417\\esri_world_imagery_z19\\z19_x93206_y178514.jpg",
       "data\\aerial\\cranbrook_kimberley\\153-stemwinder-drive-10552417\\esri_world_imagery_z19\\z19_x93207_y178514.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -11519,7 +11702,8 @@
       "data\\aerial\\cranbrook_kimberley\\402-alpine-crescent-20021100\\esri_world_imagery_z19\\z19_x93220_y178523.jpg",
       "data\\aerial\\cranbrook_kimberley\\402-alpine-crescent-20021100\\esri_world_imagery_z19\\z19_x93221_y178523.jpg",
       "data\\aerial\\cranbrook_kimberley\\402-alpine-crescent-20021100\\esri_world_imagery_z19\\z19_x93222_y178523.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -11625,7 +11809,8 @@
       "data\\aerial\\cranbrook_kimberley\\611-nelson-street-20022519\\esri_world_imagery_z19\\z19_x93233_y178506.jpg",
       "data\\aerial\\cranbrook_kimberley\\611-nelson-street-20022519\\esri_world_imagery_z19\\z19_x93234_y178506.jpg",
       "data\\aerial\\cranbrook_kimberley\\611-nelson-street-20022519\\esri_world_imagery_z19\\z19_x93235_y178506.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -11699,7 +11884,8 @@
       "data\\aerial\\cranbrook_kimberley\\222-boulder-creek-20035684\\esri_world_imagery_z19\\z19_x93562_y178849.jpg",
       "data\\aerial\\cranbrook_kimberley\\222-boulder-creek-20035684\\esri_world_imagery_z19\\z19_x93563_y178849.jpg",
       "data\\aerial\\cranbrook_kimberley\\222-boulder-creek-20035684\\esri_world_imagery_z19\\z19_x93564_y178849.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -11748,7 +11934,8 @@
       "data\\aerial\\cranbrook_kimberley\\205-18-street-s-20040986\\esri_world_imagery_z19\\z19_x93526_y178956.jpg",
       "data\\aerial\\cranbrook_kimberley\\205-18-street-s-20040986\\esri_world_imagery_z19\\z19_x93527_y178956.jpg",
       "data\\aerial\\cranbrook_kimberley\\205-18-street-s-20040986\\esri_world_imagery_z19\\z19_x93528_y178956.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -11849,7 +12036,8 @@
       "data\\aerial\\cranbrook_kimberley\\1609-8th-s-avenue-10669905\\esri_world_imagery_z19\\z19_x93539_y178951.jpg",
       "data\\aerial\\cranbrook_kimberley\\1609-8th-s-avenue-10669905\\esri_world_imagery_z19\\z19_x93540_y178951.jpg",
       "data\\aerial\\cranbrook_kimberley\\1609-8th-s-avenue-10669905\\esri_world_imagery_z19\\z19_x93541_y178951.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -11945,7 +12133,8 @@
       "data\\aerial\\cranbrook_kimberley\\112-forest-crowne-crescent-10673089\\esri_world_imagery_z19\\z19_x93246_y178617.jpg",
       "data\\aerial\\cranbrook_kimberley\\112-forest-crowne-crescent-10673089\\esri_world_imagery_z19\\z19_x93247_y178617.jpg",
       "data\\aerial\\cranbrook_kimberley\\112-forest-crowne-crescent-10673089\\esri_world_imagery_z19\\z19_x93248_y178617.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -12030,7 +12219,8 @@
       "data\\aerial\\cranbrook_kimberley\\1274-23rd-s-street-10674183\\esri_world_imagery_z19\\z19_x93552_y178968.jpg",
       "data\\aerial\\cranbrook_kimberley\\1274-23rd-s-street-10674183\\esri_world_imagery_z19\\z19_x93553_y178968.jpg",
       "data\\aerial\\cranbrook_kimberley\\1274-23rd-s-street-10674183\\esri_world_imagery_z19\\z19_x93554_y178968.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -12125,7 +12315,8 @@
       "data\\aerial\\cranbrook_kimberley\\1400-17th-s-street-10683127\\esri_world_imagery_z19\\z19_x93556_y178953.jpg",
       "data\\aerial\\cranbrook_kimberley\\1400-17th-s-street-10683127\\esri_world_imagery_z19\\z19_x93557_y178953.jpg",
       "data\\aerial\\cranbrook_kimberley\\1400-17th-s-street-10683127\\esri_world_imagery_z19\\z19_x93558_y178953.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -12194,7 +12385,8 @@
       "data\\aerial\\cranbrook_kimberley\\405-forest-crowne-close-20027834\\esri_world_imagery_z19\\z19_x93236_y178614.jpg",
       "data\\aerial\\cranbrook_kimberley\\405-forest-crowne-close-20027834\\esri_world_imagery_z19\\z19_x93237_y178614.jpg",
       "data\\aerial\\cranbrook_kimberley\\405-forest-crowne-close-20027834\\esri_world_imagery_z19\\z19_x93238_y178614.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -12282,7 +12474,8 @@
       "data\\aerial\\cranbrook_kimberley\\166-304th-avenue-20077373\\esri_world_imagery_z19\\z19_x93262_y178623.jpg",
       "data\\aerial\\cranbrook_kimberley\\166-304th-avenue-20077373\\esri_world_imagery_z19\\z19_x93263_y178623.jpg",
       "data\\aerial\\cranbrook_kimberley\\166-304th-avenue-20077373\\esri_world_imagery_z19\\z19_x93264_y178623.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -12374,7 +12567,8 @@
       "data\\aerial\\cranbrook_kimberley\\804-16th-street-s-20085434\\esri_world_imagery_z19\\z19_x93540_y178951.jpg",
       "data\\aerial\\cranbrook_kimberley\\804-16th-street-s-20085434\\esri_world_imagery_z19\\z19_x93541_y178951.jpg",
       "data\\aerial\\cranbrook_kimberley\\804-16th-street-s-20085434\\esri_world_imagery_z19\\z19_x93542_y178951.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -12421,7 +12615,8 @@
       "data\\aerial\\cranbrook_kimberley\\37-6674-wardner-kikomun-road-10606465\\esri_world_imagery_z19\\z19_x93744_y178678.jpg",
       "data\\aerial\\cranbrook_kimberley\\37-6674-wardner-kikomun-road-10606465\\esri_world_imagery_z19\\z19_x93745_y178678.jpg",
       "data\\aerial\\cranbrook_kimberley\\37-6674-wardner-kikomun-road-10606465\\esri_world_imagery_z19\\z19_x93746_y178678.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -12501,7 +12696,8 @@
       "data\\aerial\\cranbrook_kimberley\\22-9481-estates-road-10667637\\esri_world_imagery_z19\\z19_x93428_y179428.jpg",
       "data\\aerial\\cranbrook_kimberley\\22-9481-estates-road-10667637\\esri_world_imagery_z19\\z19_x93429_y179428.jpg",
       "data\\aerial\\cranbrook_kimberley\\22-9481-estates-road-10667637\\esri_world_imagery_z19\\z19_x93430_y179428.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -12596,7 +12792,8 @@
       "data\\aerial\\cranbrook_kimberley\\913-17th-s-street-10680439\\esri_world_imagery_z19\\z19_x93543_y178954.jpg",
       "data\\aerial\\cranbrook_kimberley\\913-17th-s-street-10680439\\esri_world_imagery_z19\\z19_x93544_y178954.jpg",
       "data\\aerial\\cranbrook_kimberley\\913-17th-s-street-10680439\\esri_world_imagery_z19\\z19_x93545_y178954.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -12632,7 +12829,8 @@
       "data\\aerial\\cranbrook_kimberley\\419-alpine-crescent-10470205\\esri_world_imagery_z19\\z19_x93217_y178521.jpg",
       "data\\aerial\\cranbrook_kimberley\\419-alpine-crescent-10470205\\esri_world_imagery_z19\\z19_x93218_y178521.jpg",
       "data\\aerial\\cranbrook_kimberley\\419-alpine-crescent-10470205\\esri_world_imagery_z19\\z19_x93219_y178521.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -12643,8 +12841,8 @@
     "address": "6392 TIE LAKE Road",
     "area": "Kootenay",
     "subarea": "CRANL - Wycliffe",
-    "latitude": "46.19296",
-    "longitude": "-86.646393",
+    "latitude": "49.41728068",
+    "longitude": "-115.31771804",
     "list_price": "$799,000.00",
     "beds": "2",
     "baths": "1",
@@ -12666,7 +12864,23 @@
       "https://images.realtyserver.com/photo_server.php?btnSubmit=GetPhoto&board=air&name=00A159EE.L07&failover=portal_Blank.gif"
     ],
     "folder": "cranbrook_kimberley/6392-tie-lake-road-10574318",
-    "aerial_candidates": []
+    "aerial_candidates": [
+      "data\\aerial\\cranbrook_kimberley\\6392-tie-lake-road-10574318\\esri_world_imagery_z19\\z19_x94199_y179120.jpg",
+      "data\\aerial\\cranbrook_kimberley\\6392-tie-lake-road-10574318\\esri_world_imagery_z19\\z19_x94200_y179120.jpg",
+      "data\\aerial\\cranbrook_kimberley\\6392-tie-lake-road-10574318\\esri_world_imagery_z19\\z19_x94201_y179120.jpg",
+      "data\\aerial\\cranbrook_kimberley\\6392-tie-lake-road-10574318\\esri_world_imagery_z19\\z19_x94199_y179121.jpg",
+      "data\\aerial\\cranbrook_kimberley\\6392-tie-lake-road-10574318\\esri_world_imagery_z19\\z19_x94200_y179121.jpg",
+      "data\\aerial\\cranbrook_kimberley\\6392-tie-lake-road-10574318\\esri_world_imagery_z19\\z19_x94201_y179121.jpg",
+      "data\\aerial\\cranbrook_kimberley\\6392-tie-lake-road-10574318\\esri_world_imagery_z19\\z19_x94199_y179122.jpg",
+      "data\\aerial\\cranbrook_kimberley\\6392-tie-lake-road-10574318\\esri_world_imagery_z19\\z19_x94200_y179122.jpg",
+      "data\\aerial\\cranbrook_kimberley\\6392-tie-lake-road-10574318\\esri_world_imagery_z19\\z19_x94201_y179122.jpg"
+    ],
+    "geocode_source": "arcgis_world_geocoder",
+    "geocode_query": "6392 TIE LAKE Road CRANL - Wycliffe British Columbia Canada",
+    "geocode_match_addr": "6392 Tie Lake Rd, Jaffray, British Columbia, V0B 1T0",
+    "geocode_addr_type": "PointAddress",
+    "geocode_score": 89.39,
+    "coordinate_confidence": "point"
   },
   {
     "source": "cranbrook_kimberley",
@@ -12718,7 +12932,8 @@
       "data\\aerial\\cranbrook_kimberley\\9382-moyie-shores-estate-road-10621595\\esri_world_imagery_z19\\z19_x93448_y179411.jpg",
       "data\\aerial\\cranbrook_kimberley\\9382-moyie-shores-estate-road-10621595\\esri_world_imagery_z19\\z19_x93449_y179411.jpg",
       "data\\aerial\\cranbrook_kimberley\\9382-moyie-shores-estate-road-10621595\\esri_world_imagery_z19\\z19_x93450_y179411.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -12795,7 +13010,8 @@
       "data\\aerial\\cranbrook_kimberley\\9444-moyie-shores-estates-w-road-10658951\\esri_world_imagery_z19\\z19_x93432_y179430.jpg",
       "data\\aerial\\cranbrook_kimberley\\9444-moyie-shores-estates-w-road-10658951\\esri_world_imagery_z19\\z19_x93433_y179430.jpg",
       "data\\aerial\\cranbrook_kimberley\\9444-moyie-shores-estates-w-road-10658951\\esri_world_imagery_z19\\z19_x93434_y179430.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -12864,7 +13080,8 @@
       "data\\aerial\\cranbrook_kimberley\\824-309th-street-10665147\\esri_world_imagery_z19\\z19_x93279_y178640.jpg",
       "data\\aerial\\cranbrook_kimberley\\824-309th-street-10665147\\esri_world_imagery_z19\\z19_x93280_y178640.jpg",
       "data\\aerial\\cranbrook_kimberley\\824-309th-street-10665147\\esri_world_imagery_z19\\z19_x93281_y178640.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -12985,7 +13202,8 @@
       "data\\aerial\\cranbrook_kimberley\\804-17th-s-street-10672776\\esri_world_imagery_z19\\z19_x93540_y178953.jpg",
       "data\\aerial\\cranbrook_kimberley\\804-17th-s-street-10672776\\esri_world_imagery_z19\\z19_x93541_y178953.jpg",
       "data\\aerial\\cranbrook_kimberley\\804-17th-s-street-10672776\\esri_world_imagery_z19\\z19_x93542_y178953.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -13043,7 +13261,8 @@
       "data\\aerial\\cranbrook_kimberley\\1611-1st-s-avenue-10684522\\esri_world_imagery_z19\\z19_x93522_y178952.jpg",
       "data\\aerial\\cranbrook_kimberley\\1611-1st-s-avenue-10684522\\esri_world_imagery_z19\\z19_x93523_y178952.jpg",
       "data\\aerial\\cranbrook_kimberley\\1611-1st-s-avenue-10684522\\esri_world_imagery_z19\\z19_x93524_y178952.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -13109,7 +13328,8 @@
       "data\\aerial\\cranbrook_kimberley\\2210-13th-s-avenue-10685240\\esri_world_imagery_z19\\z19_x93554_y178967.jpg",
       "data\\aerial\\cranbrook_kimberley\\2210-13th-s-avenue-10685240\\esri_world_imagery_z19\\z19_x93555_y178967.jpg",
       "data\\aerial\\cranbrook_kimberley\\2210-13th-s-avenue-10685240\\esri_world_imagery_z19\\z19_x93556_y178967.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -13175,7 +13395,8 @@
       "data\\aerial\\cranbrook_kimberley\\147-the-whins-20021290\\esri_world_imagery_z19\\z19_x93552_y178850.jpg",
       "data\\aerial\\cranbrook_kimberley\\147-the-whins-20021290\\esri_world_imagery_z19\\z19_x93553_y178850.jpg",
       "data\\aerial\\cranbrook_kimberley\\147-the-whins-20021290\\esri_world_imagery_z19\\z19_x93554_y178850.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -13252,7 +13473,8 @@
       "data\\aerial\\cranbrook_kimberley\\405-7th-avenue-20022685\\esri_world_imagery_z19\\z19_x93227_y178502.jpg",
       "data\\aerial\\cranbrook_kimberley\\405-7th-avenue-20022685\\esri_world_imagery_z19\\z19_x93228_y178502.jpg",
       "data\\aerial\\cranbrook_kimberley\\405-7th-avenue-20022685\\esri_world_imagery_z19\\z19_x93229_y178502.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -13330,7 +13552,8 @@
       "data\\aerial\\cranbrook_kimberley\\805-31st-avenue-s-20036703\\esri_world_imagery_z19\\z19_x93586_y178935.jpg",
       "data\\aerial\\cranbrook_kimberley\\805-31st-avenue-s-20036703\\esri_world_imagery_z19\\z19_x93587_y178935.jpg",
       "data\\aerial\\cranbrook_kimberley\\805-31st-avenue-s-20036703\\esri_world_imagery_z19\\z19_x93588_y178935.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -13406,7 +13629,8 @@
       "data\\aerial\\cranbrook_kimberley\\954-313th-drive-20042244\\esri_world_imagery_z19\\z19_x93284_y178621.jpg",
       "data\\aerial\\cranbrook_kimberley\\954-313th-drive-20042244\\esri_world_imagery_z19\\z19_x93285_y178621.jpg",
       "data\\aerial\\cranbrook_kimberley\\954-313th-drive-20042244\\esri_world_imagery_z19\\z19_x93286_y178621.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -13502,7 +13726,8 @@
       "data\\aerial\\cranbrook_kimberley\\307-legacy-lookout-20042910\\esri_world_imagery_z19\\z19_x93556_y178844.jpg",
       "data\\aerial\\cranbrook_kimberley\\307-legacy-lookout-20042910\\esri_world_imagery_z19\\z19_x93557_y178844.jpg",
       "data\\aerial\\cranbrook_kimberley\\307-legacy-lookout-20042910\\esri_world_imagery_z19\\z19_x93558_y178844.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -13607,7 +13832,8 @@
       "data\\aerial\\cranbrook_kimberley\\940-313th-drive-20050871\\esri_world_imagery_z19\\z19_x93284_y178619.jpg",
       "data\\aerial\\cranbrook_kimberley\\940-313th-drive-20050871\\esri_world_imagery_z19\\z19_x93285_y178619.jpg",
       "data\\aerial\\cranbrook_kimberley\\940-313th-drive-20050871\\esri_world_imagery_z19\\z19_x93286_y178619.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -13713,7 +13939,8 @@
       "data\\aerial\\cranbrook_kimberley\\2950-mellor-road-20075439\\esri_world_imagery_z19\\z19_x93408_y178701.jpg",
       "data\\aerial\\cranbrook_kimberley\\2950-mellor-road-20075439\\esri_world_imagery_z19\\z19_x93409_y178701.jpg",
       "data\\aerial\\cranbrook_kimberley\\2950-mellor-road-20075439\\esri_world_imagery_z19\\z19_x93410_y178701.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -13782,7 +14009,8 @@
       "data\\aerial\\cranbrook_kimberley\\140-river-drive-20079642\\esri_world_imagery_z19\\z19_x93495_y178755.jpg",
       "data\\aerial\\cranbrook_kimberley\\140-river-drive-20079642\\esri_world_imagery_z19\\z19_x93496_y178755.jpg",
       "data\\aerial\\cranbrook_kimberley\\140-river-drive-20079642\\esri_world_imagery_z19\\z19_x93497_y178755.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -13842,7 +14070,8 @@
       "data\\aerial\\cranbrook_kimberley\\15-turner-close-20083862\\esri_world_imagery_z19\\z19_x93267_y178636.jpg",
       "data\\aerial\\cranbrook_kimberley\\15-turner-close-20083862\\esri_world_imagery_z19\\z19_x93268_y178636.jpg",
       "data\\aerial\\cranbrook_kimberley\\15-turner-close-20083862\\esri_world_imagery_z19\\z19_x93269_y178636.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -13889,7 +14118,8 @@
       "data\\aerial\\cranbrook_kimberley\\1357-southview-drive-10612922\\esri_world_imagery_z19\\z19_x93552_y178965.jpg",
       "data\\aerial\\cranbrook_kimberley\\1357-southview-drive-10612922\\esri_world_imagery_z19\\z19_x93553_y178965.jpg",
       "data\\aerial\\cranbrook_kimberley\\1357-southview-drive-10612922\\esri_world_imagery_z19\\z19_x93554_y178965.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -13946,7 +14176,8 @@
       "data\\aerial\\cranbrook_kimberley\\208-crowne-terrace-forest-10625065\\esri_world_imagery_z19\\z19_x93243_y178613.jpg",
       "data\\aerial\\cranbrook_kimberley\\208-crowne-terrace-forest-10625065\\esri_world_imagery_z19\\z19_x93244_y178613.jpg",
       "data\\aerial\\cranbrook_kimberley\\208-crowne-terrace-forest-10625065\\esri_world_imagery_z19\\z19_x93245_y178613.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -13987,7 +14218,8 @@
       "data\\aerial\\cranbrook_kimberley\\7822-monroe-lake-road-10641909\\esri_world_imagery_z19\\z19_x93407_y179241.jpg",
       "data\\aerial\\cranbrook_kimberley\\7822-monroe-lake-road-10641909\\esri_world_imagery_z19\\z19_x93408_y179241.jpg",
       "data\\aerial\\cranbrook_kimberley\\7822-monroe-lake-road-10641909\\esri_world_imagery_z19\\z19_x93409_y179241.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -14057,7 +14289,8 @@
       "data\\aerial\\cranbrook_kimberley\\1909-16th-s-street-10652500\\esri_world_imagery_z19\\z19_x93563_y178952.jpg",
       "data\\aerial\\cranbrook_kimberley\\1909-16th-s-street-10652500\\esri_world_imagery_z19\\z19_x93564_y178952.jpg",
       "data\\aerial\\cranbrook_kimberley\\1909-16th-s-street-10652500\\esri_world_imagery_z19\\z19_x93565_y178952.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -14116,7 +14349,8 @@
       "data\\aerial\\cranbrook_kimberley\\9314-langevin-street-10675651\\esri_world_imagery_z19\\z19_x94042_y179124.jpg",
       "data\\aerial\\cranbrook_kimberley\\9314-langevin-street-10675651\\esri_world_imagery_z19\\z19_x94043_y179124.jpg",
       "data\\aerial\\cranbrook_kimberley\\9314-langevin-street-10675651\\esri_world_imagery_z19\\z19_x94044_y179124.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -14195,7 +14429,8 @@
       "data\\aerial\\cranbrook_kimberley\\725-34th-s-avenue-10676696\\esri_world_imagery_z19\\z19_x93593_y178934.jpg",
       "data\\aerial\\cranbrook_kimberley\\725-34th-s-avenue-10676696\\esri_world_imagery_z19\\z19_x93594_y178934.jpg",
       "data\\aerial\\cranbrook_kimberley\\725-34th-s-avenue-10676696\\esri_world_imagery_z19\\z19_x93595_y178934.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -14256,7 +14491,8 @@
       "data\\aerial\\cranbrook_kimberley\\9905-osprey-landing-drive-10678423\\esri_world_imagery_z19\\z19_x94051_y179150.jpg",
       "data\\aerial\\cranbrook_kimberley\\9905-osprey-landing-drive-10678423\\esri_world_imagery_z19\\z19_x94052_y179150.jpg",
       "data\\aerial\\cranbrook_kimberley\\9905-osprey-landing-drive-10678423\\esri_world_imagery_z19\\z19_x94053_y179150.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -14357,7 +14593,8 @@
       "data\\aerial\\cranbrook_kimberley\\701-34th-s-avenue-10679813\\esri_world_imagery_z19\\z19_x93593_y178933.jpg",
       "data\\aerial\\cranbrook_kimberley\\701-34th-s-avenue-10679813\\esri_world_imagery_z19\\z19_x93594_y178933.jpg",
       "data\\aerial\\cranbrook_kimberley\\701-34th-s-avenue-10679813\\esri_world_imagery_z19\\z19_x93595_y178933.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -14433,7 +14670,8 @@
       "data\\aerial\\cranbrook_kimberley\\2400-34th-s-avenue-10680848\\esri_world_imagery_z19\\z19_x93594_y178967.jpg",
       "data\\aerial\\cranbrook_kimberley\\2400-34th-s-avenue-10680848\\esri_world_imagery_z19\\z19_x93595_y178967.jpg",
       "data\\aerial\\cranbrook_kimberley\\2400-34th-s-avenue-10680848\\esri_world_imagery_z19\\z19_x93596_y178967.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -14482,7 +14720,8 @@
       "data\\aerial\\cranbrook_kimberley\\211-crowne-terrace-forest-10683832\\esri_world_imagery_z19\\z19_x93243_y178612.jpg",
       "data\\aerial\\cranbrook_kimberley\\211-crowne-terrace-forest-10683832\\esri_world_imagery_z19\\z19_x93244_y178612.jpg",
       "data\\aerial\\cranbrook_kimberley\\211-crowne-terrace-forest-10683832\\esri_world_imagery_z19\\z19_x93245_y178612.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -14555,7 +14794,8 @@
       "data\\aerial\\cranbrook_kimberley\\610-ponderosa-drive-20037931\\esri_world_imagery_z19\\z19_x93239_y178621.jpg",
       "data\\aerial\\cranbrook_kimberley\\610-ponderosa-drive-20037931\\esri_world_imagery_z19\\z19_x93240_y178621.jpg",
       "data\\aerial\\cranbrook_kimberley\\610-ponderosa-drive-20037931\\esri_world_imagery_z19\\z19_x93241_y178621.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -14677,7 +14917,8 @@
       "data\\aerial\\cranbrook_kimberley\\51-100th-avenue-20040797\\esri_world_imagery_z19\\z19_x93249_y178563.jpg",
       "data\\aerial\\cranbrook_kimberley\\51-100th-avenue-20040797\\esri_world_imagery_z19\\z19_x93250_y178563.jpg",
       "data\\aerial\\cranbrook_kimberley\\51-100th-avenue-20040797\\esri_world_imagery_z19\\z19_x93251_y178563.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -14757,7 +14998,8 @@
       "data\\aerial\\cranbrook_kimberley\\2850-black-bear-crescent-20042580\\esri_world_imagery_z19\\z19_x93255_y178572.jpg",
       "data\\aerial\\cranbrook_kimberley\\2850-black-bear-crescent-20042580\\esri_world_imagery_z19\\z19_x93256_y178572.jpg",
       "data\\aerial\\cranbrook_kimberley\\2850-black-bear-crescent-20042580\\esri_world_imagery_z19\\z19_x93257_y178572.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -14833,7 +15075,8 @@
       "data\\aerial\\cranbrook_kimberley\\3313-3a-street-s-20045387\\esri_world_imagery_z19\\z19_x93593_y178925.jpg",
       "data\\aerial\\cranbrook_kimberley\\3313-3a-street-s-20045387\\esri_world_imagery_z19\\z19_x93594_y178925.jpg",
       "data\\aerial\\cranbrook_kimberley\\3313-3a-street-s-20045387\\esri_world_imagery_z19\\z19_x93595_y178925.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -14918,7 +15161,8 @@
       "data\\aerial\\cranbrook_kimberley\\1900-12th-street-s-20057967\\esri_world_imagery_z19\\z19_x93560_y178942.jpg",
       "data\\aerial\\cranbrook_kimberley\\1900-12th-street-s-20057967\\esri_world_imagery_z19\\z19_x93561_y178942.jpg",
       "data\\aerial\\cranbrook_kimberley\\1900-12th-street-s-20057967\\esri_world_imagery_z19\\z19_x93562_y178942.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "cranbrook_kimberley",
@@ -15043,7 +15287,8 @@
       "data\\aerial\\cranbrook_kimberley\\1629-staple-crescent-20062684\\esri_world_imagery_z19\\z19_x93559_y178947.jpg",
       "data\\aerial\\cranbrook_kimberley\\1629-staple-crescent-20062684\\esri_world_imagery_z19\\z19_x93560_y178947.jpg",
       "data\\aerial\\cranbrook_kimberley\\1629-staple-crescent-20062684\\esri_world_imagery_z19\\z19_x93561_y178947.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -15083,7 +15328,8 @@
       "data\\aerial\\fernie_sparwood\\11-alpine-trail-lane-10559698\\esri_world_imagery_z19\\z19_x94563_y178889.jpg",
       "data\\aerial\\fernie_sparwood\\11-alpine-trail-lane-10559698\\esri_world_imagery_z19\\z19_x94564_y178889.jpg",
       "data\\aerial\\fernie_sparwood\\11-alpine-trail-lane-10559698\\esri_world_imagery_z19\\z19_x94565_y178889.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -15141,7 +15387,8 @@
       "data\\aerial\\fernie_sparwood\\101-ridgemont-crescent-10674172\\esri_world_imagery_z19\\z19_x94581_y178934.jpg",
       "data\\aerial\\fernie_sparwood\\101-ridgemont-crescent-10674172\\esri_world_imagery_z19\\z19_x94582_y178934.jpg",
       "data\\aerial\\fernie_sparwood\\101-ridgemont-crescent-10674172\\esri_world_imagery_z19\\z19_x94583_y178934.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -15203,7 +15450,8 @@
       "data\\aerial\\fernie_sparwood\\1110-beach-avenue-10676037\\esri_world_imagery_z19\\z19_x94556_y178929.jpg",
       "data\\aerial\\fernie_sparwood\\1110-beach-avenue-10676037\\esri_world_imagery_z19\\z19_x94557_y178929.jpg",
       "data\\aerial\\fernie_sparwood\\1110-beach-avenue-10676037\\esri_world_imagery_z19\\z19_x94558_y178929.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -15291,7 +15539,8 @@
       "data\\aerial\\fernie_sparwood\\2411-osprey-court-20035045\\esri_world_imagery_z19\\z19_x94819_y178354.jpg",
       "data\\aerial\\fernie_sparwood\\2411-osprey-court-20035045\\esri_world_imagery_z19\\z19_x94820_y178354.jpg",
       "data\\aerial\\fernie_sparwood\\2411-osprey-court-20035045\\esri_world_imagery_z19\\z19_x94821_y178354.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -15381,7 +15630,8 @@
       "data\\aerial\\fernie_sparwood\\23-ridgemont-drive-10670868\\esri_world_imagery_z19\\z19_x94582_y178931.jpg",
       "data\\aerial\\fernie_sparwood\\23-ridgemont-drive-10670868\\esri_world_imagery_z19\\z19_x94583_y178931.jpg",
       "data\\aerial\\fernie_sparwood\\23-ridgemont-drive-10670868\\esri_world_imagery_z19\\z19_x94584_y178931.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -15453,7 +15703,8 @@
       "data\\aerial\\fernie_sparwood\\2260-black-hawk-drive-10681059\\esri_world_imagery_z19\\z19_x94816_y178353.jpg",
       "data\\aerial\\fernie_sparwood\\2260-black-hawk-drive-10681059\\esri_world_imagery_z19\\z19_x94817_y178353.jpg",
       "data\\aerial\\fernie_sparwood\\2260-black-hawk-drive-10681059\\esri_world_imagery_z19\\z19_x94818_y178353.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -15549,7 +15800,8 @@
       "data\\aerial\\fernie_sparwood\\2313-falcon-court-10683161\\esri_world_imagery_z19\\z19_x94819_y178357.jpg",
       "data\\aerial\\fernie_sparwood\\2313-falcon-court-10683161\\esri_world_imagery_z19\\z19_x94820_y178357.jpg",
       "data\\aerial\\fernie_sparwood\\2313-falcon-court-10683161\\esri_world_imagery_z19\\z19_x94821_y178357.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -15594,7 +15846,8 @@
       "data\\aerial\\fernie_sparwood\\5401-boomerang-way-10561093\\esri_world_imagery_z19\\z19_x94542_y179012.jpg",
       "data\\aerial\\fernie_sparwood\\5401-boomerang-way-10561093\\esri_world_imagery_z19\\z19_x94543_y179012.jpg",
       "data\\aerial\\fernie_sparwood\\5401-boomerang-way-10561093\\esri_world_imagery_z19\\z19_x94544_y179012.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -15660,7 +15913,8 @@
       "data\\aerial\\fernie_sparwood\\9-pine-avenue-10667796\\esri_world_imagery_z19\\z19_x94568_y178945.jpg",
       "data\\aerial\\fernie_sparwood\\9-pine-avenue-10667796\\esri_world_imagery_z19\\z19_x94569_y178945.jpg",
       "data\\aerial\\fernie_sparwood\\9-pine-avenue-10667796\\esri_world_imagery_z19\\z19_x94570_y178945.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -15745,7 +15999,8 @@
       "data\\aerial\\fernie_sparwood\\6853-rosen-lake-e-road-10673062\\esri_world_imagery_z19\\z19_x94289_y179175.jpg",
       "data\\aerial\\fernie_sparwood\\6853-rosen-lake-e-road-10673062\\esri_world_imagery_z19\\z19_x94290_y179175.jpg",
       "data\\aerial\\fernie_sparwood\\6853-rosen-lake-e-road-10673062\\esri_world_imagery_z19\\z19_x94291_y179175.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -15852,7 +16107,8 @@
       "data\\aerial\\fernie_sparwood\\2264-black-hawk-drive-20021326\\esri_world_imagery_z19\\z19_x94815_y178353.jpg",
       "data\\aerial\\fernie_sparwood\\2264-black-hawk-drive-20021326\\esri_world_imagery_z19\\z19_x94816_y178353.jpg",
       "data\\aerial\\fernie_sparwood\\2264-black-hawk-drive-20021326\\esri_world_imagery_z19\\z19_x94817_y178353.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -15956,7 +16212,8 @@
       "data\\aerial\\fernie_sparwood\\1206-valley-view-drive-20022704\\esri_world_imagery_z19\\z19_x94819_y178379.jpg",
       "data\\aerial\\fernie_sparwood\\1206-valley-view-drive-20022704\\esri_world_imagery_z19\\z19_x94820_y178379.jpg",
       "data\\aerial\\fernie_sparwood\\1206-valley-view-drive-20022704\\esri_world_imagery_z19\\z19_x94821_y178379.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -16061,7 +16318,8 @@
       "data\\aerial\\fernie_sparwood\\2202-black-hawk-drive-20034035\\esri_world_imagery_z19\\z19_x94818_y178359.jpg",
       "data\\aerial\\fernie_sparwood\\2202-black-hawk-drive-20034035\\esri_world_imagery_z19\\z19_x94819_y178359.jpg",
       "data\\aerial\\fernie_sparwood\\2202-black-hawk-drive-20034035\\esri_world_imagery_z19\\z19_x94820_y178359.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -16163,7 +16421,8 @@
       "data\\aerial\\fernie_sparwood\\1622-11-avenue-20043865\\esri_world_imagery_z19\\z19_x94571_y178900.jpg",
       "data\\aerial\\fernie_sparwood\\1622-11-avenue-20043865\\esri_world_imagery_z19\\z19_x94572_y178900.jpg",
       "data\\aerial\\fernie_sparwood\\1622-11-avenue-20043865\\esri_world_imagery_z19\\z19_x94573_y178900.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -16276,7 +16535,8 @@
       "data\\aerial\\fernie_sparwood\\2030-golden-eagle-drive-20069119\\esri_world_imagery_z19\\z19_x94815_y178354.jpg",
       "data\\aerial\\fernie_sparwood\\2030-golden-eagle-drive-20069119\\esri_world_imagery_z19\\z19_x94816_y178354.jpg",
       "data\\aerial\\fernie_sparwood\\2030-golden-eagle-drive-20069119\\esri_world_imagery_z19\\z19_x94817_y178354.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -16351,7 +16611,8 @@
       "data\\aerial\\fernie_sparwood\\21-mt-minton-street-10654287\\esri_world_imagery_z19\\z19_x94559_y178947.jpg",
       "data\\aerial\\fernie_sparwood\\21-mt-minton-street-10654287\\esri_world_imagery_z19\\z19_x94560_y178947.jpg",
       "data\\aerial\\fernie_sparwood\\21-mt-minton-street-10654287\\esri_world_imagery_z19\\z19_x94561_y178947.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -16417,7 +16678,8 @@
       "data\\aerial\\fernie_sparwood\\1681-koocanusa-lake-drive-10679423\\esri_world_imagery_z19\\z19_x94319_y179658.jpg",
       "data\\aerial\\fernie_sparwood\\1681-koocanusa-lake-drive-10679423\\esri_world_imagery_z19\\z19_x94320_y179658.jpg",
       "data\\aerial\\fernie_sparwood\\1681-koocanusa-lake-drive-10679423\\esri_world_imagery_z19\\z19_x94321_y179658.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -16530,7 +16792,8 @@
       "data\\aerial\\fernie_sparwood\\1204-valley-view-drive-10683952\\esri_world_imagery_z19\\z19_x94819_y178379.jpg",
       "data\\aerial\\fernie_sparwood\\1204-valley-view-drive-10683952\\esri_world_imagery_z19\\z19_x94820_y178379.jpg",
       "data\\aerial\\fernie_sparwood\\1204-valley-view-drive-10683952\\esri_world_imagery_z19\\z19_x94821_y178379.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -16602,7 +16865,8 @@
       "data\\aerial\\fernie_sparwood\\1256-valley-view-drive-20049830\\esri_world_imagery_z19\\z19_x94820_y178381.jpg",
       "data\\aerial\\fernie_sparwood\\1256-valley-view-drive-20049830\\esri_world_imagery_z19\\z19_x94821_y178381.jpg",
       "data\\aerial\\fernie_sparwood\\1256-valley-view-drive-20049830\\esri_world_imagery_z19\\z19_x94822_y178381.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -16672,7 +16936,8 @@
       "data\\aerial\\fernie_sparwood\\941-5th-avenue-20039625\\esri_world_imagery_z19\\z19_x94572_y178919.jpg",
       "data\\aerial\\fernie_sparwood\\941-5th-avenue-20039625\\esri_world_imagery_z19\\z19_x94573_y178919.jpg",
       "data\\aerial\\fernie_sparwood\\941-5th-avenue-20039625\\esri_world_imagery_z19\\z19_x94574_y178919.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -16751,7 +17016,8 @@
       "data\\aerial\\fernie_sparwood\\842-8th-avenue-20022908\\esri_world_imagery_z19\\z19_x94566_y178917.jpg",
       "data\\aerial\\fernie_sparwood\\842-8th-avenue-20022908\\esri_world_imagery_z19\\z19_x94567_y178917.jpg",
       "data\\aerial\\fernie_sparwood\\842-8th-avenue-20022908\\esri_world_imagery_z19\\z19_x94568_y178917.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -16813,7 +17079,8 @@
       "data\\aerial\\fernie_sparwood\\9-elkview-place-10669621\\esri_world_imagery_z19\\z19_x94559_y178948.jpg",
       "data\\aerial\\fernie_sparwood\\9-elkview-place-10669621\\esri_world_imagery_z19\\z19_x94560_y178948.jpg",
       "data\\aerial\\fernie_sparwood\\9-elkview-place-10669621\\esri_world_imagery_z19\\z19_x94561_y178948.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -16896,7 +17163,8 @@
       "data\\aerial\\fernie_sparwood\\79-ridgemont-drive-10682918\\esri_world_imagery_z19\\z19_x94590_y178922.jpg",
       "data\\aerial\\fernie_sparwood\\79-ridgemont-drive-10682918\\esri_world_imagery_z19\\z19_x94591_y178922.jpg",
       "data\\aerial\\fernie_sparwood\\79-ridgemont-drive-10682918\\esri_world_imagery_z19\\z19_x94592_y178922.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -16934,7 +17202,8 @@
       "data\\aerial\\fernie_sparwood\\4600-timberline-crescent-10605182\\esri_world_imagery_z19\\z19_x94542_y179019.jpg",
       "data\\aerial\\fernie_sparwood\\4600-timberline-crescent-10605182\\esri_world_imagery_z19\\z19_x94543_y179019.jpg",
       "data\\aerial\\fernie_sparwood\\4600-timberline-crescent-10605182\\esri_world_imagery_z19\\z19_x94544_y179019.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -17021,7 +17290,8 @@
       "data\\aerial\\fernie_sparwood\\11-parkland-drive-10663402\\esri_world_imagery_z19\\z19_x94565_y178890.jpg",
       "data\\aerial\\fernie_sparwood\\11-parkland-drive-10663402\\esri_world_imagery_z19\\z19_x94566_y178890.jpg",
       "data\\aerial\\fernie_sparwood\\11-parkland-drive-10663402\\esri_world_imagery_z19\\z19_x94567_y178890.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -17089,7 +17359,8 @@
       "data\\aerial\\fernie_sparwood\\782-4th-avenue-20020418\\esri_world_imagery_z19\\z19_x94572_y178923.jpg",
       "data\\aerial\\fernie_sparwood\\782-4th-avenue-20020418\\esri_world_imagery_z19\\z19_x94573_y178923.jpg",
       "data\\aerial\\fernie_sparwood\\782-4th-avenue-20020418\\esri_world_imagery_z19\\z19_x94574_y178923.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -17166,7 +17437,8 @@
       "data\\aerial\\fernie_sparwood\\1250-valley-view-drive-20020438\\esri_world_imagery_z19\\z19_x94821_y178378.jpg",
       "data\\aerial\\fernie_sparwood\\1250-valley-view-drive-20020438\\esri_world_imagery_z19\\z19_x94822_y178378.jpg",
       "data\\aerial\\fernie_sparwood\\1250-valley-view-drive-20020438\\esri_world_imagery_z19\\z19_x94823_y178378.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -17247,7 +17519,8 @@
       "data\\aerial\\fernie_sparwood\\1265-valley-view-place-20059379\\esri_world_imagery_z19\\z19_x94820_y178382.jpg",
       "data\\aerial\\fernie_sparwood\\1265-valley-view-place-20059379\\esri_world_imagery_z19\\z19_x94821_y178382.jpg",
       "data\\aerial\\fernie_sparwood\\1265-valley-view-place-20059379\\esri_world_imagery_z19\\z19_x94822_y178382.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -17313,7 +17586,8 @@
       "data\\aerial\\fernie_sparwood\\1170-mcdonald-avenue-20066310\\esri_world_imagery_z19\\z19_x94555_y178938.jpg",
       "data\\aerial\\fernie_sparwood\\1170-mcdonald-avenue-20066310\\esri_world_imagery_z19\\z19_x94556_y178938.jpg",
       "data\\aerial\\fernie_sparwood\\1170-mcdonald-avenue-20066310\\esri_world_imagery_z19\\z19_x94557_y178938.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -17387,7 +17661,8 @@
       "data\\aerial\\fernie_sparwood\\22-coal-creek-road-10670943\\esri_world_imagery_z19\\z19_x94570_y178940.jpg",
       "data\\aerial\\fernie_sparwood\\22-coal-creek-road-10670943\\esri_world_imagery_z19\\z19_x94571_y178940.jpg",
       "data\\aerial\\fernie_sparwood\\22-coal-creek-road-10670943\\esri_world_imagery_z19\\z19_x94572_y178940.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -17444,7 +17719,8 @@
       "data\\aerial\\fernie_sparwood\\11-silver-ridge-way-10636711\\esri_world_imagery_z19\\z19_x94577_y178940.jpg",
       "data\\aerial\\fernie_sparwood\\11-silver-ridge-way-10636711\\esri_world_imagery_z19\\z19_x94578_y178940.jpg",
       "data\\aerial\\fernie_sparwood\\11-silver-ridge-way-10636711\\esri_world_imagery_z19\\z19_x94579_y178940.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -17509,7 +17785,8 @@
       "data\\aerial\\fernie_sparwood\\16-cedar-bowl-drive-10652596\\esri_world_imagery_z19\\z19_x94573_y178960.jpg",
       "data\\aerial\\fernie_sparwood\\16-cedar-bowl-drive-10652596\\esri_world_imagery_z19\\z19_x94574_y178960.jpg",
       "data\\aerial\\fernie_sparwood\\16-cedar-bowl-drive-10652596\\esri_world_imagery_z19\\z19_x94575_y178960.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -17564,7 +17841,8 @@
       "data\\aerial\\fernie_sparwood\\15-alpine-trail-crescent-10656960\\esri_world_imagery_z19\\z19_x94561_y178884.jpg",
       "data\\aerial\\fernie_sparwood\\15-alpine-trail-crescent-10656960\\esri_world_imagery_z19\\z19_x94562_y178884.jpg",
       "data\\aerial\\fernie_sparwood\\15-alpine-trail-crescent-10656960\\esri_world_imagery_z19\\z19_x94563_y178884.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -17633,7 +17911,8 @@
       "data\\aerial\\fernie_sparwood\\561-6th-avenue-10674370\\esri_world_imagery_z19\\z19_x94566_y178924.jpg",
       "data\\aerial\\fernie_sparwood\\561-6th-avenue-10674370\\esri_world_imagery_z19\\z19_x94567_y178924.jpg",
       "data\\aerial\\fernie_sparwood\\561-6th-avenue-10674370\\esri_world_imagery_z19\\z19_x94568_y178924.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -17718,7 +17997,8 @@
       "data\\aerial\\fernie_sparwood\\1643-koocanusa-lake-drive-20068707\\esri_world_imagery_z19\\z19_x94321_y179655.jpg",
       "data\\aerial\\fernie_sparwood\\1643-koocanusa-lake-drive-20068707\\esri_world_imagery_z19\\z19_x94322_y179655.jpg",
       "data\\aerial\\fernie_sparwood\\1643-koocanusa-lake-drive-20068707\\esri_world_imagery_z19\\z19_x94323_y179655.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -17791,7 +18071,8 @@
       "data\\aerial\\fernie_sparwood\\1362-11th-avenue-10663121\\esri_world_imagery_z19\\z19_x94568_y178905.jpg",
       "data\\aerial\\fernie_sparwood\\1362-11th-avenue-10663121\\esri_world_imagery_z19\\z19_x94569_y178905.jpg",
       "data\\aerial\\fernie_sparwood\\1362-11th-avenue-10663121\\esri_world_imagery_z19\\z19_x94570_y178905.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -17878,7 +18159,8 @@
       "data\\aerial\\fernie_sparwood\\16-mt-minton-street-10671641\\esri_world_imagery_z19\\z19_x94557_y178945.jpg",
       "data\\aerial\\fernie_sparwood\\16-mt-minton-street-10671641\\esri_world_imagery_z19\\z19_x94558_y178945.jpg",
       "data\\aerial\\fernie_sparwood\\16-mt-minton-street-10671641\\esri_world_imagery_z19\\z19_x94559_y178945.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -17949,7 +18231,8 @@
       "data\\aerial\\fernie_sparwood\\2134-whiskey-jack-drive-10675001\\esri_world_imagery_z19\\z19_x94809_y178353.jpg",
       "data\\aerial\\fernie_sparwood\\2134-whiskey-jack-drive-10675001\\esri_world_imagery_z19\\z19_x94810_y178353.jpg",
       "data\\aerial\\fernie_sparwood\\2134-whiskey-jack-drive-10675001\\esri_world_imagery_z19\\z19_x94811_y178353.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -18003,7 +18286,8 @@
       "data\\aerial\\fernie_sparwood\\3-mt-proctor-avenue-20073619\\esri_world_imagery_z19\\z19_x94554_y178948.jpg",
       "data\\aerial\\fernie_sparwood\\3-mt-proctor-avenue-20073619\\esri_world_imagery_z19\\z19_x94555_y178948.jpg",
       "data\\aerial\\fernie_sparwood\\3-mt-proctor-avenue-20073619\\esri_world_imagery_z19\\z19_x94556_y178948.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -18050,7 +18334,8 @@
       "data\\aerial\\fernie_sparwood\\802-8th-avenue-10614914\\esri_world_imagery_z19\\z19_x94566_y178918.jpg",
       "data\\aerial\\fernie_sparwood\\802-8th-avenue-10614914\\esri_world_imagery_z19\\z19_x94567_y178918.jpg",
       "data\\aerial\\fernie_sparwood\\802-8th-avenue-10614914\\esri_world_imagery_z19\\z19_x94568_y178918.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -18132,7 +18417,8 @@
       "data\\aerial\\fernie_sparwood\\15-mt-proctor-avenue-10681347\\esri_world_imagery_z19\\z19_x94554_y178950.jpg",
       "data\\aerial\\fernie_sparwood\\15-mt-proctor-avenue-10681347\\esri_world_imagery_z19\\z19_x94555_y178950.jpg",
       "data\\aerial\\fernie_sparwood\\15-mt-proctor-avenue-10681347\\esri_world_imagery_z19\\z19_x94556_y178950.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -18173,7 +18459,8 @@
       "data\\aerial\\fernie_sparwood\\941-11th-avenue-10657168\\esri_world_imagery_z19\\z19_x94562_y178912.jpg",
       "data\\aerial\\fernie_sparwood\\941-11th-avenue-10657168\\esri_world_imagery_z19\\z19_x94563_y178912.jpg",
       "data\\aerial\\fernie_sparwood\\941-11th-avenue-10657168\\esri_world_imagery_z19\\z19_x94564_y178912.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -18254,7 +18541,8 @@
       "data\\aerial\\fernie_sparwood\\962-4th-avenue-10678927\\esri_world_imagery_z19\\z19_x94574_y178920.jpg",
       "data\\aerial\\fernie_sparwood\\962-4th-avenue-10678927\\esri_world_imagery_z19\\z19_x94575_y178920.jpg",
       "data\\aerial\\fernie_sparwood\\962-4th-avenue-10678927\\esri_world_imagery_z19\\z19_x94576_y178920.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -18332,7 +18620,8 @@
       "data\\aerial\\fernie_sparwood\\2108-whiskey-jack-drive-10679212\\esri_world_imagery_z19\\z19_x94813_y178361.jpg",
       "data\\aerial\\fernie_sparwood\\2108-whiskey-jack-drive-10679212\\esri_world_imagery_z19\\z19_x94814_y178361.jpg",
       "data\\aerial\\fernie_sparwood\\2108-whiskey-jack-drive-10679212\\esri_world_imagery_z19\\z19_x94815_y178361.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -18396,7 +18685,8 @@
       "data\\aerial\\fernie_sparwood\\39-elkview-drive-10655082\\esri_world_imagery_z19\\z19_x94560_y178950.jpg",
       "data\\aerial\\fernie_sparwood\\39-elkview-drive-10655082\\esri_world_imagery_z19\\z19_x94561_y178950.jpg",
       "data\\aerial\\fernie_sparwood\\39-elkview-drive-10655082\\esri_world_imagery_z19\\z19_x94562_y178950.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -18476,7 +18766,8 @@
       "data\\aerial\\fernie_sparwood\\43-ridgemont-avenue-10673661\\esri_world_imagery_z19\\z19_x94583_y178925.jpg",
       "data\\aerial\\fernie_sparwood\\43-ridgemont-avenue-10673661\\esri_world_imagery_z19\\z19_x94584_y178925.jpg",
       "data\\aerial\\fernie_sparwood\\43-ridgemont-avenue-10673661\\esri_world_imagery_z19\\z19_x94585_y178925.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -18528,7 +18819,8 @@
       "data\\aerial\\fernie_sparwood\\931-10th-avenue-10303426\\esri_world_imagery_z19\\z19_x94563_y178913.jpg",
       "data\\aerial\\fernie_sparwood\\931-10th-avenue-10303426\\esri_world_imagery_z19\\z19_x94564_y178913.jpg",
       "data\\aerial\\fernie_sparwood\\931-10th-avenue-10303426\\esri_world_imagery_z19\\z19_x94565_y178913.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -18602,7 +18894,8 @@
       "data\\aerial\\fernie_sparwood\\2135-whiskey-jack-drive-10683923\\esri_world_imagery_z19\\z19_x94810_y178353.jpg",
       "data\\aerial\\fernie_sparwood\\2135-whiskey-jack-drive-10683923\\esri_world_imagery_z19\\z19_x94811_y178353.jpg",
       "data\\aerial\\fernie_sparwood\\2135-whiskey-jack-drive-10683923\\esri_world_imagery_z19\\z19_x94812_y178353.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -18645,7 +18938,8 @@
       "data\\aerial\\fernie_sparwood\\46-coal-creek-road-10622169\\esri_world_imagery_z19\\z19_x94574_y178943.jpg",
       "data\\aerial\\fernie_sparwood\\46-coal-creek-road-10622169\\esri_world_imagery_z19\\z19_x94575_y178943.jpg",
       "data\\aerial\\fernie_sparwood\\46-coal-creek-road-10622169\\esri_world_imagery_z19\\z19_x94576_y178943.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -18734,7 +19028,8 @@
       "data\\aerial\\fernie_sparwood\\992-8th-avenue-10666059\\esri_world_imagery_z19\\z19_x94568_y178915.jpg",
       "data\\aerial\\fernie_sparwood\\992-8th-avenue-10666059\\esri_world_imagery_z19\\z19_x94569_y178915.jpg",
       "data\\aerial\\fernie_sparwood\\992-8th-avenue-10666059\\esri_world_imagery_z19\\z19_x94570_y178915.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -18808,7 +19103,8 @@
       "data\\aerial\\fernie_sparwood\\29-ridgemont-drive-10676027\\esri_world_imagery_z19\\z19_x94582_y178930.jpg",
       "data\\aerial\\fernie_sparwood\\29-ridgemont-drive-10676027\\esri_world_imagery_z19\\z19_x94583_y178930.jpg",
       "data\\aerial\\fernie_sparwood\\29-ridgemont-drive-10676027\\esri_world_imagery_z19\\z19_x94584_y178930.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -18914,7 +19210,8 @@
       "data\\aerial\\fernie_sparwood\\2252-black-hawk-drive-20084254\\esri_world_imagery_z19\\z19_x94819_y178354.jpg",
       "data\\aerial\\fernie_sparwood\\2252-black-hawk-drive-20084254\\esri_world_imagery_z19\\z19_x94820_y178354.jpg",
       "data\\aerial\\fernie_sparwood\\2252-black-hawk-drive-20084254\\esri_world_imagery_z19\\z19_x94821_y178354.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -19032,7 +19329,8 @@
       "data\\aerial\\fernie_sparwood\\592-9th-avenue-10665347\\esri_world_imagery_z19\\z19_x94562_y178921.jpg",
       "data\\aerial\\fernie_sparwood\\592-9th-avenue-10665347\\esri_world_imagery_z19\\z19_x94563_y178921.jpg",
       "data\\aerial\\fernie_sparwood\\592-9th-avenue-10665347\\esri_world_imagery_z19\\z19_x94564_y178921.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -19089,7 +19387,8 @@
       "data\\aerial\\fernie_sparwood\\20-pine-crescent-10644420\\esri_world_imagery_z19\\z19_x94569_y178945.jpg",
       "data\\aerial\\fernie_sparwood\\20-pine-crescent-10644420\\esri_world_imagery_z19\\z19_x94570_y178945.jpg",
       "data\\aerial\\fernie_sparwood\\20-pine-crescent-10644420\\esri_world_imagery_z19\\z19_x94571_y178945.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -19183,7 +19482,8 @@
       "data\\aerial\\fernie_sparwood\\4-mt-proctor-avenue-10666517\\esri_world_imagery_z19\\z19_x94553_y178946.jpg",
       "data\\aerial\\fernie_sparwood\\4-mt-proctor-avenue-10666517\\esri_world_imagery_z19\\z19_x94554_y178946.jpg",
       "data\\aerial\\fernie_sparwood\\4-mt-proctor-avenue-10666517\\esri_world_imagery_z19\\z19_x94555_y178946.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -19240,7 +19540,8 @@
       "data\\aerial\\fernie_sparwood\\17-alpine-trail-10615862\\esri_world_imagery_z19\\z19_x94564_y178883.jpg",
       "data\\aerial\\fernie_sparwood\\17-alpine-trail-10615862\\esri_world_imagery_z19\\z19_x94565_y178883.jpg",
       "data\\aerial\\fernie_sparwood\\17-alpine-trail-10615862\\esri_world_imagery_z19\\z19_x94566_y178883.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -19315,7 +19616,8 @@
       "data\\aerial\\fernie_sparwood\\1391-10th-avenue-10681443\\esri_world_imagery_z19\\z19_x94569_y178905.jpg",
       "data\\aerial\\fernie_sparwood\\1391-10th-avenue-10681443\\esri_world_imagery_z19\\z19_x94570_y178905.jpg",
       "data\\aerial\\fernie_sparwood\\1391-10th-avenue-10681443\\esri_world_imagery_z19\\z19_x94571_y178905.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -19420,7 +19722,8 @@
       "data\\aerial\\fernie_sparwood\\532-granzow-road-20046554\\esri_world_imagery_z19\\z19_x94346_y179539.jpg",
       "data\\aerial\\fernie_sparwood\\532-granzow-road-20046554\\esri_world_imagery_z19\\z19_x94347_y179539.jpg",
       "data\\aerial\\fernie_sparwood\\532-granzow-road-20046554\\esri_world_imagery_z19\\z19_x94348_y179539.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -19521,7 +19824,8 @@
       "data\\aerial\\fernie_sparwood\\2071-golden-eagle-drive-20078352\\esri_world_imagery_z19\\z19_x94819_y178347.jpg",
       "data\\aerial\\fernie_sparwood\\2071-golden-eagle-drive-20078352\\esri_world_imagery_z19\\z19_x94820_y178347.jpg",
       "data\\aerial\\fernie_sparwood\\2071-golden-eagle-drive-20078352\\esri_world_imagery_z19\\z19_x94821_y178347.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -19642,7 +19946,8 @@
       "data\\aerial\\fernie_sparwood\\1357-cypress-drive-20078363\\esri_world_imagery_z19\\z19_x94822_y178369.jpg",
       "data\\aerial\\fernie_sparwood\\1357-cypress-drive-20078363\\esri_world_imagery_z19\\z19_x94823_y178369.jpg",
       "data\\aerial\\fernie_sparwood\\1357-cypress-drive-20078363\\esri_world_imagery_z19\\z19_x94824_y178369.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -19724,7 +20029,8 @@
       "data\\aerial\\fernie_sparwood\\1668-tranquility-road-20080409\\esri_world_imagery_z19\\z19_x94348_y179656.jpg",
       "data\\aerial\\fernie_sparwood\\1668-tranquility-road-20080409\\esri_world_imagery_z19\\z19_x94349_y179656.jpg",
       "data\\aerial\\fernie_sparwood\\1668-tranquility-road-20080409\\esri_world_imagery_z19\\z19_x94350_y179656.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -19771,7 +20077,8 @@
       "data\\aerial\\fernie_sparwood\\501-5258-highline-drive-10608316\\esri_world_imagery_z19\\z19_x94532_y179016.jpg",
       "data\\aerial\\fernie_sparwood\\501-5258-highline-drive-10608316\\esri_world_imagery_z19\\z19_x94533_y179016.jpg",
       "data\\aerial\\fernie_sparwood\\501-5258-highline-drive-10608316\\esri_world_imagery_z19\\z19_x94534_y179016.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -19864,7 +20171,8 @@
       "data\\aerial\\fernie_sparwood\\2-ridgemont-avenue-10681344\\esri_world_imagery_z19\\z19_x94581_y178931.jpg",
       "data\\aerial\\fernie_sparwood\\2-ridgemont-avenue-10681344\\esri_world_imagery_z19\\z19_x94582_y178931.jpg",
       "data\\aerial\\fernie_sparwood\\2-ridgemont-avenue-10681344\\esri_world_imagery_z19\\z19_x94583_y178931.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -19932,7 +20240,8 @@
       "data\\aerial\\fernie_sparwood\\661-3rd-avenue-10665467\\esri_world_imagery_z19\\z19_x94572_y178926.jpg",
       "data\\aerial\\fernie_sparwood\\661-3rd-avenue-10665467\\esri_world_imagery_z19\\z19_x94573_y178926.jpg",
       "data\\aerial\\fernie_sparwood\\661-3rd-avenue-10665467\\esri_world_imagery_z19\\z19_x94574_y178926.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -19991,7 +20300,8 @@
       "data\\aerial\\fernie_sparwood\\801a-8th-street-10669856\\esri_world_imagery_z19\\z19_x94565_y178917.jpg",
       "data\\aerial\\fernie_sparwood\\801a-8th-street-10669856\\esri_world_imagery_z19\\z19_x94566_y178917.jpg",
       "data\\aerial\\fernie_sparwood\\801a-8th-street-10669856\\esri_world_imagery_z19\\z19_x94567_y178917.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -20048,7 +20358,8 @@
       "data\\aerial\\fernie_sparwood\\4584-timberline-crescent-10616755\\esri_world_imagery_z19\\z19_x94542_y179020.jpg",
       "data\\aerial\\fernie_sparwood\\4584-timberline-crescent-10616755\\esri_world_imagery_z19\\z19_x94543_y179020.jpg",
       "data\\aerial\\fernie_sparwood\\4584-timberline-crescent-10616755\\esri_world_imagery_z19\\z19_x94544_y179020.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -20089,7 +20400,8 @@
       "data\\aerial\\fernie_sparwood\\701a-4th-avenue-10661891\\esri_world_imagery_z19\\z19_x94571_y178924.jpg",
       "data\\aerial\\fernie_sparwood\\701a-4th-avenue-10661891\\esri_world_imagery_z19\\z19_x94572_y178924.jpg",
       "data\\aerial\\fernie_sparwood\\701a-4th-avenue-10661891\\esri_world_imagery_z19\\z19_x94573_y178924.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -20159,7 +20471,8 @@
       "data\\aerial\\fernie_sparwood\\1341-1st-avenue-10675686\\esri_world_imagery_z19\\z19_x94583_y178915.jpg",
       "data\\aerial\\fernie_sparwood\\1341-1st-avenue-10675686\\esri_world_imagery_z19\\z19_x94584_y178915.jpg",
       "data\\aerial\\fernie_sparwood\\1341-1st-avenue-10675686\\esri_world_imagery_z19\\z19_x94585_y178915.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -20215,7 +20528,8 @@
       "data\\aerial\\fernie_sparwood\\32-silver-ridge-drive-10628923\\esri_world_imagery_z19\\z19_x94577_y178941.jpg",
       "data\\aerial\\fernie_sparwood\\32-silver-ridge-drive-10628923\\esri_world_imagery_z19\\z19_x94578_y178941.jpg",
       "data\\aerial\\fernie_sparwood\\32-silver-ridge-drive-10628923\\esri_world_imagery_z19\\z19_x94579_y178941.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -20259,7 +20573,8 @@
       "data\\aerial\\fernie_sparwood\\4556-timberline-crescent-10545164\\esri_world_imagery_z19\\z19_x94546_y179022.jpg",
       "data\\aerial\\fernie_sparwood\\4556-timberline-crescent-10545164\\esri_world_imagery_z19\\z19_x94547_y179022.jpg",
       "data\\aerial\\fernie_sparwood\\4556-timberline-crescent-10545164\\esri_world_imagery_z19\\z19_x94548_y179022.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -20297,7 +20612,8 @@
       "data\\aerial\\fernie_sparwood\\4553-timberline-crescent-10559208\\esri_world_imagery_z19\\z19_x94546_y179022.jpg",
       "data\\aerial\\fernie_sparwood\\4553-timberline-crescent-10559208\\esri_world_imagery_z19\\z19_x94547_y179022.jpg",
       "data\\aerial\\fernie_sparwood\\4553-timberline-crescent-10559208\\esri_world_imagery_z19\\z19_x94548_y179022.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -20348,7 +20664,8 @@
       "data\\aerial\\fernie_sparwood\\791-5th-avenue-10636454\\esri_world_imagery_z19\\z19_x94570_y178922.jpg",
       "data\\aerial\\fernie_sparwood\\791-5th-avenue-10636454\\esri_world_imagery_z19\\z19_x94571_y178922.jpg",
       "data\\aerial\\fernie_sparwood\\791-5th-avenue-10636454\\esri_world_imagery_z19\\z19_x94572_y178922.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -20410,7 +20727,8 @@
       "data\\aerial\\fernie_sparwood\\1251-2nd-avenue-10663856\\esri_world_imagery_z19\\z19_x94581_y178916.jpg",
       "data\\aerial\\fernie_sparwood\\1251-2nd-avenue-10663856\\esri_world_imagery_z19\\z19_x94582_y178916.jpg",
       "data\\aerial\\fernie_sparwood\\1251-2nd-avenue-10663856\\esri_world_imagery_z19\\z19_x94583_y178916.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -20497,7 +20815,8 @@
       "data\\aerial\\fernie_sparwood\\921-11th-avenue-10668743\\esri_world_imagery_z19\\z19_x94562_y178912.jpg",
       "data\\aerial\\fernie_sparwood\\921-11th-avenue-10668743\\esri_world_imagery_z19\\z19_x94563_y178912.jpg",
       "data\\aerial\\fernie_sparwood\\921-11th-avenue-10668743\\esri_world_imagery_z19\\z19_x94564_y178912.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -20543,7 +20862,8 @@
       "data\\aerial\\fernie_sparwood\\197-ridgemont-lane-10681575\\esri_world_imagery_z19\\z19_x94587_y178926.jpg",
       "data\\aerial\\fernie_sparwood\\197-ridgemont-lane-10681575\\esri_world_imagery_z19\\z19_x94588_y178926.jpg",
       "data\\aerial\\fernie_sparwood\\197-ridgemont-lane-10681575\\esri_world_imagery_z19\\z19_x94589_y178926.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -20592,7 +20912,8 @@
       "data\\aerial\\fernie_sparwood\\9841-victoria-street-10675594\\esri_world_imagery_z19\\z19_x94713_y178732.jpg",
       "data\\aerial\\fernie_sparwood\\9841-victoria-street-10675594\\esri_world_imagery_z19\\z19_x94714_y178732.jpg",
       "data\\aerial\\fernie_sparwood\\9841-victoria-street-10675594\\esri_world_imagery_z19\\z19_x94715_y178732.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -20639,7 +20960,8 @@
       "data\\aerial\\fernie_sparwood\\4495-timberline-crescent-10577345\\esri_world_imagery_z19\\z19_x94549_y179025.jpg",
       "data\\aerial\\fernie_sparwood\\4495-timberline-crescent-10577345\\esri_world_imagery_z19\\z19_x94550_y179025.jpg",
       "data\\aerial\\fernie_sparwood\\4495-timberline-crescent-10577345\\esri_world_imagery_z19\\z19_x94551_y179025.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -20686,7 +21008,8 @@
       "data\\aerial\\fernie_sparwood\\2-allan-graham-drive-10579894\\esri_world_imagery_z19\\z19_x94589_y178903.jpg",
       "data\\aerial\\fernie_sparwood\\2-allan-graham-drive-10579894\\esri_world_imagery_z19\\z19_x94590_y178903.jpg",
       "data\\aerial\\fernie_sparwood\\2-allan-graham-drive-10579894\\esri_world_imagery_z19\\z19_x94591_y178903.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -20743,7 +21066,8 @@
       "data\\aerial\\fernie_sparwood\\123-whitetail-drive-10659866\\esri_world_imagery_z19\\z19_x94577_y178954.jpg",
       "data\\aerial\\fernie_sparwood\\123-whitetail-drive-10659866\\esri_world_imagery_z19\\z19_x94578_y178954.jpg",
       "data\\aerial\\fernie_sparwood\\123-whitetail-drive-10659866\\esri_world_imagery_z19\\z19_x94579_y178954.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -20820,7 +21144,8 @@
       "data\\aerial\\fernie_sparwood\\55-ridgemont-avenue-10660236\\esri_world_imagery_z19\\z19_x94584_y178924.jpg",
       "data\\aerial\\fernie_sparwood\\55-ridgemont-avenue-10660236\\esri_world_imagery_z19\\z19_x94585_y178924.jpg",
       "data\\aerial\\fernie_sparwood\\55-ridgemont-avenue-10660236\\esri_world_imagery_z19\\z19_x94586_y178924.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -20898,7 +21223,8 @@
       "data\\aerial\\fernie_sparwood\\1461-8th-avenue-10670512\\esri_world_imagery_z19\\z19_x94573_y178906.jpg",
       "data\\aerial\\fernie_sparwood\\1461-8th-avenue-10670512\\esri_world_imagery_z19\\z19_x94574_y178906.jpg",
       "data\\aerial\\fernie_sparwood\\1461-8th-avenue-10670512\\esri_world_imagery_z19\\z19_x94575_y178906.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -20986,7 +21312,8 @@
       "data\\aerial\\fernie_sparwood\\2140-whiskey-jack-drive-10671578\\esri_world_imagery_z19\\z19_x94807_y178351.jpg",
       "data\\aerial\\fernie_sparwood\\2140-whiskey-jack-drive-10671578\\esri_world_imagery_z19\\z19_x94808_y178351.jpg",
       "data\\aerial\\fernie_sparwood\\2140-whiskey-jack-drive-10671578\\esri_world_imagery_z19\\z19_x94809_y178351.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -21047,7 +21374,8 @@
       "data\\aerial\\fernie_sparwood\\1202-4th-avenue-10672499\\esri_world_imagery_z19\\z19_x94578_y178915.jpg",
       "data\\aerial\\fernie_sparwood\\1202-4th-avenue-10672499\\esri_world_imagery_z19\\z19_x94579_y178915.jpg",
       "data\\aerial\\fernie_sparwood\\1202-4th-avenue-10672499\\esri_world_imagery_z19\\z19_x94580_y178915.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -21123,7 +21451,8 @@
       "data\\aerial\\fernie_sparwood\\201-1st-avenue-10675368\\esri_world_imagery_z19\\z19_x94570_y178936.jpg",
       "data\\aerial\\fernie_sparwood\\201-1st-avenue-10675368\\esri_world_imagery_z19\\z19_x94571_y178936.jpg",
       "data\\aerial\\fernie_sparwood\\201-1st-avenue-10675368\\esri_world_imagery_z19\\z19_x94572_y178936.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -21204,7 +21533,8 @@
       "data\\aerial\\fernie_sparwood\\49-mt-proctor-avenue-10676258\\esri_world_imagery_z19\\z19_x94554_y178959.jpg",
       "data\\aerial\\fernie_sparwood\\49-mt-proctor-avenue-10676258\\esri_world_imagery_z19\\z19_x94555_y178959.jpg",
       "data\\aerial\\fernie_sparwood\\49-mt-proctor-avenue-10676258\\esri_world_imagery_z19\\z19_x94556_y178959.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -21270,7 +21600,8 @@
       "data\\aerial\\fernie_sparwood\\18-elkview-crescent-10677481\\esri_world_imagery_z19\\z19_x94564_y178949.jpg",
       "data\\aerial\\fernie_sparwood\\18-elkview-crescent-10677481\\esri_world_imagery_z19\\z19_x94565_y178949.jpg",
       "data\\aerial\\fernie_sparwood\\18-elkview-crescent-10677481\\esri_world_imagery_z19\\z19_x94566_y178949.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -21351,7 +21682,8 @@
       "data\\aerial\\fernie_sparwood\\1-mt-proctor-avenue-10681651\\esri_world_imagery_z19\\z19_x94554_y178948.jpg",
       "data\\aerial\\fernie_sparwood\\1-mt-proctor-avenue-10681651\\esri_world_imagery_z19\\z19_x94555_y178948.jpg",
       "data\\aerial\\fernie_sparwood\\1-mt-proctor-avenue-10681651\\esri_world_imagery_z19\\z19_x94556_y178948.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -21422,7 +21754,8 @@
       "data\\aerial\\fernie_sparwood\\14-mt-trinity-avenue-10682383\\esri_world_imagery_z19\\z19_x94555_y178950.jpg",
       "data\\aerial\\fernie_sparwood\\14-mt-trinity-avenue-10682383\\esri_world_imagery_z19\\z19_x94556_y178950.jpg",
       "data\\aerial\\fernie_sparwood\\14-mt-trinity-avenue-10682383\\esri_world_imagery_z19\\z19_x94557_y178950.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -21487,7 +21820,8 @@
       "data\\aerial\\fernie_sparwood\\761-4th-avenue-20022380\\esri_world_imagery_z19\\z19_x94571_y178923.jpg",
       "data\\aerial\\fernie_sparwood\\761-4th-avenue-20022380\\esri_world_imagery_z19\\z19_x94572_y178923.jpg",
       "data\\aerial\\fernie_sparwood\\761-4th-avenue-20022380\\esri_world_imagery_z19\\z19_x94573_y178923.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -21600,7 +21934,8 @@
       "data\\aerial\\fernie_sparwood\\1309-birchwood-place-20028580\\esri_world_imagery_z19\\z19_x94820_y178368.jpg",
       "data\\aerial\\fernie_sparwood\\1309-birchwood-place-20028580\\esri_world_imagery_z19\\z19_x94821_y178368.jpg",
       "data\\aerial\\fernie_sparwood\\1309-birchwood-place-20028580\\esri_world_imagery_z19\\z19_x94822_y178368.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -21662,7 +21997,8 @@
       "data\\aerial\\fernie_sparwood\\562-6th-avenue-20053873\\esri_world_imagery_z19\\z19_x94566_y178925.jpg",
       "data\\aerial\\fernie_sparwood\\562-6th-avenue-20053873\\esri_world_imagery_z19\\z19_x94567_y178925.jpg",
       "data\\aerial\\fernie_sparwood\\562-6th-avenue-20053873\\esri_world_imagery_z19\\z19_x94568_y178925.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -21741,7 +22077,8 @@
       "data\\aerial\\fernie_sparwood\\1302-11th-avenue-20060624\\esri_world_imagery_z19\\z19_x94567_y178906.jpg",
       "data\\aerial\\fernie_sparwood\\1302-11th-avenue-20060624\\esri_world_imagery_z19\\z19_x94568_y178906.jpg",
       "data\\aerial\\fernie_sparwood\\1302-11th-avenue-20060624\\esri_world_imagery_z19\\z19_x94569_y178906.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -21812,7 +22149,8 @@
       "data\\aerial\\fernie_sparwood\\6740-rosen-lake-road-20066454\\esri_world_imagery_z19\\z19_x94278_y179159.jpg",
       "data\\aerial\\fernie_sparwood\\6740-rosen-lake-road-20066454\\esri_world_imagery_z19\\z19_x94279_y179159.jpg",
       "data\\aerial\\fernie_sparwood\\6740-rosen-lake-road-20066454\\esri_world_imagery_z19\\z19_x94280_y179159.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -21864,7 +22202,8 @@
       "data\\aerial\\fernie_sparwood\\6659-rosen-lake-road-10638277\\esri_world_imagery_z19\\z19_x94202_y179110.jpg",
       "data\\aerial\\fernie_sparwood\\6659-rosen-lake-road-10638277\\esri_world_imagery_z19\\z19_x94203_y179110.jpg",
       "data\\aerial\\fernie_sparwood\\6659-rosen-lake-road-10638277\\esri_world_imagery_z19\\z19_x94204_y179110.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -21934,7 +22273,8 @@
       "data\\aerial\\fernie_sparwood\\862-10th-avenue-10666129\\esri_world_imagery_z19\\z19_x94563_y178915.jpg",
       "data\\aerial\\fernie_sparwood\\862-10th-avenue-10666129\\esri_world_imagery_z19\\z19_x94564_y178915.jpg",
       "data\\aerial\\fernie_sparwood\\862-10th-avenue-10666129\\esri_world_imagery_z19\\z19_x94565_y178915.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -21979,7 +22319,8 @@
       "data\\aerial\\fernie_sparwood\\25-skifty-morris-way-10599160\\esri_world_imagery_z19\\z19_x94588_y178905.jpg",
       "data\\aerial\\fernie_sparwood\\25-skifty-morris-way-10599160\\esri_world_imagery_z19\\z19_x94589_y178905.jpg",
       "data\\aerial\\fernie_sparwood\\25-skifty-morris-way-10599160\\esri_world_imagery_z19\\z19_x94590_y178905.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -22020,7 +22361,8 @@
       "data\\aerial\\fernie_sparwood\\93-ridgemont-drive-10626775\\esri_world_imagery_z19\\z19_x94593_y178921.jpg",
       "data\\aerial\\fernie_sparwood\\93-ridgemont-drive-10626775\\esri_world_imagery_z19\\z19_x94594_y178921.jpg",
       "data\\aerial\\fernie_sparwood\\93-ridgemont-drive-10626775\\esri_world_imagery_z19\\z19_x94595_y178921.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -22070,7 +22412,8 @@
       "data\\aerial\\fernie_sparwood\\15-alpine-trails-crescent-10629259\\esri_world_imagery_z19\\z19_x94560_y178884.jpg",
       "data\\aerial\\fernie_sparwood\\15-alpine-trails-crescent-10629259\\esri_world_imagery_z19\\z19_x94561_y178884.jpg",
       "data\\aerial\\fernie_sparwood\\15-alpine-trails-crescent-10629259\\esri_world_imagery_z19\\z19_x94562_y178884.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -22125,7 +22468,8 @@
       "data\\aerial\\fernie_sparwood\\37-silver-ridge-drive-10629333\\esri_world_imagery_z19\\z19_x94577_y178941.jpg",
       "data\\aerial\\fernie_sparwood\\37-silver-ridge-drive-10629333\\esri_world_imagery_z19\\z19_x94578_y178941.jpg",
       "data\\aerial\\fernie_sparwood\\37-silver-ridge-drive-10629333\\esri_world_imagery_z19\\z19_x94579_y178941.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   },
   {
     "source": "fernie_sparwood",
@@ -22184,6 +22528,7 @@
       "data\\aerial\\fernie_sparwood\\1191-11th-avenue-10637598\\esri_world_imagery_z19\\z19_x94565_y178909.jpg",
       "data\\aerial\\fernie_sparwood\\1191-11th-avenue-10637598\\esri_world_imagery_z19\\z19_x94566_y178909.jpg",
       "data\\aerial\\fernie_sparwood\\1191-11th-avenue-10637598\\esri_world_imagery_z19\\z19_x94567_y178909.jpg"
-    ]
+    ],
+    "coordinate_confidence": "listing"
   }
 ]
