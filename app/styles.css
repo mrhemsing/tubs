@@ -127,7 +127,7 @@ h2 { margin: 0; font-size: 23px; letter-spacing: -.025em; }
 }
 
 @media (max-width: 560px) {
-  .toolbar { position: static; top: auto; padding: 8px; }
+  .toolbar { position: static; top: auto; padding: 0; border: 0; background: transparent; backdrop-filter: none; }
   .areaNav { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 7px; }
   .areaNav a { padding: 11px 4px; font-size: 13px; line-height: 1.08; text-align: center; white-space: normal; display: flex; align-items: center; justify-content: center; min-height: 58px; border-radius: 22px; }
   .navDesktopLabel { display: none; }
