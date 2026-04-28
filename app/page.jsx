@@ -36,6 +36,11 @@ function Stat({ label, value }) {
 }
 
 const areaOrder = ['Columbia Valley', 'Cranbrook/Kimberley', 'Fernie/Sparwood'];
+const areaSlugs = {
+  'Columbia Valley': 'columbia-valley',
+  'Cranbrook/Kimberley': 'cranbrook-kimberley',
+  'Fernie/Sparwood': 'fernie-sparwood',
+};
 
 function CandidateCard({ card }) {
   const links = [
@@ -129,6 +134,12 @@ export default function Home() {
 
       <section className="toolbar">
         <p>Ranked by strongest available house + backyard/lot aerial or elevated coverage. Each listing shows the actual best candidate photo first, followed by remaining candidate photos.</p>
+        <nav className="areaNav" aria-label="Area navigation">
+          {areaOrder.map((area) => (
+            <a href={`#${areaSlugs[area]}`} key={area}>{area}</a>
+          ))}
+          <a href="#all-addresses">All addresses</a>
+        </nav>
       </section>
 
       {areaOrder.map((area) => {
@@ -138,7 +149,7 @@ export default function Home() {
         const arcgisCount = cards.filter((card) => card.recommendedSource === 'arcgis_overhead_house_backyard_candidate').length;
         const possibleCount = cards.filter((card) => card.recommendedSource === 'possible_mls_elevated_candidate_needs_verify').length;
         return (
-          <section className="areaSection" key={area} id={area.toLowerCase().replaceAll(/[^a-z0-9]+/g, '-')}>
+          <section className="areaSection" key={area} id={areaSlugs[area]}>
             <div className="areaHeader">
               <div>
                 <p className="areaKicker">Area</p>
@@ -158,6 +169,7 @@ export default function Home() {
         );
       })}
 
+      <div id="all-addresses" className="anchorLabel">All addresses</div>
       {areaOrder.map((area) => {
         const rows = data.allAddresses.filter((row) => row.sourceLabel === area);
         return (
