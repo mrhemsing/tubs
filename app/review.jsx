@@ -198,7 +198,7 @@ export default function ReviewPage({ areaFilter = null }) {
           <p className="rights">{data.rightsNotice}</p>
         </div>
         <div className="heroArtWrap">
-          <img className="heroArt" src="/header-illustration.jpg" alt="Illustration of friends in a snowy mountain hot tub" />
+          <img className="heroArt" src={areaFilter ? areaBanners[areaFilter] : '/header-illustration.jpg'} alt={`${areaFilter || 'Tubs'} banner illustration`} />
         </div>
         <div className="stats">
           <Stat label="Properties" value={areaFilter ? data.allAddresses.filter((row) => row.sourceLabel === areaFilter).length : data.summary.properties} />
