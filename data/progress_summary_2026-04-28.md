@@ -16,7 +16,7 @@ Not the goal: hot tubs, pools, amenities, or ground-level backyard marketing pho
 - ArcGIS imagery availability check: 27 listings have real aerial tiles; 273 are all-placeholder/no usable ArcGIS imagery; 1 has no coordinate
 - MLS thumbnails inventoried: 7,467
 - MLS contact sheets generated: 299
-- MLS contact sheets reviewed for house+backyard aerial/elevated candidates so far: 82
+- MLS contact sheets reviewed for house+backyard aerial/elevated candidates so far: 92
 
 ## Corrected consolidated triage output
 
@@ -27,12 +27,12 @@ All-listing candidate table, ranked for house + backyard aerial/elevated coverag
 
 Current recommended-source split:
 
-- MLS drone/aerial candidates: 25
+- MLS drone/aerial candidates: 26
 - ArcGIS overhead house+backyard candidates: 10
 - Possible MLS elevated candidates needing verification: 10
-- MLS ground backyard context only: 2
-- Still needs aerial review: 32
-- Blocked by ArcGIS no imagery: 220
+- MLS ground backyard context only: 3
+- Still needs aerial review: 31
+- Blocked by ArcGIS no imagery: 219
 - Blocked no coordinate: 1
 
 ## Current best aerial/elevated candidates
@@ -59,6 +59,7 @@ New candidates from latest review batch:
 
 Additional latest candidates:
 
+- 946 RIDGE Place - top-down/near-top-down lot view plus oblique house-in-treed-lot context; best photo indices 3,12,2.
 - 49 MT PROCTOR Avenue - top-down/aerial house+lot view; best photo indices 3,2,1,30.
 - Possible elevated/needs-verify: 200 BOULDER Creek, 700 22ND S Avenue, 1825 TAYNTON Road.
 - 224 Lindsay Street - clear elevated/top-down aerial; best photo index 3.

@@ -1,0 +1,122 @@
+[
+  {
+    "listing_id": "10676027",
+    "address": "29 RIDGEMONT Drive",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [28, 29, 27, 30, 26],
+    "aerial_or_elevated_photo_indices": [26, 27, 28, 29, 30],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no true aerial/top-down. Photos 26-30 are the best available elevated/backyard-view candidates showing yard/lot context and views, but little to no full house-plus-backyard together."
+  },
+  {
+    "listing_id": "10675551",
+    "address": "1101 6TH Street",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [28, 29, 30, 14, 15],
+    "aerial_or_elevated_photo_indices": [14, 15],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/top-down. Photos 14-15 are elevated deck/view shots; 28-30 show yard/garden/lot areas from ground level. Limited combined house-backyard coverage."
+  },
+  {
+    "listing_id": "10675368",
+    "address": "201 1ST Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [29, 30, 27, 28, 26],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "medium",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial or elevated view. Exterior photos 26-30 show house with fenced yard/lot context from ground level; 29-30 appear best for house plus yard together."
+  },
+  {
+    "listing_id": "10672843",
+    "address": "150 SULLIVAN Drive",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/top-down/elevated backyard coverage visible. Only exterior candidate is front/driveway photo 1; backyard/lot not meaningfully shown."
+  },
+  {
+    "listing_id": "10670897",
+    "address": "1905 16TH S Street",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/top-down/elevated backyard coverage visible. Only exterior candidate is front/yard photo 1; no useful backyard/lot-together view on sheet."
+  },
+  {
+    "listing_id": "10670868",
+    "address": "23 RIDGEMONT Drive",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 2, 3],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/top-down/elevated lot view found. Best candidates are ground-level front exterior views showing house and some yard/setting, but not backyard/lot together."
+  },
+  {
+    "listing_id": "10665224",
+    "address": "946 RIDGE Place",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "yes",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [3, 12, 2],
+    "aerial_or_elevated_photo_indices": [2, 3, 12],
+    "marketing_candidate_strength": "high",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: strong aerial/elevated coverage. Photo 3 is top-down/near-top-down lot view; photo 12 is oblique elevated view showing house within treed lot; photo 2 gives broader elevated context with property marker."
+  },
+  {
+    "listing_id": "10664190",
+    "address": "9982 WILDWOOD Lane",
+    "has_backyard_photos": "no",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: contact sheet appears to show only interiors; no exterior, backyard, lot, aerial, or elevated house/lot view visible."
+  },
+  {
+    "listing_id": "10660875",
+    "address": "5938 COLUMBIA LAKE Road",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [5, 6, 1],
+    "aerial_or_elevated_photo_indices": [4, 15, 16],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/top-down view showing house and lot together. Photos 4/15/16 are elevated/deck views of yard/trees but do not show the house. Closest house-plus-setting views are ground-level exteriors 5, 6, 1."
+  },
+  {
+    "listing_id": "10660236",
+    "address": "55 RIDGEMONT Avenue",
+    "has_backyard_photos": "yes",
+    "has_drone_or_aerial_photos": "no",
+    "hot_tub_or_pool_visible": "not_reviewed_for_this_goal",
+    "best_photo_indices": [1, 30],
+    "aerial_or_elevated_photo_indices": [],
+    "marketing_candidate_strength": "low",
+    "reuse_rights": "unknown_research_only",
+    "notes": "Goal review: no aerial/top-down/elevated house-and-lot view found. Photo 1 shows house with front lawn; photo 30 shows backyard/patio/trees but not house and lot together."
+  }
+]
