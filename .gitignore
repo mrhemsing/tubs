@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+.env
+xposure_sample.html
+arcgis_test.jpg
+data/raw/
+data/photos/
+data/aerial/
