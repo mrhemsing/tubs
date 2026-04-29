@@ -15,6 +15,8 @@ OUT_JSON = ROOT / "data" / "triage" / "property_candidate_triage.json"
 CROSSCHECK_SUMMARY_CSV = ROOT / "data" / "mls_photo_inventory" / "mls_crosscheck_summary.csv"
 BING_INDEX_CSV = ROOT / "data" / "alternate_contact_sheets" / "bing" / "index.csv"
 BING_REVIEW_DIR = ROOT / "data" / "alternate_contact_sheets" / "bing"
+MAPBOX_INDEX_CSV = ROOT / "data" / "alternate_contact_sheets" / "mapbox" / "index.csv"
+MAPBOX_REVIEW_DIR = ROOT / "data" / "alternate_contact_sheets" / "mapbox"
 
 
 def read_csv(path: Path) -> list[dict[str, str]]:
@@ -74,6 +76,28 @@ def load_bing_reviews() -> dict[str, dict[str, object]]:
     return reviews
 
 
+def load_mapbox_reviews() -> dict[str, dict[str, object]]:
+    reviews: dict[str, dict[str, object]] = {}
+    if not MAPBOX_INDEX_CSV.exists():
+        return reviews
+    index = {r["listing_id"]: r for r in read_csv(MAPBOX_INDEX_CSV)}
+    for p in sorted(MAPBOX_REVIEW_DIR.glob("mapbox_review_batch_*.json")):
+        data = json.loads(p.read_text(encoding="utf-8"))
+        for item in data:
+            lid = str(item["listing_id"])
+            reviews[lid] = {
+                "listing_id": lid,
+                "address": item.get("address", ""),
+                "has_useful_mapbox_overhead": item.get("has_useful_mapbox_overhead", "unclear"),
+                "best_tile_position": item.get("best_tile_position", ""),
+                "coverage_strength": item.get("coverage_strength", "unclear"),
+                "notes": item.get("notes", ""),
+                "mapbox_contact_sheet": index.get(lid, {}).get("mapbox_contact_sheet", ""),
+                "mapbox_tile_count": index.get(lid, {}).get("mapbox_tile_count", ""),
+            }
+    return reviews
+
+
 def score_row(row: dict[str, object]) -> int:
     """Rank for Matt's goal: aerial/elevated views showing house + backyard together."""
     score = 0
@@ -90,6 +114,11 @@ def score_row(row: dict[str, object]) -> int:
         score += 62
     elif row.get("bing_overhead") == "unclear":
         score += 18
+
+    if row.get("mapbox_overhead") == "yes":
+        score += 58
+    elif row.get("mapbox_overhead") == "unclear":
+        score += 16
 
     if aerial_quality == "good":
         score += 45
@@ -120,6 +149,7 @@ def main() -> None:
     mls_summary = {r["listing_id"]: r for r in read_csv(MLS_SUMMARY_CSV)}
     mls_reviews = load_mls_reviews()
     bing_reviews = load_bing_reviews()
+    mapbox_reviews = load_mapbox_reviews()
 
     cross_fields = [
         "listing_id", "address", "reason", "has_backyard_photos", "has_drone_or_aerial_photos",
@@ -133,6 +163,7 @@ def main() -> None:
         ms = mls_summary.get(lid, {})
         mr = mls_reviews.get(lid, {})
         br = bing_reviews.get(lid, {})
+        mb = mapbox_reviews.get(lid, {})
         hot_signal = mr.get("hot_tub_or_pool_visible") or r.get("hot_tub_visible") or "unclear"
         has_arcgis_house_backyard = r.get("overhead_quality") in {"good", "fair"} and r.get("backyard_visibility") in {"good", "partial"}
         best_source = "needs_aerial_review"
@@ -146,12 +177,18 @@ def main() -> None:
         elif br.get("has_useful_bing_overhead") == "yes":
             best_source = "bing_overhead_house_backyard_candidate"
             aerial_coverage_goal = "likely_house_and_backyard_bing_overhead"
+        elif mb.get("has_useful_mapbox_overhead") == "yes":
+            best_source = "mapbox_overhead_house_backyard_candidate"
+            aerial_coverage_goal = "likely_house_and_backyard_mapbox_overhead"
         elif mr.get("has_drone_or_aerial_photos") == "unclear":
             best_source = "possible_mls_elevated_candidate_needs_verify"
             aerial_coverage_goal = "possible_elevated_context_needs_verify"
         elif br.get("has_useful_bing_overhead") == "unclear":
             best_source = "possible_bing_overhead_needs_verify"
             aerial_coverage_goal = "possible_bing_overhead_needs_verify"
+        elif mb.get("has_useful_mapbox_overhead") == "unclear":
+            best_source = "possible_mapbox_overhead_needs_verify"
+            aerial_coverage_goal = "possible_mapbox_overhead_needs_verify"
         elif r.get("review_status") == "blocked_no_aerial_imagery":
             best_source = "blocked_arcgis_no_imagery"
             aerial_coverage_goal = "no_arcgis_overhead_available"
@@ -191,9 +228,14 @@ def main() -> None:
             "bing_tile_count": br.get("bing_tile_count", ""),
             "bing_best_tile_position": br.get("best_tile_position", ""),
             "bing_coverage_strength": br.get("coverage_strength", "unreviewed"),
+            "mapbox_overhead": mb.get("has_useful_mapbox_overhead", "unreviewed"),
+            "mapbox_contact_sheet": mb.get("mapbox_contact_sheet", ""),
+            "mapbox_tile_count": mb.get("mapbox_tile_count", ""),
+            "mapbox_best_tile_position": mb.get("best_tile_position", ""),
+            "mapbox_coverage_strength": mb.get("coverage_strength", "unreviewed"),
             "hot_tub_or_pool_signal": hot_signal,
             "source_risk": "research_only_verify_license",
-            "notes": "; ".join(x for x in [r.get("notes", ""), mr.get("notes", ""), br.get("notes", "")] if x),
+            "notes": "; ".join(x for x in [r.get("notes", ""), mr.get("notes", ""), br.get("notes", ""), mb.get("notes", "")] if x),
         }
         row["triage_score"] = score_row(row)
         rows.append(row)
@@ -209,6 +251,7 @@ def main() -> None:
         "aerial_real_tiles", "aerial_placeholder_tiles", "mls_contact_sheet", "mls_photo_count",
         "mls_backyard_photos", "mls_drone_or_aerial", "mls_best_photo_indices", "mls_candidate_strength",
         "bing_overhead", "bing_contact_sheet", "bing_tile_count", "bing_best_tile_position", "bing_coverage_strength",
+        "mapbox_overhead", "mapbox_contact_sheet", "mapbox_tile_count", "mapbox_best_tile_position", "mapbox_coverage_strength",
         "hot_tub_or_pool_signal", "source_risk", "notes",
     ]
     write_csv(OUT_CSV, rows, fields)

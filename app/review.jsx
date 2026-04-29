@@ -5,8 +5,10 @@ const labels = {
   mls_drone_or_aerial_candidate: 'MLS aerial/elevated',
   arcgis_overhead_house_backyard_candidate: 'ArcGIS overhead',
   bing_overhead_house_backyard_candidate: 'Bing overhead',
+  mapbox_overhead_house_backyard_candidate: 'Mapbox overhead',
   possible_mls_elevated_candidate_needs_verify: 'Possible elevated',
   possible_bing_overhead_needs_verify: 'Possible Bing overhead',
+  possible_mapbox_overhead_needs_verify: 'Possible Mapbox overhead',
 };
 
 export const areaOrder = ['Columbia Valley', 'Cranbrook/Kimberley', 'Fernie/Sparwood'];
@@ -60,6 +62,7 @@ function CandidateCard({ card, displayRank = card.rank }) {
     ['ArcGIS contact sheet', card.links?.arcgisContactSheet],
     ['Best ArcGIS tile', card.links?.bestArcgisTile],
     ['Bing contact sheet', card.links?.bingContactSheet],
+    ['Mapbox contact sheet', card.links?.mapboxContactSheet],
   ].filter(([, url]) => url);
   const primary = card.thumbs?.[0];
   const remaining = card.thumbs?.slice(1) || [];
@@ -107,6 +110,8 @@ function CandidateCard({ card, displayRank = card.rank }) {
             <div><b>ArcGIS real / placeholder</b><span>{card.arcgisRealTiles || '0'} / {card.arcgisPlaceholderTiles || '0'}</span></div>
             <div><b>Bing overhead</b><span>{card.bingOverhead && card.bingOverhead !== 'unreviewed' ? `${card.bingOverhead} · ${card.bingCoverageStrength || '—'}` : '—'}</span></div>
             <div><b>Bing best tile</b><span>{card.bingBestTilePosition || '—'}</span></div>
+            <div><b>Mapbox overhead</b><span>{card.mapboxOverhead && card.mapboxOverhead !== 'unreviewed' ? `${card.mapboxOverhead} · ${card.mapboxCoverageStrength || '—'}` : '—'}</span></div>
+            <div><b>Mapbox best tile</b><span>{card.mapboxBestTilePosition || '—'}</span></div>
           </div>
 
           <p className="notes">{card.notes}</p>
@@ -126,7 +131,8 @@ function AreaBlock({ area, cards, rows }) {
   const aerialCount = cards.filter((card) => card.recommendedSource === 'mls_drone_or_aerial_candidate').length;
   const arcgisCount = cards.filter((card) => card.recommendedSource === 'arcgis_overhead_house_backyard_candidate').length;
   const bingCount = cards.filter((card) => card.recommendedSource === 'bing_overhead_house_backyard_candidate').length;
-  const possibleCount = cards.filter((card) => ['possible_mls_elevated_candidate_needs_verify', 'possible_bing_overhead_needs_verify'].includes(card.recommendedSource)).length;
+  const mapboxCount = cards.filter((card) => card.recommendedSource === 'mapbox_overhead_house_backyard_candidate').length;
+  const possibleCount = cards.filter((card) => ['possible_mls_elevated_candidate_needs_verify', 'possible_bing_overhead_needs_verify', 'possible_mapbox_overhead_needs_verify'].includes(card.recommendedSource)).length;
 
   return (
     <section className="areaSection" id={areaSlugs[area]}>
@@ -142,6 +148,7 @@ function AreaBlock({ area, cards, rows }) {
             <span>{aerialCount} MLS aerial/elevated</span>
             <span>{arcgisCount} ArcGIS overhead</span>
             <span>{bingCount} Bing overhead</span>
+            <span>{mapboxCount} Mapbox overhead</span>
             <span>{possibleCount} possible elevated</span>
           </div>
         </div>
@@ -169,6 +176,7 @@ function AreaBlock({ area, cards, rows }) {
                 <th>MLS reviewed</th>
                 <th>ArcGIS tiles</th>
                 <th>Bing</th>
+                <th>Mapbox</th>
                 <th>Coordinate</th>
               </tr>
             </thead>
@@ -181,6 +189,7 @@ function AreaBlock({ area, cards, rows }) {
                   <td>{row.mlsReviewed ? row.mlsAerial : 'No'}</td>
                   <td>{row.arcgisRealTiles || '0'} / {row.arcgisPlaceholderTiles || '0'}</td>
                   <td>{row.bingOverhead && row.bingOverhead !== 'unreviewed' ? row.bingOverhead : '—'}</td>
+                  <td>{row.mapboxOverhead && row.mapboxOverhead !== 'unreviewed' ? row.mapboxOverhead : '—'}</td>
                   <td>{row.coordinateConfidence}</td>
                 </tr>
               ))}
