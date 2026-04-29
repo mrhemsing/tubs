@@ -1,0 +1,76 @@
+# MLS aerial/elevated candidate inventory
+Research-only inventory from MLS photo manifest/contact-sheet review. Reuse rights remain unknown and must be verified before marketing use.
+- Reviewed MLS listings: **183**
+- MLS aerial/elevated yes: **49**
+- Possible/unclear MLS elevated: **18**
+
+## Confirmed MLS aerial/elevated candidates
+- `10667320` ? 1018 SWANSEA Road ? photos **1,4,5,7,8,9,10,11** ? strength `high`
+- `20066310` ? 1170 Mcdonald Avenue ? photos **6,5,3,4** ? strength `high`
+- `20027125` ? 1282 23RD S Street ? photos **1** ? strength `high`
+- `20021647` ? 13-640 UPPER LAKEVIEW Road ? photos **6,3** ? strength `medium`
+- `20060624` ? 1302 11th Avenue ? photos **30,29,24** ? strength `high`
+- `20049552` ? 1325 12 Avenue ? photos **11,12,19,20** ? strength `medium`
+- `10682383` ? 14 MT TRINITY Avenue ? photos **2,1,30** ? strength `medium`
+- `10647009` ? 1502 PINERIDGE MOUNTAIN Place ? photos **3,4,9,10,12,13** ? strength `medium`
+- `10671641` ? 16 MT MINTON Street ? photos **1,8,4,2,3** ? strength `high`
+- `10669905` ? 1609 8TH S Avenue ? photos **8,7,5** ? strength `medium`
+- `10684522` ? 1611 1ST S Avenue ? photos **1,2,21,3** ? strength `high`
+- `20062684` ? 1629 Staple Crescent ? photos **5,2,3,1,4,6** ? strength `high`
+- `10675733` ? 1732 20TH S Avenue ? photos **1,2,3,4,5,6,7,9** ? strength `high`
+- `10677481` ? 18 ELKVIEW Crescent ? photos **6,7,3,2,5,1** ? strength `high`
+- `20068527` ? 1908 12th Street S ? photos **3,2** ? strength `high`
+- `10681344` ? 2 RIDGEMONT Avenue ? photos **3,2,1** ? strength `high`
+- `10654287` ? 21 MT MINTON Street ? photos **29,30,28,1** ? strength `medium`
+- `20035684` ? 222 Boulder Creek ? photos **3,8,9,4,5** ? strength `high`
+- `20049485` ? 224 Lindsay Street ? photos **3** ? strength `high`
+- `20084357` ? 233 Boulder Creek ? photos **4,30,29,2** ? strength `high`
+- `10680589` ? 2510 COBBLESTONE Trail ? photos **1,2,3,4,8,9** ? strength `high`
+- `10684446` ? 2543 LEDGEROCK Ridge ? photos **1,3,26,27,29,30** ? strength `high`
+- `20072535` ? 2904 Edgewood Drive ? photos **3,1,5,4** ? strength `high`
+- `20042910` ? 307 LEGACY LOOKOUT ? photos **2,1** ? strength `high`
+- `20048728` ? 313 17TH Street S ? photos **2,3** ? strength `high`
+- `10673047` ? 4576 COLUMERE Road ? photos **1,2,3,4,5,6,7,9,10** ? strength `high`
+- `20046407` ? 4824 MCKAY Street ? photos **5,3,4** ? strength `high`
+- `10665854` ? 4874 RIDGE Crescent ? photos **6,4,5** ? strength `high`
+- `20059692` ? 4891 Glen Eagle Drive ? photos **1,4,5,23** ? strength `high`
+- `10676258` ? 49 MT PROCTOR Avenue ? photos **3,2,1,30** ? strength `high`
+- `20026072` ? 4992 MOUNTAIN VIEW Drive ? photos **1,17,18,19** ? strength `high`
+- `10683660` ? 5138 RIVERVIEW Crescent ? photos **27,29,1,2** ? strength `high`
+- `20061096` ? 5221 Columbia River Road ? photos **1,20,21** ? strength `medium`
+- `10665467` ? 661 3RD Avenue ? photos **3,4,5,6,7** ? strength `high`
+- `20066454` ? 6740 Rosen Lake Road ? photos **3,1,26,27,2** ? strength `medium`
+- `10647683` ? 6949 COLUMBIA RIDGE Drive ? photos **1,3,12,13,8,10** ? strength `medium`
+- `20021336` ? 781 WESTRIDGE Drive ? photos **11,1,2** ? strength `medium`
+- `20020418` ? 782 4TH Avenue ? photos **10,6,7,4,5** ? strength `high`
+- `10672776` ? 804 17TH S Street ? photos **1,2,4,5,7,8,9,15,16,19,20,21,22,24,25** ? strength `high`
+- `10670913` ? 8042 MCINTOSH LOOP Road ? photos **4,5,14,16** ? strength `medium`
+- `20036703` ? 805 31ST Avenue S ? photos **2,24,17** ? strength `high`
+- `10646987` ? 815 LAKEVIEW MEADOWS GREEN ? photos **4,5,20** ? strength `medium`
+- `10654610` ? 850 LAKEVIEW MEADOWS Road ? photos **3,4,1,2** ? strength `medium`
+- `10668743` ? 921 11TH Avenue ? photos **4,24,25,26,27** ? strength `medium`
+- `20039625` ? 941 5th Avenue ? photos **29** ? strength `high`
+- `10665224` ? 946 RIDGE Place ? photos **3,12,2** ? strength `high`
+- `20042244` ? 954 313th Drive ? photos **28,29,25** ? strength `medium`
+- `20050440` ? 959 COPPER POINT Way ? photos **7,6,3,5** ? strength `medium`
+- `20038863` ? 960 COPPER POINT Way ? photos **7,6,3,5,1** ? strength `high`
+
+## Possible MLS elevated candidates needing verification
+- `10658844` ? 1059 SWANSEA Road ? photos **1,2,17,16** ? strength `medium`
+- `20026178` ? 137 12A Avenue ? photos **5,1,7,8,29,30** ? strength `medium`
+- `10683127` ? 1400 17TH S Street ? photos **1,2,3,4,5,6** ? strength `medium`
+- `10654223` ? 145 STEMWINDER Drive ? photos **1,2,3,4** ? strength `low`
+- `10676060` ? 1825 TAYNTON Road ? photos **1,4,5,3,2** ? strength `medium`
+- `20022971` ? 200 BOULDER Creek ? photos **19,20,18,1** ? strength `low`
+- `20034035` ? 2202 Black Hawk Drive ? photos **1** ? strength `low`
+- `10650499` ? 402 WESTRIDGE View ? photos **2,20,22,26** ? strength `low`
+- `20027834` ? 405 FOREST CROWNE Close ? photos **3,1,2,4,5** ? strength `medium`
+- `10682429` ? 4476 COLUMBIA VIEW Road ? photos **7,2,3,8,12** ? strength `medium`
+- `20073637` ? 454 Forest Crowne Rise ? photos **2,23,27,30** ? strength `low`
+- `20021525` ? 4585 COLUMERE Road ? photos **2,4,5,7,25** ? strength `medium`
+- `10660433` ? 4942 MOUNTAIN HILL Road ? photos **1,4,5,3** ? strength `medium`
+- `10685008` ? 700 22ND S Avenue ? photos **2,11,10,30** ? strength `low`
+- `10638399` ? 7549 SPRINGS Terrace ? photos **1,2,5,6,24** ? strength `low`
+- `20020530` ? 805 16TH S Street ? photos **1,2** ? strength `low`
+- `10639146` ? 823 LAKEVIEW MEADOWS GREEN ? photos **1,12** ? strength `low`
+- `10666129` ? 862 10TH Avenue ? photos **5,4,6,1,2** ? strength `medium`
