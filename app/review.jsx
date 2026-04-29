@@ -59,6 +59,16 @@ function Stat({ label, value }) {
   );
 }
 
+function isUsefulDetail(value) {
+  const text = String(value ?? '').trim();
+  return text && !['—', '-', 'unknown', 'unreviewed', 'unknown · unreviewed', 'unreviewed · unreviewed'].includes(text.toLowerCase());
+}
+
+function DetailItem({ label, value }) {
+  if (!isUsefulDetail(value)) return null;
+  return <div><b>{label}</b><span>{value}</span></div>;
+}
+
 function CandidateCard({ card, displayRank = card.rank }) {
   const links = [
     ['MLS contact sheet', card.links?.mlsContactSheet],
@@ -108,16 +118,16 @@ function CandidateCard({ card, displayRank = card.rank }) {
 
         <section className="infoPanel">
           <div className="details">
-            <div><b>Best photo indices</b><span>{card.bestPhotoIndices || '—'}</span></div>
-            <div><b>Coverage</b><span>{card.coverageGoal || '—'}</span></div>
-            <div><b>Coordinate confidence</b><span>{card.coordinateConfidence || '—'}</span></div>
-            <div><b>ArcGIS real / placeholder</b><span>{card.arcgisRealTiles || '0'} / {card.arcgisPlaceholderTiles || '0'}</span></div>
-            <div><b>Bing overhead</b><span>{card.bingOverhead && card.bingOverhead !== 'unreviewed' ? `${card.bingOverhead} · ${card.bingCoverageStrength || '—'}` : '—'}</span></div>
-            <div><b>Bing best tile</b><span>{card.bingBestTilePosition || '—'}</span></div>
-            <div><b>Google overhead</b><span>{card.googleOverhead && card.googleOverhead !== 'unreviewed' ? `${card.googleOverhead} · ${card.googleCoverageStrength || '—'}` : '—'}</span></div>
-            <div><b>Google best zoom</b><span>{card.googleBestZoom || '—'}</span></div>
-            <div><b>Mapbox overhead</b><span>{card.mapboxOverhead && card.mapboxOverhead !== 'unreviewed' ? `${card.mapboxOverhead} · ${card.mapboxCoverageStrength || '—'}` : '—'}</span></div>
-            <div><b>Mapbox best tile</b><span>{card.mapboxBestTilePosition || '—'}</span></div>
+            <DetailItem label="Best photo indices" value={card.bestPhotoIndices} />
+            <DetailItem label="Coverage" value={card.coverageGoal} />
+            <DetailItem label="Coordinate confidence" value={card.coordinateConfidence} />
+            <DetailItem label="ArcGIS real / placeholder" value={`${card.arcgisRealTiles || '0'} / ${card.arcgisPlaceholderTiles || '0'}`} />
+            <DetailItem label="Bing overhead" value={card.bingOverhead && card.bingOverhead !== 'unreviewed' ? `${card.bingOverhead} · ${card.bingCoverageStrength || ''}` : ''} />
+            <DetailItem label="Bing best tile" value={card.bingBestTilePosition} />
+            <DetailItem label="Google overhead" value={card.googleOverhead && card.googleOverhead !== 'unreviewed' ? `${card.googleOverhead} · ${card.googleCoverageStrength || ''}` : ''} />
+            <DetailItem label="Google best zoom" value={card.googleBestZoom} />
+            <DetailItem label="Mapbox overhead" value={card.mapboxOverhead && card.mapboxOverhead !== 'unreviewed' ? `${card.mapboxOverhead} · ${card.mapboxCoverageStrength || ''}` : ''} />
+            <DetailItem label="Mapbox best tile" value={card.mapboxBestTilePosition} />
           </div>
 
           <p className="notes">{card.notes}</p>
