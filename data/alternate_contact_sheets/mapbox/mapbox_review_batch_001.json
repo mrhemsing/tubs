@@ -1,0 +1,82 @@
+[
+  {
+    "listing_id": "10658951",
+    "address": "9444 MOYIE SHORES ESTATES W Road",
+    "has_useful_mapbox_overhead": "unclear",
+    "best_tile_position": "top-left",
+    "coverage_strength": "low",
+    "notes": "Imagery is blurry and heavily tree-obscured. Top-left appears to show a roof with some surrounding lot, but backyard/lot context is weak; center/red tile does not clearly show the house."
+  },
+  {
+    "listing_id": "20080409",
+    "address": "1668 Tranquility Road",
+    "has_useful_mapbox_overhead": "no",
+    "best_tile_position": "center",
+    "coverage_strength": "low",
+    "notes": "Mostly dense tree canopy with no clearly visible house or usable backyard/lot view. Center/red tile is obscured."
+  },
+  {
+    "listing_id": "20078478",
+    "address": "75 103RD Avenue",
+    "has_useful_mapbox_overhead": "yes",
+    "best_tile_position": "center",
+    "coverage_strength": "medium",
+    "notes": "Residential area is visible; center/red tile shows a house edge, street frontage, yard, and adjacent lot context. Some blur/cropping limits full property view."
+  },
+  {
+    "listing_id": "10682918",
+    "address": "79 RIDGEMONT Drive",
+    "has_useful_mapbox_overhead": "yes",
+    "best_tile_position": "center",
+    "coverage_strength": "medium",
+    "notes": "Center/red tile shows street, driveway/structures, and nearby yards; useful neighborhood/lot context, though the likely house/backyard is partly cropped and somewhat blurry."
+  },
+  {
+    "listing_id": "20020840",
+    "address": "814 307TH Avenue",
+    "has_useful_mapbox_overhead": "yes",
+    "best_tile_position": "center",
+    "coverage_strength": "high",
+    "notes": "Center/red tile clearly shows a house with surrounding yard/lot, driveway/access, and adjacent structures. Best candidate among this group."
+  },
+  {
+    "listing_id": "10683812",
+    "address": "958 COPPER POINT Way",
+    "has_useful_mapbox_overhead": "yes",
+    "best_tile_position": "center",
+    "coverage_strength": "medium",
+    "notes": "Center/red tile shows the house area with adjacent driveway/lot, though imagery is blurry and partly obscured by trees."
+  },
+  {
+    "listing_id": "10675551",
+    "address": "1101 6TH Street",
+    "has_useful_mapbox_overhead": "no",
+    "best_tile_position": "top-right",
+    "coverage_strength": "low",
+    "notes": "Center tile is mostly roadway with only partial structures; surrounding tiles show fragments of nearby lots but no clear house + backyard/lot together."
+  },
+  {
+    "listing_id": "10673089",
+    "address": "112 FOREST CROWNE Crescent",
+    "has_useful_mapbox_overhead": "yes",
+    "best_tile_position": "center",
+    "coverage_strength": "high",
+    "notes": "Center/red tile clearly captures the house within its cleared lot, with surrounding yard/forest context visible."
+  },
+  {
+    "listing_id": "10663121",
+    "address": "1362 11TH Avenue",
+    "has_useful_mapbox_overhead": "yes",
+    "best_tile_position": "center",
+    "coverage_strength": "medium",
+    "notes": "Center/red tile includes the house, driveway, and surrounding residential lot context; somewhat soft but usable."
+  },
+  {
+    "listing_id": "10683098",
+    "address": "1440 CANTERBURY Close",
+    "has_useful_mapbox_overhead": "no",
+    "best_tile_position": "right-middle",
+    "coverage_strength": "low",
+    "notes": "Center tile mainly shows cul-de-sac/trees with no clear house; adjacent tiles contain partial houses but not a strong house + backyard/lot view."
+  }
+]
