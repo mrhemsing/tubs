@@ -183,12 +183,19 @@ def main() -> None:
             "mapbox_contact_sheet": str(sheet.relative_to(ROOT)) if sheet else "",
         })
         print(f"[{i}/{len(rows)}] {row['address']}: {len(tiles)} Mapbox tiles")
-    if index_rows:
+    existing: dict[str, dict[str, str]] = {}
+    if INDEX.exists():
+        with INDEX.open(newline="", encoding="utf-8") as f:
+            for existing_row in csv.DictReader(f):
+                existing[existing_row["listing_id"]] = existing_row
+    for index_row in index_rows:
+        existing[index_row["listing_id"]] = index_row
+    if existing:
         with INDEX.open("w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=list(index_rows[0].keys()))
+            writer = csv.DictWriter(f, fieldnames=list(next(iter(existing.values())).keys()))
             writer.writeheader()
-            writer.writerows(index_rows)
-    print(f"Wrote {INDEX.relative_to(ROOT)} with {len(index_rows)} rows")
+            writer.writerows(existing.values())
+    print(f"Wrote {INDEX.relative_to(ROOT)} with {len(existing)} total rows ({len(index_rows)} touched this run)")
 
 
 if __name__ == "__main__":
