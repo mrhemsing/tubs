@@ -1,0 +1,18 @@
+[
+  {
+    "listing_id": "20083862",
+    "address": "15 Turner Close",
+    "has_useful_bing_overhead": "unclear",
+    "coverage_strength": "low",
+    "best_tile_position": "bottom",
+    "notes": "Final blocker Bing review: center coordinate tile is mostly road/open lot and does not clearly show the house. A house and surrounding lot are visible in the bottom tile, but it is uncertain whether this is the target property."
+  },
+  {
+    "listing_id": "10629259",
+    "address": "15 ALPINE TRAILS Crescent",
+    "has_useful_bing_overhead": "no",
+    "coverage_strength": "low",
+    "best_tile_position": "none",
+    "notes": "Final blocker Bing review: center coordinate tile is dense tree cover with no identifiable house, backyard, or lot. Nearby homes appear in adjacent tiles, but the target property is not identifiable."
+  }
+]

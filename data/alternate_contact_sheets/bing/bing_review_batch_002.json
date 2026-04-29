@@ -1,0 +1,58 @@
+[
+  {
+    "listing_id": "10672111",
+    "address": "2577 SANDSTONE Circle",
+    "has_useful_bing_overhead": "yes",
+    "coverage_strength": "medium",
+    "best_tile_position": "bottom-right",
+    "notes": "Coordinate-fix review: target house labeled 2577 is visible in the bottom-right tile with surrounding treed lot/backyard, though the red coordinate tile is offset onto Sandstone Circle/nearby driveway area."
+  },
+  {
+    "listing_id": "10607338",
+    "address": "4764 TIMBER RIDGE Road",
+    "has_useful_bing_overhead": "unclear",
+    "coverage_strength": "low",
+    "best_tile_position": "none",
+    "notes": "Coordinate-fix review: red coordinate tile is heavily treed and does not show a clearly identifiable target house or backyard/lot together; nearby houses are visible but target location is uncertain."
+  },
+  {
+    "listing_id": "10629099",
+    "address": "4815 HOLLAND CREEK RIDGE Road",
+    "has_useful_bing_overhead": "yes",
+    "coverage_strength": "medium",
+    "best_tile_position": "top-right",
+    "notes": "Coordinate-fix review: house labeled 4815 is visible in the top-right tile with surrounding yard/lot context, but imagery is somewhat blurry and the red coordinate tile is offset toward the road."
+  },
+  {
+    "listing_id": "10604265",
+    "address": "4827 HOLLAND Crescent",
+    "has_useful_bing_overhead": "unclear",
+    "coverage_strength": "low",
+    "best_tile_position": "none",
+    "notes": "Coordinate-fix review: ArcGIS geocoder exact-match variant suggests 4827 Holland Creek Ridge Rd, but Bing red coordinate tile is centered on/near a road intersection and no clearly identifiable 4827 house is visible; human address-label verification still needed."
+  },
+  {
+    "listing_id": "10587559",
+    "address": "4905 LAKEVIEW MEADOWS Close",
+    "has_useful_bing_overhead": "unclear",
+    "coverage_strength": "low",
+    "best_tile_position": "center",
+    "notes": "Coordinate-fix review: red coordinate tile includes road/driveway area and partial nearby structures, but the target house and backyard/lot are not clearly identifiable together."
+  },
+  {
+    "listing_id": "10588693",
+    "address": "885 COPPERVIEW Close",
+    "has_useful_bing_overhead": "unclear",
+    "coverage_strength": "low",
+    "best_tile_position": "none",
+    "notes": "Coordinate-fix review: red coordinate tile is mostly Copperview Close roadway/cul-de-sac area with no clearly identifiable target house; nearby parcels are visible but target is uncertain."
+  },
+  {
+    "listing_id": "10613313",
+    "address": "964 LAKEVIEW MEADOWS GLEN",
+    "has_useful_bing_overhead": "yes",
+    "coverage_strength": "high",
+    "best_tile_position": "center",
+    "notes": "Coordinate-fix review: red coordinate tile shows the house and surrounding yard/treed lot together, providing a useful overhead view despite some blur."
+  }
+]

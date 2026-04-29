@@ -8,8 +8,8 @@
     "address": "4827 HOLLAND Crescent",
     "area": "Kootenay",
     "subarea": "INRU - Windermere",
-    "latitude": "36.797727",
-    "longitude": "-119.734824",
+    "latitude": "50.49725211",
+    "longitude": "-116.00174982",
     "list_price": "$750,000.00",
     "beds": "5",
     "baths": "3",
@@ -34,8 +34,22 @@
       "https://images.realtyserver.com/photo_server.php?btnSubmit=GetPhoto&board=air&name=00A1CEE9.L10&failover=portal_Blank.gif"
     ],
     "folder": "columbia_valley/4827-holland-crescent-10604265",
-    "aerial_candidates": [],
-    "coordinate_confidence": "unresolved"
+    "aerial_candidates": [
+      "data\\aerial\\columbia_valley\\4827-holland-crescent-10604265\\esri_world_imagery_z19\\z19_x93203_y176676.jpg",
+      "data\\aerial\\columbia_valley\\4827-holland-crescent-10604265\\esri_world_imagery_z19\\z19_x93204_y176676.jpg",
+      "data\\aerial\\columbia_valley\\4827-holland-crescent-10604265\\esri_world_imagery_z19\\z19_x93205_y176676.jpg",
+      "data\\aerial\\columbia_valley\\4827-holland-crescent-10604265\\esri_world_imagery_z19\\z19_x93203_y176677.jpg",
+      "data\\aerial\\columbia_valley\\4827-holland-crescent-10604265\\esri_world_imagery_z19\\z19_x93204_y176677.jpg",
+      "data\\aerial\\columbia_valley\\4827-holland-crescent-10604265\\esri_world_imagery_z19\\z19_x93205_y176677.jpg",
+      "data\\aerial\\columbia_valley\\4827-holland-crescent-10604265\\esri_world_imagery_z19\\z19_x93203_y176678.jpg",
+      "data\\aerial\\columbia_valley\\4827-holland-crescent-10604265\\esri_world_imagery_z19\\z19_x93204_y176678.jpg",
+      "data\\aerial\\columbia_valley\\4827-holland-crescent-10604265\\esri_world_imagery_z19\\z19_x93205_y176678.jpg"
+    ],
+    "coordinate_confidence": "point_geocode",
+    "geocode_source": "arcgis_world_geocoder_manual_variant",
+    "geocode_match_addr": "4827 Holland Creek Ridge Rd, Invermere, British Columbia, V0A 1K3",
+    "geocode_score": "100",
+    "geocode_note": "Listing address says 4827 HOLLAND Crescent, but ArcGIS resolves exact PointAddress for 4827 Holland Creek Ridge Rd; needs human address-label verification."
   },
   {
     "source": "columbia_valley",
@@ -800,8 +814,8 @@
     "address": "4958 MERLO Road",
     "area": "Kootenay",
     "subarea": "INRU - Windermere",
-    "latitude": "50.4947386",
-    "longitude": "-115.99099463",
+    "latitude": "50.49439359",
+    "longitude": "-115.99150839",
     "list_price": "$759,000.00",
     "beds": "3",
     "baths": "3",
@@ -864,17 +878,20 @@
     ],
     "folder": "columbia_valley/4958-merlo-road-10680493",
     "aerial_candidates": [
-      "data\\aerial\\columbia_valley\\4958-merlo-road-10680493\\esri_world_imagery_z19\\z19_x93218_y176681.jpg",
-      "data\\aerial\\columbia_valley\\4958-merlo-road-10680493\\esri_world_imagery_z19\\z19_x93219_y176681.jpg",
-      "data\\aerial\\columbia_valley\\4958-merlo-road-10680493\\esri_world_imagery_z19\\z19_x93220_y176681.jpg",
       "data\\aerial\\columbia_valley\\4958-merlo-road-10680493\\esri_world_imagery_z19\\z19_x93218_y176682.jpg",
       "data\\aerial\\columbia_valley\\4958-merlo-road-10680493\\esri_world_imagery_z19\\z19_x93219_y176682.jpg",
       "data\\aerial\\columbia_valley\\4958-merlo-road-10680493\\esri_world_imagery_z19\\z19_x93220_y176682.jpg",
       "data\\aerial\\columbia_valley\\4958-merlo-road-10680493\\esri_world_imagery_z19\\z19_x93218_y176683.jpg",
       "data\\aerial\\columbia_valley\\4958-merlo-road-10680493\\esri_world_imagery_z19\\z19_x93219_y176683.jpg",
-      "data\\aerial\\columbia_valley\\4958-merlo-road-10680493\\esri_world_imagery_z19\\z19_x93220_y176683.jpg"
+      "data\\aerial\\columbia_valley\\4958-merlo-road-10680493\\esri_world_imagery_z19\\z19_x93220_y176683.jpg",
+      "data\\aerial\\columbia_valley\\4958-merlo-road-10680493\\esri_world_imagery_z19\\z19_x93218_y176684.jpg",
+      "data\\aerial\\columbia_valley\\4958-merlo-road-10680493\\esri_world_imagery_z19\\z19_x93219_y176684.jpg",
+      "data\\aerial\\columbia_valley\\4958-merlo-road-10680493\\esri_world_imagery_z19\\z19_x93220_y176684.jpg"
     ],
-    "coordinate_confidence": "listing"
+    "coordinate_confidence": "point_geocode",
+    "geocode_source": "arcgis_world_geocoder_manual_variant",
+    "geocode_match_addr": "4958 Merlo Rd, Invermere, British Columbia, V0A 1K3",
+    "geocode_score": "100"
   },
   {
     "source": "columbia_valley",
@@ -3471,8 +3488,8 @@
     "address": "5160 RIVERSIDE Drive",
     "area": "Kootenay",
     "subarea": "INRU - Fairmont/Columbia Lake",
-    "latitude": "50.322129",
-    "longitude": "-115.869072",
+    "latitude": "50.32604189",
+    "longitude": "-115.86950191",
     "list_price": "$779,000.00",
     "beds": "3",
     "baths": "",
@@ -3505,17 +3522,20 @@
     ],
     "folder": "columbia_valley/5160-riverside-drive-10623245",
     "aerial_candidates": [
-      "data\\aerial\\columbia_valley\\5160-riverside-drive-10623245\\esri_world_imagery_z19\\z19_x93396_y177076.jpg",
-      "data\\aerial\\columbia_valley\\5160-riverside-drive-10623245\\esri_world_imagery_z19\\z19_x93397_y177076.jpg",
-      "data\\aerial\\columbia_valley\\5160-riverside-drive-10623245\\esri_world_imagery_z19\\z19_x93398_y177076.jpg",
-      "data\\aerial\\columbia_valley\\5160-riverside-drive-10623245\\esri_world_imagery_z19\\z19_x93396_y177077.jpg",
-      "data\\aerial\\columbia_valley\\5160-riverside-drive-10623245\\esri_world_imagery_z19\\z19_x93397_y177077.jpg",
-      "data\\aerial\\columbia_valley\\5160-riverside-drive-10623245\\esri_world_imagery_z19\\z19_x93398_y177077.jpg",
-      "data\\aerial\\columbia_valley\\5160-riverside-drive-10623245\\esri_world_imagery_z19\\z19_x93396_y177078.jpg",
-      "data\\aerial\\columbia_valley\\5160-riverside-drive-10623245\\esri_world_imagery_z19\\z19_x93397_y177078.jpg",
-      "data\\aerial\\columbia_valley\\5160-riverside-drive-10623245\\esri_world_imagery_z19\\z19_x93398_y177078.jpg"
+      "data\\aerial\\columbia_valley\\5160-riverside-drive-10623245\\esri_world_imagery_z19\\z19_x93395_y177067.jpg",
+      "data\\aerial\\columbia_valley\\5160-riverside-drive-10623245\\esri_world_imagery_z19\\z19_x93396_y177067.jpg",
+      "data\\aerial\\columbia_valley\\5160-riverside-drive-10623245\\esri_world_imagery_z19\\z19_x93397_y177067.jpg",
+      "data\\aerial\\columbia_valley\\5160-riverside-drive-10623245\\esri_world_imagery_z19\\z19_x93395_y177068.jpg",
+      "data\\aerial\\columbia_valley\\5160-riverside-drive-10623245\\esri_world_imagery_z19\\z19_x93396_y177068.jpg",
+      "data\\aerial\\columbia_valley\\5160-riverside-drive-10623245\\esri_world_imagery_z19\\z19_x93397_y177068.jpg",
+      "data\\aerial\\columbia_valley\\5160-riverside-drive-10623245\\esri_world_imagery_z19\\z19_x93395_y177069.jpg",
+      "data\\aerial\\columbia_valley\\5160-riverside-drive-10623245\\esri_world_imagery_z19\\z19_x93396_y177069.jpg",
+      "data\\aerial\\columbia_valley\\5160-riverside-drive-10623245\\esri_world_imagery_z19\\z19_x93397_y177069.jpg"
     ],
-    "coordinate_confidence": "listing"
+    "coordinate_confidence": "point_geocode",
+    "geocode_source": "arcgis_world_geocoder_manual_variant",
+    "geocode_match_addr": "5160 Riverside Dr, Fairmont Hot Springs, British Columbia, V0B 1L1",
+    "geocode_score": "100"
   },
   {
     "source": "columbia_valley",
@@ -4269,8 +4289,8 @@
     "address": "2577 SANDSTONE Circle",
     "area": "Kootenay",
     "subarea": "IN - Invermere",
-    "latitude": "50.47894678",
-    "longitude": "-116.04174217",
+    "latitude": "50.47914710",
+    "longitude": "-116.04140250",
     "list_price": "$784,900.00",
     "beds": "5",
     "baths": "4",
@@ -4356,17 +4376,19 @@
     ],
     "folder": "columbia_valley/2577-sandstone-circle-10672111",
     "aerial_candidates": [
-      "data\\aerial\\columbia_valley\\2577-sandstone-circle-10672111\\esri_world_imagery_z19\\z19_x93144_y176717.jpg",
       "data\\aerial\\columbia_valley\\2577-sandstone-circle-10672111\\esri_world_imagery_z19\\z19_x93145_y176717.jpg",
       "data\\aerial\\columbia_valley\\2577-sandstone-circle-10672111\\esri_world_imagery_z19\\z19_x93146_y176717.jpg",
-      "data\\aerial\\columbia_valley\\2577-sandstone-circle-10672111\\esri_world_imagery_z19\\z19_x93144_y176718.jpg",
+      "data\\aerial\\columbia_valley\\2577-sandstone-circle-10672111\\esri_world_imagery_z19\\z19_x93147_y176717.jpg",
       "data\\aerial\\columbia_valley\\2577-sandstone-circle-10672111\\esri_world_imagery_z19\\z19_x93145_y176718.jpg",
       "data\\aerial\\columbia_valley\\2577-sandstone-circle-10672111\\esri_world_imagery_z19\\z19_x93146_y176718.jpg",
-      "data\\aerial\\columbia_valley\\2577-sandstone-circle-10672111\\esri_world_imagery_z19\\z19_x93144_y176719.jpg",
+      "data\\aerial\\columbia_valley\\2577-sandstone-circle-10672111\\esri_world_imagery_z19\\z19_x93147_y176718.jpg",
       "data\\aerial\\columbia_valley\\2577-sandstone-circle-10672111\\esri_world_imagery_z19\\z19_x93145_y176719.jpg",
-      "data\\aerial\\columbia_valley\\2577-sandstone-circle-10672111\\esri_world_imagery_z19\\z19_x93146_y176719.jpg"
+      "data\\aerial\\columbia_valley\\2577-sandstone-circle-10672111\\esri_world_imagery_z19\\z19_x93146_y176719.jpg",
+      "data\\aerial\\columbia_valley\\2577-sandstone-circle-10672111\\esri_world_imagery_z19\\z19_x93147_y176719.jpg"
     ],
-    "coordinate_confidence": "listing"
+    "coordinate_confidence": "house_geocode",
+    "geocode_source": "nominatim",
+    "geocode_match_addr": "2577 Sandstone Circle, Invermere, BC"
   },
   {
     "source": "columbia_valley",
@@ -4679,8 +4701,8 @@
     "address": "4815 HOLLAND CREEK RIDGE Road",
     "area": "Kootenay",
     "subarea": "INRU - Windermere",
-    "latitude": "50.608878",
-    "longitude": "-115.687432",
+    "latitude": "50.49706570",
+    "longitude": "-116.00270150",
     "list_price": "$789,000.00",
     "beds": "4",
     "baths": "3",
@@ -4716,17 +4738,19 @@
     ],
     "folder": "columbia_valley/4815-holland-creek-ridge-road-10629099",
     "aerial_candidates": [
-      "data\\aerial\\columbia_valley\\4815-holland-creek-ridge-road-10629099\\esri_world_imagery_z19\\z19_x93660_y176420.jpg",
-      "data\\aerial\\columbia_valley\\4815-holland-creek-ridge-road-10629099\\esri_world_imagery_z19\\z19_x93661_y176420.jpg",
-      "data\\aerial\\columbia_valley\\4815-holland-creek-ridge-road-10629099\\esri_world_imagery_z19\\z19_x93662_y176420.jpg",
-      "data\\aerial\\columbia_valley\\4815-holland-creek-ridge-road-10629099\\esri_world_imagery_z19\\z19_x93660_y176421.jpg",
-      "data\\aerial\\columbia_valley\\4815-holland-creek-ridge-road-10629099\\esri_world_imagery_z19\\z19_x93661_y176421.jpg",
-      "data\\aerial\\columbia_valley\\4815-holland-creek-ridge-road-10629099\\esri_world_imagery_z19\\z19_x93662_y176421.jpg",
-      "data\\aerial\\columbia_valley\\4815-holland-creek-ridge-road-10629099\\esri_world_imagery_z19\\z19_x93660_y176422.jpg",
-      "data\\aerial\\columbia_valley\\4815-holland-creek-ridge-road-10629099\\esri_world_imagery_z19\\z19_x93661_y176422.jpg",
-      "data\\aerial\\columbia_valley\\4815-holland-creek-ridge-road-10629099\\esri_world_imagery_z19\\z19_x93662_y176422.jpg"
+      "data\\aerial\\columbia_valley\\4815-holland-creek-ridge-road-10629099\\esri_world_imagery_z19\\z19_x93201_y176676.jpg",
+      "data\\aerial\\columbia_valley\\4815-holland-creek-ridge-road-10629099\\esri_world_imagery_z19\\z19_x93202_y176676.jpg",
+      "data\\aerial\\columbia_valley\\4815-holland-creek-ridge-road-10629099\\esri_world_imagery_z19\\z19_x93203_y176676.jpg",
+      "data\\aerial\\columbia_valley\\4815-holland-creek-ridge-road-10629099\\esri_world_imagery_z19\\z19_x93201_y176677.jpg",
+      "data\\aerial\\columbia_valley\\4815-holland-creek-ridge-road-10629099\\esri_world_imagery_z19\\z19_x93202_y176677.jpg",
+      "data\\aerial\\columbia_valley\\4815-holland-creek-ridge-road-10629099\\esri_world_imagery_z19\\z19_x93203_y176677.jpg",
+      "data\\aerial\\columbia_valley\\4815-holland-creek-ridge-road-10629099\\esri_world_imagery_z19\\z19_x93201_y176678.jpg",
+      "data\\aerial\\columbia_valley\\4815-holland-creek-ridge-road-10629099\\esri_world_imagery_z19\\z19_x93202_y176678.jpg",
+      "data\\aerial\\columbia_valley\\4815-holland-creek-ridge-road-10629099\\esri_world_imagery_z19\\z19_x93203_y176678.jpg"
     ],
-    "coordinate_confidence": "listing"
+    "coordinate_confidence": "street_geocode",
+    "geocode_source": "nominatim",
+    "geocode_match_addr": "Holland Creek Ridge Road, Area F, East Kootenay, BC"
   },
   {
     "source": "columbia_valley",
@@ -5481,8 +5505,8 @@
     "address": "885 COPPERVIEW Close",
     "area": "Kootenay",
     "subarea": "INRU - Windermere",
-    "latitude": "50.608878",
-    "longitude": "-115.687432",
+    "latitude": "50.49996270",
+    "longitude": "-115.99623070",
     "list_price": "$795,000.00",
     "beds": "3",
     "baths": "3",
@@ -5501,17 +5525,19 @@
     ],
     "folder": "columbia_valley/885-copperview-close-10588693",
     "aerial_candidates": [
-      "data\\aerial\\columbia_valley\\885-copperview-close-10588693\\esri_world_imagery_z19\\z19_x93660_y176420.jpg",
-      "data\\aerial\\columbia_valley\\885-copperview-close-10588693\\esri_world_imagery_z19\\z19_x93661_y176420.jpg",
-      "data\\aerial\\columbia_valley\\885-copperview-close-10588693\\esri_world_imagery_z19\\z19_x93662_y176420.jpg",
-      "data\\aerial\\columbia_valley\\885-copperview-close-10588693\\esri_world_imagery_z19\\z19_x93660_y176421.jpg",
-      "data\\aerial\\columbia_valley\\885-copperview-close-10588693\\esri_world_imagery_z19\\z19_x93661_y176421.jpg",
-      "data\\aerial\\columbia_valley\\885-copperview-close-10588693\\esri_world_imagery_z19\\z19_x93662_y176421.jpg",
-      "data\\aerial\\columbia_valley\\885-copperview-close-10588693\\esri_world_imagery_z19\\z19_x93660_y176422.jpg",
-      "data\\aerial\\columbia_valley\\885-copperview-close-10588693\\esri_world_imagery_z19\\z19_x93661_y176422.jpg",
-      "data\\aerial\\columbia_valley\\885-copperview-close-10588693\\esri_world_imagery_z19\\z19_x93662_y176422.jpg"
+      "data\\aerial\\columbia_valley\\885-copperview-close-10588693\\esri_world_imagery_z19\\z19_x93211_y176669.jpg",
+      "data\\aerial\\columbia_valley\\885-copperview-close-10588693\\esri_world_imagery_z19\\z19_x93212_y176669.jpg",
+      "data\\aerial\\columbia_valley\\885-copperview-close-10588693\\esri_world_imagery_z19\\z19_x93213_y176669.jpg",
+      "data\\aerial\\columbia_valley\\885-copperview-close-10588693\\esri_world_imagery_z19\\z19_x93211_y176670.jpg",
+      "data\\aerial\\columbia_valley\\885-copperview-close-10588693\\esri_world_imagery_z19\\z19_x93212_y176670.jpg",
+      "data\\aerial\\columbia_valley\\885-copperview-close-10588693\\esri_world_imagery_z19\\z19_x93213_y176670.jpg",
+      "data\\aerial\\columbia_valley\\885-copperview-close-10588693\\esri_world_imagery_z19\\z19_x93211_y176671.jpg",
+      "data\\aerial\\columbia_valley\\885-copperview-close-10588693\\esri_world_imagery_z19\\z19_x93212_y176671.jpg",
+      "data\\aerial\\columbia_valley\\885-copperview-close-10588693\\esri_world_imagery_z19\\z19_x93213_y176671.jpg"
     ],
-    "coordinate_confidence": "listing"
+    "coordinate_confidence": "street_geocode",
+    "geocode_source": "nominatim",
+    "geocode_match_addr": "Copperview Close, Area F, East Kootenay, BC"
   },
   {
     "source": "columbia_valley",
@@ -6263,8 +6289,8 @@
     "address": "4905 LAKEVIEW MEADOWS Close",
     "area": "Kootenay",
     "subarea": "INRU - Windermere",
-    "latitude": "50.608878",
-    "longitude": "-115.687432",
+    "latitude": "50.49916860",
+    "longitude": "-115.99691450",
     "list_price": "$799,000.00",
     "beds": "5",
     "baths": "3",
@@ -6290,17 +6316,19 @@
     ],
     "folder": "columbia_valley/4905-lakeview-meadows-close-10587559",
     "aerial_candidates": [
-      "data\\aerial\\columbia_valley\\4905-lakeview-meadows-close-10587559\\esri_world_imagery_z19\\z19_x93660_y176420.jpg",
-      "data\\aerial\\columbia_valley\\4905-lakeview-meadows-close-10587559\\esri_world_imagery_z19\\z19_x93661_y176420.jpg",
-      "data\\aerial\\columbia_valley\\4905-lakeview-meadows-close-10587559\\esri_world_imagery_z19\\z19_x93662_y176420.jpg",
-      "data\\aerial\\columbia_valley\\4905-lakeview-meadows-close-10587559\\esri_world_imagery_z19\\z19_x93660_y176421.jpg",
-      "data\\aerial\\columbia_valley\\4905-lakeview-meadows-close-10587559\\esri_world_imagery_z19\\z19_x93661_y176421.jpg",
-      "data\\aerial\\columbia_valley\\4905-lakeview-meadows-close-10587559\\esri_world_imagery_z19\\z19_x93662_y176421.jpg",
-      "data\\aerial\\columbia_valley\\4905-lakeview-meadows-close-10587559\\esri_world_imagery_z19\\z19_x93660_y176422.jpg",
-      "data\\aerial\\columbia_valley\\4905-lakeview-meadows-close-10587559\\esri_world_imagery_z19\\z19_x93661_y176422.jpg",
-      "data\\aerial\\columbia_valley\\4905-lakeview-meadows-close-10587559\\esri_world_imagery_z19\\z19_x93662_y176422.jpg"
+      "data\\aerial\\columbia_valley\\4905-lakeview-meadows-close-10587559\\esri_world_imagery_z19\\z19_x93210_y176671.jpg",
+      "data\\aerial\\columbia_valley\\4905-lakeview-meadows-close-10587559\\esri_world_imagery_z19\\z19_x93211_y176671.jpg",
+      "data\\aerial\\columbia_valley\\4905-lakeview-meadows-close-10587559\\esri_world_imagery_z19\\z19_x93212_y176671.jpg",
+      "data\\aerial\\columbia_valley\\4905-lakeview-meadows-close-10587559\\esri_world_imagery_z19\\z19_x93210_y176672.jpg",
+      "data\\aerial\\columbia_valley\\4905-lakeview-meadows-close-10587559\\esri_world_imagery_z19\\z19_x93211_y176672.jpg",
+      "data\\aerial\\columbia_valley\\4905-lakeview-meadows-close-10587559\\esri_world_imagery_z19\\z19_x93212_y176672.jpg",
+      "data\\aerial\\columbia_valley\\4905-lakeview-meadows-close-10587559\\esri_world_imagery_z19\\z19_x93210_y176673.jpg",
+      "data\\aerial\\columbia_valley\\4905-lakeview-meadows-close-10587559\\esri_world_imagery_z19\\z19_x93211_y176673.jpg",
+      "data\\aerial\\columbia_valley\\4905-lakeview-meadows-close-10587559\\esri_world_imagery_z19\\z19_x93212_y176673.jpg"
     ],
-    "coordinate_confidence": "listing"
+    "coordinate_confidence": "street_geocode",
+    "geocode_source": "nominatim",
+    "geocode_match_addr": "Lakeview Meadows Close, Area F, East Kootenay, BC"
   },
   {
     "source": "columbia_valley",
@@ -6359,8 +6387,8 @@
     "address": "4764 TIMBER RIDGE Road",
     "area": "Kootenay",
     "subarea": "INRU - Windermere",
-    "latitude": "50.608878",
-    "longitude": "-115.687432",
+    "latitude": "50.49162910",
+    "longitude": "-115.99699200",
     "list_price": "$799,000.00",
     "beds": "5",
     "baths": "3",
@@ -6386,17 +6414,19 @@
     ],
     "folder": "columbia_valley/4764-timber-ridge-road-10607338",
     "aerial_candidates": [
-      "data\\aerial\\columbia_valley\\4764-timber-ridge-road-10607338\\esri_world_imagery_z19\\z19_x93660_y176420.jpg",
-      "data\\aerial\\columbia_valley\\4764-timber-ridge-road-10607338\\esri_world_imagery_z19\\z19_x93661_y176420.jpg",
-      "data\\aerial\\columbia_valley\\4764-timber-ridge-road-10607338\\esri_world_imagery_z19\\z19_x93662_y176420.jpg",
-      "data\\aerial\\columbia_valley\\4764-timber-ridge-road-10607338\\esri_world_imagery_z19\\z19_x93660_y176421.jpg",
-      "data\\aerial\\columbia_valley\\4764-timber-ridge-road-10607338\\esri_world_imagery_z19\\z19_x93661_y176421.jpg",
-      "data\\aerial\\columbia_valley\\4764-timber-ridge-road-10607338\\esri_world_imagery_z19\\z19_x93662_y176421.jpg",
-      "data\\aerial\\columbia_valley\\4764-timber-ridge-road-10607338\\esri_world_imagery_z19\\z19_x93660_y176422.jpg",
-      "data\\aerial\\columbia_valley\\4764-timber-ridge-road-10607338\\esri_world_imagery_z19\\z19_x93661_y176422.jpg",
-      "data\\aerial\\columbia_valley\\4764-timber-ridge-road-10607338\\esri_world_imagery_z19\\z19_x93662_y176422.jpg"
+      "data\\aerial\\columbia_valley\\4764-timber-ridge-road-10607338\\esri_world_imagery_z19\\z19_x93210_y176688.jpg",
+      "data\\aerial\\columbia_valley\\4764-timber-ridge-road-10607338\\esri_world_imagery_z19\\z19_x93211_y176688.jpg",
+      "data\\aerial\\columbia_valley\\4764-timber-ridge-road-10607338\\esri_world_imagery_z19\\z19_x93212_y176688.jpg",
+      "data\\aerial\\columbia_valley\\4764-timber-ridge-road-10607338\\esri_world_imagery_z19\\z19_x93210_y176689.jpg",
+      "data\\aerial\\columbia_valley\\4764-timber-ridge-road-10607338\\esri_world_imagery_z19\\z19_x93211_y176689.jpg",
+      "data\\aerial\\columbia_valley\\4764-timber-ridge-road-10607338\\esri_world_imagery_z19\\z19_x93212_y176689.jpg",
+      "data\\aerial\\columbia_valley\\4764-timber-ridge-road-10607338\\esri_world_imagery_z19\\z19_x93210_y176690.jpg",
+      "data\\aerial\\columbia_valley\\4764-timber-ridge-road-10607338\\esri_world_imagery_z19\\z19_x93211_y176690.jpg",
+      "data\\aerial\\columbia_valley\\4764-timber-ridge-road-10607338\\esri_world_imagery_z19\\z19_x93212_y176690.jpg"
     ],
-    "coordinate_confidence": "listing"
+    "coordinate_confidence": "street_geocode",
+    "geocode_source": "nominatim",
+    "geocode_match_addr": "Timber Ridge Road, Area F, East Kootenay, BC"
   },
   {
     "source": "columbia_valley",
@@ -6407,8 +6437,8 @@
     "address": "964 LAKEVIEW MEADOWS GLEN",
     "area": "Kootenay",
     "subarea": "INRU - Windermere",
-    "latitude": "50.608878",
-    "longitude": "-115.687432",
+    "latitude": "50.49839430",
+    "longitude": "-115.99778400",
     "list_price": "$799,000.00",
     "beds": "4",
     "baths": "4",
@@ -6434,17 +6464,19 @@
     ],
     "folder": "columbia_valley/964-lakeview-meadows-glen-10613313",
     "aerial_candidates": [
-      "data\\aerial\\columbia_valley\\964-lakeview-meadows-glen-10613313\\esri_world_imagery_z19\\z19_x93660_y176420.jpg",
-      "data\\aerial\\columbia_valley\\964-lakeview-meadows-glen-10613313\\esri_world_imagery_z19\\z19_x93661_y176420.jpg",
-      "data\\aerial\\columbia_valley\\964-lakeview-meadows-glen-10613313\\esri_world_imagery_z19\\z19_x93662_y176420.jpg",
-      "data\\aerial\\columbia_valley\\964-lakeview-meadows-glen-10613313\\esri_world_imagery_z19\\z19_x93660_y176421.jpg",
-      "data\\aerial\\columbia_valley\\964-lakeview-meadows-glen-10613313\\esri_world_imagery_z19\\z19_x93661_y176421.jpg",
-      "data\\aerial\\columbia_valley\\964-lakeview-meadows-glen-10613313\\esri_world_imagery_z19\\z19_x93662_y176421.jpg",
-      "data\\aerial\\columbia_valley\\964-lakeview-meadows-glen-10613313\\esri_world_imagery_z19\\z19_x93660_y176422.jpg",
-      "data\\aerial\\columbia_valley\\964-lakeview-meadows-glen-10613313\\esri_world_imagery_z19\\z19_x93661_y176422.jpg",
-      "data\\aerial\\columbia_valley\\964-lakeview-meadows-glen-10613313\\esri_world_imagery_z19\\z19_x93662_y176422.jpg"
+      "data\\aerial\\columbia_valley\\964-lakeview-meadows-glen-10613313\\esri_world_imagery_z19\\z19_x93208_y176673.jpg",
+      "data\\aerial\\columbia_valley\\964-lakeview-meadows-glen-10613313\\esri_world_imagery_z19\\z19_x93209_y176673.jpg",
+      "data\\aerial\\columbia_valley\\964-lakeview-meadows-glen-10613313\\esri_world_imagery_z19\\z19_x93210_y176673.jpg",
+      "data\\aerial\\columbia_valley\\964-lakeview-meadows-glen-10613313\\esri_world_imagery_z19\\z19_x93208_y176674.jpg",
+      "data\\aerial\\columbia_valley\\964-lakeview-meadows-glen-10613313\\esri_world_imagery_z19\\z19_x93209_y176674.jpg",
+      "data\\aerial\\columbia_valley\\964-lakeview-meadows-glen-10613313\\esri_world_imagery_z19\\z19_x93210_y176674.jpg",
+      "data\\aerial\\columbia_valley\\964-lakeview-meadows-glen-10613313\\esri_world_imagery_z19\\z19_x93208_y176675.jpg",
+      "data\\aerial\\columbia_valley\\964-lakeview-meadows-glen-10613313\\esri_world_imagery_z19\\z19_x93209_y176675.jpg",
+      "data\\aerial\\columbia_valley\\964-lakeview-meadows-glen-10613313\\esri_world_imagery_z19\\z19_x93210_y176675.jpg"
     ],
-    "coordinate_confidence": "listing"
+    "coordinate_confidence": "street_geocode",
+    "geocode_source": "nominatim",
+    "geocode_match_addr": "Lakeview Meadows Glen, Area F, East Kootenay, BC"
   },
   {
     "source": "columbia_valley",
@@ -6870,8 +6902,8 @@
     "address": "4642 ROWAN Street",
     "area": "Kootenay",
     "subarea": "INRU - Windermere",
-    "latitude": "50.457764",
-    "longitude": "-115.989876",
+    "latitude": "50.45787041",
+    "longitude": "-115.98951291",
     "list_price": "$799,000.00",
     "beds": "",
     "baths": "",
@@ -6925,17 +6957,20 @@
     ],
     "folder": "columbia_valley/4642-rowan-street-10659027",
     "aerial_candidates": [
-      "data\\aerial\\columbia_valley\\4642-rowan-street-10659027\\esri_world_imagery_z19\\z19_x93220_y176766.jpg",
       "data\\aerial\\columbia_valley\\4642-rowan-street-10659027\\esri_world_imagery_z19\\z19_x93221_y176766.jpg",
       "data\\aerial\\columbia_valley\\4642-rowan-street-10659027\\esri_world_imagery_z19\\z19_x93222_y176766.jpg",
-      "data\\aerial\\columbia_valley\\4642-rowan-street-10659027\\esri_world_imagery_z19\\z19_x93220_y176767.jpg",
+      "data\\aerial\\columbia_valley\\4642-rowan-street-10659027\\esri_world_imagery_z19\\z19_x93223_y176766.jpg",
       "data\\aerial\\columbia_valley\\4642-rowan-street-10659027\\esri_world_imagery_z19\\z19_x93221_y176767.jpg",
       "data\\aerial\\columbia_valley\\4642-rowan-street-10659027\\esri_world_imagery_z19\\z19_x93222_y176767.jpg",
-      "data\\aerial\\columbia_valley\\4642-rowan-street-10659027\\esri_world_imagery_z19\\z19_x93220_y176768.jpg",
+      "data\\aerial\\columbia_valley\\4642-rowan-street-10659027\\esri_world_imagery_z19\\z19_x93223_y176767.jpg",
       "data\\aerial\\columbia_valley\\4642-rowan-street-10659027\\esri_world_imagery_z19\\z19_x93221_y176768.jpg",
-      "data\\aerial\\columbia_valley\\4642-rowan-street-10659027\\esri_world_imagery_z19\\z19_x93222_y176768.jpg"
+      "data\\aerial\\columbia_valley\\4642-rowan-street-10659027\\esri_world_imagery_z19\\z19_x93222_y176768.jpg",
+      "data\\aerial\\columbia_valley\\4642-rowan-street-10659027\\esri_world_imagery_z19\\z19_x93223_y176768.jpg"
     ],
-    "coordinate_confidence": "listing"
+    "coordinate_confidence": "point_geocode",
+    "geocode_source": "arcgis_world_geocoder_manual_variant",
+    "geocode_match_addr": "4642 Rowan St, Windermere, British Columbia, V0B 2L2",
+    "geocode_score": "100"
   },
   {
     "source": "columbia_valley",
@@ -9750,8 +9785,8 @@
     "address": "18-6674 WARDNER-KIKOMUM Road",
     "area": "Kootenay",
     "subarea": "CRANL Ft. Steele to Wardner",
-    "latitude": "49.428765",
-    "longitude": "-115.571229",
+    "latitude": "49.40501699",
+    "longitude": "-115.41910697",
     "list_price": "$775,000.00",
     "beds": "3",
     "baths": "2",
@@ -9787,17 +9822,20 @@
     ],
     "folder": "cranbrook_kimberley/18-6674-wardner-kikomum-road-10626846",
     "aerial_candidates": [
-      "data\\aerial\\cranbrook_kimberley\\18-6674-wardner-kikomum-road-10626846\\esri_world_imagery_z19\\z19_x93830_y179095.jpg",
-      "data\\aerial\\cranbrook_kimberley\\18-6674-wardner-kikomum-road-10626846\\esri_world_imagery_z19\\z19_x93831_y179095.jpg",
-      "data\\aerial\\cranbrook_kimberley\\18-6674-wardner-kikomum-road-10626846\\esri_world_imagery_z19\\z19_x93832_y179095.jpg",
-      "data\\aerial\\cranbrook_kimberley\\18-6674-wardner-kikomum-road-10626846\\esri_world_imagery_z19\\z19_x93830_y179096.jpg",
-      "data\\aerial\\cranbrook_kimberley\\18-6674-wardner-kikomum-road-10626846\\esri_world_imagery_z19\\z19_x93831_y179096.jpg",
-      "data\\aerial\\cranbrook_kimberley\\18-6674-wardner-kikomum-road-10626846\\esri_world_imagery_z19\\z19_x93832_y179096.jpg",
-      "data\\aerial\\cranbrook_kimberley\\18-6674-wardner-kikomum-road-10626846\\esri_world_imagery_z19\\z19_x93830_y179097.jpg",
-      "data\\aerial\\cranbrook_kimberley\\18-6674-wardner-kikomum-road-10626846\\esri_world_imagery_z19\\z19_x93831_y179097.jpg",
-      "data\\aerial\\cranbrook_kimberley\\18-6674-wardner-kikomum-road-10626846\\esri_world_imagery_z19\\z19_x93832_y179097.jpg"
+      "data\\aerial\\cranbrook_kimberley\\18-6674-wardner-kikomum-road-10626846\\esri_world_imagery_z19\\z19_x94051_y179148.jpg",
+      "data\\aerial\\cranbrook_kimberley\\18-6674-wardner-kikomum-road-10626846\\esri_world_imagery_z19\\z19_x94052_y179148.jpg",
+      "data\\aerial\\cranbrook_kimberley\\18-6674-wardner-kikomum-road-10626846\\esri_world_imagery_z19\\z19_x94053_y179148.jpg",
+      "data\\aerial\\cranbrook_kimberley\\18-6674-wardner-kikomum-road-10626846\\esri_world_imagery_z19\\z19_x94051_y179149.jpg",
+      "data\\aerial\\cranbrook_kimberley\\18-6674-wardner-kikomum-road-10626846\\esri_world_imagery_z19\\z19_x94052_y179149.jpg",
+      "data\\aerial\\cranbrook_kimberley\\18-6674-wardner-kikomum-road-10626846\\esri_world_imagery_z19\\z19_x94053_y179149.jpg",
+      "data\\aerial\\cranbrook_kimberley\\18-6674-wardner-kikomum-road-10626846\\esri_world_imagery_z19\\z19_x94051_y179150.jpg",
+      "data\\aerial\\cranbrook_kimberley\\18-6674-wardner-kikomum-road-10626846\\esri_world_imagery_z19\\z19_x94052_y179150.jpg",
+      "data\\aerial\\cranbrook_kimberley\\18-6674-wardner-kikomum-road-10626846\\esri_world_imagery_z19\\z19_x94053_y179150.jpg"
     ],
-    "coordinate_confidence": "listing"
+    "coordinate_confidence": "subaddress_geocode",
+    "geocode_source": "arcgis_world_geocoder_manual_variant",
+    "geocode_match_addr": "6674 Wardner Kikomun Rd, #18, Wardner, British Columbia, V0B 2J0",
+    "geocode_score": "98.7"
   },
   {
     "source": "cranbrook_kimberley",
@@ -9865,8 +9903,8 @@
     "address": "150 SULLIVAN Drive",
     "area": "Kootenay",
     "subarea": "KI - Kimberley",
-    "latitude": "49.69758735",
-    "longitude": "-115.99289312",
+    "latitude": "49.69825590",
+    "longitude": "-115.99463098",
     "list_price": "$777,700.00",
     "beds": "5",
     "baths": "3",
@@ -9921,17 +9959,20 @@
     ],
     "folder": "cranbrook_kimberley/150-sullivan-drive-10672843",
     "aerial_candidates": [
-      "data\\aerial\\cranbrook_kimberley\\150-sullivan-drive-10672843\\esri_world_imagery_z19\\z19_x93216_y178491.jpg",
-      "data\\aerial\\cranbrook_kimberley\\150-sullivan-drive-10672843\\esri_world_imagery_z19\\z19_x93217_y178491.jpg",
-      "data\\aerial\\cranbrook_kimberley\\150-sullivan-drive-10672843\\esri_world_imagery_z19\\z19_x93218_y178491.jpg",
-      "data\\aerial\\cranbrook_kimberley\\150-sullivan-drive-10672843\\esri_world_imagery_z19\\z19_x93216_y178492.jpg",
-      "data\\aerial\\cranbrook_kimberley\\150-sullivan-drive-10672843\\esri_world_imagery_z19\\z19_x93217_y178492.jpg",
-      "data\\aerial\\cranbrook_kimberley\\150-sullivan-drive-10672843\\esri_world_imagery_z19\\z19_x93218_y178492.jpg",
-      "data\\aerial\\cranbrook_kimberley\\150-sullivan-drive-10672843\\esri_world_imagery_z19\\z19_x93216_y178493.jpg",
-      "data\\aerial\\cranbrook_kimberley\\150-sullivan-drive-10672843\\esri_world_imagery_z19\\z19_x93217_y178493.jpg",
-      "data\\aerial\\cranbrook_kimberley\\150-sullivan-drive-10672843\\esri_world_imagery_z19\\z19_x93218_y178493.jpg"
+      "data\\aerial\\cranbrook_kimberley\\150-sullivan-drive-10672843\\esri_world_imagery_z19\\z19_x93213_y178490.jpg",
+      "data\\aerial\\cranbrook_kimberley\\150-sullivan-drive-10672843\\esri_world_imagery_z19\\z19_x93214_y178490.jpg",
+      "data\\aerial\\cranbrook_kimberley\\150-sullivan-drive-10672843\\esri_world_imagery_z19\\z19_x93215_y178490.jpg",
+      "data\\aerial\\cranbrook_kimberley\\150-sullivan-drive-10672843\\esri_world_imagery_z19\\z19_x93213_y178491.jpg",
+      "data\\aerial\\cranbrook_kimberley\\150-sullivan-drive-10672843\\esri_world_imagery_z19\\z19_x93214_y178491.jpg",
+      "data\\aerial\\cranbrook_kimberley\\150-sullivan-drive-10672843\\esri_world_imagery_z19\\z19_x93215_y178491.jpg",
+      "data\\aerial\\cranbrook_kimberley\\150-sullivan-drive-10672843\\esri_world_imagery_z19\\z19_x93213_y178492.jpg",
+      "data\\aerial\\cranbrook_kimberley\\150-sullivan-drive-10672843\\esri_world_imagery_z19\\z19_x93214_y178492.jpg",
+      "data\\aerial\\cranbrook_kimberley\\150-sullivan-drive-10672843\\esri_world_imagery_z19\\z19_x93215_y178492.jpg"
     ],
-    "coordinate_confidence": "listing"
+    "coordinate_confidence": "point_geocode",
+    "geocode_source": "arcgis_world_geocoder_manual_variant",
+    "geocode_match_addr": "150 Sullivan Dr, Kimberley, British Columbia, V1A 0A7",
+    "geocode_score": "100"
   },
   {
     "source": "cranbrook_kimberley",
@@ -12579,8 +12620,8 @@
     "address": "#37-6674 WARDNER-KIKOMUN Road",
     "area": "Kootenay",
     "subarea": "CRANL Ft. Steele to Wardner",
-    "latitude": "49.615543",
-    "longitude": "-115.630071",
+    "latitude": "49.40501699",
+    "longitude": "-115.41910697",
     "list_price": "$795,000.00",
     "beds": "6",
     "baths": "3",
@@ -12606,17 +12647,20 @@
     ],
     "folder": "cranbrook_kimberley/37-6674-wardner-kikomun-road-10606465",
     "aerial_candidates": [
-      "data\\aerial\\cranbrook_kimberley\\37-6674-wardner-kikomun-road-10606465\\esri_world_imagery_z19\\z19_x93744_y178676.jpg",
-      "data\\aerial\\cranbrook_kimberley\\37-6674-wardner-kikomun-road-10606465\\esri_world_imagery_z19\\z19_x93745_y178676.jpg",
-      "data\\aerial\\cranbrook_kimberley\\37-6674-wardner-kikomun-road-10606465\\esri_world_imagery_z19\\z19_x93746_y178676.jpg",
-      "data\\aerial\\cranbrook_kimberley\\37-6674-wardner-kikomun-road-10606465\\esri_world_imagery_z19\\z19_x93744_y178677.jpg",
-      "data\\aerial\\cranbrook_kimberley\\37-6674-wardner-kikomun-road-10606465\\esri_world_imagery_z19\\z19_x93745_y178677.jpg",
-      "data\\aerial\\cranbrook_kimberley\\37-6674-wardner-kikomun-road-10606465\\esri_world_imagery_z19\\z19_x93746_y178677.jpg",
-      "data\\aerial\\cranbrook_kimberley\\37-6674-wardner-kikomun-road-10606465\\esri_world_imagery_z19\\z19_x93744_y178678.jpg",
-      "data\\aerial\\cranbrook_kimberley\\37-6674-wardner-kikomun-road-10606465\\esri_world_imagery_z19\\z19_x93745_y178678.jpg",
-      "data\\aerial\\cranbrook_kimberley\\37-6674-wardner-kikomun-road-10606465\\esri_world_imagery_z19\\z19_x93746_y178678.jpg"
+      "data\\aerial\\cranbrook_kimberley\\37-6674-wardner-kikomun-road-10606465\\esri_world_imagery_z19\\z19_x94051_y179148.jpg",
+      "data\\aerial\\cranbrook_kimberley\\37-6674-wardner-kikomun-road-10606465\\esri_world_imagery_z19\\z19_x94052_y179148.jpg",
+      "data\\aerial\\cranbrook_kimberley\\37-6674-wardner-kikomun-road-10606465\\esri_world_imagery_z19\\z19_x94053_y179148.jpg",
+      "data\\aerial\\cranbrook_kimberley\\37-6674-wardner-kikomun-road-10606465\\esri_world_imagery_z19\\z19_x94051_y179149.jpg",
+      "data\\aerial\\cranbrook_kimberley\\37-6674-wardner-kikomun-road-10606465\\esri_world_imagery_z19\\z19_x94052_y179149.jpg",
+      "data\\aerial\\cranbrook_kimberley\\37-6674-wardner-kikomun-road-10606465\\esri_world_imagery_z19\\z19_x94053_y179149.jpg",
+      "data\\aerial\\cranbrook_kimberley\\37-6674-wardner-kikomun-road-10606465\\esri_world_imagery_z19\\z19_x94051_y179150.jpg",
+      "data\\aerial\\cranbrook_kimberley\\37-6674-wardner-kikomun-road-10606465\\esri_world_imagery_z19\\z19_x94052_y179150.jpg",
+      "data\\aerial\\cranbrook_kimberley\\37-6674-wardner-kikomun-road-10606465\\esri_world_imagery_z19\\z19_x94053_y179150.jpg"
     ],
-    "coordinate_confidence": "listing"
+    "coordinate_confidence": "subaddress_geocode",
+    "geocode_source": "arcgis_world_geocoder_manual_variant",
+    "geocode_match_addr": "6674 Wardner Kikomun Rd, #37, Wardner, British Columbia, V0B 2J0",
+    "geocode_score": "100"
   },
   {
     "source": "cranbrook_kimberley",
@@ -14441,8 +14485,8 @@
     "address": "9905 OSPREY LANDING Drive",
     "area": "Kootenay",
     "subarea": "CRANL Ft. Steele to Wardner",
-    "latitude": "49.40497809",
-    "longitude": "-115.41899663",
+    "latitude": "49.40940530",
+    "longitude": "-115.42327562",
     "list_price": "$799,900.00",
     "beds": "2",
     "baths": "2",
@@ -14482,17 +14526,20 @@
     ],
     "folder": "cranbrook_kimberley/9905-osprey-landing-drive-10678423",
     "aerial_candidates": [
-      "data\\aerial\\cranbrook_kimberley\\9905-osprey-landing-drive-10678423\\esri_world_imagery_z19\\z19_x94051_y179148.jpg",
-      "data\\aerial\\cranbrook_kimberley\\9905-osprey-landing-drive-10678423\\esri_world_imagery_z19\\z19_x94052_y179148.jpg",
-      "data\\aerial\\cranbrook_kimberley\\9905-osprey-landing-drive-10678423\\esri_world_imagery_z19\\z19_x94053_y179148.jpg",
-      "data\\aerial\\cranbrook_kimberley\\9905-osprey-landing-drive-10678423\\esri_world_imagery_z19\\z19_x94051_y179149.jpg",
-      "data\\aerial\\cranbrook_kimberley\\9905-osprey-landing-drive-10678423\\esri_world_imagery_z19\\z19_x94052_y179149.jpg",
-      "data\\aerial\\cranbrook_kimberley\\9905-osprey-landing-drive-10678423\\esri_world_imagery_z19\\z19_x94053_y179149.jpg",
-      "data\\aerial\\cranbrook_kimberley\\9905-osprey-landing-drive-10678423\\esri_world_imagery_z19\\z19_x94051_y179150.jpg",
-      "data\\aerial\\cranbrook_kimberley\\9905-osprey-landing-drive-10678423\\esri_world_imagery_z19\\z19_x94052_y179150.jpg",
-      "data\\aerial\\cranbrook_kimberley\\9905-osprey-landing-drive-10678423\\esri_world_imagery_z19\\z19_x94053_y179150.jpg"
+      "data\\aerial\\cranbrook_kimberley\\9905-osprey-landing-drive-10678423\\esri_world_imagery_z19\\z19_x94045_y179138.jpg",
+      "data\\aerial\\cranbrook_kimberley\\9905-osprey-landing-drive-10678423\\esri_world_imagery_z19\\z19_x94046_y179138.jpg",
+      "data\\aerial\\cranbrook_kimberley\\9905-osprey-landing-drive-10678423\\esri_world_imagery_z19\\z19_x94047_y179138.jpg",
+      "data\\aerial\\cranbrook_kimberley\\9905-osprey-landing-drive-10678423\\esri_world_imagery_z19\\z19_x94045_y179139.jpg",
+      "data\\aerial\\cranbrook_kimberley\\9905-osprey-landing-drive-10678423\\esri_world_imagery_z19\\z19_x94046_y179139.jpg",
+      "data\\aerial\\cranbrook_kimberley\\9905-osprey-landing-drive-10678423\\esri_world_imagery_z19\\z19_x94047_y179139.jpg",
+      "data\\aerial\\cranbrook_kimberley\\9905-osprey-landing-drive-10678423\\esri_world_imagery_z19\\z19_x94045_y179140.jpg",
+      "data\\aerial\\cranbrook_kimberley\\9905-osprey-landing-drive-10678423\\esri_world_imagery_z19\\z19_x94046_y179140.jpg",
+      "data\\aerial\\cranbrook_kimberley\\9905-osprey-landing-drive-10678423\\esri_world_imagery_z19\\z19_x94047_y179140.jpg"
     ],
-    "coordinate_confidence": "listing"
+    "coordinate_confidence": "point_geocode",
+    "geocode_source": "arcgis_world_geocoder_manual_variant",
+    "geocode_match_addr": "9905 Osprey Landing Dr, Wardner, British Columbia, V0B 2J0",
+    "geocode_score": "100"
   },
   {
     "source": "cranbrook_kimberley",
@@ -15812,8 +15859,8 @@
     "address": "5401 BOOMERANG Way",
     "area": "Kootenay",
     "subarea": "FERU - Ski Hill Area",
-    "latitude": "49.466416",
-    "longitude": "-115.081985",
+    "latitude": "49.46657381",
+    "longitude": "-115.08280632",
     "list_price": "$759,000.00",
     "beds": "4",
     "baths": "2",
@@ -15837,17 +15884,20 @@
     ],
     "folder": "fernie_sparwood/5401-boomerang-way-10561093",
     "aerial_candidates": [
+      "data\\aerial\\fernie_sparwood\\5401-boomerang-way-10561093\\esri_world_imagery_z19\\z19_x94541_y179010.jpg",
       "data\\aerial\\fernie_sparwood\\5401-boomerang-way-10561093\\esri_world_imagery_z19\\z19_x94542_y179010.jpg",
       "data\\aerial\\fernie_sparwood\\5401-boomerang-way-10561093\\esri_world_imagery_z19\\z19_x94543_y179010.jpg",
-      "data\\aerial\\fernie_sparwood\\5401-boomerang-way-10561093\\esri_world_imagery_z19\\z19_x94544_y179010.jpg",
+      "data\\aerial\\fernie_sparwood\\5401-boomerang-way-10561093\\esri_world_imagery_z19\\z19_x94541_y179011.jpg",
       "data\\aerial\\fernie_sparwood\\5401-boomerang-way-10561093\\esri_world_imagery_z19\\z19_x94542_y179011.jpg",
       "data\\aerial\\fernie_sparwood\\5401-boomerang-way-10561093\\esri_world_imagery_z19\\z19_x94543_y179011.jpg",
-      "data\\aerial\\fernie_sparwood\\5401-boomerang-way-10561093\\esri_world_imagery_z19\\z19_x94544_y179011.jpg",
+      "data\\aerial\\fernie_sparwood\\5401-boomerang-way-10561093\\esri_world_imagery_z19\\z19_x94541_y179012.jpg",
       "data\\aerial\\fernie_sparwood\\5401-boomerang-way-10561093\\esri_world_imagery_z19\\z19_x94542_y179012.jpg",
-      "data\\aerial\\fernie_sparwood\\5401-boomerang-way-10561093\\esri_world_imagery_z19\\z19_x94543_y179012.jpg",
-      "data\\aerial\\fernie_sparwood\\5401-boomerang-way-10561093\\esri_world_imagery_z19\\z19_x94544_y179012.jpg"
+      "data\\aerial\\fernie_sparwood\\5401-boomerang-way-10561093\\esri_world_imagery_z19\\z19_x94543_y179012.jpg"
     ],
-    "coordinate_confidence": "listing"
+    "coordinate_confidence": "point_geocode",
+    "geocode_source": "arcgis_world_geocoder_manual_variant",
+    "geocode_match_addr": "5401 Boomerang Way, Fernie, British Columbia, V0B 1M6",
+    "geocode_score": "100"
   },
   {
     "source": "fernie_sparwood",

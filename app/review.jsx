@@ -44,6 +44,7 @@ function statusLabel(source) {
   return labels[source] || {
     needs_aerial_review: 'Needs aerial review',
     blocked_arcgis_no_imagery: 'ArcGIS overhead unavailable',
+    no_usable_aerial_candidate_after_full_review: 'Photo not found',
     mls_ground_backyard_context_only: 'Ground context only',
     blocked_no_coordinate: 'No coordinate',
   }[source] || source;

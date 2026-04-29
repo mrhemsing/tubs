@@ -1,0 +1,66 @@
+[
+  {
+    "listing_id": "10606465",
+    "address": "#37-6674 WARDNER-KIKOMUN Road",
+    "has_useful_bing_overhead": "unclear",
+    "coverage_strength": "low",
+    "best_tile_position": "bottom",
+    "notes": "Coordinate-refinement review: coordinate tile is mostly trees/clearing with only partial nearby roof/structures visible toward the bottom; target house/lot/backyard is not confidently identifiable together."
+  },
+  {
+    "listing_id": "10672843",
+    "address": "150 SULLIVAN Drive",
+    "has_useful_bing_overhead": "yes",
+    "coverage_strength": "high",
+    "best_tile_position": "center",
+    "notes": "Coordinate-refinement review: house, driveway, road frontage, and surrounding yard/lot are clearly visible together in the center tile."
+  },
+  {
+    "listing_id": "10626846",
+    "address": "18-6674 WARDNER-KIKOMUM Road",
+    "has_useful_bing_overhead": "unclear",
+    "coverage_strength": "low",
+    "best_tile_position": "bottom",
+    "notes": "Coordinate-refinement review: same geocoded Wardner-Kikomun resort area; mostly trees/clearing in the center with partial structures near the bottom, but target dwelling and lot are not confidently identifiable together."
+  },
+  {
+    "listing_id": "10659027",
+    "address": "4642 ROWAN Street",
+    "has_useful_bing_overhead": "yes",
+    "coverage_strength": "medium",
+    "best_tile_position": "center",
+    "notes": "Coordinate-refinement review: target label and surrounding residential structures/yards are visible, though imagery is blurry and multiple adjacent address labels/parcels make the exact lot somewhat cluttered."
+  },
+  {
+    "listing_id": "10680493",
+    "address": "4958 MERLO Road",
+    "has_useful_bing_overhead": "yes",
+    "coverage_strength": "medium",
+    "best_tile_position": "center",
+    "notes": "Coordinate-refinement review: house and surrounding yard/treed lot are visible in the center tile, but tree cover and blur reduce clarity."
+  },
+  {
+    "listing_id": "10623245",
+    "address": "5160 RIVERSIDE Drive",
+    "has_useful_bing_overhead": "yes",
+    "coverage_strength": "high",
+    "best_tile_position": "center",
+    "notes": "Coordinate-refinement review: center tile is labeled 5160 and shows the house/yard/lot context together, with adjacent road and river area visible."
+  },
+  {
+    "listing_id": "10678423",
+    "address": "9905 OSPREY LANDING Drive",
+    "has_useful_bing_overhead": "no",
+    "coverage_strength": "low",
+    "best_tile_position": "none",
+    "notes": "Coordinate-refinement review: red center tile is mainly road and dense trees; no identifiable target house plus backyard/lot together at the coordinate."
+  },
+  {
+    "listing_id": "10561093",
+    "address": "5401 BOOMERANG Way",
+    "has_useful_bing_overhead": "yes",
+    "coverage_strength": "medium",
+    "best_tile_position": "center",
+    "notes": "Coordinate-refinement review: center tile shows a house with driveway and surrounding yard/treed lot, though imagery is somewhat blurry and nearby labels reference adjacent properties."
+  }
+]

@@ -229,12 +229,20 @@ def main() -> None:
         elif mb.get("has_useful_mapbox_overhead") == "unclear":
             best_source = "possible_mapbox_overhead_needs_verify"
             aerial_coverage_goal = "possible_mapbox_overhead_needs_verify"
-        elif r.get("review_status") == "blocked_no_aerial_imagery":
-            best_source = "blocked_arcgis_no_imagery"
-            aerial_coverage_goal = "no_arcgis_overhead_available"
         elif r.get("coordinate_confidence") == "unresolved":
             best_source = "blocked_no_coordinate"
             aerial_coverage_goal = "no_coordinate_for_overhead_collection"
+        elif (
+            r.get("review_status") == "blocked_no_aerial_imagery"
+            and mr.get("has_drone_or_aerial_photos") == "no"
+            and br.get("has_useful_bing_overhead") == "no"
+            and gr.get("has_useful_google_overhead") == "no"
+        ):
+            best_source = "no_usable_aerial_candidate_after_full_review"
+            aerial_coverage_goal = "reviewed_no_house_backyard_overhead_found"
+        elif r.get("review_status") == "blocked_no_aerial_imagery":
+            best_source = "blocked_arcgis_no_imagery"
+            aerial_coverage_goal = "no_arcgis_overhead_available"
         elif mr.get("has_backyard_photos") == "yes":
             best_source = "mls_ground_backyard_context_only"
             aerial_coverage_goal = "ground_context_not_aerial"
