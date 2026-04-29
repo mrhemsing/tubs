@@ -55,10 +55,23 @@ def read_triage() -> list[dict[str, str]]:
         return list(csv.DictReader(f))
 
 
-def target_rows(rows: list[dict[str, str]], limit: int = 0) -> list[dict[str, str]]:
+def existing_google_ids() -> set[str]:
+    if not INDEX.exists():
+        return set()
+    with INDEX.open(newline="", encoding="utf-8") as f:
+        return {r["listing_id"] for r in csv.DictReader(f) if r.get("google_contact_sheet")}
+
+
+def target_rows(rows: list[dict[str, str]], limit: int = 0, missing_google: bool = False) -> list[dict[str, str]]:
     targets = []
+    existing_google = existing_google_ids() if missing_google else set()
     for r in rows:
-        if r.get("recommended_source") not in TARGET_STATUSES:
+        if missing_google:
+            if r.get("listing_id") in existing_google:
+                continue
+            if r.get("recommended_source") in {"no_usable_aerial_candidate_after_full_review", "mls_ground_backyard_context_only"}:
+                continue
+        elif r.get("recommended_source") not in TARGET_STATUSES:
             continue
         if r.get("coordinate_confidence") == "unresolved":
             continue
@@ -148,13 +161,14 @@ def main() -> None:
     parser.add_argument("--scale", type=int, default=2)
     parser.add_argument("--delay", type=float, default=0.05)
     parser.add_argument("--key", default=os.environ.get("GOOGLE_MAPS_API_KEY") or os.environ.get("GOOGLE_STATIC_MAPS_KEY") or "")
+    parser.add_argument("--missing-google", action="store_true", help="Collect every eligible triage/candidate row that does not already have a Google contact sheet.")
     args = parser.parse_args()
 
     if not args.key:
         raise SystemExit("Missing Google Maps API key. Set GOOGLE_MAPS_API_KEY / GOOGLE_STATIC_MAPS_KEY or pass --key.")
 
     zooms = [int(z.strip()) for z in args.zooms.split(",") if z.strip()]
-    rows = target_rows(read_triage(), args.limit)
+    rows = target_rows(read_triage(), args.limit, missing_google=args.missing_google)
     SHEET_ROOT.mkdir(parents=True, exist_ok=True)
     index_rows = []
     for i, row in enumerate(rows, 1):

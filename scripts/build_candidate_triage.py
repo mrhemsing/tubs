@@ -205,15 +205,15 @@ def main() -> None:
         if mr.get("has_drone_or_aerial_photos") == "yes":
             best_source = "mls_drone_or_aerial_candidate"
             aerial_coverage_goal = "likely_house_and_backyard_elevated_context"
-        elif has_arcgis_house_backyard:
-            best_source = "arcgis_overhead_house_backyard_candidate"
-            aerial_coverage_goal = "likely_house_and_backyard_overhead"
-        elif br.get("has_useful_bing_overhead") == "yes":
-            best_source = "bing_overhead_house_backyard_candidate"
-            aerial_coverage_goal = "likely_house_and_backyard_bing_overhead"
         elif gr.get("has_useful_google_overhead") == "yes":
             best_source = "google_overhead_house_backyard_candidate"
             aerial_coverage_goal = "likely_house_and_backyard_google_overhead"
+        elif br.get("has_useful_bing_overhead") == "yes":
+            best_source = "bing_overhead_house_backyard_candidate"
+            aerial_coverage_goal = "likely_house_and_backyard_bing_overhead"
+        elif has_arcgis_house_backyard:
+            best_source = "arcgis_overhead_house_backyard_candidate"
+            aerial_coverage_goal = "likely_house_and_backyard_overhead"
         elif mb.get("has_useful_mapbox_overhead") == "yes":
             best_source = "mapbox_overhead_house_backyard_candidate"
             aerial_coverage_goal = "likely_house_and_backyard_mapbox_overhead"
