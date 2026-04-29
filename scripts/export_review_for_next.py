@@ -103,6 +103,10 @@ def main() -> None:
             url = copy_asset(src, f"{base}-mls-{idx}") if src else ""
             if url:
                 thumbs.append({"label": f"#{idx}", "url": url})
+        if r.get("google_best_image") and not r["recommended_source"].startswith("google"):
+            url = copy_asset(r.get("google_best_image", ""), f"{base}-google-best")
+            if url:
+                thumbs.append({"label": "Google", "url": url})
         if not thumbs and r.get("best_overhead_candidate"):
             url = copy_asset(r["best_overhead_candidate"], f"{base}-arcgis-best")
             if url:

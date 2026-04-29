@@ -37,9 +37,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/001-1018-swansea-road-10667320-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -78,6 +78,10 @@
         {
           "label": "#11",
           "url": "/review-assets/001-1018-swansea-road-10667320-mls-11.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/001-1018-swansea-road-10667320-google-best.jpg"
         }
       ],
       "links": {
@@ -85,8 +89,8 @@
         "arcgisContactSheet": "/review-assets/001-1018-swansea-road-10667320-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/001-1018-swansea-road-10667320-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/001-1018-swansea-road-10667320-google-image.jpg",
+        "googleContactSheet": "/review-assets/001-1018-swansea-road-10667320-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -107,9 +111,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/002-1170-mcdonald-avenue-20066310-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -132,6 +136,10 @@
         {
           "label": "#4",
           "url": "/review-assets/002-1170-mcdonald-avenue-20066310-mls-4.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/002-1170-mcdonald-avenue-20066310-google-best.jpg"
         }
       ],
       "links": {
@@ -139,8 +147,8 @@
         "arcgisContactSheet": "/review-assets/002-1170-mcdonald-avenue-20066310-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/002-1170-mcdonald-avenue-20066310-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/002-1170-mcdonald-avenue-20066310-google-image.jpg",
+        "googleContactSheet": "/review-assets/002-1170-mcdonald-avenue-20066310-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -161,9 +169,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/003-1282-23rd-s-street-20027125-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -174,6 +182,10 @@
         {
           "label": "#1",
           "url": "/review-assets/003-1282-23rd-s-street-20027125-mls-1.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/003-1282-23rd-s-street-20027125-google-best.jpg"
         }
       ],
       "links": {
@@ -181,8 +193,8 @@
         "arcgisContactSheet": "/review-assets/003-1282-23rd-s-street-20027125-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/003-1282-23rd-s-street-20027125-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/003-1282-23rd-s-street-20027125-google-image.jpg",
+        "googleContactSheet": "/review-assets/003-1282-23rd-s-street-20027125-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -203,9 +215,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/004-1302-11th-avenue-20060624-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -224,6 +236,10 @@
         {
           "label": "#24",
           "url": "/review-assets/004-1302-11th-avenue-20060624-mls-24.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/004-1302-11th-avenue-20060624-google-best.jpg"
         }
       ],
       "links": {
@@ -231,8 +247,8 @@
         "arcgisContactSheet": "/review-assets/004-1302-11th-avenue-20060624-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/004-1302-11th-avenue-20060624-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/004-1302-11th-avenue-20060624-google-image.jpg",
+        "googleContactSheet": "/review-assets/004-1302-11th-avenue-20060624-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -253,9 +269,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/005-16-mt-minton-street-10671641-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -282,6 +298,10 @@
         {
           "label": "#3",
           "url": "/review-assets/005-16-mt-minton-street-10671641-mls-3.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/005-16-mt-minton-street-10671641-google-best.jpg"
         }
       ],
       "links": {
@@ -289,8 +309,8 @@
         "arcgisContactSheet": "/review-assets/005-16-mt-minton-street-10671641-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/005-16-mt-minton-street-10671641-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/005-16-mt-minton-street-10671641-google-image.jpg",
+        "googleContactSheet": "/review-assets/005-16-mt-minton-street-10671641-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -336,6 +356,10 @@
         {
           "label": "#3",
           "url": "/review-assets/006-1611-1st-s-avenue-10684522-mls-3.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/006-1611-1st-s-avenue-10684522-google-best.jpg"
         }
       ],
       "links": {
@@ -365,9 +389,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/007-1629-staple-crescent-20062684-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -398,6 +422,10 @@
         {
           "label": "#6",
           "url": "/review-assets/007-1629-staple-crescent-20062684-mls-6.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/007-1629-staple-crescent-20062684-google-best.jpg"
         }
       ],
       "links": {
@@ -405,8 +433,8 @@
         "arcgisContactSheet": "/review-assets/007-1629-staple-crescent-20062684-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/007-1629-staple-crescent-20062684-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/007-1629-staple-crescent-20062684-google-image.jpg",
+        "googleContactSheet": "/review-assets/007-1629-staple-crescent-20062684-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -427,9 +455,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/008-1732-20th-s-avenue-10675733-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -468,6 +496,10 @@
         {
           "label": "#9",
           "url": "/review-assets/008-1732-20th-s-avenue-10675733-mls-9.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/008-1732-20th-s-avenue-10675733-google-best.jpg"
         }
       ],
       "links": {
@@ -475,8 +507,8 @@
         "arcgisContactSheet": "/review-assets/008-1732-20th-s-avenue-10675733-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/008-1732-20th-s-avenue-10675733-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/008-1732-20th-s-avenue-10675733-google-image.jpg",
+        "googleContactSheet": "/review-assets/008-1732-20th-s-avenue-10675733-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -497,9 +529,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/009-18-elkview-crescent-10677481-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -530,6 +562,10 @@
         {
           "label": "#1",
           "url": "/review-assets/009-18-elkview-crescent-10677481-mls-1.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/009-18-elkview-crescent-10677481-google-best.jpg"
         }
       ],
       "links": {
@@ -537,8 +573,8 @@
         "arcgisContactSheet": "/review-assets/009-18-elkview-crescent-10677481-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/009-18-elkview-crescent-10677481-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/009-18-elkview-crescent-10677481-google-image.jpg",
+        "googleContactSheet": "/review-assets/009-18-elkview-crescent-10677481-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -559,9 +595,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/010-1908-12th-street-s-20068527-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -576,6 +612,10 @@
         {
           "label": "#2",
           "url": "/review-assets/010-1908-12th-street-s-20068527-mls-2.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/010-1908-12th-street-s-20068527-google-best.jpg"
         }
       ],
       "links": {
@@ -583,8 +623,8 @@
         "arcgisContactSheet": "/review-assets/010-1908-12th-street-s-20068527-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/010-1908-12th-street-s-20068527-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/010-1908-12th-street-s-20068527-google-image.jpg",
+        "googleContactSheet": "/review-assets/010-1908-12th-street-s-20068527-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -605,9 +645,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/011-2-ridgemont-avenue-10681344-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -626,6 +666,10 @@
         {
           "label": "#1",
           "url": "/review-assets/011-2-ridgemont-avenue-10681344-mls-1.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/011-2-ridgemont-avenue-10681344-google-best.jpg"
         }
       ],
       "links": {
@@ -633,8 +677,8 @@
         "arcgisContactSheet": "/review-assets/011-2-ridgemont-avenue-10681344-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/011-2-ridgemont-avenue-10681344-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/011-2-ridgemont-avenue-10681344-google-image.jpg",
+        "googleContactSheet": "/review-assets/011-2-ridgemont-avenue-10681344-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -655,9 +699,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/012-222-boulder-creek-20035684-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -684,6 +728,10 @@
         {
           "label": "#5",
           "url": "/review-assets/012-222-boulder-creek-20035684-mls-5.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/012-222-boulder-creek-20035684-google-best.jpg"
         }
       ],
       "links": {
@@ -691,8 +739,8 @@
         "arcgisContactSheet": "/review-assets/012-222-boulder-creek-20035684-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/012-222-boulder-creek-20035684-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/012-222-boulder-creek-20035684-google-image.jpg",
+        "googleContactSheet": "/review-assets/012-222-boulder-creek-20035684-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -713,9 +761,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/013-224-lindsay-street-20049485-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -726,6 +774,10 @@
         {
           "label": "#3",
           "url": "/review-assets/013-224-lindsay-street-20049485-mls-3.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/013-224-lindsay-street-20049485-google-best.jpg"
         }
       ],
       "links": {
@@ -733,8 +785,8 @@
         "arcgisContactSheet": "/review-assets/013-224-lindsay-street-20049485-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/013-224-lindsay-street-20049485-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/013-224-lindsay-street-20049485-google-image.jpg",
+        "googleContactSheet": "/review-assets/013-224-lindsay-street-20049485-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -755,9 +807,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/014-233-boulder-creek-20084357-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -780,6 +832,10 @@
         {
           "label": "#2",
           "url": "/review-assets/014-233-boulder-creek-20084357-mls-2.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/014-233-boulder-creek-20084357-google-best.jpg"
         }
       ],
       "links": {
@@ -787,8 +843,8 @@
         "arcgisContactSheet": "/review-assets/014-233-boulder-creek-20084357-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/014-233-boulder-creek-20084357-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/014-233-boulder-creek-20084357-google-image.jpg",
+        "googleContactSheet": "/review-assets/014-233-boulder-creek-20084357-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -809,9 +865,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/015-2510-cobblestone-trail-10680589-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -842,6 +898,10 @@
         {
           "label": "#9",
           "url": "/review-assets/015-2510-cobblestone-trail-10680589-mls-9.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/015-2510-cobblestone-trail-10680589-google-best.jpg"
         }
       ],
       "links": {
@@ -849,8 +909,8 @@
         "arcgisContactSheet": "/review-assets/015-2510-cobblestone-trail-10680589-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/015-2510-cobblestone-trail-10680589-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/015-2510-cobblestone-trail-10680589-google-image.jpg",
+        "googleContactSheet": "/review-assets/015-2510-cobblestone-trail-10680589-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -871,9 +931,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/016-2543-ledgerock-ridge-10684446-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -904,6 +964,10 @@
         {
           "label": "#30",
           "url": "/review-assets/016-2543-ledgerock-ridge-10684446-mls-30.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/016-2543-ledgerock-ridge-10684446-google-best.jpg"
         }
       ],
       "links": {
@@ -911,8 +975,8 @@
         "arcgisContactSheet": "/review-assets/016-2543-ledgerock-ridge-10684446-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/016-2543-ledgerock-ridge-10684446-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/016-2543-ledgerock-ridge-10684446-google-image.jpg",
+        "googleContactSheet": "/review-assets/016-2543-ledgerock-ridge-10684446-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -933,9 +997,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/017-2904-edgewood-drive-20072535-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -958,6 +1022,10 @@
         {
           "label": "#4",
           "url": "/review-assets/017-2904-edgewood-drive-20072535-mls-4.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/017-2904-edgewood-drive-20072535-google-best.jpg"
         }
       ],
       "links": {
@@ -965,8 +1033,8 @@
         "arcgisContactSheet": "/review-assets/017-2904-edgewood-drive-20072535-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/017-2904-edgewood-drive-20072535-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/017-2904-edgewood-drive-20072535-google-image.jpg",
+        "googleContactSheet": "/review-assets/017-2904-edgewood-drive-20072535-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -987,9 +1055,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/018-307-legacy-lookout-20042910-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -1004,6 +1072,10 @@
         {
           "label": "#1",
           "url": "/review-assets/018-307-legacy-lookout-20042910-mls-1.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/018-307-legacy-lookout-20042910-google-best.jpg"
         }
       ],
       "links": {
@@ -1011,8 +1083,8 @@
         "arcgisContactSheet": "/review-assets/018-307-legacy-lookout-20042910-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/018-307-legacy-lookout-20042910-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/018-307-legacy-lookout-20042910-google-image.jpg",
+        "googleContactSheet": "/review-assets/018-307-legacy-lookout-20042910-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -1033,9 +1105,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/019-313-17th-street-s-20048728-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -1050,6 +1122,10 @@
         {
           "label": "#3",
           "url": "/review-assets/019-313-17th-street-s-20048728-mls-3.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/019-313-17th-street-s-20048728-google-best.jpg"
         }
       ],
       "links": {
@@ -1057,8 +1133,8 @@
         "arcgisContactSheet": "/review-assets/019-313-17th-street-s-20048728-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/019-313-17th-street-s-20048728-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/019-313-17th-street-s-20048728-google-image.jpg",
+        "googleContactSheet": "/review-assets/019-313-17th-street-s-20048728-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -1079,9 +1155,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/020-4576-columere-road-10673047-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -1120,6 +1196,10 @@
         {
           "label": "#9",
           "url": "/review-assets/020-4576-columere-road-10673047-mls-9.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/020-4576-columere-road-10673047-google-best.jpg"
         }
       ],
       "links": {
@@ -1127,8 +1207,8 @@
         "arcgisContactSheet": "/review-assets/020-4576-columere-road-10673047-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/020-4576-columere-road-10673047-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/020-4576-columere-road-10673047-google-image.jpg",
+        "googleContactSheet": "/review-assets/020-4576-columere-road-10673047-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -1149,9 +1229,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/021-4824-mckay-street-20046407-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -1170,6 +1250,10 @@
         {
           "label": "#4",
           "url": "/review-assets/021-4824-mckay-street-20046407-mls-4.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/021-4824-mckay-street-20046407-google-best.jpg"
         }
       ],
       "links": {
@@ -1177,8 +1261,8 @@
         "arcgisContactSheet": "/review-assets/021-4824-mckay-street-20046407-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/021-4824-mckay-street-20046407-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/021-4824-mckay-street-20046407-google-image.jpg",
+        "googleContactSheet": "/review-assets/021-4824-mckay-street-20046407-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -1199,9 +1283,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/022-4874-ridge-crescent-10665854-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -1220,6 +1304,10 @@
         {
           "label": "#5",
           "url": "/review-assets/022-4874-ridge-crescent-10665854-mls-5.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/022-4874-ridge-crescent-10665854-google-best.jpg"
         }
       ],
       "links": {
@@ -1227,8 +1315,8 @@
         "arcgisContactSheet": "/review-assets/022-4874-ridge-crescent-10665854-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/022-4874-ridge-crescent-10665854-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/022-4874-ridge-crescent-10665854-google-image.jpg",
+        "googleContactSheet": "/review-assets/022-4874-ridge-crescent-10665854-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -1249,9 +1337,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/023-4891-glen-eagle-drive-20059692-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -1274,6 +1362,10 @@
         {
           "label": "#23",
           "url": "/review-assets/023-4891-glen-eagle-drive-20059692-mls-23.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/023-4891-glen-eagle-drive-20059692-google-best.jpg"
         }
       ],
       "links": {
@@ -1281,8 +1373,8 @@
         "arcgisContactSheet": "/review-assets/023-4891-glen-eagle-drive-20059692-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/023-4891-glen-eagle-drive-20059692-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/023-4891-glen-eagle-drive-20059692-google-image.jpg",
+        "googleContactSheet": "/review-assets/023-4891-glen-eagle-drive-20059692-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -1303,9 +1395,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/024-49-mt-proctor-avenue-10676258-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -1328,6 +1420,10 @@
         {
           "label": "#30",
           "url": "/review-assets/024-49-mt-proctor-avenue-10676258-mls-30.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/024-49-mt-proctor-avenue-10676258-google-best.jpg"
         }
       ],
       "links": {
@@ -1335,8 +1431,8 @@
         "arcgisContactSheet": "/review-assets/024-49-mt-proctor-avenue-10676258-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/024-49-mt-proctor-avenue-10676258-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/024-49-mt-proctor-avenue-10676258-google-image.jpg",
+        "googleContactSheet": "/review-assets/024-49-mt-proctor-avenue-10676258-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -1357,9 +1453,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/025-4992-mountain-view-drive-20026072-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -1382,6 +1478,10 @@
         {
           "label": "#19",
           "url": "/review-assets/025-4992-mountain-view-drive-20026072-mls-19.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/025-4992-mountain-view-drive-20026072-google-best.jpg"
         }
       ],
       "links": {
@@ -1389,8 +1489,8 @@
         "arcgisContactSheet": "/review-assets/025-4992-mountain-view-drive-20026072-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/025-4992-mountain-view-drive-20026072-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/025-4992-mountain-view-drive-20026072-google-image.jpg",
+        "googleContactSheet": "/review-assets/025-4992-mountain-view-drive-20026072-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -1411,9 +1511,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/026-5138-riverview-crescent-10683660-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -1436,6 +1536,10 @@
         {
           "label": "#2",
           "url": "/review-assets/026-5138-riverview-crescent-10683660-mls-2.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/026-5138-riverview-crescent-10683660-google-best.jpg"
         }
       ],
       "links": {
@@ -1443,8 +1547,8 @@
         "arcgisContactSheet": "/review-assets/026-5138-riverview-crescent-10683660-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/026-5138-riverview-crescent-10683660-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/026-5138-riverview-crescent-10683660-google-image.jpg",
+        "googleContactSheet": "/review-assets/026-5138-riverview-crescent-10683660-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -1465,9 +1569,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/027-661-3rd-avenue-10665467-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -1494,6 +1598,10 @@
         {
           "label": "#7",
           "url": "/review-assets/027-661-3rd-avenue-10665467-mls-7.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/027-661-3rd-avenue-10665467-google-best.jpg"
         }
       ],
       "links": {
@@ -1501,8 +1609,8 @@
         "arcgisContactSheet": "/review-assets/027-661-3rd-avenue-10665467-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/027-661-3rd-avenue-10665467-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/027-661-3rd-avenue-10665467-google-image.jpg",
+        "googleContactSheet": "/review-assets/027-661-3rd-avenue-10665467-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -1523,9 +1631,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/028-782-4th-avenue-20020418-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -1552,6 +1660,10 @@
         {
           "label": "#5",
           "url": "/review-assets/028-782-4th-avenue-20020418-mls-5.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/028-782-4th-avenue-20020418-google-best.jpg"
         }
       ],
       "links": {
@@ -1559,8 +1671,8 @@
         "arcgisContactSheet": "/review-assets/028-782-4th-avenue-20020418-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/028-782-4th-avenue-20020418-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/028-782-4th-avenue-20020418-google-image.jpg",
+        "googleContactSheet": "/review-assets/028-782-4th-avenue-20020418-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -1581,9 +1693,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/029-804-17th-s-street-10672776-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -1622,6 +1734,10 @@
         {
           "label": "#15",
           "url": "/review-assets/029-804-17th-s-street-10672776-mls-15.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/029-804-17th-s-street-10672776-google-best.jpg"
         }
       ],
       "links": {
@@ -1629,8 +1745,8 @@
         "arcgisContactSheet": "/review-assets/029-804-17th-s-street-10672776-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/029-804-17th-s-street-10672776-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/029-804-17th-s-street-10672776-google-image.jpg",
+        "googleContactSheet": "/review-assets/029-804-17th-s-street-10672776-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -1651,9 +1767,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/030-805-31st-avenue-s-20036703-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -1672,6 +1788,10 @@
         {
           "label": "#17",
           "url": "/review-assets/030-805-31st-avenue-s-20036703-mls-17.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/030-805-31st-avenue-s-20036703-google-best.jpg"
         }
       ],
       "links": {
@@ -1679,8 +1799,8 @@
         "arcgisContactSheet": "/review-assets/030-805-31st-avenue-s-20036703-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/030-805-31st-avenue-s-20036703-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/030-805-31st-avenue-s-20036703-google-image.jpg",
+        "googleContactSheet": "/review-assets/030-805-31st-avenue-s-20036703-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -1701,9 +1821,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/031-941-5th-avenue-20039625-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -1714,6 +1834,10 @@
         {
           "label": "#29",
           "url": "/review-assets/031-941-5th-avenue-20039625-mls-29.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/031-941-5th-avenue-20039625-google-best.jpg"
         }
       ],
       "links": {
@@ -1721,8 +1845,8 @@
         "arcgisContactSheet": "/review-assets/031-941-5th-avenue-20039625-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/031-941-5th-avenue-20039625-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/031-941-5th-avenue-20039625-google-image.jpg",
+        "googleContactSheet": "/review-assets/031-941-5th-avenue-20039625-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -1743,9 +1867,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/032-946-ridge-place-10665224-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -1764,6 +1888,10 @@
         {
           "label": "#2",
           "url": "/review-assets/032-946-ridge-place-10665224-mls-2.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/032-946-ridge-place-10665224-google-best.jpg"
         }
       ],
       "links": {
@@ -1771,8 +1899,8 @@
         "arcgisContactSheet": "/review-assets/032-946-ridge-place-10665224-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/032-946-ridge-place-10665224-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/032-946-ridge-place-10665224-google-image.jpg",
+        "googleContactSheet": "/review-assets/032-946-ridge-place-10665224-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -1793,9 +1921,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/033-960-copper-point-way-20038863-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -1822,6 +1950,10 @@
         {
           "label": "#1",
           "url": "/review-assets/033-960-copper-point-way-20038863-mls-1.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/033-960-copper-point-way-20038863-google-best.jpg"
         }
       ],
       "links": {
@@ -1829,8 +1961,8 @@
         "arcgisContactSheet": "/review-assets/033-960-copper-point-way-20038863-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/033-960-copper-point-way-20038863-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/033-960-copper-point-way-20038863-google-image.jpg",
+        "googleContactSheet": "/review-assets/033-960-copper-point-way-20038863-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -1851,9 +1983,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/034-13-640-upper-lakeview-road-20021647-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -1868,6 +2000,10 @@
         {
           "label": "#3",
           "url": "/review-assets/034-13-640-upper-lakeview-road-20021647-mls-3.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/034-13-640-upper-lakeview-road-20021647-google-best.jpg"
         }
       ],
       "links": {
@@ -1875,8 +2011,8 @@
         "arcgisContactSheet": "/review-assets/034-13-640-upper-lakeview-road-20021647-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/034-13-640-upper-lakeview-road-20021647-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/034-13-640-upper-lakeview-road-20021647-google-image.jpg",
+        "googleContactSheet": "/review-assets/034-13-640-upper-lakeview-road-20021647-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -1897,9 +2033,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/035-1325-12-avenue-20049552-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -1922,6 +2058,10 @@
         {
           "label": "#20",
           "url": "/review-assets/035-1325-12-avenue-20049552-mls-20.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/035-1325-12-avenue-20049552-google-best.jpg"
         }
       ],
       "links": {
@@ -1929,8 +2069,8 @@
         "arcgisContactSheet": "/review-assets/035-1325-12-avenue-20049552-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/035-1325-12-avenue-20049552-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/035-1325-12-avenue-20049552-google-image.jpg",
+        "googleContactSheet": "/review-assets/035-1325-12-avenue-20049552-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -1951,9 +2091,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/036-14-mt-trinity-avenue-10682383-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -1972,6 +2112,10 @@
         {
           "label": "#30",
           "url": "/review-assets/036-14-mt-trinity-avenue-10682383-mls-30.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/036-14-mt-trinity-avenue-10682383-google-best.jpg"
         }
       ],
       "links": {
@@ -1979,8 +2123,8 @@
         "arcgisContactSheet": "/review-assets/036-14-mt-trinity-avenue-10682383-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/036-14-mt-trinity-avenue-10682383-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/036-14-mt-trinity-avenue-10682383-google-image.jpg",
+        "googleContactSheet": "/review-assets/036-14-mt-trinity-avenue-10682383-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -2001,9 +2145,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/037-1502-pineridge-mountain-place-10647009-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -2034,6 +2178,10 @@
         {
           "label": "#13",
           "url": "/review-assets/037-1502-pineridge-mountain-place-10647009-mls-13.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/037-1502-pineridge-mountain-place-10647009-google-best.jpg"
         }
       ],
       "links": {
@@ -2041,8 +2189,8 @@
         "arcgisContactSheet": "/review-assets/037-1502-pineridge-mountain-place-10647009-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/037-1502-pineridge-mountain-place-10647009-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/037-1502-pineridge-mountain-place-10647009-google-image.jpg",
+        "googleContactSheet": "/review-assets/037-1502-pineridge-mountain-place-10647009-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -2063,9 +2211,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/038-1609-8th-s-avenue-10669905-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -2084,6 +2232,10 @@
         {
           "label": "#5",
           "url": "/review-assets/038-1609-8th-s-avenue-10669905-mls-5.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/038-1609-8th-s-avenue-10669905-google-best.jpg"
         }
       ],
       "links": {
@@ -2091,8 +2243,8 @@
         "arcgisContactSheet": "/review-assets/038-1609-8th-s-avenue-10669905-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/038-1609-8th-s-avenue-10669905-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/038-1609-8th-s-avenue-10669905-google-image.jpg",
+        "googleContactSheet": "/review-assets/038-1609-8th-s-avenue-10669905-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -2113,9 +2265,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/039-21-mt-minton-street-10654287-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -2138,6 +2290,10 @@
         {
           "label": "#1",
           "url": "/review-assets/039-21-mt-minton-street-10654287-mls-1.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/039-21-mt-minton-street-10654287-google-best.jpg"
         }
       ],
       "links": {
@@ -2145,8 +2301,8 @@
         "arcgisContactSheet": "/review-assets/039-21-mt-minton-street-10654287-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/039-21-mt-minton-street-10654287-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/039-21-mt-minton-street-10654287-google-image.jpg",
+        "googleContactSheet": "/review-assets/039-21-mt-minton-street-10654287-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -2167,9 +2323,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/040-5221-columbia-river-road-20061096-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -2188,6 +2344,10 @@
         {
           "label": "#21",
           "url": "/review-assets/040-5221-columbia-river-road-20061096-mls-21.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/040-5221-columbia-river-road-20061096-google-best.jpg"
         }
       ],
       "links": {
@@ -2195,8 +2355,8 @@
         "arcgisContactSheet": "/review-assets/040-5221-columbia-river-road-20061096-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/040-5221-columbia-river-road-20061096-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/040-5221-columbia-river-road-20061096-google-image.jpg",
+        "googleContactSheet": "/review-assets/040-5221-columbia-river-road-20061096-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -2217,9 +2377,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/041-6740-rosen-lake-road-20066454-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -2246,6 +2406,10 @@
         {
           "label": "#2",
           "url": "/review-assets/041-6740-rosen-lake-road-20066454-mls-2.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/041-6740-rosen-lake-road-20066454-google-best.jpg"
         }
       ],
       "links": {
@@ -2253,8 +2417,8 @@
         "arcgisContactSheet": "/review-assets/041-6740-rosen-lake-road-20066454-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/041-6740-rosen-lake-road-20066454-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/041-6740-rosen-lake-road-20066454-google-image.jpg",
+        "googleContactSheet": "/review-assets/041-6740-rosen-lake-road-20066454-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -2275,9 +2439,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/042-6949-columbia-ridge-drive-10647683-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -2308,6 +2472,10 @@
         {
           "label": "#10",
           "url": "/review-assets/042-6949-columbia-ridge-drive-10647683-mls-10.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/042-6949-columbia-ridge-drive-10647683-google-best.jpg"
         }
       ],
       "links": {
@@ -2315,8 +2483,8 @@
         "arcgisContactSheet": "/review-assets/042-6949-columbia-ridge-drive-10647683-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/042-6949-columbia-ridge-drive-10647683-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/042-6949-columbia-ridge-drive-10647683-google-image.jpg",
+        "googleContactSheet": "/review-assets/042-6949-columbia-ridge-drive-10647683-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -2337,9 +2505,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/043-781-westridge-drive-20021336-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -2358,6 +2526,10 @@
         {
           "label": "#2",
           "url": "/review-assets/043-781-westridge-drive-20021336-mls-2.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/043-781-westridge-drive-20021336-google-best.jpg"
         }
       ],
       "links": {
@@ -2365,8 +2537,8 @@
         "arcgisContactSheet": "/review-assets/043-781-westridge-drive-20021336-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/043-781-westridge-drive-20021336-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/043-781-westridge-drive-20021336-google-image.jpg",
+        "googleContactSheet": "/review-assets/043-781-westridge-drive-20021336-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -2387,9 +2559,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/044-8042-mcintosh-loop-road-10670913-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -2412,6 +2584,10 @@
         {
           "label": "#16",
           "url": "/review-assets/044-8042-mcintosh-loop-road-10670913-mls-16.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/044-8042-mcintosh-loop-road-10670913-google-best.jpg"
         }
       ],
       "links": {
@@ -2419,8 +2595,8 @@
         "arcgisContactSheet": "/review-assets/044-8042-mcintosh-loop-road-10670913-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/044-8042-mcintosh-loop-road-10670913-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/044-8042-mcintosh-loop-road-10670913-google-image.jpg",
+        "googleContactSheet": "/review-assets/044-8042-mcintosh-loop-road-10670913-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -2441,9 +2617,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/045-815-lakeview-meadows-green-10646987-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -2462,6 +2638,10 @@
         {
           "label": "#20",
           "url": "/review-assets/045-815-lakeview-meadows-green-10646987-mls-20.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/045-815-lakeview-meadows-green-10646987-google-best.jpg"
         }
       ],
       "links": {
@@ -2469,8 +2649,8 @@
         "arcgisContactSheet": "/review-assets/045-815-lakeview-meadows-green-10646987-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/045-815-lakeview-meadows-green-10646987-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/045-815-lakeview-meadows-green-10646987-google-image.jpg",
+        "googleContactSheet": "/review-assets/045-815-lakeview-meadows-green-10646987-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -2491,9 +2671,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/046-850-lakeview-meadows-road-10654610-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -2516,6 +2696,10 @@
         {
           "label": "#2",
           "url": "/review-assets/046-850-lakeview-meadows-road-10654610-mls-2.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/046-850-lakeview-meadows-road-10654610-google-best.jpg"
         }
       ],
       "links": {
@@ -2523,8 +2707,8 @@
         "arcgisContactSheet": "/review-assets/046-850-lakeview-meadows-road-10654610-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/046-850-lakeview-meadows-road-10654610-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/046-850-lakeview-meadows-road-10654610-google-image.jpg",
+        "googleContactSheet": "/review-assets/046-850-lakeview-meadows-road-10654610-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -2545,9 +2729,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/047-921-11th-avenue-10668743-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -2574,6 +2758,10 @@
         {
           "label": "#27",
           "url": "/review-assets/047-921-11th-avenue-10668743-mls-27.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/047-921-11th-avenue-10668743-google-best.jpg"
         }
       ],
       "links": {
@@ -2581,8 +2769,8 @@
         "arcgisContactSheet": "/review-assets/047-921-11th-avenue-10668743-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/047-921-11th-avenue-10668743-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/047-921-11th-avenue-10668743-google-image.jpg",
+        "googleContactSheet": "/review-assets/047-921-11th-avenue-10668743-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -2603,9 +2791,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/048-954-313th-drive-20042244-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -2624,6 +2812,10 @@
         {
           "label": "#25",
           "url": "/review-assets/048-954-313th-drive-20042244-mls-25.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/048-954-313th-drive-20042244-google-best.jpg"
         }
       ],
       "links": {
@@ -2631,8 +2823,8 @@
         "arcgisContactSheet": "/review-assets/048-954-313th-drive-20042244-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/048-954-313th-drive-20042244-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/048-954-313th-drive-20042244-google-image.jpg",
+        "googleContactSheet": "/review-assets/048-954-313th-drive-20042244-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -2653,9 +2845,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/049-959-copper-point-way-20050440-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -2678,6 +2870,10 @@
         {
           "label": "#5",
           "url": "/review-assets/049-959-copper-point-way-20050440-mls-5.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/049-959-copper-point-way-20050440-google-best.jpg"
         }
       ],
       "links": {
@@ -2685,8 +2881,8 @@
         "arcgisContactSheet": "/review-assets/049-959-copper-point-way-20050440-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/049-959-copper-point-way-20050440-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/049-959-copper-point-way-20050440-google-image.jpg",
+        "googleContactSheet": "/review-assets/049-959-copper-point-way-20050440-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -2769,9 +2965,9 @@
       "bingBestTilePosition": "center",
       "bingCoverageStrength": "medium",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/051-1309-birchwood-place-20028580-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -2786,6 +2982,10 @@
         {
           "label": "#1",
           "url": "/review-assets/051-1309-birchwood-place-20028580-mls-1.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/051-1309-birchwood-place-20028580-google-best.jpg"
         }
       ],
       "links": {
@@ -2793,8 +2993,8 @@
         "arcgisContactSheet": "/review-assets/051-1309-birchwood-place-20028580-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/051-1309-birchwood-place-20028580-arcgis-tile.jpg",
         "bingContactSheet": "/review-assets/051-1309-birchwood-place-20028580-bing-sheet.jpg",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/051-1309-birchwood-place-20028580-google-image.jpg",
+        "googleContactSheet": "/review-assets/051-1309-birchwood-place-20028580-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -2815,9 +3015,9 @@
       "bingBestTilePosition": "center",
       "bingCoverageStrength": "medium",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/052-1357-cypress-drive-20078363-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -2840,6 +3040,10 @@
         {
           "label": "#3",
           "url": "/review-assets/052-1357-cypress-drive-20078363-mls-3.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/052-1357-cypress-drive-20078363-google-best.jpg"
         }
       ],
       "links": {
@@ -2847,8 +3051,8 @@
         "arcgisContactSheet": "/review-assets/052-1357-cypress-drive-20078363-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/052-1357-cypress-drive-20078363-arcgis-tile.jpg",
         "bingContactSheet": "/review-assets/052-1357-cypress-drive-20078363-bing-sheet.jpg",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/052-1357-cypress-drive-20078363-google-image.jpg",
+        "googleContactSheet": "/review-assets/052-1357-cypress-drive-20078363-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -2869,9 +3073,9 @@
       "bingBestTilePosition": "center",
       "bingCoverageStrength": "high",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/053-2313-falcon-court-10683161-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -2886,6 +3090,10 @@
         {
           "label": "#1",
           "url": "/review-assets/053-2313-falcon-court-10683161-mls-1.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/053-2313-falcon-court-10683161-google-best.jpg"
         }
       ],
       "links": {
@@ -2893,8 +3101,8 @@
         "arcgisContactSheet": "/review-assets/053-2313-falcon-court-10683161-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/053-2313-falcon-court-10683161-arcgis-tile.jpg",
         "bingContactSheet": "/review-assets/053-2313-falcon-court-10683161-bing-sheet.jpg",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/053-2313-falcon-court-10683161-google-image.jpg",
+        "googleContactSheet": "/review-assets/053-2313-falcon-court-10683161-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -2915,9 +3123,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/054-1681-koocanusa-lake-drive-10679423-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -2926,8 +3134,8 @@
       "notes": "Vision batch 001: print_mockup_potential=high; best_candidate_tile=center; Clear lakeside property with yard, beach, and shoreline context; no obvious hot tub or pool.",
       "thumbs": [
         {
-          "label": "ArcGIS",
-          "url": "/review-assets/054-1681-koocanusa-lake-drive-10679423-arcgis-best.jpg"
+          "label": "Google",
+          "url": "/review-assets/054-1681-koocanusa-lake-drive-10679423-google-best.jpg"
         }
       ],
       "links": {
@@ -2935,8 +3143,8 @@
         "arcgisContactSheet": "/review-assets/054-1681-koocanusa-lake-drive-10679423-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/054-1681-koocanusa-lake-drive-10679423-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/054-1681-koocanusa-lake-drive-10679423-google-image.jpg",
+        "googleContactSheet": "/review-assets/054-1681-koocanusa-lake-drive-10679423-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -3011,9 +3219,9 @@
       "bingBestTilePosition": "center",
       "bingCoverageStrength": "low",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/056-205-309th-avenue-20058040-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -3040,6 +3248,10 @@
         {
           "label": "#4",
           "url": "/review-assets/056-205-309th-avenue-20058040-mls-4.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/056-205-309th-avenue-20058040-google-best.jpg"
         }
       ],
       "links": {
@@ -3047,8 +3259,8 @@
         "arcgisContactSheet": "/review-assets/056-205-309th-avenue-20058040-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/056-205-309th-avenue-20058040-arcgis-tile.jpg",
         "bingContactSheet": "/review-assets/056-205-309th-avenue-20058040-bing-sheet.jpg",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/056-205-309th-avenue-20058040-google-image.jpg",
+        "googleContactSheet": "/review-assets/056-205-309th-avenue-20058040-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -3069,9 +3281,9 @@
       "bingBestTilePosition": "center",
       "bingCoverageStrength": "medium",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/057-215-13th-avenue-s-20074790-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -3102,6 +3314,10 @@
         {
           "label": "#29",
           "url": "/review-assets/057-215-13th-avenue-s-20074790-mls-29.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/057-215-13th-avenue-s-20074790-google-best.jpg"
         }
       ],
       "links": {
@@ -3109,8 +3325,8 @@
         "arcgisContactSheet": "/review-assets/057-215-13th-avenue-s-20074790-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/057-215-13th-avenue-s-20074790-arcgis-tile.jpg",
         "bingContactSheet": "/review-assets/057-215-13th-avenue-s-20074790-bing-sheet.jpg",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/057-215-13th-avenue-s-20074790-google-image.jpg",
+        "googleContactSheet": "/review-assets/057-215-13th-avenue-s-20074790-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -3131,9 +3347,9 @@
       "bingBestTilePosition": "middle-left",
       "bingCoverageStrength": "medium",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/058-3415-crooked-tree-place-10672915-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -3176,6 +3392,10 @@
         {
           "label": "#8",
           "url": "/review-assets/058-3415-crooked-tree-place-10672915-mls-8.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/058-3415-crooked-tree-place-10672915-google-best.jpg"
         }
       ],
       "links": {
@@ -3183,8 +3403,8 @@
         "arcgisContactSheet": "/review-assets/058-3415-crooked-tree-place-10672915-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/058-3415-crooked-tree-place-10672915-arcgis-tile.jpg",
         "bingContactSheet": "/review-assets/058-3415-crooked-tree-place-10672915-bing-sheet.jpg",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/058-3415-crooked-tree-place-10672915-google-image.jpg",
+        "googleContactSheet": "/review-assets/058-3415-crooked-tree-place-10672915-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -3205,9 +3425,9 @@
       "bingBestTilePosition": "center",
       "bingCoverageStrength": "medium",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/059-611-nelson-street-20022519-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -3242,6 +3462,10 @@
         {
           "label": "#26",
           "url": "/review-assets/059-611-nelson-street-20022519-mls-26.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/059-611-nelson-street-20022519-google-best.jpg"
         }
       ],
       "links": {
@@ -3249,8 +3473,8 @@
         "arcgisContactSheet": "/review-assets/059-611-nelson-street-20022519-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/059-611-nelson-street-20022519-arcgis-tile.jpg",
         "bingContactSheet": "/review-assets/059-611-nelson-street-20022519-bing-sheet.jpg",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/059-611-nelson-street-20022519-google-image.jpg",
+        "googleContactSheet": "/review-assets/059-611-nelson-street-20022519-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -3607,9 +3831,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/066-1643-koocanusa-lake-drive-20068707-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -3618,8 +3842,8 @@
       "notes": "Vision batch 001: print_mockup_potential=medium; best_candidate_tile=other; Center tile is mostly road and driveway; adjacent right-side tiles show better homes and lawns near water.",
       "thumbs": [
         {
-          "label": "ArcGIS",
-          "url": "/review-assets/066-1643-koocanusa-lake-drive-20068707-arcgis-best.jpg"
+          "label": "Google",
+          "url": "/review-assets/066-1643-koocanusa-lake-drive-20068707-google-best.jpg"
         }
       ],
       "links": {
@@ -3627,8 +3851,8 @@
         "arcgisContactSheet": "/review-assets/066-1643-koocanusa-lake-drive-20068707-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/066-1643-koocanusa-lake-drive-20068707-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/066-1643-koocanusa-lake-drive-20068707-google-image.jpg",
+        "googleContactSheet": "/review-assets/066-1643-koocanusa-lake-drive-20068707-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -3649,9 +3873,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/067-1265-valley-view-place-20059379-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -3678,6 +3902,10 @@
         {
           "label": "#28",
           "url": "/review-assets/067-1265-valley-view-place-20059379-mls-28.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/067-1265-valley-view-place-20059379-google-best.jpg"
         }
       ],
       "links": {
@@ -3685,8 +3913,8 @@
         "arcgisContactSheet": "/review-assets/067-1265-valley-view-place-20059379-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/067-1265-valley-view-place-20059379-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/067-1265-valley-view-place-20059379-google-image.jpg",
+        "googleContactSheet": "/review-assets/067-1265-valley-view-place-20059379-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -3707,9 +3935,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/068-9382-moyie-shores-estate-road-10621595-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -3744,6 +3972,10 @@
         {
           "label": "#11",
           "url": "/review-assets/068-9382-moyie-shores-estate-road-10621595-mls-11.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/068-9382-moyie-shores-estate-road-10621595-google-best.jpg"
         }
       ],
       "links": {
@@ -3751,8 +3983,8 @@
         "arcgisContactSheet": "/review-assets/068-9382-moyie-shores-estate-road-10621595-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/068-9382-moyie-shores-estate-road-10621595-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/068-9382-moyie-shores-estate-road-10621595-google-image.jpg",
+        "googleContactSheet": "/review-assets/068-9382-moyie-shores-estate-road-10621595-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -5829,9 +6061,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/103-1204-valley-view-drive-10683952-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -5840,8 +6072,8 @@
       "notes": "Vision batch 001: print_mockup_potential=medium; best_candidate_tile=center; Center tile shows the home edge, lawn, driveway, and road; somewhat soft but usable for a basic overhead crop.",
       "thumbs": [
         {
-          "label": "ArcGIS",
-          "url": "/review-assets/103-1204-valley-view-drive-10683952-arcgis-best.jpg"
+          "label": "Google",
+          "url": "/review-assets/103-1204-valley-view-drive-10683952-google-best.jpg"
         }
       ],
       "links": {
@@ -5849,8 +6081,8 @@
         "arcgisContactSheet": "/review-assets/103-1204-valley-view-drive-10683952-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/103-1204-valley-view-drive-10683952-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/103-1204-valley-view-drive-10683952-google-image.jpg",
+        "googleContactSheet": "/review-assets/103-1204-valley-view-drive-10683952-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -5871,9 +6103,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/104-1206-valley-view-drive-20022704-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -5882,8 +6114,8 @@
       "notes": "Vision batch 001: print_mockup_potential=medium; best_candidate_tile=center; Same contact-sheet area as prior image, with partial house and yard visible in center; no obvious pool or hot tub.",
       "thumbs": [
         {
-          "label": "ArcGIS",
-          "url": "/review-assets/104-1206-valley-view-drive-20022704-arcgis-best.jpg"
+          "label": "Google",
+          "url": "/review-assets/104-1206-valley-view-drive-20022704-google-best.jpg"
         }
       ],
       "links": {
@@ -5891,8 +6123,8 @@
         "arcgisContactSheet": "/review-assets/104-1206-valley-view-drive-20022704-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/104-1206-valley-view-drive-20022704-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/104-1206-valley-view-drive-20022704-google-image.jpg",
+        "googleContactSheet": "/review-assets/104-1206-valley-view-drive-20022704-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -5913,9 +6145,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/105-1256-valley-view-drive-20049830-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -5924,8 +6156,8 @@
       "notes": "Vision batch 001: print_mockup_potential=medium; best_candidate_tile=center; Center tile includes a visible structure and yard beside a curved road, though resolution is soft.",
       "thumbs": [
         {
-          "label": "ArcGIS",
-          "url": "/review-assets/105-1256-valley-view-drive-20049830-arcgis-best.jpg"
+          "label": "Google",
+          "url": "/review-assets/105-1256-valley-view-drive-20049830-google-best.jpg"
         }
       ],
       "links": {
@@ -5933,8 +6165,8 @@
         "arcgisContactSheet": "/review-assets/105-1256-valley-view-drive-20049830-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/105-1256-valley-view-drive-20049830-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/105-1256-valley-view-drive-20049830-google-image.jpg",
+        "googleContactSheet": "/review-assets/105-1256-valley-view-drive-20049830-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -5955,9 +6187,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/106-22-9481-estates-road-10667637-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -5966,8 +6198,8 @@
       "notes": "Vision batch 002: print_mockup_potential=medium; best_candidate_tile=center; Center tile shows a cleared rural area within trees; no clear house or amenity, but usable open-space context.",
       "thumbs": [
         {
-          "label": "ArcGIS",
-          "url": "/review-assets/106-22-9481-estates-road-10667637-arcgis-best.jpg"
+          "label": "Google",
+          "url": "/review-assets/106-22-9481-estates-road-10667637-google-best.jpg"
         }
       ],
       "links": {
@@ -5975,8 +6207,8 @@
         "arcgisContactSheet": "/review-assets/106-22-9481-estates-road-10667637-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/106-22-9481-estates-road-10667637-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/106-22-9481-estates-road-10667637-google-image.jpg",
+        "googleContactSheet": "/review-assets/106-22-9481-estates-road-10667637-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -5997,9 +6229,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/107-532-granzow-road-20046554-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -6008,8 +6240,8 @@
       "notes": "Vision batch 001: print_mockup_potential=medium; best_candidate_tile=other; Wooded acreage setting with partial roofs and yard areas; tree cover obscures the center, and a dark rectangular feature in another tile is ambiguous.",
       "thumbs": [
         {
-          "label": "ArcGIS",
-          "url": "/review-assets/107-532-granzow-road-20046554-arcgis-best.jpg"
+          "label": "Google",
+          "url": "/review-assets/107-532-granzow-road-20046554-google-best.jpg"
         }
       ],
       "links": {
@@ -6017,8 +6249,8 @@
         "arcgisContactSheet": "/review-assets/107-532-granzow-road-20046554-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/107-532-granzow-road-20046554-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/107-532-granzow-road-20046554-google-image.jpg",
+        "googleContactSheet": "/review-assets/107-532-granzow-road-20046554-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -6039,9 +6271,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/108-7822-monroe-lake-road-10641909-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -6050,8 +6282,8 @@
       "notes": "Vision batch 002: print_mockup_potential=medium; best_candidate_tile=center; Lakefront property context is attractive, but yard detail is partly obscured by trees and resolution.",
       "thumbs": [
         {
-          "label": "ArcGIS",
-          "url": "/review-assets/108-7822-monroe-lake-road-10641909-arcgis-best.jpg"
+          "label": "Google",
+          "url": "/review-assets/108-7822-monroe-lake-road-10641909-google-best.jpg"
         }
       ],
       "links": {
@@ -6059,8 +6291,8 @@
         "arcgisContactSheet": "/review-assets/108-7822-monroe-lake-road-10641909-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/108-7822-monroe-lake-road-10641909-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/108-7822-monroe-lake-road-10641909-google-image.jpg",
+        "googleContactSheet": "/review-assets/108-7822-monroe-lake-road-10641909-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -6143,9 +6375,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/112-1059-swansea-road-10658844-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -6168,6 +6400,10 @@
         {
           "label": "#16",
           "url": "/review-assets/112-1059-swansea-road-10658844-mls-16.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/112-1059-swansea-road-10658844-google-best.jpg"
         }
       ],
       "links": {
@@ -6175,8 +6411,8 @@
         "arcgisContactSheet": "/review-assets/112-1059-swansea-road-10658844-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/112-1059-swansea-road-10658844-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/112-1059-swansea-road-10658844-google-image.jpg",
+        "googleContactSheet": "/review-assets/112-1059-swansea-road-10658844-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -6259,9 +6495,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/114-137-12a-avenue-20026178-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -6292,6 +6528,10 @@
         {
           "label": "#30",
           "url": "/review-assets/114-137-12a-avenue-20026178-mls-30.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/114-137-12a-avenue-20026178-google-best.jpg"
         }
       ],
       "links": {
@@ -6299,8 +6539,8 @@
         "arcgisContactSheet": "/review-assets/114-137-12a-avenue-20026178-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/114-137-12a-avenue-20026178-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/114-137-12a-avenue-20026178-google-image.jpg",
+        "googleContactSheet": "/review-assets/114-137-12a-avenue-20026178-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -6321,9 +6561,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/115-1400-17th-s-street-10683127-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -6354,6 +6594,10 @@
         {
           "label": "#6",
           "url": "/review-assets/115-1400-17th-s-street-10683127-mls-6.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/115-1400-17th-s-street-10683127-google-best.jpg"
         }
       ],
       "links": {
@@ -6361,8 +6605,8 @@
         "arcgisContactSheet": "/review-assets/115-1400-17th-s-street-10683127-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/115-1400-17th-s-street-10683127-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/115-1400-17th-s-street-10683127-google-image.jpg",
+        "googleContactSheet": "/review-assets/115-1400-17th-s-street-10683127-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -6445,9 +6689,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/117-1825-taynton-road-10676060-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -6474,6 +6718,10 @@
         {
           "label": "#2",
           "url": "/review-assets/117-1825-taynton-road-10676060-mls-2.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/117-1825-taynton-road-10676060-google-best.jpg"
         }
       ],
       "links": {
@@ -6481,8 +6729,8 @@
         "arcgisContactSheet": "/review-assets/117-1825-taynton-road-10676060-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/117-1825-taynton-road-10676060-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/117-1825-taynton-road-10676060-google-image.jpg",
+        "googleContactSheet": "/review-assets/117-1825-taynton-road-10676060-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -6503,9 +6751,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/118-405-forest-crowne-close-20027834-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -6532,6 +6780,10 @@
         {
           "label": "#5",
           "url": "/review-assets/118-405-forest-crowne-close-20027834-mls-5.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/118-405-forest-crowne-close-20027834-google-best.jpg"
         }
       ],
       "links": {
@@ -6539,8 +6791,8 @@
         "arcgisContactSheet": "/review-assets/118-405-forest-crowne-close-20027834-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/118-405-forest-crowne-close-20027834-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/118-405-forest-crowne-close-20027834-google-image.jpg",
+        "googleContactSheet": "/review-assets/118-405-forest-crowne-close-20027834-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -6561,9 +6813,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/119-4476-columbia-view-road-10682429-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -6590,6 +6842,10 @@
         {
           "label": "#12",
           "url": "/review-assets/119-4476-columbia-view-road-10682429-mls-12.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/119-4476-columbia-view-road-10682429-google-best.jpg"
         }
       ],
       "links": {
@@ -6597,8 +6853,8 @@
         "arcgisContactSheet": "/review-assets/119-4476-columbia-view-road-10682429-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/119-4476-columbia-view-road-10682429-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/119-4476-columbia-view-road-10682429-google-image.jpg",
+        "googleContactSheet": "/review-assets/119-4476-columbia-view-road-10682429-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -6619,9 +6875,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/120-4585-columere-road-20021525-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -6648,6 +6904,10 @@
         {
           "label": "#25",
           "url": "/review-assets/120-4585-columere-road-20021525-mls-25.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/120-4585-columere-road-20021525-google-best.jpg"
         }
       ],
       "links": {
@@ -6655,8 +6915,8 @@
         "arcgisContactSheet": "/review-assets/120-4585-columere-road-20021525-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/120-4585-columere-road-20021525-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/120-4585-columere-road-20021525-google-image.jpg",
+        "googleContactSheet": "/review-assets/120-4585-columere-road-20021525-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -6677,9 +6937,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/121-4942-mountain-hill-road-10660433-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -6702,6 +6962,10 @@
         {
           "label": "#3",
           "url": "/review-assets/121-4942-mountain-hill-road-10660433-mls-3.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/121-4942-mountain-hill-road-10660433-google-best.jpg"
         }
       ],
       "links": {
@@ -6709,8 +6973,8 @@
         "arcgisContactSheet": "/review-assets/121-4942-mountain-hill-road-10660433-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/121-4942-mountain-hill-road-10660433-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/121-4942-mountain-hill-road-10660433-google-image.jpg",
+        "googleContactSheet": "/review-assets/121-4942-mountain-hill-road-10660433-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -6731,9 +6995,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/122-862-10th-avenue-10666129-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -6760,6 +7024,10 @@
         {
           "label": "#2",
           "url": "/review-assets/122-862-10th-avenue-10666129-mls-2.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/122-862-10th-avenue-10666129-google-best.jpg"
         }
       ],
       "links": {
@@ -6767,8 +7035,8 @@
         "arcgisContactSheet": "/review-assets/122-862-10th-avenue-10666129-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/122-862-10th-avenue-10666129-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/122-862-10th-avenue-10666129-google-image.jpg",
+        "googleContactSheet": "/review-assets/122-862-10th-avenue-10666129-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -6789,9 +7057,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/123-145-stemwinder-drive-10654223-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -6814,6 +7082,10 @@
         {
           "label": "#4",
           "url": "/review-assets/123-145-stemwinder-drive-10654223-mls-4.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/123-145-stemwinder-drive-10654223-google-best.jpg"
         }
       ],
       "links": {
@@ -6821,8 +7093,8 @@
         "arcgisContactSheet": "/review-assets/123-145-stemwinder-drive-10654223-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/123-145-stemwinder-drive-10654223-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/123-145-stemwinder-drive-10654223-google-image.jpg",
+        "googleContactSheet": "/review-assets/123-145-stemwinder-drive-10654223-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -7101,9 +7373,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/129-200-boulder-creek-20022971-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -7126,6 +7398,10 @@
         {
           "label": "#1",
           "url": "/review-assets/129-200-boulder-creek-20022971-mls-1.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/129-200-boulder-creek-20022971-google-best.jpg"
         }
       ],
       "links": {
@@ -7133,8 +7409,8 @@
         "arcgisContactSheet": "/review-assets/129-200-boulder-creek-20022971-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/129-200-boulder-creek-20022971-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/129-200-boulder-creek-20022971-google-image.jpg",
+        "googleContactSheet": "/review-assets/129-200-boulder-creek-20022971-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -7355,9 +7631,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/134-2202-black-hawk-drive-20034035-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -7368,6 +7644,10 @@
         {
           "label": "#1",
           "url": "/review-assets/134-2202-black-hawk-drive-20034035-mls-1.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/134-2202-black-hawk-drive-20034035-google-best.jpg"
         }
       ],
       "links": {
@@ -7375,8 +7655,8 @@
         "arcgisContactSheet": "/review-assets/134-2202-black-hawk-drive-20034035-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/134-2202-black-hawk-drive-20034035-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/134-2202-black-hawk-drive-20034035-google-image.jpg",
+        "googleContactSheet": "/review-assets/134-2202-black-hawk-drive-20034035-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -8087,9 +8367,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/148-402-westridge-view-10650499-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -8112,6 +8392,10 @@
         {
           "label": "#26",
           "url": "/review-assets/148-402-westridge-view-10650499-mls-26.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/148-402-westridge-view-10650499-google-best.jpg"
         }
       ],
       "links": {
@@ -8119,8 +8403,8 @@
         "arcgisContactSheet": "/review-assets/148-402-westridge-view-10650499-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/148-402-westridge-view-10650499-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/148-402-westridge-view-10650499-google-image.jpg",
+        "googleContactSheet": "/review-assets/148-402-westridge-view-10650499-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -8261,9 +8545,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/151-454-forest-crowne-rise-20073637-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -8286,6 +8570,10 @@
         {
           "label": "#30",
           "url": "/review-assets/151-454-forest-crowne-rise-20073637-mls-30.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/151-454-forest-crowne-rise-20073637-google-best.jpg"
         }
       ],
       "links": {
@@ -8293,8 +8581,8 @@
         "arcgisContactSheet": "/review-assets/151-454-forest-crowne-rise-20073637-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/151-454-forest-crowne-rise-20073637-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/151-454-forest-crowne-rise-20073637-google-image.jpg",
+        "googleContactSheet": "/review-assets/151-454-forest-crowne-rise-20073637-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -8967,9 +9255,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/164-700-22nd-s-avenue-10685008-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -8992,6 +9280,10 @@
         {
           "label": "#30",
           "url": "/review-assets/164-700-22nd-s-avenue-10685008-mls-30.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/164-700-22nd-s-avenue-10685008-google-best.jpg"
         }
       ],
       "links": {
@@ -8999,8 +9291,8 @@
         "arcgisContactSheet": "/review-assets/164-700-22nd-s-avenue-10685008-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/164-700-22nd-s-avenue-10685008-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/164-700-22nd-s-avenue-10685008-google-image.jpg",
+        "googleContactSheet": "/review-assets/164-700-22nd-s-avenue-10685008-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -9067,9 +9359,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/166-7549-springs-terrace-10638399-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -9096,6 +9388,10 @@
         {
           "label": "#24",
           "url": "/review-assets/166-7549-springs-terrace-10638399-mls-24.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/166-7549-springs-terrace-10638399-google-best.jpg"
         }
       ],
       "links": {
@@ -9103,8 +9399,8 @@
         "arcgisContactSheet": "/review-assets/166-7549-springs-terrace-10638399-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/166-7549-springs-terrace-10638399-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/166-7549-springs-terrace-10638399-google-image.jpg",
+        "googleContactSheet": "/review-assets/166-7549-springs-terrace-10638399-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -9233,9 +9529,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/169-805-16th-s-street-20020530-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -9250,6 +9546,10 @@
         {
           "label": "#2",
           "url": "/review-assets/169-805-16th-s-street-20020530-mls-2.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/169-805-16th-s-street-20020530-google-best.jpg"
         }
       ],
       "links": {
@@ -9257,8 +9557,8 @@
         "arcgisContactSheet": "/review-assets/169-805-16th-s-street-20020530-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/169-805-16th-s-street-20020530-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/169-805-16th-s-street-20020530-google-image.jpg",
+        "googleContactSheet": "/review-assets/169-805-16th-s-street-20020530-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -9279,9 +9579,9 @@
       "bingBestTilePosition": "",
       "bingCoverageStrength": "unreviewed",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/170-823-lakeview-meadows-green-10639146-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -9296,6 +9596,10 @@
         {
           "label": "#12",
           "url": "/review-assets/170-823-lakeview-meadows-green-10639146-mls-12.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/170-823-lakeview-meadows-green-10639146-google-best.jpg"
         }
       ],
       "links": {
@@ -9303,8 +9607,8 @@
         "arcgisContactSheet": "/review-assets/170-823-lakeview-meadows-green-10639146-arcgis-sheet.jpg",
         "bestArcgisTile": "/review-assets/170-823-lakeview-meadows-green-10639146-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/170-823-lakeview-meadows-green-10639146-google-image.jpg",
+        "googleContactSheet": "/review-assets/170-823-lakeview-meadows-green-10639146-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -9674,6 +9978,10 @@
         {
           "label": "#23",
           "url": "/review-assets/177-15-turner-close-20083862-mls-23.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/177-15-turner-close-20083862-google-best.jpg"
         }
       ],
       "links": {
@@ -9766,6 +10074,10 @@
         {
           "label": "#26",
           "url": "/review-assets/180-1509-10th-avenue-20049602-mls-26.jpg"
+        },
+        {
+          "label": "Google",
+          "url": "/review-assets/180-1509-10th-avenue-20049602-google-best.jpg"
         }
       ],
       "links": {
@@ -13836,8 +14148,8 @@
       "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; z20 imagery unavailable; z19/z18 show the area but trees/shadows obscure the house and lot boundaries.",
       "thumbs": [
         {
-          "label": "ArcGIS",
-          "url": "/review-assets/276-11-alpine-trail-lane-10559698-arcgis-best.jpg"
+          "label": "Google",
+          "url": "/review-assets/276-11-alpine-trail-lane-10559698-google-best.jpg"
         }
       ],
       "links": {
@@ -13878,8 +14190,8 @@
       "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.; Property is heavily obscured by trees/shadows; house and backyard/lot boundaries are difficult to discern at all zooms.",
       "thumbs": [
         {
-          "label": "ArcGIS",
-          "url": "/review-assets/277-1453-stoddart-avenue-10589073-arcgis-best.jpg"
+          "label": "Google",
+          "url": "/review-assets/277-1453-stoddart-avenue-10589073-google-best.jpg"
         }
       ],
       "links": {
@@ -13920,8 +14232,8 @@
       "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; z20 unavailable; z19/z18 show wooded residential area but structure/lot are heavily obscured by trees.",
       "thumbs": [
         {
-          "label": "ArcGIS",
-          "url": "/review-assets/278-17-alpine-trail-10615862-arcgis-best.jpg"
+          "label": "Google",
+          "url": "/review-assets/278-17-alpine-trail-10615862-google-best.jpg"
         }
       ],
       "links": {
@@ -13962,8 +14274,8 @@
       "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.; Coordinate falls on open/treed area near road; nearby homes visible but subject house/lot boundaries are not clearly identifiable.",
       "thumbs": [
         {
-          "label": "ArcGIS",
-          "url": "/review-assets/279-1753-2nd-avenue-10521676-arcgis-best.jpg"
+          "label": "Google",
+          "url": "/review-assets/279-1753-2nd-avenue-10521676-google-best.jpg"
         }
       ],
       "links": {
@@ -14004,8 +14316,8 @@
       "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.; Appears to show a treed/vacant roadside lot; no clearly visible house at the coordinate.",
       "thumbs": [
         {
-          "label": "ArcGIS",
-          "url": "/review-assets/280-1921-pineridge-mountain-trail-20020845-arcgis-best.jpg"
+          "label": "Google",
+          "url": "/review-assets/280-1921-pineridge-mountain-trail-20020845-google-best.jpg"
         }
       ],
       "links": {
@@ -14046,8 +14358,8 @@
       "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Crosshair/geocode falls on street; nearby houses and lots are visible, but exact target parcel is ambiguous.",
       "thumbs": [
         {
-          "label": "ArcGIS",
-          "url": "/review-assets/281-32-silver-ridge-drive-10628923-arcgis-best.jpg"
+          "label": "Google",
+          "url": "/review-assets/281-32-silver-ridge-drive-10628923-google-best.jpg"
         }
       ],
       "links": {
@@ -14088,8 +14400,8 @@
       "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Heavily obscured by trees and shadows; possible house/lot context visible, but backyard/lot boundaries are difficult to interpret.",
       "thumbs": [
         {
-          "label": "ArcGIS",
-          "url": "/review-assets/282-368-panorama-place-10619308-arcgis-best.jpg"
+          "label": "Google",
+          "url": "/review-assets/282-368-panorama-place-10619308-google-best.jpg"
         }
       ],
       "links": {
@@ -14130,8 +14442,8 @@
       "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Area is heavily treed; possible structure/lot context nearby, but house and backyard/lot boundaries are not clearly visible together.",
       "thumbs": [
         {
-          "label": "ArcGIS",
-          "url": "/review-assets/283-4552-columbia-view-road-10572288-arcgis-best.jpg"
+          "label": "Google",
+          "url": "/review-assets/283-4552-columbia-view-road-10572288-google-best.jpg"
         }
       ],
       "links": {
@@ -14172,8 +14484,8 @@
       "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Coordinate falls near road/treed edge; possible nearby house/lot visible but not clearly centered or fully readable.",
       "thumbs": [
         {
-          "label": "ArcGIS",
-          "url": "/review-assets/284-4553-timberline-crescent-10559208-arcgis-best.jpg"
+          "label": "Google",
+          "url": "/review-assets/284-4553-timberline-crescent-10559208-google-best.jpg"
         }
       ],
       "links": {
@@ -14214,8 +14526,8 @@
       "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Residential area visible, but crosshair appears near road/driveway and target house/lot boundaries are ambiguous.",
       "thumbs": [
         {
-          "label": "ArcGIS",
-          "url": "/review-assets/285-4671-poplar-street-10680461-arcgis-best.jpg"
+          "label": "Google",
+          "url": "/review-assets/285-4671-poplar-street-10680461-google-best.jpg"
         }
       ],
       "links": {
@@ -14287,9 +14599,9 @@
       "bingBestTilePosition": "none",
       "bingCoverageStrength": "low",
       "googleOverhead": "unreviewed",
-      "googleImageCount": "",
-      "googleBestZoom": "",
-      "googleBestImage": "",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/287-4827-holland-crescent-10604265-google-image.jpg",
       "googleCoverageStrength": "unreviewed",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -14298,8 +14610,8 @@
       "notes": "No usable coordinate yet; needs parcel/manual lookup.; Coordinate fallback applied: 4827 Holland Creek Ridge Rd, Invermere, British Columbia, V0A 1K3 (arcgis_world_geocoder_manual_variant); recollected ArcGIS z19 tiles. Listing address says 4827 HOLLAND Crescent, but ArcGIS resolves exact PointAddress for 4827 Holland Creek Ridge Rd; needs human address-label verification. Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Coordinate-fix review: ArcGIS geocoder exact-match variant suggests 4827 Holland Creek Ridge Rd, but Bing red coordinate tile is centered on/near a road intersection and no clearly identifiable 4827 house is visible; human address-label verification still needed.",
       "thumbs": [
         {
-          "label": "ArcGIS",
-          "url": "/review-assets/287-4827-holland-crescent-10604265-arcgis-best.jpg"
+          "label": "Google",
+          "url": "/review-assets/287-4827-holland-crescent-10604265-google-best.jpg"
         }
       ],
       "links": {
@@ -14307,8 +14619,8 @@
         "arcgisContactSheet": "",
         "bestArcgisTile": "/review-assets/287-4827-holland-crescent-10604265-arcgis-tile.jpg",
         "bingContactSheet": "/review-assets/287-4827-holland-crescent-10604265-bing-sheet.jpg",
-        "googleBestImage": "",
-        "googleContactSheet": "",
+        "googleBestImage": "/review-assets/287-4827-holland-crescent-10604265-google-image.jpg",
+        "googleContactSheet": "/review-assets/287-4827-holland-crescent-10604265-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
@@ -14382,8 +14694,8 @@
       "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Neighborhood lots are visible, but crosshair falls on/near roadway and target house is ambiguous; z19 is the most usable if parcel is known.",
       "thumbs": [
         {
-          "label": "ArcGIS",
-          "url": "/review-assets/289-4985-mountain-top-drive-10673667-arcgis-best.jpg"
+          "label": "Google",
+          "url": "/review-assets/289-4985-mountain-top-drive-10673667-google-best.jpg"
         }
       ],
       "links": {
@@ -14424,8 +14736,8 @@
       "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Coordinate appears near road/intersection; nearby house and yard visible but target parcel/house alignment is uncertain and partly tree-obscured.",
       "thumbs": [
         {
-          "label": "ArcGIS",
-          "url": "/review-assets/290-515-lakeview-place-10523709-arcgis-best.jpg"
+          "label": "Google",
+          "url": "/review-assets/290-515-lakeview-place-10523709-google-best.jpg"
         }
       ],
       "links": {
@@ -14466,8 +14778,8 @@
       "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Crosshair is on road/cul-de-sac area; surrounding homes visible but target house/yard is obscured by trees and not clearly centered.",
       "thumbs": [
         {
-          "label": "ArcGIS",
-          "url": "/review-assets/291-5156-riverview-crescent-10570990-arcgis-best.jpg"
+          "label": "Google",
+          "url": "/review-assets/291-5156-riverview-crescent-10570990-google-best.jpg"
         }
       ],
       "links": {
@@ -14508,8 +14820,8 @@
       "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Area and nearby lakeshore/roads visible, but tree cover and shadows obscure the house/yard; difficult to confirm full house + backyard/lot together.",
       "thumbs": [
         {
-          "label": "ArcGIS",
-          "url": "/review-assets/292-6659-rosen-lake-road-10638277-arcgis-best.jpg"
+          "label": "Google",
+          "url": "/review-assets/292-6659-rosen-lake-road-10638277-google-best.jpg"
         }
       ],
       "links": {

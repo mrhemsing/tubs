@@ -105,6 +105,24 @@ def load_google_reviews() -> dict[str, dict[str, object]]:
     if not GOOGLE_INDEX_CSV.exists():
         return reviews
     index = {r["listing_id"]: r for r in read_csv(GOOGLE_INDEX_CSV)}
+    for lid, idx in index.items():
+        # Preserve collected Google imagery even before vision review so every
+        # eligible card can expose a Google photo/link. Review JSON below
+        # overrides these defaults when available.
+        best_zoom = "19" if idx.get("google_image_z19") else "18" if idx.get("google_image_z18") else "20" if idx.get("google_image_z20") else ""
+        reviews[lid] = {
+            "listing_id": lid,
+            "address": idx.get("address", ""),
+            "has_useful_google_overhead": "unreviewed",
+            "best_zoom": best_zoom,
+            "coverage_strength": "unreviewed",
+            "notes": "",
+            "google_contact_sheet": idx.get("google_contact_sheet", ""),
+            "google_image_count": idx.get("google_image_count", ""),
+            "google_image_z20": idx.get("google_image_z20", ""),
+            "google_image_z19": idx.get("google_image_z19", ""),
+            "google_image_z18": idx.get("google_image_z18", ""),
+        }
     for p in sorted(GOOGLE_REVIEW_DIR.glob("google_review_batch_*.json")):
         data = json.loads(p.read_text(encoding="utf-8"))
         for item in data:
