@@ -124,7 +124,7 @@ def choose_position(img: Image.Image, tub_size: int) -> tuple[int, int]:
     return int(w * 0.58 - tub_size / 2), int(h * 0.62 - tub_size / 2)
 
 
-def apply_tub(base: Image.Image, tub_size: int, rotation: float) -> Image.Image:
+def apply_tub(base: Image.Image, tub_size: int, rotation: float) -> tuple[Image.Image, dict[str, float]]:
     base = base.convert("RGBA")
     w, h = base.size
     tub = make_tub_asset(tub_size).rotate(rotation, expand=True, resample=Image.Resampling.BICUBIC)
@@ -139,7 +139,13 @@ def apply_tub(base: Image.Image, tub_size: int, rotation: float) -> Image.Image:
     out = base.copy()
     out.alpha_composite(shadow, (x + max(2, tub_size // 24), y + max(3, tub_size // 20)))
     out.alpha_composite(tub, (x, y))
-    return out.convert("RGB")
+    placement = {
+        "xPct": round(((x + tw / 2) / w) * 100, 2),
+        "yPct": round(((y + th / 2) / h) * 100, 2),
+        "sizePct": round((max(tw, th) / min(w, h)) * 100, 2),
+        "rotation": round(rotation, 2),
+    }
+    return out.convert("RGB"), placement
 
 
 def main() -> None:
@@ -170,7 +176,7 @@ def main() -> None:
                 im.thumbnail((max_dim, max_dim), Image.Resampling.LANCZOS)
             tub_size = max(54, min(130, int(min(im.size) * 0.17)))
             rotation = ((int(card.get("rank", 0)) * 17) % 30) - 15
-            out = apply_tub(im, tub_size, rotation)
+            out, placement = apply_tub(im, tub_size, rotation)
         name = f"{str(card['rank']).zfill(3)}-{slug(card['address'])}-{card['listingId']}-tub-mockup.jpg"
         dest = MOCKUPS / name
         out.save(dest, quality=90, optimize=True)
@@ -181,6 +187,7 @@ def main() -> None:
             "rank": card["rank"],
             "sourceImage": src_url,
             "mockup": rel,
+            "placement": placement,
             "label": "Tub concept mockup",
             "notice": "Concept mockup only — hot tub digitally added.",
         })

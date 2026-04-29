@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import TubDesigner from './TubDesigner';
 
 const labels = {
   mls_drone_or_aerial_candidate: 'MLS aerial/elevated',
@@ -114,11 +115,19 @@ function CandidateCard({ card, displayRank = card.rank }) {
             <div className="primaryPhoto empty">No exported candidate photo</div>
           )}
           {card.tubMockup && (
-            <a className="tubMockup" href={card.tubMockup.mockup}>
-              <span className="photoLabel">Tub concept mockup</span>
-              <img src={card.tubMockup.mockup} alt={`${card.address} tub concept mockup`} loading="lazy" />
-              <em>Concept mockup only — hot tub digitally added.</em>
-            </a>
+            <>
+              <a className="tubMockup" href={card.tubMockup.mockup}>
+                <span className="photoLabel">Tub concept mockup</span>
+                <img src={card.tubMockup.mockup} alt={`${card.address} tub concept mockup`} loading="lazy" />
+                <em>Concept mockup only — hot tub digitally added.</em>
+              </a>
+              <TubDesigner
+                listingId={card.listingId}
+                address={card.address}
+                sourceImage={card.tubMockup.sourceImage}
+                initialPlacement={card.tubMockup.placement}
+              />
+            </>
           )}
           {remaining.length > 0 && (
             <div className="thumbGrid compact">
