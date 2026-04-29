@@ -9,7 +9,8 @@
 - Google Static Maps satellite sheets indexed: **300 / 300**
 - Google-reviewed/promoted candidates: **216 reviewed**, with Google imagery available as QA/detail links for all 300 addresses
 - Tub concept mockups: **291 / 291 candidate cards**
-- 4x upscaled review/editor images: **857 total** — 275 distinct primary candidate sources + 291 tub mockups + 291 editable tub design bases
+- Non-AI print-ready exports: **582 total** — 291 primary candidates + 291 tub mockups
+- AI/FAL upscaled assets are retained in `public/upscaled-4x/` but disabled by default because they made aerial imagery look synthetic.
 - Coordinate blockers: **0**
 - Needs-aerial-review rows: **0**
 - Unresolved blocker rows: **0**
@@ -33,11 +34,11 @@
 
 - Generated tub concept mockups for all **291** public candidate cards.
 - Added editable tub design layer with drag, scale, rotate, reset, local browser save, and copy-placement JSON.
-- Added FAL/RealESRGAN 4x upscaling pipeline.
-- Ran 4x upscale for all visible/review-edit images: **275 distinct primary candidate sources**, **291 tub mockups**, and **291 editable design bases**.
-- Upscaled assets live under `public/upscaled-4x/`; index is `public/upscaled-4x.json`.
-- Review UI prefers 4x assets when available and labels them with `· 4x`.
-- Editable tub layer now uses 4x design-base imagery when available; the tub overlay is vector/canvas-rendered and can export an edited 4x mockup after manual placement/scale/rotation adjustments.
+- Tested FAL/RealESRGAN 4x upscaling, but disabled it by default because AI super-resolution invented texture/detail and made aerials look fake.
+- Review UI now uses real/non-AI source images by default again. AI-upscaled files remain available only behind `NEXT_PUBLIC_USE_AI_UPSCALED=1` for comparison/debugging.
+- Added conservative non-AI print exports: Lanczos resize + light sharpening, no generated detail.
+- Print-ready assets live under `public/print-ready/`; index is `public/print-ready.json`.
+- Editable tub overlay remains vector/canvas-rendered for crisp placement/export without altering the real base imagery.
 
 ## ArcGIS contact-sheet pass
 
@@ -115,6 +116,6 @@ Counts:
 
 ## Next best action
 
-1. Matt can review `data/triage/manual_verification_shortlist.md` first, then open the corresponding 4x candidate/tub cards.
-2. Tune tub placement in the editable 4x tub layer and download edited 4x mockups for selected keepers.
+1. Matt can review `data/triage/manual_verification_shortlist.md` first, then open the corresponding candidate/tub cards.
+2. Tune tub placement in the editable tub layer and use the non-AI print-ready exports for selected keepers.
 3. Manually verify `4827 HOLLAND Crescent` vs `4827 Holland Creek Ridge Rd` before treating that coordinate as final.
