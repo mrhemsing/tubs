@@ -30,6 +30,7 @@ const limit = Number(args.get('--limit') || 0);
 const endpoint = args.get('--endpoint') || 'fal-ai/esrgan';
 const model = args.get('--model') || 'RealESRGAN_x4plus';
 const scale = Number(args.get('--scale') || 4);
+const concurrency = Math.max(1, Number(args.get('--concurrency') || 4));
 
 if (!process.env.FAL_KEY) {
   console.error('Missing FAL_KEY. Set FAL_KEY for this command only; do not commit it.');
@@ -43,7 +44,7 @@ function localPath(url) {
 
 function outName(url) {
   const parsed = path.parse(String(url).replace(/^\//, ''));
-  return `${parsed.name}-4x.png`;
+  return `${parsed.name}-4x.jpg`;
 }
 
 async function exists(file) {
@@ -60,7 +61,13 @@ async function download(url, dest) {
   const res = await fetch(url);
   if (!res.ok) throw new Error(`download failed ${res.status} ${url}`);
   const ab = await res.arrayBuffer();
-  await fs.writeFile(dest, Buffer.from(ab));
+  const tmp = `${dest}.download`;
+  await fs.writeFile(tmp, Buffer.from(ab));
+  // Convert provider output to optimized JPEG. FAL/ESRGAN often returns PNGs
+  // that are far too large for a static review site.
+  const sharp = await import('sharp');
+  await sharp.default(tmp).jpeg({ quality: 88, progressive: true, mozjpeg: true }).toFile(dest);
+  await fs.unlink(tmp).catch(() => {});
 }
 
 function collectTargets(review, tub) {
@@ -91,6 +98,12 @@ function collectTargets(review, tub) {
   });
 }
 
+async function writeIndex(byUrl) {
+  const images = [...byUrl.values()].sort((a, b) => `${a.kind}:${a.address}`.localeCompare(`${b.kind}:${b.address}`));
+  await fs.writeFile(OUT_INDEX, JSON.stringify({ generatedAt: new Date().toISOString(), count: images.length, images }, null, 2));
+  return images.length;
+}
+
 async function main() {
   const review = JSON.parse(await fs.readFile(REVIEW_DATA, 'utf8'));
   const tub = await exists(TUB_DATA) ? JSON.parse(await fs.readFile(TUB_DATA, 'utf8')) : null;
@@ -100,20 +113,23 @@ async function main() {
 
   let targets = collectTargets(review, tub);
   if (limit) targets = targets.slice(0, limit);
-  console.log(`Upscaling ${targets.length} images via ${endpoint} (${model}, ${scale}x)`);
+  console.log(`Upscaling ${targets.length} images via ${endpoint} (${model}, ${scale}x), concurrency=${concurrency}`);
 
-  let done = 0;
-  for (const target of targets) {
+  let cursor = 0;
+  let completed = 0;
+  async function processTarget(target, index) {
     const dest = path.join(PUBLIC, target.out.replace(/^\//, '').replaceAll('/', path.sep));
     if (await exists(dest)) {
       byUrl.set(target.url, { ...target, upscaled: target.out, skipped: true });
-      continue;
+      completed += 1;
+      return;
     }
     if (!(await exists(target.src))) {
       console.warn(`missing local source: ${target.url}`);
-      continue;
+      completed += 1;
+      return;
     }
-    console.log(`[${done + 1}/${targets.length}] ${target.kind} ${target.address}`);
+    console.log(`[${index + 1}/${targets.length}] ${target.kind} ${target.address}`);
     const imageUrl = await upload(target.src);
     const result = await fal.subscribe(endpoint, {
       input: { image_url: imageUrl, scale, model },
@@ -124,12 +140,20 @@ async function main() {
     if (!upUrl) throw new Error(`No image URL returned for ${target.url}: ${JSON.stringify(result).slice(0, 500)}`);
     await download(upUrl, dest);
     byUrl.set(target.url, { ...target, upscaled: target.out, endpoint, model, scale });
-    done += 1;
+    completed += 1;
+    if (completed % 5 === 0) await writeIndex(byUrl);
   }
 
-  const images = [...byUrl.values()].sort((a, b) => `${a.kind}:${a.address}`.localeCompare(`${b.kind}:${b.address}`));
-  await fs.writeFile(OUT_INDEX, JSON.stringify({ generatedAt: new Date().toISOString(), count: images.length, images }, null, 2));
-  console.log(`Wrote ${path.relative(ROOT, OUT_INDEX)} (${images.length} entries)`);
+  async function worker() {
+    while (cursor < targets.length) {
+      const index = cursor++;
+      await processTarget(targets[index], index);
+    }
+  }
+
+  await Promise.all(Array.from({ length: Math.min(concurrency, targets.length) }, () => worker()));
+  const count = await writeIndex(byUrl);
+  console.log(`Wrote ${path.relative(ROOT, OUT_INDEX)} (${count} entries)`);
 }
 
 main().catch((err) => {
