@@ -21,13 +21,9 @@ ASSETS = PUBLIC / "review-assets"
 MOCKUPS = PUBLIC / "tub-mockups"
 OUT_INDEX = PUBLIC / "tub-mockups.json"
 
-MOCKUP_SOURCES = {
-    "google_overhead_house_backyard_candidate",
-    "bing_overhead_house_backyard_candidate",
-    "arcgis_overhead_house_backyard_candidate",
-    "mapbox_overhead_house_backyard_candidate",
-    "possible_google_overhead_needs_verify",
-    "possible_bing_overhead_needs_verify",
+SKIP_MOCKUP_SOURCES = {
+    "no_usable_aerial_candidate_after_full_review",
+    "mls_ground_backyard_context_only",
 }
 
 
@@ -153,7 +149,7 @@ def main() -> None:
     args = parser.parse_args()
 
     data = json.loads(Path(args.review_data).read_text(encoding="utf-8"))
-    cards = [c for c in data.get("cards", []) if c.get("recommendedSource") in MOCKUP_SOURCES]
+    cards = [c for c in data.get("cards", []) if c.get("recommendedSource") not in SKIP_MOCKUP_SOURCES]
     if args.limit:
         cards = cards[: args.limit]
 
