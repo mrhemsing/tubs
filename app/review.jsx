@@ -33,7 +33,15 @@ const areaBanners = {
 
 function loadData() {
   const file = path.join(process.cwd(), 'public', 'review-data.json');
-  return JSON.parse(fs.readFileSync(file, 'utf8'));
+  const data = JSON.parse(fs.readFileSync(file, 'utf8'));
+  const mockupFile = path.join(process.cwd(), 'public', 'tub-mockups.json');
+  if (fs.existsSync(mockupFile)) {
+    const mockups = JSON.parse(fs.readFileSync(mockupFile, 'utf8')).mockups || [];
+    const byListing = Object.fromEntries(mockups.map((m) => [m.listingId, m]));
+    data.cards = data.cards.map((card) => ({ ...card, tubMockup: byListing[card.listingId] || null }));
+    data.summary.tubMockups = mockups.length;
+  }
+  return data;
 }
 
 function sourceClass(source) {
@@ -71,6 +79,7 @@ function DetailItem({ label, value }) {
 
 function CandidateCard({ card, displayRank = card.rank }) {
   const links = [
+    ['Tub mockup', card.tubMockup?.mockup],
     ['MLS contact sheet', card.links?.mlsContactSheet],
     ['ArcGIS contact sheet', card.links?.arcgisContactSheet],
     ['Best ArcGIS tile', card.links?.bestArcgisTile],
@@ -103,6 +112,13 @@ function CandidateCard({ card, displayRank = card.rank }) {
             </a>
           ) : (
             <div className="primaryPhoto empty">No exported candidate photo</div>
+          )}
+          {card.tubMockup && (
+            <a className="tubMockup" href={card.tubMockup.mockup}>
+              <span className="photoLabel">Tub concept mockup</span>
+              <img src={card.tubMockup.mockup} alt={`${card.address} tub concept mockup`} loading="lazy" />
+              <em>Concept mockup only — hot tub digitally added.</em>
+            </a>
           )}
           {remaining.length > 0 && (
             <div className="thumbGrid compact">
@@ -150,6 +166,7 @@ function AreaBlock({ area, cards, rows }) {
   const googleCount = cards.filter((card) => card.recommendedSource === 'google_overhead_house_backyard_candidate').length;
   const mapboxCount = cards.filter((card) => card.recommendedSource === 'mapbox_overhead_house_backyard_candidate').length;
   const possibleCount = cards.filter((card) => ['possible_mls_elevated_candidate_needs_verify', 'possible_bing_overhead_needs_verify', 'possible_google_overhead_needs_verify', 'possible_mapbox_overhead_needs_verify'].includes(card.recommendedSource)).length;
+  const tubMockupCount = cards.filter((card) => card.tubMockup).length;
 
   return (
     <section className="areaSection" id={areaSlugs[area]}>
@@ -166,6 +183,7 @@ function AreaBlock({ area, cards, rows }) {
           <span>{googleCount} Google overhead</span>
           <span>{mapboxCount} Mapbox overhead</span>
           <span>{possibleCount} possible elevated</span>
+          <span>{tubMockupCount} tub mockups</span>
         </div>
       </div>
 
