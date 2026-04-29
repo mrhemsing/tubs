@@ -63,11 +63,21 @@ async function download(url, dest) {
   const ab = await res.arrayBuffer();
   const tmp = `${dest}.download`;
   await fs.writeFile(tmp, Buffer.from(ab));
-  // Convert provider output to optimized JPEG. FAL/ESRGAN often returns PNGs
-  // that are far too large for a static review site.
-  const sharp = await import('sharp');
-  await sharp.default(tmp).jpeg({ quality: 88, progressive: true, mozjpeg: true }).toFile(dest);
-  await fs.unlink(tmp).catch(() => {});
+  try {
+    // Convert provider output to optimized JPEG. FAL/ESRGAN often returns PNGs
+    // that are far too large for a static review site.
+    const sharp = await import('sharp');
+    await sharp.default(tmp).jpeg({ quality: 88, progressive: true, mozjpeg: true }).toFile(dest);
+  } catch (err) {
+    await fs.unlink(dest).catch(() => {});
+    throw err;
+  } finally {
+    await fs.unlink(tmp).catch(() => {});
+  }
+}
+
+function delay(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
 function collectTargets(review, tub) {
@@ -86,8 +96,11 @@ function collectTargets(review, tub) {
       }
     }
   }
-  if ((mode === 'tub' || mode === 'primary-and-tub' || mode === 'all-card-visible') && tub) {
+  if ((mode === 'tub' || mode === 'primary-and-tub' || mode === 'primary-tub-and-design-base' || mode === 'all-card-visible') && tub) {
     for (const item of tub.mockups || []) add('tub', item.listingId, item.address, item.mockup);
+  }
+  if ((mode === 'design-base' || mode === 'primary-tub-and-design-base' || mode === 'all-card-visible') && tub) {
+    for (const item of tub.mockups || []) add('design-base', item.listingId, item.address, item.sourceImage);
   }
 
   const seen = new Set();
@@ -130,15 +143,27 @@ async function main() {
       return;
     }
     console.log(`[${index + 1}/${targets.length}] ${target.kind} ${target.address}`);
-    const imageUrl = await upload(target.src);
-    const result = await fal.subscribe(endpoint, {
-      input: { image_url: imageUrl, scale, model },
-      logs: false,
-    });
-    const image = result?.data?.image || result?.image || result?.data?.images?.[0] || result?.images?.[0];
-    const upUrl = image?.url;
-    if (!upUrl) throw new Error(`No image URL returned for ${target.url}: ${JSON.stringify(result).slice(0, 500)}`);
-    await download(upUrl, dest);
+    let lastError;
+    for (let attempt = 1; attempt <= 3; attempt += 1) {
+      try {
+        const imageUrl = await upload(target.src);
+        const result = await fal.subscribe(endpoint, {
+          input: { image_url: imageUrl, scale, model },
+          logs: false,
+        });
+        const image = result?.data?.image || result?.image || result?.data?.images?.[0] || result?.images?.[0];
+        const upUrl = image?.url;
+        if (!upUrl) throw new Error(`No image URL returned for ${target.url}: ${JSON.stringify(result).slice(0, 500)}`);
+        await download(upUrl, dest);
+        lastError = null;
+        break;
+      } catch (err) {
+        lastError = err;
+        console.warn(`retry ${attempt}/3 failed for ${target.url}: ${err.message}`);
+        await delay(1500 * attempt);
+      }
+    }
+    if (lastError) throw lastError;
     byUrl.set(target.url, { ...target, upscaled: target.out, endpoint, model, scale });
     completed += 1;
     if (completed % 5 === 0) await writeIndex(byUrl);

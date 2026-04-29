@@ -49,7 +49,15 @@ function loadData() {
     data.cards = data.cards.map((card) => ({
       ...card,
       thumbs: (card.thumbs || []).map((thumb) => ({ ...thumb, originalUrl: thumb.url, url: byUrl[thumb.url] || thumb.url, upscaled: Boolean(byUrl[thumb.url]) })),
-      tubMockup: card.tubMockup ? { ...card.tubMockup, originalMockup: card.tubMockup.mockup, mockup: byUrl[card.tubMockup.mockup] || card.tubMockup.mockup, upscaled: Boolean(byUrl[card.tubMockup.mockup]) } : null,
+      tubMockup: card.tubMockup ? {
+        ...card.tubMockup,
+        originalMockup: card.tubMockup.mockup,
+        mockup: byUrl[card.tubMockup.mockup] || card.tubMockup.mockup,
+        upscaled: Boolean(byUrl[card.tubMockup.mockup]),
+        originalSourceImage: card.tubMockup.sourceImage,
+        sourceImage: byUrl[card.tubMockup.sourceImage] || card.tubMockup.sourceImage,
+        sourceUpscaled: Boolean(byUrl[card.tubMockup.sourceImage]),
+      } : null,
     }));
     data.summary.upscaled4x = upscaled.length;
   }
@@ -136,6 +144,7 @@ function CandidateCard({ card, displayRank = card.rank }) {
                 listingId={card.listingId}
                 address={card.address}
                 sourceImage={card.tubMockup.sourceImage}
+                sourceUpscaled={card.tubMockup.sourceUpscaled}
                 initialPlacement={card.tubMockup.placement}
               />
             </>
