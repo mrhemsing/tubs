@@ -7,18 +7,18 @@
     "mlsReviewed": 172,
     "counts": {
       "mls_drone_or_aerial_candidate": 48,
-      "google_overhead_house_backyard_candidate": 133,
+      "google_overhead_house_backyard_candidate": 144,
       "bing_overhead_house_backyard_candidate": 7,
       "arcgis_overhead_house_backyard_candidate": 10,
       "mapbox_overhead_house_backyard_candidate": 3,
       "possible_mls_elevated_candidate_needs_verify": 18,
-      "possible_google_overhead_needs_verify": 12,
-      "blocked_arcgis_no_imagery": 64,
+      "possible_google_overhead_needs_verify": 16,
+      "blocked_arcgis_no_imagery": 49,
       "mls_ground_backyard_context_only": 2,
       "needs_aerial_review": 2,
       "blocked_no_coordinate": 1
     },
-    "candidateCards": 228
+    "candidateCards": 243
   },
   "cards": [
     {
@@ -11465,6 +11465,468 @@
     },
     {
       "rank": 223,
+      "score": 25,
+      "listingId": "10605182",
+      "address": "4600 TIMBERLINE Crescent",
+      "sourceLabel": "Fernie/Sparwood",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/223-4600-timberline-crescent-10605182-google-image.jpg",
+      "googleCoverageStrength": "high",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; House, driveway, road frontage, and surrounding lot/backyard context visible; z20 has more detail but tighter crop.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/223-4600-timberline-crescent-10605182-google-best.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/223-4600-timberline-crescent-10605182-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/223-4600-timberline-crescent-10605182-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/223-4600-timberline-crescent-10605182-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/223-4600-timberline-crescent-10605182-google-image.jpg",
+        "googleContactSheet": "/review-assets/223-4600-timberline-crescent-10605182-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 224,
+      "score": 25,
+      "listingId": "10590002",
+      "address": "4642 ROWAN Street",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/224-4642-rowan-street-10590002-google-image.jpg",
+      "googleCoverageStrength": "medium",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; House/lot context visible, though trees and shadows obscure parts of the backyard.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/224-4642-rowan-street-10590002-google-best.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/224-4642-rowan-street-10590002-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/224-4642-rowan-street-10590002-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/224-4642-rowan-street-10590002-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/224-4642-rowan-street-10590002-google-image.jpg",
+        "googleContactSheet": "/review-assets/224-4642-rowan-street-10590002-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 225,
+      "score": 25,
+      "listingId": "10631280",
+      "address": "4808 LAKEHILL Road",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/225-4808-lakehill-road-10631280-google-image.jpg",
+      "googleCoverageStrength": "high",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; House and surrounding yard/lot context are visible; z19 balances detail and full-property context.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/225-4808-lakehill-road-10631280-google-best.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/225-4808-lakehill-road-10631280-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/225-4808-lakehill-road-10631280-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/225-4808-lakehill-road-10631280-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/225-4808-lakehill-road-10631280-google-image.jpg",
+        "googleContactSheet": "/review-assets/225-4808-lakehill-road-10631280-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 226,
+      "score": 25,
+      "listingId": "10662523",
+      "address": "4816 RIDGE Drive",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/226-4816-ridge-drive-10662523-google-image.jpg",
+      "googleCoverageStrength": "medium",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; House area and surrounding road/lot context visible, but tree cover partially obscures yard boundaries.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/226-4816-ridge-drive-10662523-google-best.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/226-4816-ridge-drive-10662523-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/226-4816-ridge-drive-10662523-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/226-4816-ridge-drive-10662523-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/226-4816-ridge-drive-10662523-google-image.jpg",
+        "googleContactSheet": "/review-assets/226-4816-ridge-drive-10662523-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 227,
+      "score": 25,
+      "listingId": "10565896",
+      "address": "4859 HOLLAND CK RIDGE Road",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "point",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/227-4859-holland-ck-ridge-road-10565896-google-image.jpg",
+      "googleCoverageStrength": "high",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Clear elevated/top-down view of house, driveway, neighboring lots, and usable yard/lot context.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/227-4859-holland-ck-ridge-road-10565896-google-best.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/227-4859-holland-ck-ridge-road-10565896-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/227-4859-holland-ck-ridge-road-10565896-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/227-4859-holland-ck-ridge-road-10565896-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/227-4859-holland-ck-ridge-road-10565896-google-image.jpg",
+        "googleContactSheet": "/review-assets/227-4859-holland-ck-ridge-road-10565896-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 228,
+      "score": 25,
+      "listingId": "10569690",
+      "address": "4927 LAKEVIEW MEADOWS Close",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "point",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/228-4927-lakeview-meadows-close-10569690-google-image.jpg",
+      "googleCoverageStrength": "high",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; House, road frontage, and surrounding lot/neighborhood context visible; some trees but still useful.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/228-4927-lakeview-meadows-close-10569690-google-best.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/228-4927-lakeview-meadows-close-10569690-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/228-4927-lakeview-meadows-close-10569690-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/228-4927-lakeview-meadows-close-10569690-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/228-4927-lakeview-meadows-close-10569690-google-image.jpg",
+        "googleContactSheet": "/review-assets/228-4927-lakeview-meadows-close-10569690-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 229,
+      "score": 25,
+      "listingId": "10666174",
+      "address": "4931 MOUNTAIN VIEW Drive",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/229-4931-mountain-view-drive-10666174-google-image.jpg",
+      "googleCoverageStrength": "medium",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; House and surrounding lot are visible, but trees/shadows obscure parts of yard; z19 gives best balance of structure and lot context.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/229-4931-mountain-view-drive-10666174-google-best.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/229-4931-mountain-view-drive-10666174-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/229-4931-mountain-view-drive-10666174-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/229-4931-mountain-view-drive-10666174-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/229-4931-mountain-view-drive-10666174-google-image.jpg",
+        "googleContactSheet": "/review-assets/229-4931-mountain-view-drive-10666174-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 230,
+      "score": 25,
+      "listingId": "10573050",
+      "address": "5009 FAIRWAY Drive",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "20",
+      "googleBestImage": "/review-assets/230-5009-fairway-drive-10573050-google-image.jpg",
+      "googleCoverageStrength": "high",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Clear top-down view of house, lawn, driveway, and lot surroundings; z20 is strongest.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/230-5009-fairway-drive-10573050-google-best.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/230-5009-fairway-drive-10573050-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/230-5009-fairway-drive-10573050-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/230-5009-fairway-drive-10573050-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/230-5009-fairway-drive-10573050-google-image.jpg",
+        "googleContactSheet": "/review-assets/230-5009-fairway-drive-10573050-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 231,
+      "score": 25,
+      "listingId": "10608316",
+      "address": "501-5258 HIGHLINE Drive",
+      "sourceLabel": "Fernie/Sparwood",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/231-501-5258-highline-drive-10608316-google-image.jpg",
+      "googleCoverageStrength": "medium",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Shows building/complex and surrounding grounds/parking/pool; useful site context, though not a detached house/backyard view.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/231-501-5258-highline-drive-10608316-google-best.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/231-501-5258-highline-drive-10608316-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/231-501-5258-highline-drive-10608316-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/231-501-5258-highline-drive-10608316-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/231-501-5258-highline-drive-10608316-google-image.jpg",
+        "googleContactSheet": "/review-assets/231-501-5258-highline-drive-10608316-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 232,
+      "score": 25,
+      "listingId": "10682769",
+      "address": "5025 RIVERVIEW Road",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "20",
+      "googleBestImage": "/review-assets/232-5025-riverview-road-10682769-google-image.jpg",
+      "googleCoverageStrength": "high",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Clear top-down view of house, driveway, surrounding lawn/lot; z19 adds useful neighborhood context.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/232-5025-riverview-road-10682769-google-best.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/232-5025-riverview-road-10682769-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/232-5025-riverview-road-10682769-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/232-5025-riverview-road-10682769-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/232-5025-riverview-road-10682769-google-image.jpg",
+        "googleContactSheet": "/review-assets/232-5025-riverview-road-10682769-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 233,
+      "score": 25,
+      "listingId": "10677817",
+      "address": "5151 RIVERVIEW Road",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "20",
+      "googleBestImage": "/review-assets/233-5151-riverview-road-10677817-google-image.jpg",
+      "googleCoverageStrength": "high",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Very clear overhead of house, driveway, front/side yard and lot boundaries; z19 also useful.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/233-5151-riverview-road-10677817-google-best.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/233-5151-riverview-road-10677817-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/233-5151-riverview-road-10677817-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/233-5151-riverview-road-10677817-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/233-5151-riverview-road-10677817-google-image.jpg",
+        "googleContactSheet": "/review-assets/233-5151-riverview-road-10677817-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 234,
       "score": 18,
       "listingId": "10559698",
       "address": "11 ALPINE TRAIL Lane",
@@ -11482,7 +11944,7 @@
       "googleOverhead": "unclear",
       "googleImageCount": "3",
       "googleBestZoom": "19",
-      "googleBestImage": "/review-assets/223-11-alpine-trail-lane-10559698-google-image.jpg",
+      "googleBestImage": "/review-assets/234-11-alpine-trail-lane-10559698-google-image.jpg",
       "googleCoverageStrength": "low",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -11492,21 +11954,21 @@
       "thumbs": [
         {
           "label": "ArcGIS",
-          "url": "/review-assets/223-11-alpine-trail-lane-10559698-arcgis-best.jpg"
+          "url": "/review-assets/234-11-alpine-trail-lane-10559698-arcgis-best.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/223-11-alpine-trail-lane-10559698-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/223-11-alpine-trail-lane-10559698-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/223-11-alpine-trail-lane-10559698-arcgis-tile.jpg",
+        "mlsContactSheet": "/review-assets/234-11-alpine-trail-lane-10559698-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/234-11-alpine-trail-lane-10559698-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/234-11-alpine-trail-lane-10559698-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "/review-assets/223-11-alpine-trail-lane-10559698-google-image.jpg",
-        "googleContactSheet": "/review-assets/223-11-alpine-trail-lane-10559698-google-sheet.jpg",
+        "googleBestImage": "/review-assets/234-11-alpine-trail-lane-10559698-google-image.jpg",
+        "googleContactSheet": "/review-assets/234-11-alpine-trail-lane-10559698-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
     {
-      "rank": 224,
+      "rank": 235,
       "score": 18,
       "listingId": "10589073",
       "address": "1453 STODDART Avenue",
@@ -11524,7 +11986,7 @@
       "googleOverhead": "unclear",
       "googleImageCount": "3",
       "googleBestZoom": "18",
-      "googleBestImage": "/review-assets/224-1453-stoddart-avenue-10589073-google-image.jpg",
+      "googleBestImage": "/review-assets/235-1453-stoddart-avenue-10589073-google-image.jpg",
       "googleCoverageStrength": "low",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -11534,21 +11996,21 @@
       "thumbs": [
         {
           "label": "ArcGIS",
-          "url": "/review-assets/224-1453-stoddart-avenue-10589073-arcgis-best.jpg"
+          "url": "/review-assets/235-1453-stoddart-avenue-10589073-arcgis-best.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/224-1453-stoddart-avenue-10589073-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/224-1453-stoddart-avenue-10589073-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/224-1453-stoddart-avenue-10589073-arcgis-tile.jpg",
+        "mlsContactSheet": "/review-assets/235-1453-stoddart-avenue-10589073-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/235-1453-stoddart-avenue-10589073-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/235-1453-stoddart-avenue-10589073-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "/review-assets/224-1453-stoddart-avenue-10589073-google-image.jpg",
-        "googleContactSheet": "/review-assets/224-1453-stoddart-avenue-10589073-google-sheet.jpg",
+        "googleBestImage": "/review-assets/235-1453-stoddart-avenue-10589073-google-image.jpg",
+        "googleContactSheet": "/review-assets/235-1453-stoddart-avenue-10589073-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
     {
-      "rank": 225,
+      "rank": 236,
       "score": 18,
       "listingId": "10615862",
       "address": "17 ALPINE Trail",
@@ -11566,7 +12028,7 @@
       "googleOverhead": "unclear",
       "googleImageCount": "3",
       "googleBestZoom": "19",
-      "googleBestImage": "/review-assets/225-17-alpine-trail-10615862-google-image.jpg",
+      "googleBestImage": "/review-assets/236-17-alpine-trail-10615862-google-image.jpg",
       "googleCoverageStrength": "low",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -11576,21 +12038,21 @@
       "thumbs": [
         {
           "label": "ArcGIS",
-          "url": "/review-assets/225-17-alpine-trail-10615862-arcgis-best.jpg"
+          "url": "/review-assets/236-17-alpine-trail-10615862-arcgis-best.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/225-17-alpine-trail-10615862-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/225-17-alpine-trail-10615862-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/225-17-alpine-trail-10615862-arcgis-tile.jpg",
+        "mlsContactSheet": "/review-assets/236-17-alpine-trail-10615862-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/236-17-alpine-trail-10615862-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/236-17-alpine-trail-10615862-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "/review-assets/225-17-alpine-trail-10615862-google-image.jpg",
-        "googleContactSheet": "/review-assets/225-17-alpine-trail-10615862-google-sheet.jpg",
+        "googleBestImage": "/review-assets/236-17-alpine-trail-10615862-google-image.jpg",
+        "googleContactSheet": "/review-assets/236-17-alpine-trail-10615862-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
     {
-      "rank": 226,
+      "rank": 237,
       "score": 18,
       "listingId": "10521676",
       "address": "1753 2ND Avenue",
@@ -11608,7 +12070,7 @@
       "googleOverhead": "unclear",
       "googleImageCount": "3",
       "googleBestZoom": "19",
-      "googleBestImage": "/review-assets/226-1753-2nd-avenue-10521676-google-image.jpg",
+      "googleBestImage": "/review-assets/237-1753-2nd-avenue-10521676-google-image.jpg",
       "googleCoverageStrength": "low",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -11618,21 +12080,21 @@
       "thumbs": [
         {
           "label": "ArcGIS",
-          "url": "/review-assets/226-1753-2nd-avenue-10521676-arcgis-best.jpg"
+          "url": "/review-assets/237-1753-2nd-avenue-10521676-arcgis-best.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/226-1753-2nd-avenue-10521676-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/226-1753-2nd-avenue-10521676-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/226-1753-2nd-avenue-10521676-arcgis-tile.jpg",
+        "mlsContactSheet": "/review-assets/237-1753-2nd-avenue-10521676-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/237-1753-2nd-avenue-10521676-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/237-1753-2nd-avenue-10521676-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "/review-assets/226-1753-2nd-avenue-10521676-google-image.jpg",
-        "googleContactSheet": "/review-assets/226-1753-2nd-avenue-10521676-google-sheet.jpg",
+        "googleBestImage": "/review-assets/237-1753-2nd-avenue-10521676-google-image.jpg",
+        "googleContactSheet": "/review-assets/237-1753-2nd-avenue-10521676-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
     {
-      "rank": 227,
+      "rank": 238,
       "score": 18,
       "listingId": "20020845",
       "address": "1921 PINERIDGE MOUNTAIN Trail",
@@ -11650,7 +12112,7 @@
       "googleOverhead": "unclear",
       "googleImageCount": "3",
       "googleBestZoom": "19",
-      "googleBestImage": "/review-assets/227-1921-pineridge-mountain-trail-20020845-google-image.jpg",
+      "googleBestImage": "/review-assets/238-1921-pineridge-mountain-trail-20020845-google-image.jpg",
       "googleCoverageStrength": "low",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -11660,21 +12122,21 @@
       "thumbs": [
         {
           "label": "ArcGIS",
-          "url": "/review-assets/227-1921-pineridge-mountain-trail-20020845-arcgis-best.jpg"
+          "url": "/review-assets/238-1921-pineridge-mountain-trail-20020845-arcgis-best.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/227-1921-pineridge-mountain-trail-20020845-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/227-1921-pineridge-mountain-trail-20020845-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/227-1921-pineridge-mountain-trail-20020845-arcgis-tile.jpg",
+        "mlsContactSheet": "/review-assets/238-1921-pineridge-mountain-trail-20020845-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/238-1921-pineridge-mountain-trail-20020845-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/238-1921-pineridge-mountain-trail-20020845-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "/review-assets/227-1921-pineridge-mountain-trail-20020845-google-image.jpg",
-        "googleContactSheet": "/review-assets/227-1921-pineridge-mountain-trail-20020845-google-sheet.jpg",
+        "googleBestImage": "/review-assets/238-1921-pineridge-mountain-trail-20020845-google-image.jpg",
+        "googleContactSheet": "/review-assets/238-1921-pineridge-mountain-trail-20020845-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
     {
-      "rank": 228,
+      "rank": 239,
       "score": 18,
       "listingId": "10628923",
       "address": "32 SILVER RIDGE Drive",
@@ -11692,7 +12154,7 @@
       "googleOverhead": "unclear",
       "googleImageCount": "3",
       "googleBestZoom": "19",
-      "googleBestImage": "/review-assets/228-32-silver-ridge-drive-10628923-google-image.jpg",
+      "googleBestImage": "/review-assets/239-32-silver-ridge-drive-10628923-google-image.jpg",
       "googleCoverageStrength": "low",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -11702,21 +12164,21 @@
       "thumbs": [
         {
           "label": "ArcGIS",
-          "url": "/review-assets/228-32-silver-ridge-drive-10628923-arcgis-best.jpg"
+          "url": "/review-assets/239-32-silver-ridge-drive-10628923-arcgis-best.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/228-32-silver-ridge-drive-10628923-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/228-32-silver-ridge-drive-10628923-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/228-32-silver-ridge-drive-10628923-arcgis-tile.jpg",
+        "mlsContactSheet": "/review-assets/239-32-silver-ridge-drive-10628923-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/239-32-silver-ridge-drive-10628923-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/239-32-silver-ridge-drive-10628923-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "/review-assets/228-32-silver-ridge-drive-10628923-google-image.jpg",
-        "googleContactSheet": "/review-assets/228-32-silver-ridge-drive-10628923-google-sheet.jpg",
+        "googleBestImage": "/review-assets/239-32-silver-ridge-drive-10628923-google-image.jpg",
+        "googleContactSheet": "/review-assets/239-32-silver-ridge-drive-10628923-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
     {
-      "rank": 229,
+      "rank": 240,
       "score": 18,
       "listingId": "10619308",
       "address": "368 PANORAMA Place",
@@ -11734,7 +12196,7 @@
       "googleOverhead": "unclear",
       "googleImageCount": "3",
       "googleBestZoom": "19",
-      "googleBestImage": "/review-assets/229-368-panorama-place-10619308-google-image.jpg",
+      "googleBestImage": "/review-assets/240-368-panorama-place-10619308-google-image.jpg",
       "googleCoverageStrength": "low",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -11744,21 +12206,21 @@
       "thumbs": [
         {
           "label": "ArcGIS",
-          "url": "/review-assets/229-368-panorama-place-10619308-arcgis-best.jpg"
+          "url": "/review-assets/240-368-panorama-place-10619308-arcgis-best.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/229-368-panorama-place-10619308-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/229-368-panorama-place-10619308-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/229-368-panorama-place-10619308-arcgis-tile.jpg",
+        "mlsContactSheet": "/review-assets/240-368-panorama-place-10619308-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/240-368-panorama-place-10619308-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/240-368-panorama-place-10619308-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "/review-assets/229-368-panorama-place-10619308-google-image.jpg",
-        "googleContactSheet": "/review-assets/229-368-panorama-place-10619308-google-sheet.jpg",
+        "googleBestImage": "/review-assets/240-368-panorama-place-10619308-google-image.jpg",
+        "googleContactSheet": "/review-assets/240-368-panorama-place-10619308-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
     {
-      "rank": 230,
+      "rank": 241,
       "score": 18,
       "listingId": "10572288",
       "address": "4552 COLUMBIA VIEW Road",
@@ -11776,7 +12238,7 @@
       "googleOverhead": "unclear",
       "googleImageCount": "3",
       "googleBestZoom": "19",
-      "googleBestImage": "/review-assets/230-4552-columbia-view-road-10572288-google-image.jpg",
+      "googleBestImage": "/review-assets/241-4552-columbia-view-road-10572288-google-image.jpg",
       "googleCoverageStrength": "low",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -11786,21 +12248,21 @@
       "thumbs": [
         {
           "label": "ArcGIS",
-          "url": "/review-assets/230-4552-columbia-view-road-10572288-arcgis-best.jpg"
+          "url": "/review-assets/241-4552-columbia-view-road-10572288-arcgis-best.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/230-4552-columbia-view-road-10572288-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/230-4552-columbia-view-road-10572288-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/230-4552-columbia-view-road-10572288-arcgis-tile.jpg",
+        "mlsContactSheet": "/review-assets/241-4552-columbia-view-road-10572288-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/241-4552-columbia-view-road-10572288-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/241-4552-columbia-view-road-10572288-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "/review-assets/230-4552-columbia-view-road-10572288-google-image.jpg",
-        "googleContactSheet": "/review-assets/230-4552-columbia-view-road-10572288-google-sheet.jpg",
+        "googleBestImage": "/review-assets/241-4552-columbia-view-road-10572288-google-image.jpg",
+        "googleContactSheet": "/review-assets/241-4552-columbia-view-road-10572288-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     },
     {
-      "rank": 231,
+      "rank": 242,
       "score": 18,
       "listingId": "10559208",
       "address": "4553 TIMBERLINE Crescent",
@@ -11818,7 +12280,7 @@
       "googleOverhead": "unclear",
       "googleImageCount": "3",
       "googleBestZoom": "19",
-      "googleBestImage": "/review-assets/231-4553-timberline-crescent-10559208-google-image.jpg",
+      "googleBestImage": "/review-assets/242-4553-timberline-crescent-10559208-google-image.jpg",
       "googleCoverageStrength": "low",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -11828,16 +12290,184 @@
       "thumbs": [
         {
           "label": "ArcGIS",
-          "url": "/review-assets/231-4553-timberline-crescent-10559208-arcgis-best.jpg"
+          "url": "/review-assets/242-4553-timberline-crescent-10559208-arcgis-best.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/231-4553-timberline-crescent-10559208-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/231-4553-timberline-crescent-10559208-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/231-4553-timberline-crescent-10559208-arcgis-tile.jpg",
+        "mlsContactSheet": "/review-assets/242-4553-timberline-crescent-10559208-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/242-4553-timberline-crescent-10559208-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/242-4553-timberline-crescent-10559208-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "/review-assets/231-4553-timberline-crescent-10559208-google-image.jpg",
-        "googleContactSheet": "/review-assets/231-4553-timberline-crescent-10559208-google-sheet.jpg",
+        "googleBestImage": "/review-assets/242-4553-timberline-crescent-10559208-google-image.jpg",
+        "googleContactSheet": "/review-assets/242-4553-timberline-crescent-10559208-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 243,
+      "score": 18,
+      "listingId": "10680461",
+      "address": "4671 POPLAR Street",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "possible_google_overhead_needs_verify",
+      "coverageGoal": "possible_google_overhead_needs_verify",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "unclear",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/243-4671-poplar-street-10680461-google-image.jpg",
+      "googleCoverageStrength": "low",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Residential area visible, but crosshair appears near road/driveway and target house/lot boundaries are ambiguous.",
+      "thumbs": [
+        {
+          "label": "ArcGIS",
+          "url": "/review-assets/243-4671-poplar-street-10680461-arcgis-best.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/243-4671-poplar-street-10680461-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/243-4671-poplar-street-10680461-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/243-4671-poplar-street-10680461-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/243-4671-poplar-street-10680461-google-image.jpg",
+        "googleContactSheet": "/review-assets/243-4671-poplar-street-10680461-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 244,
+      "score": 18,
+      "listingId": "10673667",
+      "address": "4985 MOUNTAIN TOP Drive",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "possible_google_overhead_needs_verify",
+      "coverageGoal": "possible_google_overhead_needs_verify",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "unclear",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/244-4985-mountain-top-drive-10673667-google-image.jpg",
+      "googleCoverageStrength": "low",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Neighborhood lots are visible, but crosshair falls on/near roadway and target house is ambiguous; z19 is the most usable if parcel is known.",
+      "thumbs": [
+        {
+          "label": "ArcGIS",
+          "url": "/review-assets/244-4985-mountain-top-drive-10673667-arcgis-best.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/244-4985-mountain-top-drive-10673667-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/244-4985-mountain-top-drive-10673667-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/244-4985-mountain-top-drive-10673667-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/244-4985-mountain-top-drive-10673667-google-image.jpg",
+        "googleContactSheet": "/review-assets/244-4985-mountain-top-drive-10673667-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 245,
+      "score": 18,
+      "listingId": "10523709",
+      "address": "515 LAKEVIEW Place",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "possible_google_overhead_needs_verify",
+      "coverageGoal": "possible_google_overhead_needs_verify",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "unclear",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/245-515-lakeview-place-10523709-google-image.jpg",
+      "googleCoverageStrength": "medium",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Coordinate appears near road/intersection; nearby house and yard visible but target parcel/house alignment is uncertain and partly tree-obscured.",
+      "thumbs": [
+        {
+          "label": "ArcGIS",
+          "url": "/review-assets/245-515-lakeview-place-10523709-arcgis-best.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/245-515-lakeview-place-10523709-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/245-515-lakeview-place-10523709-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/245-515-lakeview-place-10523709-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/245-515-lakeview-place-10523709-google-image.jpg",
+        "googleContactSheet": "/review-assets/245-515-lakeview-place-10523709-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 246,
+      "score": 18,
+      "listingId": "10570990",
+      "address": "5156 RIVERVIEW Crescent",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "possible_google_overhead_needs_verify",
+      "coverageGoal": "possible_google_overhead_needs_verify",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "unclear",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/246-5156-riverview-crescent-10570990-google-image.jpg",
+      "googleCoverageStrength": "low",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Crosshair is on road/cul-de-sac area; surrounding homes visible but target house/yard is obscured by trees and not clearly centered.",
+      "thumbs": [
+        {
+          "label": "ArcGIS",
+          "url": "/review-assets/246-5156-riverview-crescent-10570990-arcgis-best.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/246-5156-riverview-crescent-10570990-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/246-5156-riverview-crescent-10570990-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/246-5156-riverview-crescent-10570990-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/246-5156-riverview-crescent-10570990-google-image.jpg",
+        "googleContactSheet": "/review-assets/246-5156-riverview-crescent-10570990-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     }
@@ -15397,6 +16027,182 @@
     },
     {
       "rank": 223,
+      "listingId": "10605182",
+      "address": "4600 TIMBERLINE Crescent",
+      "sourceLabel": "Fernie/Sparwood",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": false,
+      "mlsAerial": "unreviewed",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 224,
+      "listingId": "10590002",
+      "address": "4642 ROWAN Street",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": false,
+      "mlsAerial": "unreviewed",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 225,
+      "listingId": "10631280",
+      "address": "4808 LAKEHILL Road",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": false,
+      "mlsAerial": "unreviewed",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 226,
+      "listingId": "10662523",
+      "address": "4816 RIDGE Drive",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": false,
+      "mlsAerial": "unreviewed",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 227,
+      "listingId": "10565896",
+      "address": "4859 HOLLAND CK RIDGE Road",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "point",
+      "mlsReviewed": false,
+      "mlsAerial": "unreviewed",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 228,
+      "listingId": "10569690",
+      "address": "4927 LAKEVIEW MEADOWS Close",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "point",
+      "mlsReviewed": false,
+      "mlsAerial": "unreviewed",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 229,
+      "listingId": "10666174",
+      "address": "4931 MOUNTAIN VIEW Drive",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": false,
+      "mlsAerial": "unreviewed",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 230,
+      "listingId": "10573050",
+      "address": "5009 FAIRWAY Drive",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": false,
+      "mlsAerial": "unreviewed",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 231,
+      "listingId": "10608316",
+      "address": "501-5258 HIGHLINE Drive",
+      "sourceLabel": "Fernie/Sparwood",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": false,
+      "mlsAerial": "unreviewed",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 232,
+      "listingId": "10682769",
+      "address": "5025 RIVERVIEW Road",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": false,
+      "mlsAerial": "unreviewed",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 233,
+      "listingId": "10677817",
+      "address": "5151 RIVERVIEW Road",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": false,
+      "mlsAerial": "unreviewed",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 234,
       "listingId": "10559698",
       "address": "11 ALPINE TRAIL Lane",
       "sourceLabel": "Fernie/Sparwood",
@@ -15412,7 +16218,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 224,
+      "rank": 235,
       "listingId": "10589073",
       "address": "1453 STODDART Avenue",
       "sourceLabel": "Columbia Valley",
@@ -15428,7 +16234,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 225,
+      "rank": 236,
       "listingId": "10615862",
       "address": "17 ALPINE Trail",
       "sourceLabel": "Fernie/Sparwood",
@@ -15444,7 +16250,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 226,
+      "rank": 237,
       "listingId": "10521676",
       "address": "1753 2ND Avenue",
       "sourceLabel": "Columbia Valley",
@@ -15460,7 +16266,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 227,
+      "rank": 238,
       "listingId": "20020845",
       "address": "1921 PINERIDGE MOUNTAIN Trail",
       "sourceLabel": "Columbia Valley",
@@ -15476,7 +16282,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 228,
+      "rank": 239,
       "listingId": "10628923",
       "address": "32 SILVER RIDGE Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -15492,7 +16298,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 229,
+      "rank": 240,
       "listingId": "10619308",
       "address": "368 PANORAMA Place",
       "sourceLabel": "Columbia Valley",
@@ -15508,7 +16314,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 230,
+      "rank": 241,
       "listingId": "10572288",
       "address": "4552 COLUMBIA VIEW Road",
       "sourceLabel": "Columbia Valley",
@@ -15524,7 +16330,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 231,
+      "rank": 242,
       "listingId": "10559208",
       "address": "4553 TIMBERLINE Crescent",
       "sourceLabel": "Fernie/Sparwood",
@@ -15540,7 +16346,71 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 232,
+      "rank": 243,
+      "listingId": "10680461",
+      "address": "4671 POPLAR Street",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "possible_google_overhead_needs_verify",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": false,
+      "mlsAerial": "unreviewed",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "unclear",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 244,
+      "listingId": "10673667",
+      "address": "4985 MOUNTAIN TOP Drive",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "possible_google_overhead_needs_verify",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": false,
+      "mlsAerial": "unreviewed",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "unclear",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 245,
+      "listingId": "10523709",
+      "address": "515 LAKEVIEW Place",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "possible_google_overhead_needs_verify",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": false,
+      "mlsAerial": "unreviewed",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "unclear",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 246,
+      "listingId": "10570990",
+      "address": "5156 RIVERVIEW Crescent",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "possible_google_overhead_needs_verify",
+      "bestPhotoIndices": "",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": false,
+      "mlsAerial": "unreviewed",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "unclear",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 247,
       "listingId": "10672843",
       "address": "150 SULLIVAN Drive",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -15556,7 +16426,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 233,
+      "rank": 248,
       "listingId": "10671578",
       "address": "2140 WHISKEY JACK Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -15572,7 +16442,7 @@
       "arcgisPlaceholderTiles": "0"
     },
     {
-      "rank": 234,
+      "rank": 249,
       "listingId": "20021326",
       "address": "2264 BLACK HAWK Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -15588,7 +16458,7 @@
       "arcgisPlaceholderTiles": "0"
     },
     {
-      "rank": 235,
+      "rank": 250,
       "listingId": "10672111",
       "address": "2577 SANDSTONE Circle",
       "sourceLabel": "Columbia Valley",
@@ -15604,7 +16474,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 236,
+      "rank": 251,
       "listingId": "10659027",
       "address": "4642 ROWAN Street",
       "sourceLabel": "Columbia Valley",
@@ -15620,7 +16490,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 237,
+      "rank": 252,
       "listingId": "10606465",
       "address": "#37-6674 WARDNER-KIKOMUN Road",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -15636,7 +16506,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 238,
+      "rank": 253,
       "listingId": "10574816",
       "address": "1 BIGHORN SHEEP Lane",
       "sourceLabel": "Columbia Valley",
@@ -15652,7 +16522,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 239,
+      "rank": 254,
       "listingId": "10629259",
       "address": "15 ALPINE TRAILS Crescent",
       "sourceLabel": "Fernie/Sparwood",
@@ -15668,7 +16538,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 240,
+      "rank": 255,
       "listingId": "20083862",
       "address": "15 Turner Close",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -15684,7 +16554,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 241,
+      "rank": 256,
       "listingId": "10684522",
       "address": "1611 1ST S Avenue",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -15700,7 +16570,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 242,
+      "rank": 257,
       "listingId": "10626846",
       "address": "18-6674 WARDNER-KIKOMUM Road",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -15716,7 +16586,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 243,
+      "rank": 258,
       "listingId": "10631447",
       "address": "2527 LEDGEROCK Ridge",
       "sourceLabel": "Columbia Valley",
@@ -15732,55 +16602,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 244,
-      "listingId": "10605182",
-      "address": "4600 TIMBERLINE Crescent",
-      "sourceLabel": "Fernie/Sparwood",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 245,
-      "listingId": "10590002",
-      "address": "4642 ROWAN Street",
-      "sourceLabel": "Columbia Valley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 246,
-      "listingId": "10680461",
-      "address": "4671 POPLAR Street",
-      "sourceLabel": "Columbia Valley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 247,
+      "rank": 259,
       "listingId": "10607338",
       "address": "4764 TIMBER RIDGE Road",
       "sourceLabel": "Columbia Valley",
@@ -15790,29 +16612,13 @@
       "mlsReviewed": false,
       "mlsAerial": "unreviewed",
       "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
+      "googleOverhead": "no",
       "mapboxOverhead": "unreviewed",
       "arcgisRealTiles": "0",
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 248,
-      "listingId": "10631280",
-      "address": "4808 LAKEHILL Road",
-      "sourceLabel": "Columbia Valley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 249,
+      "rank": 260,
       "listingId": "10629099",
       "address": "4815 HOLLAND CREEK RIDGE Road",
       "sourceLabel": "Columbia Valley",
@@ -15822,45 +16628,13 @@
       "mlsReviewed": false,
       "mlsAerial": "unreviewed",
       "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
+      "googleOverhead": "no",
       "mapboxOverhead": "unreviewed",
       "arcgisRealTiles": "0",
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 250,
-      "listingId": "10662523",
-      "address": "4816 RIDGE Drive",
-      "sourceLabel": "Columbia Valley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 251,
-      "listingId": "10565896",
-      "address": "4859 HOLLAND CK RIDGE Road",
-      "sourceLabel": "Columbia Valley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "",
-      "coordinateConfidence": "point",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 252,
+      "rank": 261,
       "listingId": "10587559",
       "address": "4905 LAKEVIEW MEADOWS Close",
       "sourceLabel": "Columbia Valley",
@@ -15870,45 +16644,13 @@
       "mlsReviewed": false,
       "mlsAerial": "unreviewed",
       "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
+      "googleOverhead": "no",
       "mapboxOverhead": "unreviewed",
       "arcgisRealTiles": "0",
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 253,
-      "listingId": "10569690",
-      "address": "4927 LAKEVIEW MEADOWS Close",
-      "sourceLabel": "Columbia Valley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "",
-      "coordinateConfidence": "point",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 254,
-      "listingId": "10666174",
-      "address": "4931 MOUNTAIN VIEW Drive",
-      "sourceLabel": "Columbia Valley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 255,
+      "rank": 262,
       "listingId": "10680493",
       "address": "4958 MERLO Road",
       "sourceLabel": "Columbia Valley",
@@ -15918,119 +16660,7 @@
       "mlsReviewed": false,
       "mlsAerial": "unreviewed",
       "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 256,
-      "listingId": "10673667",
-      "address": "4985 MOUNTAIN TOP Drive",
-      "sourceLabel": "Columbia Valley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 257,
-      "listingId": "10573050",
-      "address": "5009 FAIRWAY Drive",
-      "sourceLabel": "Columbia Valley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 258,
-      "listingId": "10608316",
-      "address": "501-5258 HIGHLINE Drive",
-      "sourceLabel": "Fernie/Sparwood",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 259,
-      "listingId": "10682769",
-      "address": "5025 RIVERVIEW Road",
-      "sourceLabel": "Columbia Valley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 260,
-      "listingId": "10523709",
-      "address": "515 LAKEVIEW Place",
-      "sourceLabel": "Columbia Valley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 261,
-      "listingId": "10677817",
-      "address": "5151 RIVERVIEW Road",
-      "sourceLabel": "Columbia Valley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 262,
-      "listingId": "10570990",
-      "address": "5156 RIVERVIEW Crescent",
-      "sourceLabel": "Columbia Valley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": false,
-      "mlsAerial": "unreviewed",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
+      "googleOverhead": "no",
       "mapboxOverhead": "unreviewed",
       "arcgisRealTiles": "0",
       "arcgisPlaceholderTiles": "9"
@@ -16046,7 +16676,7 @@
       "mlsReviewed": false,
       "mlsAerial": "unreviewed",
       "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
+      "googleOverhead": "no",
       "mapboxOverhead": "unreviewed",
       "arcgisRealTiles": "0",
       "arcgisPlaceholderTiles": "9"
