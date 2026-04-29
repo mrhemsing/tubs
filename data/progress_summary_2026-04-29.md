@@ -9,7 +9,7 @@
 - Google Static Maps satellite sheets indexed: **300 / 300**
 - Google-reviewed/promoted candidates: **216 reviewed**, with Google imagery available as QA/detail links for all 300 addresses
 - Tub concept mockups: **291 / 291 candidate cards**
-- 4x upscaled visible images: **582 total** — 291 primary candidates + 291 tub mockups
+- 4x upscaled review/editor images: **857 total** — 275 distinct primary candidate sources + 291 tub mockups + 291 editable tub design bases
 - Coordinate blockers: **0**
 - Needs-aerial-review rows: **0**
 - Unresolved blocker rows: **0**
@@ -33,9 +33,10 @@
 - Generated tub concept mockups for all **291** public candidate cards.
 - Added editable tub design layer with drag, scale, rotate, reset, local browser save, and copy-placement JSON.
 - Added FAL/RealESRGAN 4x upscaling pipeline.
-- Ran 4x upscale for all visible review images: **291 primary candidates** and **291 tub mockups**.
+- Ran 4x upscale for all visible/review-edit images: **275 distinct primary candidate sources**, **291 tub mockups**, and **291 editable design bases**.
 - Upscaled assets live under `public/upscaled-4x/`; index is `public/upscaled-4x.json`.
 - Review UI prefers 4x assets when available and labels them with `· 4x`.
+- Editable tub layer now uses 4x design-base imagery when available; the tub overlay is vector/canvas-rendered and can export an edited 4x mockup after manual placement/scale/rotation adjustments.
 
 ## ArcGIS contact-sheet pass
 
