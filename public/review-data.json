@@ -7,18 +7,18 @@
     "mlsReviewed": 172,
     "counts": {
       "mls_drone_or_aerial_candidate": 48,
-      "google_overhead_house_backyard_candidate": 52,
+      "google_overhead_house_backyard_candidate": 70,
       "bing_overhead_house_backyard_candidate": 7,
       "arcgis_overhead_house_backyard_candidate": 10,
       "mapbox_overhead_house_backyard_candidate": 3,
       "possible_mls_elevated_candidate_needs_verify": 18,
-      "possible_google_overhead_needs_verify": 1,
-      "blocked_arcgis_no_imagery": 144,
+      "possible_google_overhead_needs_verify": 2,
+      "blocked_arcgis_no_imagery": 125,
       "mls_ground_backyard_context_only": 2,
       "needs_aerial_review": 14,
       "blocked_no_coordinate": 1
     },
-    "candidateCards": 136
+    "candidateCards": 155
   },
   "cards": [
     {
@@ -7242,6 +7242,360 @@
     {
       "rank": 132,
       "score": 33,
+      "listingId": "20053388",
+      "address": "2715 3rd Street S",
+      "sourceLabel": "Cranbrook/Kimberley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "1",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/132-2715-3rd-street-s-20053388-google-image.jpg",
+      "googleCoverageStrength": "medium",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Goal review: no aerial/top-down/elevated property views visible. Only useful exterior is front/yard view photo 1; backyard/lot not shown together.; Shows house and surrounding lot/backyard context, but trees and shadows obscure portions of the yard; z20 is too tight/partly cropped.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/132-2715-3rd-street-s-20053388-google-best.jpg"
+        },
+        {
+          "label": "#1",
+          "url": "/review-assets/132-2715-3rd-street-s-20053388-mls-1.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/132-2715-3rd-street-s-20053388-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/132-2715-3rd-street-s-20053388-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/132-2715-3rd-street-s-20053388-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/132-2715-3rd-street-s-20053388-google-image.jpg",
+        "googleContactSheet": "/review-assets/132-2715-3rd-street-s-20053388-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 133,
+      "score": 33,
+      "listingId": "20042580",
+      "address": "2850 BLACK BEAR Crescent",
+      "sourceLabel": "Cranbrook/Kimberley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "1,3,4",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/133-2850-black-bear-crescent-20042580-google-image.jpg",
+      "googleCoverageStrength": "medium",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Goal review: ground-level cabin/lot exterior views only; no aerial, top-down, or elevated house-plus-backyard overview.; House and lot are visible with wooded surroundings; backyard/side areas partly obscured by tree cover and shadows.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/133-2850-black-bear-crescent-20042580-google-best.jpg"
+        },
+        {
+          "label": "#1",
+          "url": "/review-assets/133-2850-black-bear-crescent-20042580-mls-1.jpg"
+        },
+        {
+          "label": "#3",
+          "url": "/review-assets/133-2850-black-bear-crescent-20042580-mls-3.jpg"
+        },
+        {
+          "label": "#4",
+          "url": "/review-assets/133-2850-black-bear-crescent-20042580-mls-4.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/133-2850-black-bear-crescent-20042580-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/133-2850-black-bear-crescent-20042580-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/133-2850-black-bear-crescent-20042580-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/133-2850-black-bear-crescent-20042580-google-image.jpg",
+        "googleContactSheet": "/review-assets/133-2850-black-bear-crescent-20042580-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 134,
+      "score": 33,
+      "listingId": "20075439",
+      "address": "2950 Mellor Road",
+      "sourceLabel": "Cranbrook/Kimberley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "1,2,3,4",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/134-2950-mellor-road-20075439-google-image.jpg",
+      "googleCoverageStrength": "high",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Goal review: several ground-level exterior shots show house and snowy yard/setting, but no true aerial/top-down/elevated house-plus-backyard view.; Clear view of house, driveway, yard, and broader lot area; z19 gives the best balance of detail and full-property context.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/134-2950-mellor-road-20075439-google-best.jpg"
+        },
+        {
+          "label": "#1",
+          "url": "/review-assets/134-2950-mellor-road-20075439-mls-1.jpg"
+        },
+        {
+          "label": "#2",
+          "url": "/review-assets/134-2950-mellor-road-20075439-mls-2.jpg"
+        },
+        {
+          "label": "#3",
+          "url": "/review-assets/134-2950-mellor-road-20075439-mls-3.jpg"
+        },
+        {
+          "label": "#4",
+          "url": "/review-assets/134-2950-mellor-road-20075439-mls-4.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/134-2950-mellor-road-20075439-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/134-2950-mellor-road-20075439-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/134-2950-mellor-road-20075439-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/134-2950-mellor-road-20075439-google-image.jpg",
+        "googleContactSheet": "/review-assets/134-2950-mellor-road-20075439-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 135,
+      "score": 33,
+      "listingId": "20063623",
+      "address": "3101 5th Street S",
+      "sourceLabel": "Cranbrook/Kimberley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "3,1,2",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/135-3101-5th-street-s-20063623-google-image.jpg",
+      "googleCoverageStrength": "high",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Goal review: no aerial/elevated or backyard lot overview visible. Photos 1-3 are ground-level front/side exterior views with limited yard context.; Good residential overhead with house, yard, street frontage, and neighboring context visible; minor shadowing but still useful.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/135-3101-5th-street-s-20063623-google-best.jpg"
+        },
+        {
+          "label": "#3",
+          "url": "/review-assets/135-3101-5th-street-s-20063623-mls-3.jpg"
+        },
+        {
+          "label": "#1",
+          "url": "/review-assets/135-3101-5th-street-s-20063623-mls-1.jpg"
+        },
+        {
+          "label": "#2",
+          "url": "/review-assets/135-3101-5th-street-s-20063623-mls-2.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/135-3101-5th-street-s-20063623-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/135-3101-5th-street-s-20063623-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/135-3101-5th-street-s-20063623-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/135-3101-5th-street-s-20063623-google-image.jpg",
+        "googleContactSheet": "/review-assets/135-3101-5th-street-s-20063623-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 136,
+      "score": 33,
+      "listingId": "20045387",
+      "address": "3313 3A Street S",
+      "sourceLabel": "Cranbrook/Kimberley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "1",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/136-3313-3a-street-s-20045387-google-image.jpg",
+      "googleCoverageStrength": "high",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Goal review: no aerial/top-down/elevated backyard/lot photo visible. Only front exterior plus interiors.; Clear view of house and full lot/yard on cul-de-sac; z19 provides useful lot context while retaining structure detail.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/136-3313-3a-street-s-20045387-google-best.jpg"
+        },
+        {
+          "label": "#1",
+          "url": "/review-assets/136-3313-3a-street-s-20045387-mls-1.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/136-3313-3a-street-s-20045387-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/136-3313-3a-street-s-20045387-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/136-3313-3a-street-s-20045387-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/136-3313-3a-street-s-20045387-google-image.jpg",
+        "googleContactSheet": "/review-assets/136-3313-3a-street-s-20045387-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 137,
+      "score": 33,
+      "listingId": "20080078",
+      "address": "335 16th Avenue S",
+      "sourceLabel": "Cranbrook/Kimberley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "1",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/137-335-16th-avenue-s-20080078-google-image.jpg",
+      "googleCoverageStrength": "high",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Goal review: only visible exterior candidate is front/streetside snowy view; no clear aerial, top-down, elevated backyard, or full lot coverage.; z19 shows the corner house, yard/back lot, street frontage, and neighboring context clearly; z20 is tighter but more cropped.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/137-335-16th-avenue-s-20080078-google-best.jpg"
+        },
+        {
+          "label": "#1",
+          "url": "/review-assets/137-335-16th-avenue-s-20080078-mls-1.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/137-335-16th-avenue-s-20080078-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/137-335-16th-avenue-s-20080078-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/137-335-16th-avenue-s-20080078-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/137-335-16th-avenue-s-20080078-google-image.jpg",
+        "googleContactSheet": "/review-assets/137-335-16th-avenue-s-20080078-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 138,
+      "score": 33,
+      "listingId": "10666517",
+      "address": "4 MT PROCTOR Avenue",
+      "sourceLabel": "Fernie/Sparwood",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "1,2",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/138-4-mt-proctor-avenue-10666517-google-image.jpg",
+      "googleCoverageStrength": "medium",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Goal review: only ground-level front/exterior candidates visible; no aerial/elevated or backyard/lot overview showing house and yard together.; z19 gives the best full-lot context with house, yard, and adjacent street; some tree/shadow obstruction limits clarity.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/138-4-mt-proctor-avenue-10666517-google-best.jpg"
+        },
+        {
+          "label": "#1",
+          "url": "/review-assets/138-4-mt-proctor-avenue-10666517-mls-1.jpg"
+        },
+        {
+          "label": "#2",
+          "url": "/review-assets/138-4-mt-proctor-avenue-10666517-mls-2.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/138-4-mt-proctor-avenue-10666517-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/138-4-mt-proctor-avenue-10666517-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/138-4-mt-proctor-avenue-10666517-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/138-4-mt-proctor-avenue-10666517-google-image.jpg",
+        "googleContactSheet": "/review-assets/138-4-mt-proctor-avenue-10666517-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 139,
+      "score": 33,
       "listingId": "10650499",
       "address": "402 WESTRIDGE View",
       "sourceLabel": "Columbia Valley",
@@ -7268,25 +7622,25 @@
       "thumbs": [
         {
           "label": "#2",
-          "url": "/review-assets/132-402-westridge-view-10650499-mls-2.jpg"
+          "url": "/review-assets/139-402-westridge-view-10650499-mls-2.jpg"
         },
         {
           "label": "#20",
-          "url": "/review-assets/132-402-westridge-view-10650499-mls-20.jpg"
+          "url": "/review-assets/139-402-westridge-view-10650499-mls-20.jpg"
         },
         {
           "label": "#22",
-          "url": "/review-assets/132-402-westridge-view-10650499-mls-22.jpg"
+          "url": "/review-assets/139-402-westridge-view-10650499-mls-22.jpg"
         },
         {
           "label": "#26",
-          "url": "/review-assets/132-402-westridge-view-10650499-mls-26.jpg"
+          "url": "/review-assets/139-402-westridge-view-10650499-mls-26.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/132-402-westridge-view-10650499-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/132-402-westridge-view-10650499-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/132-402-westridge-view-10650499-arcgis-tile.jpg",
+        "mlsContactSheet": "/review-assets/139-402-westridge-view-10650499-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/139-402-westridge-view-10650499-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/139-402-westridge-view-10650499-arcgis-tile.jpg",
         "bingContactSheet": "",
         "googleBestImage": "",
         "googleContactSheet": "",
@@ -7294,7 +7648,127 @@
       }
     },
     {
-      "rank": 133,
+      "rank": 140,
+      "score": 33,
+      "listingId": "20048760",
+      "address": "438 ALPINE Crescent",
+      "sourceLabel": "Cranbrook/Kimberley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "1,3,2,4",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/140-438-alpine-crescent-20048760-google-image.jpg",
+      "googleCoverageStrength": "high",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Goal review: photos 2/4 are elevated/scenic views but do not show the house and backyard together. Photo 1 shows front exterior/driveway; photo 3 shows deck/covered outdoor area.; z19 clearly shows the house, driveway, yard/lot, and surrounding residential context; z20 is also useful but tighter.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/140-438-alpine-crescent-20048760-google-best.jpg"
+        },
+        {
+          "label": "#1",
+          "url": "/review-assets/140-438-alpine-crescent-20048760-mls-1.jpg"
+        },
+        {
+          "label": "#3",
+          "url": "/review-assets/140-438-alpine-crescent-20048760-mls-3.jpg"
+        },
+        {
+          "label": "#2",
+          "url": "/review-assets/140-438-alpine-crescent-20048760-mls-2.jpg"
+        },
+        {
+          "label": "#4",
+          "url": "/review-assets/140-438-alpine-crescent-20048760-mls-4.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/140-438-alpine-crescent-20048760-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/140-438-alpine-crescent-20048760-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/140-438-alpine-crescent-20048760-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/140-438-alpine-crescent-20048760-google-image.jpg",
+        "googleContactSheet": "/review-assets/140-438-alpine-crescent-20048760-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 141,
+      "score": 33,
+      "listingId": "10682881",
+      "address": "447 CROWNE RISE Forest",
+      "sourceLabel": "Cranbrook/Kimberley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "1,2,3,4,15",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/141-447-crowne-rise-forest-10682881-google-image.jpg",
+      "googleCoverageStrength": "medium",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Goal review: no aerial/top-down. Exterior photos are ground-level front/driveway views; photo 15 is elevated deck/outlook but does not show full house and backyard/lot together.; z19 shows the home/row-lot position and street context; backyard/lot detail is partly affected by shadows/trees and tight spacing.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/141-447-crowne-rise-forest-10682881-google-best.jpg"
+        },
+        {
+          "label": "#1",
+          "url": "/review-assets/141-447-crowne-rise-forest-10682881-mls-1.jpg"
+        },
+        {
+          "label": "#2",
+          "url": "/review-assets/141-447-crowne-rise-forest-10682881-mls-2.jpg"
+        },
+        {
+          "label": "#3",
+          "url": "/review-assets/141-447-crowne-rise-forest-10682881-mls-3.jpg"
+        },
+        {
+          "label": "#4",
+          "url": "/review-assets/141-447-crowne-rise-forest-10682881-mls-4.jpg"
+        },
+        {
+          "label": "#15",
+          "url": "/review-assets/141-447-crowne-rise-forest-10682881-mls-15.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/141-447-crowne-rise-forest-10682881-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/141-447-crowne-rise-forest-10682881-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/141-447-crowne-rise-forest-10682881-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/141-447-crowne-rise-forest-10682881-google-image.jpg",
+        "googleContactSheet": "/review-assets/141-447-crowne-rise-forest-10682881-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 142,
       "score": 33,
       "listingId": "20073637",
       "address": "454 Forest Crowne Rise",
@@ -7322,25 +7796,25 @@
       "thumbs": [
         {
           "label": "#2",
-          "url": "/review-assets/133-454-forest-crowne-rise-20073637-mls-2.jpg"
+          "url": "/review-assets/142-454-forest-crowne-rise-20073637-mls-2.jpg"
         },
         {
           "label": "#23",
-          "url": "/review-assets/133-454-forest-crowne-rise-20073637-mls-23.jpg"
+          "url": "/review-assets/142-454-forest-crowne-rise-20073637-mls-23.jpg"
         },
         {
           "label": "#27",
-          "url": "/review-assets/133-454-forest-crowne-rise-20073637-mls-27.jpg"
+          "url": "/review-assets/142-454-forest-crowne-rise-20073637-mls-27.jpg"
         },
         {
           "label": "#30",
-          "url": "/review-assets/133-454-forest-crowne-rise-20073637-mls-30.jpg"
+          "url": "/review-assets/142-454-forest-crowne-rise-20073637-mls-30.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/133-454-forest-crowne-rise-20073637-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/133-454-forest-crowne-rise-20073637-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/133-454-forest-crowne-rise-20073637-arcgis-tile.jpg",
+        "mlsContactSheet": "/review-assets/142-454-forest-crowne-rise-20073637-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/142-454-forest-crowne-rise-20073637-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/142-454-forest-crowne-rise-20073637-arcgis-tile.jpg",
         "bingContactSheet": "",
         "googleBestImage": "",
         "googleContactSheet": "",
@@ -7348,7 +7822,497 @@
       }
     },
     {
-      "rank": 134,
+      "rank": 143,
+      "score": 33,
+      "listingId": "20076380",
+      "address": "4573 Columere Road",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "2,12,16,1",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/143-4573-columere-road-20076380-google-image.jpg",
+      "googleCoverageStrength": "medium",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Goal review: no clear aerial/top-down of house plus backyard/lot. Photo 10 is aerial/marina context but does not show the house/yard. Best usable are ground/elevated exterior/backyard angles.; House and surrounding lot/backyard are visible together; z20 is closer but softer/partly shadowed.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/143-4573-columere-road-20076380-google-best.jpg"
+        },
+        {
+          "label": "#2",
+          "url": "/review-assets/143-4573-columere-road-20076380-mls-2.jpg"
+        },
+        {
+          "label": "#12",
+          "url": "/review-assets/143-4573-columere-road-20076380-mls-12.jpg"
+        },
+        {
+          "label": "#16",
+          "url": "/review-assets/143-4573-columere-road-20076380-mls-16.jpg"
+        },
+        {
+          "label": "#1",
+          "url": "/review-assets/143-4573-columere-road-20076380-mls-1.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/143-4573-columere-road-20076380-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/143-4573-columere-road-20076380-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/143-4573-columere-road-20076380-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/143-4573-columere-road-20076380-google-image.jpg",
+        "googleContactSheet": "/review-assets/143-4573-columere-road-20076380-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 144,
+      "score": 33,
+      "listingId": "10644065",
+      "address": "4806 HOLLAND CREEK RIDGE Road",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "1",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/144-4806-holland-creek-ridge-road-10644065-google-image.jpg",
+      "googleCoverageStrength": "medium",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Goal review: only front exterior in wooded setting; does not show backyard/lot together from aerial or elevated angle.; House and lot context visible, but trees obscure parts of the yard and structure.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/144-4806-holland-creek-ridge-road-10644065-google-best.jpg"
+        },
+        {
+          "label": "#1",
+          "url": "/review-assets/144-4806-holland-creek-ridge-road-10644065-mls-1.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/144-4806-holland-creek-ridge-road-10644065-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/144-4806-holland-creek-ridge-road-10644065-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/144-4806-holland-creek-ridge-road-10644065-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/144-4806-holland-creek-ridge-road-10644065-google-image.jpg",
+        "googleContactSheet": "/review-assets/144-4806-holland-creek-ridge-road-10644065-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 145,
+      "score": 33,
+      "listingId": "20084577",
+      "address": "4885 Carnoustie Place",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "1,18",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "20",
+      "googleBestImage": "/review-assets/145-4885-carnoustie-place-20084577-google-image.jpg",
+      "googleCoverageStrength": "high",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Goal review: no aerial/elevated exterior. Photo 1 shows front/lot from ground; photo 18 shows yard through/near window, but no combined house and backyard/lot aerial.; Clear top-down view of house, driveway, and yard/lot; z19 also gives good context.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/145-4885-carnoustie-place-20084577-google-best.jpg"
+        },
+        {
+          "label": "#1",
+          "url": "/review-assets/145-4885-carnoustie-place-20084577-mls-1.jpg"
+        },
+        {
+          "label": "#18",
+          "url": "/review-assets/145-4885-carnoustie-place-20084577-mls-18.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/145-4885-carnoustie-place-20084577-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/145-4885-carnoustie-place-20084577-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/145-4885-carnoustie-place-20084577-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/145-4885-carnoustie-place-20084577-google-image.jpg",
+        "googleContactSheet": "/review-assets/145-4885-carnoustie-place-20084577-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 146,
+      "score": 33,
+      "listingId": "10673650",
+      "address": "4949 MOUNTAIN HILL Road",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "1,2,3",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/146-4949-mountain-hill-road-10673650-google-image.jpg",
+      "googleCoverageStrength": "low",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Goal review: no aerial/top-down/elevated view visible. Ground-level exterior photos show house with lawn/yard and deck/wooded setting, but not comprehensive house-plus-backyard/lot coverage.; House/lot context is present, but tree cover and shadows limit visibility.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/146-4949-mountain-hill-road-10673650-google-best.jpg"
+        },
+        {
+          "label": "#1",
+          "url": "/review-assets/146-4949-mountain-hill-road-10673650-mls-1.jpg"
+        },
+        {
+          "label": "#2",
+          "url": "/review-assets/146-4949-mountain-hill-road-10673650-mls-2.jpg"
+        },
+        {
+          "label": "#3",
+          "url": "/review-assets/146-4949-mountain-hill-road-10673650-mls-3.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/146-4949-mountain-hill-road-10673650-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/146-4949-mountain-hill-road-10673650-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/146-4949-mountain-hill-road-10673650-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/146-4949-mountain-hill-road-10673650-google-image.jpg",
+        "googleContactSheet": "/review-assets/146-4949-mountain-hill-road-10673650-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 147,
+      "score": 33,
+      "listingId": "20040797",
+      "address": "51 100TH Avenue",
+      "sourceLabel": "Cranbrook/Kimberley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "1,13,14",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/147-51-100th-avenue-20040797-google-image.jpg",
+      "googleCoverageStrength": "medium",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Goal review: no aerial/top-down/elevated shot showing house with backyard/lot. Front exterior and window/deck views provide limited exterior context only.; z19 shows house, cul-de-sac frontage, and most of lot/backyard context; z20 is closer but trees/shadow obscure parts of yard.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/147-51-100th-avenue-20040797-google-best.jpg"
+        },
+        {
+          "label": "#1",
+          "url": "/review-assets/147-51-100th-avenue-20040797-mls-1.jpg"
+        },
+        {
+          "label": "#13",
+          "url": "/review-assets/147-51-100th-avenue-20040797-mls-13.jpg"
+        },
+        {
+          "label": "#14",
+          "url": "/review-assets/147-51-100th-avenue-20040797-mls-14.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/147-51-100th-avenue-20040797-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/147-51-100th-avenue-20040797-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/147-51-100th-avenue-20040797-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/147-51-100th-avenue-20040797-google-image.jpg",
+        "googleContactSheet": "/review-assets/147-51-100th-avenue-20040797-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 148,
+      "score": 33,
+      "listingId": "20080295",
+      "address": "5132 Riverview Crescent",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "23,24,25,26,1",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/148-5132-riverview-crescent-20080295-google-image.jpg",
+      "googleCoverageStrength": "high",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Goal review: no true aerial/top-down. Photos 23-26 are elevated deck/yard views with partial house/lot context; photo 1 is front ground exterior. None clearly shows house and backyard/lot together from above.; z19 clearly captures house with surrounding lawn/yard and adjacent golf-course context; z20 useful but tighter.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/148-5132-riverview-crescent-20080295-google-best.jpg"
+        },
+        {
+          "label": "#23",
+          "url": "/review-assets/148-5132-riverview-crescent-20080295-mls-23.jpg"
+        },
+        {
+          "label": "#24",
+          "url": "/review-assets/148-5132-riverview-crescent-20080295-mls-24.jpg"
+        },
+        {
+          "label": "#25",
+          "url": "/review-assets/148-5132-riverview-crescent-20080295-mls-25.jpg"
+        },
+        {
+          "label": "#26",
+          "url": "/review-assets/148-5132-riverview-crescent-20080295-mls-26.jpg"
+        },
+        {
+          "label": "#1",
+          "url": "/review-assets/148-5132-riverview-crescent-20080295-mls-1.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/148-5132-riverview-crescent-20080295-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/148-5132-riverview-crescent-20080295-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/148-5132-riverview-crescent-20080295-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/148-5132-riverview-crescent-20080295-google-image.jpg",
+        "googleContactSheet": "/review-assets/148-5132-riverview-crescent-20080295-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 149,
+      "score": 33,
+      "listingId": "10660236",
+      "address": "55 RIDGEMONT Avenue",
+      "sourceLabel": "Fernie/Sparwood",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "1,30",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/149-55-ridgemont-avenue-10660236-google-image.jpg",
+      "googleCoverageStrength": "medium",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Goal review: no aerial/top-down/elevated house-and-lot view found. Photo 1 shows house with front lawn; photo 30 shows backyard/patio/trees but not house and lot together.; z19 provides usable view of house, street frontage, and yard/lot; some tree shadow/cover limits backyard clarity.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/149-55-ridgemont-avenue-10660236-google-best.jpg"
+        },
+        {
+          "label": "#1",
+          "url": "/review-assets/149-55-ridgemont-avenue-10660236-mls-1.jpg"
+        },
+        {
+          "label": "#30",
+          "url": "/review-assets/149-55-ridgemont-avenue-10660236-mls-30.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/149-55-ridgemont-avenue-10660236-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/149-55-ridgemont-avenue-10660236-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/149-55-ridgemont-avenue-10660236-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/149-55-ridgemont-avenue-10660236-google-image.jpg",
+        "googleContactSheet": "/review-assets/149-55-ridgemont-avenue-10660236-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 150,
+      "score": 33,
+      "listingId": "10665347",
+      "address": "592 9TH Avenue",
+      "sourceLabel": "Fernie/Sparwood",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "10,11,13,4,5",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "20",
+      "googleBestImage": "/review-assets/150-592-9th-avenue-10665347-google-image.jpg",
+      "googleCoverageStrength": "medium",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Goal review: good ground-level exterior/yard context, especially rear/side, but no aerial/top-down/elevated overview visible.; z20 shows roof footprint and immediate lot/backyard area, though shadows and neighboring structures reduce clarity.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/150-592-9th-avenue-10665347-google-best.jpg"
+        },
+        {
+          "label": "#10",
+          "url": "/review-assets/150-592-9th-avenue-10665347-mls-10.jpg"
+        },
+        {
+          "label": "#11",
+          "url": "/review-assets/150-592-9th-avenue-10665347-mls-11.jpg"
+        },
+        {
+          "label": "#13",
+          "url": "/review-assets/150-592-9th-avenue-10665347-mls-13.jpg"
+        },
+        {
+          "label": "#4",
+          "url": "/review-assets/150-592-9th-avenue-10665347-mls-4.jpg"
+        },
+        {
+          "label": "#5",
+          "url": "/review-assets/150-592-9th-avenue-10665347-mls-5.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/150-592-9th-avenue-10665347-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/150-592-9th-avenue-10665347-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/150-592-9th-avenue-10665347-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/150-592-9th-avenue-10665347-google-image.jpg",
+        "googleContactSheet": "/review-assets/150-592-9th-avenue-10665347-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 151,
+      "score": 33,
+      "listingId": "10660875",
+      "address": "5938 COLUMBIA LAKE Road",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "coverageGoal": "likely_house_and_backyard_google_overhead",
+      "bestPhotoIndices": "5,6,1",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "yes",
+      "googleImageCount": "3",
+      "googleBestZoom": "19",
+      "googleBestImage": "/review-assets/151-5938-columbia-lake-road-10660875-google-image.jpg",
+      "googleCoverageStrength": "high",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Goal review: no aerial/top-down view showing house and lot together. Photos 4/15/16 are elevated/deck views of yard/trees but do not show the house. Closest house-plus-setting views are ground-level exteriors 5, 6, 1.; z19 shows house, driveway/road frontage, large yard/lot, and surrounding land context well; z20 is too tight for full context.",
+      "thumbs": [
+        {
+          "label": "Google",
+          "url": "/review-assets/151-5938-columbia-lake-road-10660875-google-best.jpg"
+        },
+        {
+          "label": "#5",
+          "url": "/review-assets/151-5938-columbia-lake-road-10660875-mls-5.jpg"
+        },
+        {
+          "label": "#6",
+          "url": "/review-assets/151-5938-columbia-lake-road-10660875-mls-6.jpg"
+        },
+        {
+          "label": "#1",
+          "url": "/review-assets/151-5938-columbia-lake-road-10660875-mls-1.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/151-5938-columbia-lake-road-10660875-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/151-5938-columbia-lake-road-10660875-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/151-5938-columbia-lake-road-10660875-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "/review-assets/151-5938-columbia-lake-road-10660875-google-image.jpg",
+        "googleContactSheet": "/review-assets/151-5938-columbia-lake-road-10660875-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 152,
       "score": 33,
       "listingId": "10685008",
       "address": "700 22ND S Avenue",
@@ -7376,25 +8340,25 @@
       "thumbs": [
         {
           "label": "#2",
-          "url": "/review-assets/134-700-22nd-s-avenue-10685008-mls-2.jpg"
+          "url": "/review-assets/152-700-22nd-s-avenue-10685008-mls-2.jpg"
         },
         {
           "label": "#11",
-          "url": "/review-assets/134-700-22nd-s-avenue-10685008-mls-11.jpg"
+          "url": "/review-assets/152-700-22nd-s-avenue-10685008-mls-11.jpg"
         },
         {
           "label": "#10",
-          "url": "/review-assets/134-700-22nd-s-avenue-10685008-mls-10.jpg"
+          "url": "/review-assets/152-700-22nd-s-avenue-10685008-mls-10.jpg"
         },
         {
           "label": "#30",
-          "url": "/review-assets/134-700-22nd-s-avenue-10685008-mls-30.jpg"
+          "url": "/review-assets/152-700-22nd-s-avenue-10685008-mls-30.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/134-700-22nd-s-avenue-10685008-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/134-700-22nd-s-avenue-10685008-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/134-700-22nd-s-avenue-10685008-arcgis-tile.jpg",
+        "mlsContactSheet": "/review-assets/152-700-22nd-s-avenue-10685008-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/152-700-22nd-s-avenue-10685008-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/152-700-22nd-s-avenue-10685008-arcgis-tile.jpg",
         "bingContactSheet": "",
         "googleBestImage": "",
         "googleContactSheet": "",
@@ -7402,7 +8366,7 @@
       }
     },
     {
-      "rank": 135,
+      "rank": 153,
       "score": 33,
       "listingId": "10638399",
       "address": "7549 SPRINGS Terrace",
@@ -7430,29 +8394,29 @@
       "thumbs": [
         {
           "label": "#1",
-          "url": "/review-assets/135-7549-springs-terrace-10638399-mls-1.jpg"
+          "url": "/review-assets/153-7549-springs-terrace-10638399-mls-1.jpg"
         },
         {
           "label": "#2",
-          "url": "/review-assets/135-7549-springs-terrace-10638399-mls-2.jpg"
+          "url": "/review-assets/153-7549-springs-terrace-10638399-mls-2.jpg"
         },
         {
           "label": "#5",
-          "url": "/review-assets/135-7549-springs-terrace-10638399-mls-5.jpg"
+          "url": "/review-assets/153-7549-springs-terrace-10638399-mls-5.jpg"
         },
         {
           "label": "#6",
-          "url": "/review-assets/135-7549-springs-terrace-10638399-mls-6.jpg"
+          "url": "/review-assets/153-7549-springs-terrace-10638399-mls-6.jpg"
         },
         {
           "label": "#24",
-          "url": "/review-assets/135-7549-springs-terrace-10638399-mls-24.jpg"
+          "url": "/review-assets/153-7549-springs-terrace-10638399-mls-24.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/135-7549-springs-terrace-10638399-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/135-7549-springs-terrace-10638399-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/135-7549-springs-terrace-10638399-arcgis-tile.jpg",
+        "mlsContactSheet": "/review-assets/153-7549-springs-terrace-10638399-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/153-7549-springs-terrace-10638399-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/153-7549-springs-terrace-10638399-arcgis-tile.jpg",
         "bingContactSheet": "",
         "googleBestImage": "",
         "googleContactSheet": "",
@@ -7460,7 +8424,7 @@
       }
     },
     {
-      "rank": 136,
+      "rank": 154,
       "score": 33,
       "listingId": "20020530",
       "address": "805 16TH S Street",
@@ -7488,17 +8452,17 @@
       "thumbs": [
         {
           "label": "#1",
-          "url": "/review-assets/136-805-16th-s-street-20020530-mls-1.jpg"
+          "url": "/review-assets/154-805-16th-s-street-20020530-mls-1.jpg"
         },
         {
           "label": "#2",
-          "url": "/review-assets/136-805-16th-s-street-20020530-mls-2.jpg"
+          "url": "/review-assets/154-805-16th-s-street-20020530-mls-2.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/136-805-16th-s-street-20020530-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/136-805-16th-s-street-20020530-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/136-805-16th-s-street-20020530-arcgis-tile.jpg",
+        "mlsContactSheet": "/review-assets/154-805-16th-s-street-20020530-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/154-805-16th-s-street-20020530-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/154-805-16th-s-street-20020530-arcgis-tile.jpg",
         "bingContactSheet": "",
         "googleBestImage": "",
         "googleContactSheet": "",
@@ -7506,7 +8470,7 @@
       }
     },
     {
-      "rank": 137,
+      "rank": 155,
       "score": 33,
       "listingId": "10639146",
       "address": "823 LAKEVIEW MEADOWS GREEN",
@@ -7534,17 +8498,17 @@
       "thumbs": [
         {
           "label": "#1",
-          "url": "/review-assets/137-823-lakeview-meadows-green-10639146-mls-1.jpg"
+          "url": "/review-assets/155-823-lakeview-meadows-green-10639146-mls-1.jpg"
         },
         {
           "label": "#12",
-          "url": "/review-assets/137-823-lakeview-meadows-green-10639146-mls-12.jpg"
+          "url": "/review-assets/155-823-lakeview-meadows-green-10639146-mls-12.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/137-823-lakeview-meadows-green-10639146-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/137-823-lakeview-meadows-green-10639146-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/137-823-lakeview-meadows-green-10639146-arcgis-tile.jpg",
+        "mlsContactSheet": "/review-assets/155-823-lakeview-meadows-green-10639146-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/155-823-lakeview-meadows-green-10639146-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/155-823-lakeview-meadows-green-10639146-arcgis-tile.jpg",
         "bingContactSheet": "",
         "googleBestImage": "",
         "googleContactSheet": "",
@@ -7552,7 +8516,7 @@
       }
     },
     {
-      "rank": 139,
+      "rank": 157,
       "score": 26,
       "listingId": "20049602",
       "address": "1509 10th Avenue",
@@ -7570,7 +8534,7 @@
       "googleOverhead": "unclear",
       "googleImageCount": "3",
       "googleBestZoom": "19",
-      "googleBestImage": "/review-assets/139-1509-10th-avenue-20049602-google-image.jpg",
+      "googleBestImage": "/review-assets/157-1509-10th-avenue-20049602-google-image.jpg",
       "googleCoverageStrength": "low",
       "mapboxOverhead": "unreviewed",
       "mapboxTileCount": "",
@@ -7580,24 +8544,86 @@
       "thumbs": [
         {
           "label": "#1",
-          "url": "/review-assets/139-1509-10th-avenue-20049602-mls-1.jpg"
+          "url": "/review-assets/157-1509-10th-avenue-20049602-mls-1.jpg"
         },
         {
           "label": "#14",
-          "url": "/review-assets/139-1509-10th-avenue-20049602-mls-14.jpg"
+          "url": "/review-assets/157-1509-10th-avenue-20049602-mls-14.jpg"
         },
         {
           "label": "#26",
-          "url": "/review-assets/139-1509-10th-avenue-20049602-mls-26.jpg"
+          "url": "/review-assets/157-1509-10th-avenue-20049602-mls-26.jpg"
         }
       ],
       "links": {
-        "mlsContactSheet": "/review-assets/139-1509-10th-avenue-20049602-mls-sheet.jpg",
-        "arcgisContactSheet": "/review-assets/139-1509-10th-avenue-20049602-arcgis-sheet.jpg",
-        "bestArcgisTile": "/review-assets/139-1509-10th-avenue-20049602-arcgis-tile.jpg",
+        "mlsContactSheet": "/review-assets/157-1509-10th-avenue-20049602-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/157-1509-10th-avenue-20049602-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/157-1509-10th-avenue-20049602-arcgis-tile.jpg",
         "bingContactSheet": "",
-        "googleBestImage": "/review-assets/139-1509-10th-avenue-20049602-google-image.jpg",
-        "googleContactSheet": "/review-assets/139-1509-10th-avenue-20049602-google-sheet.jpg",
+        "googleBestImage": "/review-assets/157-1509-10th-avenue-20049602-google-image.jpg",
+        "googleContactSheet": "/review-assets/157-1509-10th-avenue-20049602-google-sheet.jpg",
+        "mapboxContactSheet": ""
+      }
+    },
+    {
+      "rank": 158,
+      "score": 26,
+      "listingId": "10655082",
+      "address": "39 ELKVIEW Drive",
+      "sourceLabel": "Fernie/Sparwood",
+      "recommendedSource": "possible_google_overhead_needs_verify",
+      "coverageGoal": "possible_google_overhead_needs_verify",
+      "bestPhotoIndices": "27,22,24,25,26,1",
+      "coordinateConfidence": "listing",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9",
+      "bingOverhead": "unreviewed",
+      "bingTileCount": "",
+      "bingBestTilePosition": "",
+      "bingCoverageStrength": "unreviewed",
+      "googleOverhead": "unclear",
+      "googleImageCount": "3",
+      "googleBestZoom": "unknown",
+      "googleBestImage": "",
+      "googleCoverageStrength": "low",
+      "mapboxOverhead": "unreviewed",
+      "mapboxTileCount": "",
+      "mapboxBestTilePosition": "",
+      "mapboxCoverageStrength": "unreviewed",
+      "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Goal review: no aerial/top-down/elevated view found. Backyard/lot coverage is good at ground level, especially photos 22-27, with photo 27 showing rear house/patio plus yard context.; Target area is heavily obscured by trees/shadows and the crosshair appears near roadway/drive area; house and backyard/lot are not clearly readable together.",
+      "thumbs": [
+        {
+          "label": "#27",
+          "url": "/review-assets/158-39-elkview-drive-10655082-mls-27.jpg"
+        },
+        {
+          "label": "#22",
+          "url": "/review-assets/158-39-elkview-drive-10655082-mls-22.jpg"
+        },
+        {
+          "label": "#24",
+          "url": "/review-assets/158-39-elkview-drive-10655082-mls-24.jpg"
+        },
+        {
+          "label": "#25",
+          "url": "/review-assets/158-39-elkview-drive-10655082-mls-25.jpg"
+        },
+        {
+          "label": "#26",
+          "url": "/review-assets/158-39-elkview-drive-10655082-mls-26.jpg"
+        },
+        {
+          "label": "#1",
+          "url": "/review-assets/158-39-elkview-drive-10655082-mls-1.jpg"
+        }
+      ],
+      "links": {
+        "mlsContactSheet": "/review-assets/158-39-elkview-drive-10655082-mls-sheet.jpg",
+        "arcgisContactSheet": "/review-assets/158-39-elkview-drive-10655082-arcgis-sheet.jpg",
+        "bestArcgisTile": "/review-assets/158-39-elkview-drive-10655082-arcgis-tile.jpg",
+        "bingContactSheet": "",
+        "googleBestImage": "",
+        "googleContactSheet": "/review-assets/158-39-elkview-drive-10655082-google-sheet.jpg",
         "mapboxContactSheet": ""
       }
     }
@@ -9701,6 +10727,118 @@
     },
     {
       "rank": 132,
+      "listingId": "20053388",
+      "address": "2715 3rd Street S",
+      "sourceLabel": "Cranbrook/Kimberley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "1",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 133,
+      "listingId": "20042580",
+      "address": "2850 BLACK BEAR Crescent",
+      "sourceLabel": "Cranbrook/Kimberley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "1,3,4",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 134,
+      "listingId": "20075439",
+      "address": "2950 Mellor Road",
+      "sourceLabel": "Cranbrook/Kimberley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "1,2,3,4",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 135,
+      "listingId": "20063623",
+      "address": "3101 5th Street S",
+      "sourceLabel": "Cranbrook/Kimberley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "3,1,2",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 136,
+      "listingId": "20045387",
+      "address": "3313 3A Street S",
+      "sourceLabel": "Cranbrook/Kimberley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "1",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 137,
+      "listingId": "20080078",
+      "address": "335 16th Avenue S",
+      "sourceLabel": "Cranbrook/Kimberley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "1",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 138,
+      "listingId": "10666517",
+      "address": "4 MT PROCTOR Avenue",
+      "sourceLabel": "Fernie/Sparwood",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "1,2",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 139,
       "listingId": "10650499",
       "address": "402 WESTRIDGE View",
       "sourceLabel": "Columbia Valley",
@@ -9716,7 +10854,39 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 133,
+      "rank": 140,
+      "listingId": "20048760",
+      "address": "438 ALPINE Crescent",
+      "sourceLabel": "Cranbrook/Kimberley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "1,3,2,4",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 141,
+      "listingId": "10682881",
+      "address": "447 CROWNE RISE Forest",
+      "sourceLabel": "Cranbrook/Kimberley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "1,2,3,4,15",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 142,
       "listingId": "20073637",
       "address": "454 Forest Crowne Rise",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -9732,7 +10902,151 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 134,
+      "rank": 143,
+      "listingId": "20076380",
+      "address": "4573 Columere Road",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "2,12,16,1",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 144,
+      "listingId": "10644065",
+      "address": "4806 HOLLAND CREEK RIDGE Road",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "1",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 145,
+      "listingId": "20084577",
+      "address": "4885 Carnoustie Place",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "1,18",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 146,
+      "listingId": "10673650",
+      "address": "4949 MOUNTAIN HILL Road",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "1,2,3",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 147,
+      "listingId": "20040797",
+      "address": "51 100TH Avenue",
+      "sourceLabel": "Cranbrook/Kimberley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "1,13,14",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 148,
+      "listingId": "20080295",
+      "address": "5132 Riverview Crescent",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "23,24,25,26,1",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 149,
+      "listingId": "10660236",
+      "address": "55 RIDGEMONT Avenue",
+      "sourceLabel": "Fernie/Sparwood",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "1,30",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 150,
+      "listingId": "10665347",
+      "address": "592 9TH Avenue",
+      "sourceLabel": "Fernie/Sparwood",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "10,11,13,4,5",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 151,
+      "listingId": "10660875",
+      "address": "5938 COLUMBIA LAKE Road",
+      "sourceLabel": "Columbia Valley",
+      "recommendedSource": "google_overhead_house_backyard_candidate",
+      "bestPhotoIndices": "5,6,1",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "yes",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 152,
       "listingId": "10685008",
       "address": "700 22ND S Avenue",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -9748,7 +11062,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 135,
+      "rank": 153,
       "listingId": "10638399",
       "address": "7549 SPRINGS Terrace",
       "sourceLabel": "Columbia Valley",
@@ -9764,7 +11078,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 136,
+      "rank": 154,
       "listingId": "20020530",
       "address": "805 16TH S Street",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -9780,7 +11094,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 137,
+      "rank": 155,
       "listingId": "10639146",
       "address": "823 LAKEVIEW MEADOWS GREEN",
       "sourceLabel": "Columbia Valley",
@@ -9796,7 +11110,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 138,
+      "rank": 156,
       "listingId": "20021290",
       "address": "147 THE WHINS",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -9812,7 +11126,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 139,
+      "rank": 157,
       "listingId": "20049602",
       "address": "1509 10th Avenue",
       "sourceLabel": "Columbia Valley",
@@ -9828,7 +11142,23 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 140,
+      "rank": 158,
+      "listingId": "10655082",
+      "address": "39 ELKVIEW Drive",
+      "sourceLabel": "Fernie/Sparwood",
+      "recommendedSource": "possible_google_overhead_needs_verify",
+      "bestPhotoIndices": "27,22,24,25,26,1",
+      "coordinateConfidence": "listing",
+      "mlsReviewed": true,
+      "mlsAerial": "no",
+      "bingOverhead": "unreviewed",
+      "googleOverhead": "unclear",
+      "mapboxOverhead": "unreviewed",
+      "arcgisRealTiles": "0",
+      "arcgisPlaceholderTiles": "9"
+    },
+    {
+      "rank": 159,
       "listingId": "10672843",
       "address": "150 SULLIVAN Drive",
       "sourceLabel": "Cranbrook/Kimberley",
@@ -9844,7 +11174,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 141,
+      "rank": 160,
       "listingId": "10671578",
       "address": "2140 WHISKEY JACK Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -9860,7 +11190,7 @@
       "arcgisPlaceholderTiles": "0"
     },
     {
-      "rank": 142,
+      "rank": 161,
       "listingId": "20021326",
       "address": "2264 BLACK HAWK Drive",
       "sourceLabel": "Fernie/Sparwood",
@@ -9876,7 +11206,7 @@
       "arcgisPlaceholderTiles": "0"
     },
     {
-      "rank": 143,
+      "rank": 162,
       "listingId": "10672111",
       "address": "2577 SANDSTONE Circle",
       "sourceLabel": "Columbia Valley",
@@ -9892,183 +11222,7 @@
       "arcgisPlaceholderTiles": "9"
     },
     {
-      "rank": 144,
-      "listingId": "20053388",
-      "address": "2715 3rd Street S",
-      "sourceLabel": "Cranbrook/Kimberley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "1",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": true,
-      "mlsAerial": "no",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 145,
-      "listingId": "20042580",
-      "address": "2850 BLACK BEAR Crescent",
-      "sourceLabel": "Cranbrook/Kimberley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "1,3,4",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": true,
-      "mlsAerial": "no",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 146,
-      "listingId": "20075439",
-      "address": "2950 Mellor Road",
-      "sourceLabel": "Cranbrook/Kimberley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "1,2,3,4",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": true,
-      "mlsAerial": "no",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 147,
-      "listingId": "20063623",
-      "address": "3101 5th Street S",
-      "sourceLabel": "Cranbrook/Kimberley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "3,1,2",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": true,
-      "mlsAerial": "no",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 148,
-      "listingId": "20045387",
-      "address": "3313 3A Street S",
-      "sourceLabel": "Cranbrook/Kimberley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "1",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": true,
-      "mlsAerial": "no",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 149,
-      "listingId": "20080078",
-      "address": "335 16th Avenue S",
-      "sourceLabel": "Cranbrook/Kimberley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "1",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": true,
-      "mlsAerial": "no",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 150,
-      "listingId": "10655082",
-      "address": "39 ELKVIEW Drive",
-      "sourceLabel": "Fernie/Sparwood",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "27,22,24,25,26,1",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": true,
-      "mlsAerial": "no",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 151,
-      "listingId": "10666517",
-      "address": "4 MT PROCTOR Avenue",
-      "sourceLabel": "Fernie/Sparwood",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "1,2",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": true,
-      "mlsAerial": "no",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 152,
-      "listingId": "20048760",
-      "address": "438 ALPINE Crescent",
-      "sourceLabel": "Cranbrook/Kimberley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "1,3,2,4",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": true,
-      "mlsAerial": "no",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 153,
-      "listingId": "10682881",
-      "address": "447 CROWNE RISE Forest",
-      "sourceLabel": "Cranbrook/Kimberley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "1,2,3,4,15",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": true,
-      "mlsAerial": "no",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 154,
-      "listingId": "20076380",
-      "address": "4573 Columere Road",
-      "sourceLabel": "Columbia Valley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "2,12,16,1",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": true,
-      "mlsAerial": "no",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 155,
+      "rank": 163,
       "listingId": "10659027",
       "address": "4642 ROWAN Street",
       "sourceLabel": "Columbia Valley",
@@ -10078,135 +11232,7 @@
       "mlsReviewed": true,
       "mlsAerial": "no",
       "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 156,
-      "listingId": "10644065",
-      "address": "4806 HOLLAND CREEK RIDGE Road",
-      "sourceLabel": "Columbia Valley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "1",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": true,
-      "mlsAerial": "no",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 157,
-      "listingId": "20084577",
-      "address": "4885 Carnoustie Place",
-      "sourceLabel": "Columbia Valley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "1,18",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": true,
-      "mlsAerial": "no",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 158,
-      "listingId": "10673650",
-      "address": "4949 MOUNTAIN HILL Road",
-      "sourceLabel": "Columbia Valley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "1,2,3",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": true,
-      "mlsAerial": "no",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 159,
-      "listingId": "20040797",
-      "address": "51 100TH Avenue",
-      "sourceLabel": "Cranbrook/Kimberley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "1,13,14",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": true,
-      "mlsAerial": "no",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 160,
-      "listingId": "20080295",
-      "address": "5132 Riverview Crescent",
-      "sourceLabel": "Columbia Valley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "23,24,25,26,1",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": true,
-      "mlsAerial": "no",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 161,
-      "listingId": "10660236",
-      "address": "55 RIDGEMONT Avenue",
-      "sourceLabel": "Fernie/Sparwood",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "1,30",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": true,
-      "mlsAerial": "no",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 162,
-      "listingId": "10665347",
-      "address": "592 9TH Avenue",
-      "sourceLabel": "Fernie/Sparwood",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "10,11,13,4,5",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": true,
-      "mlsAerial": "no",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
-      "mapboxOverhead": "unreviewed",
-      "arcgisRealTiles": "0",
-      "arcgisPlaceholderTiles": "9"
-    },
-    {
-      "rank": 163,
-      "listingId": "10660875",
-      "address": "5938 COLUMBIA LAKE Road",
-      "sourceLabel": "Columbia Valley",
-      "recommendedSource": "blocked_arcgis_no_imagery",
-      "bestPhotoIndices": "5,6,1",
-      "coordinateConfidence": "listing",
-      "mlsReviewed": true,
-      "mlsAerial": "no",
-      "bingOverhead": "unreviewed",
-      "googleOverhead": "unreviewed",
+      "googleOverhead": "no",
       "mapboxOverhead": "unreviewed",
       "arcgisRealTiles": "0",
       "arcgisPlaceholderTiles": "9"
