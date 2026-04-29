@@ -5,7 +5,8 @@
 - Total properties: **300 / 300 classified**
 - Public candidate cards: **291**
 - MLS contact sheets reviewed: **183**
-- Google Static Maps satellite sheets indexed/reviewed: **216 / 216**
+- Google Static Maps satellite sheets indexed: **300 / 300**
+- Google-reviewed/promoted candidates: **216 reviewed**, with Google imagery now available as QA/detail links for all 300 addresses
 - Coordinate blockers: **0**
 - Needs-aerial-review rows: **0**
 - Unresolved blocker rows: **0**
@@ -31,7 +32,15 @@ These are now explicitly classified as `no_usable_aerial_candidate_after_full_re
 - `15 ALPINE TRAILS Crescent` — MLS has ground-level/deck/wooded-yard views only; ArcGIS is placeholder; Google and Bing are dense tree cover/no identifiable target house+lot.
 - `9905 OSPREY LANDING Drive` — coordinate refined to ArcGIS point geocode; MLS has deck/wooded-lot context only; ArcGIS is placeholder; Google/Bing show road/trees/no clear house+lot.
 
-## Latest completion pass
+## Latest Google fill-in pass
+
+- Collected Google Static Maps imagery for the remaining **84** candidate-card addresses that previously had no Google imagery.
+- `data/alternate_contact_sheets/google/index.csv` now covers **300 / 300** addresses.
+- Every public candidate card now has a Google contact-sheet link; ArcGIS cards can display a Google image first where available so low-res ArcGIS crops are less prominent.
+- Updated ranking/export support so reviewed usable Google beats ArcGIS/Bing after MLS, while unreviewed Google imagery remains available as a supporting link/photo.
+- Rebuilt and pushed commit `0ffb3b5 Add Google imagery for remaining cards`.
+
+## Earlier completion pass
 
 - Updated `scripts/build_candidate_triage.py` so fully reviewed rows with MLS=no, Bing=no, Google=no, and ArcGIS placeholder are classified as `no_usable_aerial_candidate_after_full_review`.
 - Updated the review site status label to show these as **Photo not found** in the all-address tables.
