@@ -118,6 +118,9 @@ def load_google_reviews() -> dict[str, dict[str, object]]:
                 "notes": item.get("notes", ""),
                 "google_contact_sheet": index.get(lid, {}).get("google_contact_sheet", ""),
                 "google_image_count": index.get(lid, {}).get("google_image_count", ""),
+                "google_image_z20": index.get(lid, {}).get("google_image_z20", ""),
+                "google_image_z19": index.get(lid, {}).get("google_image_z19", ""),
+                "google_image_z18": index.get(lid, {}).get("google_image_z18", ""),
             }
     return reviews
 
@@ -269,6 +272,7 @@ def main() -> None:
             "google_contact_sheet": gr.get("google_contact_sheet", ""),
             "google_image_count": gr.get("google_image_count", ""),
             "google_best_zoom": gr.get("best_zoom", ""),
+            "google_best_image": gr.get(f"google_image_z{gr.get('best_zoom', '')}", ""),
             "google_coverage_strength": gr.get("coverage_strength", "unreviewed"),
             "mapbox_overhead": mb.get("has_useful_mapbox_overhead", "unreviewed"),
             "mapbox_contact_sheet": mb.get("mapbox_contact_sheet", ""),
@@ -293,7 +297,7 @@ def main() -> None:
         "aerial_real_tiles", "aerial_placeholder_tiles", "mls_contact_sheet", "mls_photo_count",
         "mls_backyard_photos", "mls_drone_or_aerial", "mls_best_photo_indices", "mls_candidate_strength",
         "bing_overhead", "bing_contact_sheet", "bing_tile_count", "bing_best_tile_position", "bing_coverage_strength",
-        "google_overhead", "google_contact_sheet", "google_image_count", "google_best_zoom", "google_coverage_strength",
+        "google_overhead", "google_contact_sheet", "google_image_count", "google_best_zoom", "google_best_image", "google_coverage_strength",
         "mapbox_overhead", "mapbox_contact_sheet", "mapbox_tile_count", "mapbox_best_tile_position", "mapbox_coverage_strength",
         "hot_tub_or_pool_signal", "source_risk", "notes",
     ]

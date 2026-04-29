@@ -89,7 +89,9 @@ def main() -> None:
             if url:
                 thumbs.append({"label": "Bing", "url": url})
         if r["recommended_source"].startswith("google") and r.get("google_contact_sheet"):
-            url = copy_asset(r["google_contact_sheet"], f"{base}-google-sheet-primary")
+            url = copy_asset(r.get("google_best_image", ""), f"{base}-google-best")
+            if not url:
+                url = copy_asset(r["google_contact_sheet"], f"{base}-google-sheet-primary")
             if url:
                 thumbs.append({"label": "Google", "url": url})
         if r["recommended_source"].startswith("mapbox") and r.get("mapbox_contact_sheet"):
@@ -114,6 +116,7 @@ def main() -> None:
         aerial_sheet = copy_asset(r.get("aerial_contact_sheet", ""), f"{base}-arcgis-sheet")
         best_arcgis = copy_asset(r.get("best_overhead_candidate", ""), f"{base}-arcgis-tile")
         bing_sheet = copy_asset(r.get("bing_contact_sheet", ""), f"{base}-bing-sheet")
+        google_best = copy_asset(r.get("google_best_image", ""), f"{base}-google-image")
         google_sheet = copy_asset(r.get("google_contact_sheet", ""), f"{base}-google-sheet")
         mapbox_sheet = copy_asset(r.get("mapbox_contact_sheet", ""), f"{base}-mapbox-sheet")
 
@@ -136,6 +139,7 @@ def main() -> None:
             "googleOverhead": r.get("google_overhead", ""),
             "googleImageCount": r.get("google_image_count", ""),
             "googleBestZoom": r.get("google_best_zoom", ""),
+            "googleBestImage": google_best,
             "googleCoverageStrength": r.get("google_coverage_strength", ""),
             "mapboxOverhead": r.get("mapbox_overhead", ""),
             "mapboxTileCount": r.get("mapbox_tile_count", ""),
@@ -148,6 +152,7 @@ def main() -> None:
                 "arcgisContactSheet": aerial_sheet,
                 "bestArcgisTile": best_arcgis,
                 "bingContactSheet": bing_sheet,
+                "googleBestImage": google_best,
                 "googleContactSheet": google_sheet,
                 "mapboxContactSheet": mapbox_sheet,
             },

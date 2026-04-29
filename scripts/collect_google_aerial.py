@@ -168,6 +168,9 @@ def main() -> None:
             "latitude": row["latitude"],
             "longitude": row["longitude"],
             "google_image_count": len(images),
+            "google_image_z20": str(images[0].relative_to(ROOT)) if len(images) > 0 else "",
+            "google_image_z19": str(images[1].relative_to(ROOT)) if len(images) > 1 else "",
+            "google_image_z18": str(images[2].relative_to(ROOT)) if len(images) > 2 else "",
             "google_contact_sheet": str(sheet.relative_to(ROOT)) if sheet else "",
         })
         print(f"[{i}/{len(rows)}] {row['address']}: {len(images)} Google Static Maps images")
