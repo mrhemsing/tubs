@@ -1,0 +1,12 @@
+[
+  {"listing_id":"10677502","address":"2537 LEDGEROCK Ridge","has_useful_google_overhead":"yes","best_zoom":"19","coverage_strength":"medium","notes":"House and surrounding lot/backyard visible; some tree cover/shadow limits yard detail."},
+  {"listing_id":"10660407","address":"2589 LEDGEROCK Court","has_useful_google_overhead":"yes","best_zoom":"19","coverage_strength":"medium","notes":"Cul-de-sac home and lot visible; backyard/edges partly obscured by trees and shadows."},
+  {"listing_id":"10676027","address":"29 RIDGEMONT Drive","has_useful_google_overhead":"yes","best_zoom":"19","coverage_strength":"high","notes":"Clear overhead of house, driveway, yard, and lot context."},
+  {"listing_id":"20073830","address":"311 302nd Avenue","has_useful_google_overhead":"yes","best_zoom":"19","coverage_strength":"high","notes":"Large lot, house, outbuildings, and surrounding yard are clearly visible."},
+  {"listing_id":"20022685","address":"405 7TH Avenue","has_useful_google_overhead":"yes","best_zoom":"19","coverage_strength":"medium","notes":"House and lot visible with useful context; some mature trees/shadow obscure parts of yard."},
+  {"listing_id":"20003058","address":"4315 LAKEVIEW Drive","has_useful_google_overhead":"yes","best_zoom":"20","coverage_strength":"high","notes":"Clear overhead of house, driveway, surrounding yard/lot; trees obscure some rear/side areas but overall useful."},
+  {"listing_id":"10671043","address":"4690 NORTH Street","has_useful_google_overhead":"yes","best_zoom":"19","coverage_strength":"medium","notes":"Property context and lot are visible, but house/backyard are partly obscured by mature trees and shadows."},
+  {"listing_id":"20070160","address":"530 Trail Street","has_useful_google_overhead":"yes","best_zoom":"19","coverage_strength":"medium","notes":"Shows house, street frontage, and surrounding lot context; z20 is too tight/partly offset, while z19 gives better overall coverage."},
+  {"listing_id":"10673062","address":"6853 ROSEN LAKE E Road","has_useful_google_overhead":"yes","best_zoom":"19","coverage_strength":"medium","notes":"Useful for wooded lot and driveway context; house is partly visible but obscured by trees/shadow."},
+  {"listing_id":"10679813","address":"701 34TH S Avenue","has_useful_google_overhead":"yes","best_zoom":"20","coverage_strength":"high","notes":"Clear view of house, yard, driveway, and lot boundaries/context; z19 also useful for neighborhood setting."}
+]
