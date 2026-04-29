@@ -122,11 +122,11 @@ export default function TubDesigner({ listingId, address, sourceImage, sourceUps
   return (
     <section className="designerBox">
       <button className="designerToggle" type="button" onClick={() => setOpen((value) => !value)}>
-        {open ? 'Hide editable 4x tub layer' : 'Edit 4x tub layer'}
+        {open ? 'Hide editable tub layer' : 'Edit tub layer'}
       </button>
       {open && (
         <div className="designerPanel">
-          <div className="designerStatus">Design base: {sourceUpscaled ? '4x upscaled' : 'standard'} · tub overlay: vector/4x export-ready</div>
+          <div className="designerStatus">Design base: {sourceUpscaled ? 'AI 4x upscaled' : 'original'} · tub overlay: sharp vector export</div>
           <div
             ref={stageRef}
             className="designerStage"
@@ -181,10 +181,10 @@ export default function TubDesigner({ listingId, address, sourceImage, sourceUps
             <div className="designerButtons">
               <button type="button" onClick={() => setPlacement({ ...fallbackPlacement, ...(initialPlacement || {}) })}>Reset</button>
               <button type="button" onClick={copyJson}>{copied ? 'Copied' : 'Copy placement JSON'}</button>
-              <button type="button" onClick={exportEditedMockup} disabled={exporting}>{exporting ? 'Exporting…' : 'Download edited 4x mockup'}</button>
+              <button type="button" onClick={exportEditedMockup} disabled={exporting}>{exporting ? 'Exporting…' : 'Download edited mockup'}</button>
             </div>
           </div>
-          <p className="designerHint">Drag the tub on the upscaled image, resize/rotate it, then download an edited 4x mockup or copy placement JSON for permanent tuning.</p>
+          <p className="designerHint">Drag the tub on the real source image, resize/rotate it, then download an edited mockup or copy placement JSON for permanent tuning.</p>
         </div>
       )}
     </section>

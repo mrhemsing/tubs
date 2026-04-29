@@ -8,7 +8,8 @@
     "start": "next start",
     "export-review": "python scripts/export_review_for_next.py",
     "refresh-review": "python scripts/export_review_for_next.py",
-    "upscale:fal": "node scripts/upscale_fal.mjs"
+    "upscale:fal": "node scripts/upscale_fal.mjs",
+    "print:exports": "node scripts/make_print_exports.mjs"
   },
   "dependencies": {
     "@fal-ai/client": "^1.10.0",

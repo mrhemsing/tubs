@@ -31,6 +31,7 @@ const areaBanners = {
   'Cranbrook/Kimberley': '/banner-cranbrook-kimberley.jpg',
   'Fernie/Sparwood': '/banner-fernie-sparwood.jpg',
 };
+const useAiUpscaledImages = process.env.NEXT_PUBLIC_USE_AI_UPSCALED === '1';
 
 function loadData() {
   const file = path.join(process.cwd(), 'public', 'review-data.json');
@@ -43,7 +44,7 @@ function loadData() {
     data.summary.tubMockups = mockups.length;
   }
   const upscaleFile = path.join(process.cwd(), 'public', 'upscaled-4x.json');
-  if (fs.existsSync(upscaleFile)) {
+  if (useAiUpscaledImages && fs.existsSync(upscaleFile)) {
     const upscaled = JSON.parse(fs.readFileSync(upscaleFile, 'utf8')).images || [];
     const byUrl = Object.fromEntries(upscaled.map((item) => [item.url, item.upscaled]));
     data.cards = data.cards.map((card) => ({
