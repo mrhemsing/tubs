@@ -33,6 +33,7 @@ TARGET_STATUSES = {
     "mls_ground_backyard_context_only",
     "possible_bing_overhead_needs_verify",
     "possible_mapbox_overhead_needs_verify",
+    "mapbox_overhead_house_backyard_candidate",
 }
 
 

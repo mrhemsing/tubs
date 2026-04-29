@@ -17,6 +17,8 @@ BING_INDEX_CSV = ROOT / "data" / "alternate_contact_sheets" / "bing" / "index.cs
 BING_REVIEW_DIR = ROOT / "data" / "alternate_contact_sheets" / "bing"
 MAPBOX_INDEX_CSV = ROOT / "data" / "alternate_contact_sheets" / "mapbox" / "index.csv"
 MAPBOX_REVIEW_DIR = ROOT / "data" / "alternate_contact_sheets" / "mapbox"
+GOOGLE_INDEX_CSV = ROOT / "data" / "alternate_contact_sheets" / "google" / "index.csv"
+GOOGLE_REVIEW_DIR = ROOT / "data" / "alternate_contact_sheets" / "google"
 
 
 def read_csv(path: Path) -> list[dict[str, str]]:
@@ -98,6 +100,28 @@ def load_mapbox_reviews() -> dict[str, dict[str, object]]:
     return reviews
 
 
+def load_google_reviews() -> dict[str, dict[str, object]]:
+    reviews: dict[str, dict[str, object]] = {}
+    if not GOOGLE_INDEX_CSV.exists():
+        return reviews
+    index = {r["listing_id"]: r for r in read_csv(GOOGLE_INDEX_CSV)}
+    for p in sorted(GOOGLE_REVIEW_DIR.glob("google_review_batch_*.json")):
+        data = json.loads(p.read_text(encoding="utf-8"))
+        for item in data:
+            lid = str(item["listing_id"])
+            reviews[lid] = {
+                "listing_id": lid,
+                "address": item.get("address", ""),
+                "has_useful_google_overhead": item.get("has_useful_google_overhead", "unclear"),
+                "best_zoom": item.get("best_zoom", ""),
+                "coverage_strength": item.get("coverage_strength", "unclear"),
+                "notes": item.get("notes", ""),
+                "google_contact_sheet": index.get(lid, {}).get("google_contact_sheet", ""),
+                "google_image_count": index.get(lid, {}).get("google_image_count", ""),
+            }
+    return reviews
+
+
 def score_row(row: dict[str, object]) -> int:
     """Rank for Matt's goal: aerial/elevated views showing house + backyard together."""
     score = 0
@@ -115,8 +139,13 @@ def score_row(row: dict[str, object]) -> int:
     elif row.get("bing_overhead") == "unclear":
         score += 18
 
+    if row.get("google_overhead") == "yes":
+        score += 25
+    elif row.get("google_overhead") == "unclear":
+        score += 18
+
     if row.get("mapbox_overhead") == "yes":
-        score += 58
+        score += 20
     elif row.get("mapbox_overhead") == "unclear":
         score += 16
 
@@ -150,6 +179,7 @@ def main() -> None:
     mls_reviews = load_mls_reviews()
     bing_reviews = load_bing_reviews()
     mapbox_reviews = load_mapbox_reviews()
+    google_reviews = load_google_reviews()
 
     cross_fields = [
         "listing_id", "address", "reason", "has_backyard_photos", "has_drone_or_aerial_photos",
@@ -164,6 +194,7 @@ def main() -> None:
         mr = mls_reviews.get(lid, {})
         br = bing_reviews.get(lid, {})
         mb = mapbox_reviews.get(lid, {})
+        gr = google_reviews.get(lid, {})
         hot_signal = mr.get("hot_tub_or_pool_visible") or r.get("hot_tub_visible") or "unclear"
         has_arcgis_house_backyard = r.get("overhead_quality") in {"good", "fair"} and r.get("backyard_visibility") in {"good", "partial"}
         best_source = "needs_aerial_review"
@@ -177,6 +208,9 @@ def main() -> None:
         elif br.get("has_useful_bing_overhead") == "yes":
             best_source = "bing_overhead_house_backyard_candidate"
             aerial_coverage_goal = "likely_house_and_backyard_bing_overhead"
+        elif gr.get("has_useful_google_overhead") == "yes":
+            best_source = "google_overhead_house_backyard_candidate"
+            aerial_coverage_goal = "likely_house_and_backyard_google_overhead"
         elif mb.get("has_useful_mapbox_overhead") == "yes":
             best_source = "mapbox_overhead_house_backyard_candidate"
             aerial_coverage_goal = "likely_house_and_backyard_mapbox_overhead"
@@ -186,6 +220,9 @@ def main() -> None:
         elif br.get("has_useful_bing_overhead") == "unclear":
             best_source = "possible_bing_overhead_needs_verify"
             aerial_coverage_goal = "possible_bing_overhead_needs_verify"
+        elif gr.get("has_useful_google_overhead") == "unclear":
+            best_source = "possible_google_overhead_needs_verify"
+            aerial_coverage_goal = "possible_google_overhead_needs_verify"
         elif mb.get("has_useful_mapbox_overhead") == "unclear":
             best_source = "possible_mapbox_overhead_needs_verify"
             aerial_coverage_goal = "possible_mapbox_overhead_needs_verify"
@@ -228,6 +265,11 @@ def main() -> None:
             "bing_tile_count": br.get("bing_tile_count", ""),
             "bing_best_tile_position": br.get("best_tile_position", ""),
             "bing_coverage_strength": br.get("coverage_strength", "unreviewed"),
+            "google_overhead": gr.get("has_useful_google_overhead", "unreviewed"),
+            "google_contact_sheet": gr.get("google_contact_sheet", ""),
+            "google_image_count": gr.get("google_image_count", ""),
+            "google_best_zoom": gr.get("best_zoom", ""),
+            "google_coverage_strength": gr.get("coverage_strength", "unreviewed"),
             "mapbox_overhead": mb.get("has_useful_mapbox_overhead", "unreviewed"),
             "mapbox_contact_sheet": mb.get("mapbox_contact_sheet", ""),
             "mapbox_tile_count": mb.get("mapbox_tile_count", ""),
@@ -235,7 +277,7 @@ def main() -> None:
             "mapbox_coverage_strength": mb.get("coverage_strength", "unreviewed"),
             "hot_tub_or_pool_signal": hot_signal,
             "source_risk": "research_only_verify_license",
-            "notes": "; ".join(x for x in [r.get("notes", ""), mr.get("notes", ""), br.get("notes", ""), mb.get("notes", "")] if x),
+            "notes": "; ".join(x for x in [r.get("notes", ""), mr.get("notes", ""), br.get("notes", ""), gr.get("notes", ""), mb.get("notes", "")] if x),
         }
         row["triage_score"] = score_row(row)
         rows.append(row)
@@ -251,6 +293,7 @@ def main() -> None:
         "aerial_real_tiles", "aerial_placeholder_tiles", "mls_contact_sheet", "mls_photo_count",
         "mls_backyard_photos", "mls_drone_or_aerial", "mls_best_photo_indices", "mls_candidate_strength",
         "bing_overhead", "bing_contact_sheet", "bing_tile_count", "bing_best_tile_position", "bing_coverage_strength",
+        "google_overhead", "google_contact_sheet", "google_image_count", "google_best_zoom", "google_coverage_strength",
         "mapbox_overhead", "mapbox_contact_sheet", "mapbox_tile_count", "mapbox_best_tile_position", "mapbox_coverage_strength",
         "hot_tub_or_pool_signal", "source_risk", "notes",
     ]
