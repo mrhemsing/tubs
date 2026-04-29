@@ -143,21 +143,18 @@ function AreaBlock({ area, cards, rows }) {
   return (
     <section className="areaSection" id={areaSlugs[area]}>
       <div className="areaBanner">
-        <img src={areaBanners[area]} alt={`${area} banner illustration`} loading="lazy" />
-        <div className="areaBannerOverlay">
-          <div className="areaBannerTitle">
-            <p className="areaKicker">Area</p>
-            <h2>{area}</h2>
-          </div>
-          <div className="areaStats">
-            <span>{cards.length}/{rows.length} candidates</span>
-            <span>{aerialCount} MLS aerial/elevated</span>
-            <span>{arcgisCount} ArcGIS overhead</span>
-            <span>{bingCount} Bing overhead</span>
-            <span>{googleCount} Google overhead</span>
-            <span>{mapboxCount} Mapbox overhead</span>
-            <span>{possibleCount} possible elevated</span>
-          </div>
+        <div className="areaBannerTitle">
+          <p className="areaKicker">Area</p>
+          <h2>{area}</h2>
+        </div>
+        <div className="areaStats">
+          <span>{cards.length}/{rows.length} candidates</span>
+          <span>{aerialCount} MLS aerial/elevated</span>
+          <span>{arcgisCount} ArcGIS overhead</span>
+          <span>{bingCount} Bing overhead</span>
+          <span>{googleCount} Google overhead</span>
+          <span>{mapboxCount} Mapbox overhead</span>
+          <span>{possibleCount} possible elevated</span>
         </div>
       </div>
 
