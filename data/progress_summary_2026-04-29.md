@@ -14,6 +14,7 @@
 - Needs-aerial-review rows: **0**
 - Unresolved blocker rows: **0**
 - Next.js build: **passing** after latest data refresh
+- Manual verification shortlist: **49 rows** — 36 high priority, 7 medium, 6 low
 
 ## Final source/status split
 
@@ -99,8 +100,21 @@ This cleared the previous **2 needs-aerial-review rows** (`1 BIGHORN SHEEP Lane`
 - Imagery remains research/internal; Google licensing/attribution/caching rules still need resolution before public/commercial reuse.
 - Tub images are concept mockups only; the tub is digitally added and should not be represented as an existing property feature.
 
+## Manual verification shortlist
+
+Created focused QA outputs for the remaining judgment calls:
+
+- `data/triage/manual_verification_shortlist.csv`
+- `data/triage/manual_verification_shortlist.md`
+
+Counts:
+
+- **36** high-priority rows: possible MLS elevated + possible Google overhead candidates.
+- **7** medium-priority rows: possible Bing overhead candidates.
+- **6** low-priority rows: MLS ground-context-only and final no-candidate rows.
+
 ## Next best action
 
-1. Matt can review the **291 candidate cards** using the 4x primary/tub images and editable tub design layer.
-2. Human-verify high-value possible rows, especially possible Bing and possible Google candidates.
+1. Matt can review `data/triage/manual_verification_shortlist.md` first, then open the corresponding 4x candidate/tub cards.
+2. Tune tub placement in the editable 4x tub layer and download edited 4x mockups for selected keepers.
 3. Manually verify `4827 HOLLAND Crescent` vs `4827 Holland Creek Ridge Rd` before treating that coordinate as final.
