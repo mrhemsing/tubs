@@ -32,8 +32,10 @@ const areaBanners = {
   'Fernie/Sparwood': '/banner-fernie-sparwood.jpg',
 };
 
+const defaultSeedvrBaseUrl = 'https://pub-f76325cc62ad4a85bd9b7eb123482f9c.r2.dev';
+
 function seedvrUrl(url) {
-  const base = process.env.NEXT_PUBLIC_SEEDVR_BASE_URL?.replace(/\/+$/, '');
+  const base = (process.env.NEXT_PUBLIC_SEEDVR_BASE_URL || defaultSeedvrBaseUrl).replace(/\/+$/, '');
   if (!base || !url?.startsWith('/seedvr-4x/')) return url;
   return `${base}${url}`;
 }
