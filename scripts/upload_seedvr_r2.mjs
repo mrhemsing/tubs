@@ -76,27 +76,36 @@ function signRequest({ method, url, bodyHash, accessKeyId, secretAccessKey }) {
   };
 }
 
-async function uploadOne({ file, bucket, endpoint, prefix, accessKeyId, secretAccessKey }) {
+function sleep(ms) {
+  return new Promise((resolve) => setTimeout(resolve, ms));
+}
+
+async function uploadOne({ file, bucket, endpoint, prefix, accessKeyId, secretAccessKey, maxRetries = 4 }) {
   const rel = path.relative(SOURCE_DIR, file).replaceAll('\\', '/');
   const key = [prefix, rel].filter(Boolean).join('/').replace(/^\/+/, '');
   const body = await fs.readFile(file);
   const bodyHash = sha256(body);
   const url = `${endpoint}/${bucket}/${encodeKey(key)}`;
-  const signature = signRequest({ method: 'PUT', url, bodyHash, accessKeyId, secretAccessKey });
-  const response = await fetch(url, {
-    method: 'PUT',
-    body,
-    headers: {
-      authorization: signature.authorization,
-      'x-amz-content-sha256': bodyHash,
-      'x-amz-date': signature.date,
-      'content-type': 'image/jpeg',
-      'cache-control': 'public, max-age=31536000, immutable',
-    },
-  });
-  if (!response.ok) {
+  for (let attempt = 1; attempt <= maxRetries; attempt += 1) {
+    const signature = signRequest({ method: 'PUT', url, bodyHash, accessKeyId, secretAccessKey });
+    const response = await fetch(url, {
+      method: 'PUT',
+      body,
+      headers: {
+        authorization: signature.authorization,
+        'x-amz-content-sha256': bodyHash,
+        'x-amz-date': signature.date,
+        'content-type': 'image/jpeg',
+        'cache-control': 'public, max-age=31536000, immutable',
+      },
+    });
+    if (response.ok) return key;
     const text = await response.text().catch(() => '');
-    throw new Error(`${response.status} ${response.statusText} uploading ${key}: ${text.slice(0, 300)}`);
+    if (attempt === maxRetries || ![429, 500, 502, 503, 504].includes(response.status)) {
+      throw new Error(`${response.status} ${response.statusText} uploading ${key}: ${text.slice(0, 300)}`);
+    }
+    console.warn(`retry ${attempt}/${maxRetries - 1} for ${key}: ${response.status} ${response.statusText}`);
+    await sleep(1000 * attempt * attempt);
   }
   return key;
 }
