@@ -232,6 +232,7 @@ export default function TubDesigner({ listingId, address, sourceImage, imageOpti
 
     img.src = savedSourceImage;
     link.href = savedSourceImage;
+    link.classList.add('savedConceptMockup');
     if (label) label.textContent = 'Tub concept mockup - saved edit';
     if (note) note.textContent = 'Saved concept mockup - hot tub digitally added.';
     link.querySelectorAll('.savedConceptTub').forEach((node) => node.remove());
