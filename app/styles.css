@@ -117,6 +117,7 @@ h2 { margin: 0; font-size: 23px; letter-spacing: -.025em; }
 .tubMockup { position: relative; display: block; margin-top: 12px; overflow: hidden; border-radius: 18px; border: 2px solid #86efac; background: #ecfdf5; text-decoration: none; }
 .tubMockup img { width: 100%; height: 260px; object-fit: cover; display: block; transition: transform .18s ease; }
 .tubMockup:hover img { transform: scale(1.02); }
+.tubMockup .savedConceptTub { position: absolute; pointer-events: none; z-index: 2; }
 .tubMockup em { display: block; padding: 8px 11px; color: #166534; font-size: 12px; font-style: normal; font-weight: 800; background: #dcfce7; }
 .designerBox { margin-top: 10px; }
 .designerToggle { width: 100%; border: 1px solid #bbf7d0; background: #f0fdf4; color: #166534; border-radius: 14px; padding: 10px 12px; font-weight: 900; cursor: pointer; }
@@ -147,6 +148,7 @@ h2 { margin: 0; font-size: 23px; letter-spacing: -.025em; }
 .designerButtons { display: flex; gap: 8px; grid-column: 1 / -1; }
 .designerButtons button { border: 1px solid #86efac; background: #fff; color: #166534; border-radius: 999px; padding: 8px 10px; font-weight: 850; cursor: pointer; }
 .designerButtons button:disabled { opacity: .55; cursor: wait; }
+.designerSaveNotice { margin: 9px 2px 0; color: #14532d; background: #dcfce7; border: 1px solid #86efac; border-radius: 12px; padding: 8px 10px; font-size: 13px; font-weight: 900; }
 .designerHint { margin: 8px 2px 0; color: #3f6212; font-size: 12px; line-height: 1.35; }
 .details { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; margin: 0 0 16px; }
 .details div { border: 1px solid var(--line); border-radius: 14px; padding: 10px 12px; background: #fbfdff; }

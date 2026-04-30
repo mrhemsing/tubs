@@ -172,6 +172,7 @@ export default function TubDesigner({ listingId, address, sourceImage, imageOpti
   const [selectedImage, setSelectedImage] = useState(sourceImage || normalizedOptions[0]?.url || '');
   const [saving, setSaving] = useState(false);
   const [saved, setSaved] = useState(false);
+  const [saveMessage, setSaveMessage] = useState('');
 
   useEffect(() => {
     try {
@@ -180,7 +181,7 @@ export default function TubDesigner({ listingId, address, sourceImage, imageOpti
       const savedImage = window.localStorage.getItem(imageStorageKey);
       if (savedImage && normalizedOptions.some((option) => option.url === savedImage)) setSelectedImage(savedImage);
       const savedMockup = window.localStorage.getItem(savedMockupKey);
-      if (savedMockup) applySavedMockup(savedMockup);
+      if (savedMockup) window.setTimeout(() => applySavedMockup(JSON.parse(savedMockup)), 0);
     } catch {}
   }, [storageKey, imageStorageKey, savedMockupKey]);
 
@@ -208,33 +209,51 @@ export default function TubDesigner({ listingId, address, sourceImage, imageOpti
     }));
   }
 
-  function applySavedMockup(dataUrl) {
+  function buildSavedTubNode(savedPlacement) {
+    const tub = stageRef.current?.querySelector('.designTub')?.cloneNode(true);
+    if (!tub) return null;
+    tub.classList.add('savedConceptTub');
+    tub.style.left = `${savedPlacement.xPct}%`;
+    tub.style.top = `${savedPlacement.yPct}%`;
+    tub.style.width = `${savedPlacement.sizePct}%`;
+    tub.style.transform = `translate(-50%, -50%) rotate(${savedPlacement.rotation}deg)`;
+    return tub;
+  }
+
+  function applySavedMockup(savedMockup) {
     const article = stageRef.current?.closest('article');
     const link = article?.querySelector('.tubMockup');
     const img = link?.querySelector('img');
     const label = link?.querySelector('.photoLabel');
-    if (link) link.href = dataUrl;
-    if (img) img.src = dataUrl;
+    const note = link?.querySelector('em');
+    const savedPlacement = savedMockup?.placement || placement;
+    const savedSourceImage = savedMockup?.sourceImage || selectedImage;
+    if (!link || !img || !savedSourceImage) return false;
+
+    img.src = savedSourceImage;
+    link.href = savedSourceImage;
     if (label) label.textContent = 'Tub concept mockup - saved edit';
+    if (note) note.textContent = 'Saved concept mockup - hot tub digitally added.';
+    link.querySelectorAll('.savedConceptTub').forEach((node) => node.remove());
+    const tub = buildSavedTubNode(savedPlacement);
+    if (tub) link.insertBefore(tub, note || null);
+    return true;
   }
 
-  async function saveEditedMockup() {
-    const img = imageRef.current;
-    if (!img?.complete || !img.naturalWidth) return;
+  function saveEditedMockup() {
     setSaving(true);
     try {
-      const canvas = document.createElement('canvas');
-      canvas.width = img.naturalWidth;
-      canvas.height = img.naturalHeight;
-      const ctx = canvas.getContext('2d');
-      ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
-      const size = (placement.sizePct / 100) * canvas.width;
-      drawTub(ctx, (placement.xPct / 100) * canvas.width, (placement.yPct / 100) * canvas.height, size, placement.rotation);
-      const dataUrl = canvas.toDataURL('image/jpeg', 0.92);
-      window.localStorage.setItem(savedMockupKey, dataUrl);
-      applySavedMockup(dataUrl);
+      const savedMockup = { sourceImage: selectedImage, placement };
+      window.localStorage.setItem(savedMockupKey, JSON.stringify(savedMockup));
+      const applied = applySavedMockup(savedMockup);
       setSaved(true);
-      setTimeout(() => setSaved(false), 1400);
+      setSaveMessage(applied ? 'Saved - Tub concept mockup updated above.' : 'Saved - refresh if the concept mockup does not update.');
+      setTimeout(() => {
+        setSaved(false);
+        setSaveMessage('');
+      }, 2600);
+    } catch (error) {
+      setSaveMessage('Could not save in this browser. Try clearing site storage and saving again.');
     } finally {
       setSaving(false);
     }
@@ -247,7 +266,7 @@ export default function TubDesigner({ listingId, address, sourceImage, imageOpti
       </button>
       {open && (
         <div className="designerPanel">
-          <div className="designerStatus">Design base: selected photo Â· tub overlay: sharp vector export</div>
+          <div className="designerStatus">Design base: selected photo - tub overlay: sharp vector export</div>
           {normalizedOptions.length > 1 && (
             <label className="designerPhotoPicker">
               Photo to edit
@@ -313,9 +332,10 @@ export default function TubDesigner({ listingId, address, sourceImage, imageOpti
             </label>
             <div className="designerButtons">
               <button type="button" onClick={() => setPlacement({ ...fallbackPlacement, ...(initialPlacement || {}) })}>Reset</button>
-              <button type="button" onClick={saveEditedMockup} disabled={saving}>{saving ? 'Saving...' : saved ? 'Saved' : 'Save'}</button>
+              <button type="button" onClick={saveEditedMockup} disabled={saving}>{saving ? 'Saving...' : saved ? 'Saved ✓' : 'Save'}</button>
             </div>
           </div>
+          {saveMessage && <p className="designerSaveNotice">{saveMessage}</p>}
           <p className="designerHint">Drag the tub on the real source image, resize/rotate it, then Save to replace the Tub concept mockup for this address in this browser.</p>
         </div>
       )}
