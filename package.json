@@ -7,7 +7,10 @@
     "build": "next build",
     "start": "next start",
     "export-review": "python scripts/export_review_for_next.py",
-    "refresh-review": "python scripts/export_review_for_next.py"
+    "refresh-review": "python scripts/export_review_for_next.py",
+    "seedvr:test": "node scripts/seedvr_upscale_test.mjs",
+    "seedvr:batch": "node scripts/seedvr_upscale_batch.mjs",
+    "seedvr:upload-r2": "node scripts/upload_seedvr_r2.mjs"
   },
   "dependencies": {
     "@fal-ai/client": "^1.10.0",

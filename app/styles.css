@@ -120,6 +120,8 @@ h2 { margin: 0; font-size: 23px; letter-spacing: -.025em; }
 .designerToggle:hover { background: #dcfce7; }
 .designerPanel { margin-top: 10px; border: 1px solid #bbf7d0; border-radius: 18px; padding: 10px; background: #f7fee7; }
 .designerStatus { margin: 0 2px 8px; color: #166534; font-size: 12px; font-weight: 900; text-transform: uppercase; letter-spacing: .04em; }
+.designerPhotoPicker { display: grid; gap: 5px; margin: 0 0 10px; color: #166534; font-size: 12px; font-weight: 900; text-transform: uppercase; letter-spacing: .05em; }
+.designerPhotoPicker select { width: 100%; border: 1px solid #86efac; border-radius: 12px; background: #fff; color: #14532d; padding: 9px 10px; font: inherit; text-transform: none; letter-spacing: 0; }
 .designerStage { position: relative; overflow: hidden; border-radius: 14px; background: #0f172a; touch-action: none; cursor: crosshair; user-select: none; }
 .designerStage img { width: 100%; height: 330px; object-fit: cover; display: block; pointer-events: none; }
 .designTub { position: absolute; aspect-ratio: 1 / 1; border-radius: 22%; background: #f8fafc; border: 2px solid rgba(15,23,42,.35); box-shadow: 4px 7px 13px rgba(0,0,0,.34); pointer-events: none; }

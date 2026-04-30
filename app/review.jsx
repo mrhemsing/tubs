@@ -32,15 +32,47 @@ const areaBanners = {
   'Fernie/Sparwood': '/banner-fernie-sparwood.jpg',
 };
 
+function seedvrUrl(url) {
+  const base = process.env.NEXT_PUBLIC_SEEDVR_BASE_URL?.replace(/\/+$/, '');
+  if (!base || !url?.startsWith('/seedvr-4x/')) return url;
+  return `${base}${url}`;
+}
+
+function loadSeedvrMap() {
+  const file = path.join(process.cwd(), 'public', 'seedvr-4x.json');
+  if (!fs.existsSync(file)) return new Map();
+  const images = JSON.parse(fs.readFileSync(file, 'utf8')).images || [];
+  return new Map(images.map((item) => [item.url, seedvrUrl(item.upscaled)]));
+}
+
+function withSeedvrImage(item, seedvrByUrl) {
+  if (!item?.url || !seedvrByUrl.has(item.url)) return item;
+  return { ...item, originalUrl: item.url, url: seedvrByUrl.get(item.url), label: `${item.label} · SeedVR 4x` };
+}
+
 function loadData() {
   const file = path.join(process.cwd(), 'public', 'review-data.json');
   const data = JSON.parse(fs.readFileSync(file, 'utf8'));
+  const seedvrByUrl = loadSeedvrMap();
   const mockupFile = path.join(process.cwd(), 'public', 'tub-mockups.json');
   if (fs.existsSync(mockupFile)) {
     const mockups = JSON.parse(fs.readFileSync(mockupFile, 'utf8')).mockups || [];
-    const byListing = Object.fromEntries(mockups.map((m) => [m.listingId, m]));
-    data.cards = data.cards.map((card) => ({ ...card, tubMockup: byListing[card.listingId] || null }));
+    const upgradedMockups = mockups.map((m) => ({
+      ...m,
+      originalMockup: m.mockup,
+      originalSourceImage: m.sourceImage,
+      mockup: seedvrByUrl.get(m.mockup) || m.mockup,
+      sourceImage: seedvrByUrl.get(m.sourceImage) || m.sourceImage,
+      seedvrEnabled: seedvrByUrl.has(m.mockup) || seedvrByUrl.has(m.sourceImage),
+    }));
+    const byListing = Object.fromEntries(upgradedMockups.map((m) => [m.listingId, m]));
+    data.cards = data.cards.map((card) => ({
+      ...card,
+      thumbs: (card.thumbs || []).map((thumb) => withSeedvrImage(thumb, seedvrByUrl)),
+      tubMockup: byListing[card.listingId] || null,
+    }));
     data.summary.tubMockups = mockups.length;
+    data.summary.seedvrImages = seedvrByUrl.size;
   }
   return data;
 }
@@ -97,7 +129,7 @@ function CandidateCard({ card, displayRank = card.rank }) {
         <div className="rank">#{displayRank}</div>
         <div className="titleBlock">
           <h2>{card.address}</h2>
-          <p className="meta">List ID {card.listingId} · {card.sourceLabel} · score {card.score}</p>
+          <p className="meta">List ID {card.listingId} · {card.sourceLabel} · score {card.score} · SeedVR 4x</p>
         </div>
         <span className={`badge ${sourceClass(card.recommendedSource)}`}>
           {labels[card.recommendedSource] || card.recommendedSource}
@@ -117,7 +149,7 @@ function CandidateCard({ card, displayRank = card.rank }) {
           {card.tubMockup && (
             <>
               <a className="tubMockup" href={card.tubMockup.mockup}>
-                <span className="photoLabel">Tub concept mockup</span>
+                <span className="photoLabel">Tub concept mockup · SeedVR 4x</span>
                 <img src={card.tubMockup.mockup} alt={`${card.address} tub concept mockup`} loading="lazy" />
                 <em>Concept mockup only — hot tub digitally added.</em>
               </a>
@@ -125,6 +157,11 @@ function CandidateCard({ card, displayRank = card.rank }) {
                 listingId={card.listingId}
                 address={card.address}
                 sourceImage={card.tubMockup.sourceImage}
+                imageOptions={[
+                  ...(card.thumbs || []).map((thumb) => ({ label: `Candidate ${thumb.label}`, url: thumb.url })),
+                  { label: 'Tub design base', url: card.tubMockup.sourceImage },
+                  card.tubMockup.originalSourceImage ? { label: 'Original design base', url: card.tubMockup.originalSourceImage } : null,
+                ].filter(Boolean)}
                 initialPlacement={card.tubMockup.placement}
               />
             </>
@@ -176,6 +213,7 @@ function AreaBlock({ area, cards, rows }) {
   const mapboxCount = cards.filter((card) => card.recommendedSource === 'mapbox_overhead_house_backyard_candidate').length;
   const possibleCount = cards.filter((card) => ['possible_mls_elevated_candidate_needs_verify', 'possible_bing_overhead_needs_verify', 'possible_google_overhead_needs_verify', 'possible_mapbox_overhead_needs_verify'].includes(card.recommendedSource)).length;
   const tubMockupCount = cards.filter((card) => card.tubMockup).length;
+  const seedvrCount = cards.reduce((total, card) => total + (card.thumbs || []).filter((thumb) => thumb.originalUrl).length + (card.tubMockup?.seedvrEnabled ? 1 : 0), 0);
 
   return (
     <section className="areaSection" id={areaSlugs[area]}>
@@ -193,6 +231,7 @@ function AreaBlock({ area, cards, rows }) {
           <span>{mapboxCount} Mapbox overhead</span>
           <span>{possibleCount} possible elevated</span>
           <span>{tubMockupCount} tub mockups</span>
+          <span>{seedvrCount} SeedVR 4x images active</span>
         </div>
       </div>
 

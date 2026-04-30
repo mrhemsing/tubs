@@ -52,13 +52,19 @@ function drawTub(ctx, centerX, centerY, size, rotationDeg) {
   ctx.restore();
 }
 
-export default function TubDesigner({ listingId, address, sourceImage, initialPlacement }) {
+export default function TubDesigner({ listingId, address, sourceImage, imageOptions = [], initialPlacement }) {
+  const normalizedOptions = [
+    ...imageOptions.filter((option) => option?.url),
+    sourceImage ? { label: 'Tub design base', url: sourceImage } : null,
+  ].filter(Boolean).filter((option, index, all) => all.findIndex((item) => item.url === option.url) === index);
   const storageKey = `tub-placement:${listingId}`;
+  const imageStorageKey = `tub-design-image:${listingId}`;
   const stageRef = useRef(null);
   const imageRef = useRef(null);
   const dragging = useRef(false);
   const [open, setOpen] = useState(false);
   const [placement, setPlacement] = useState({ ...fallbackPlacement, ...(initialPlacement || {}) });
+  const [selectedImage, setSelectedImage] = useState(sourceImage || normalizedOptions[0]?.url || '');
   const [copied, setCopied] = useState(false);
   const [exporting, setExporting] = useState(false);
 
@@ -66,8 +72,10 @@ export default function TubDesigner({ listingId, address, sourceImage, initialPl
     try {
       const saved = window.localStorage.getItem(storageKey);
       if (saved) setPlacement((current) => ({ ...current, ...JSON.parse(saved) }));
+      const savedImage = window.localStorage.getItem(imageStorageKey);
+      if (savedImage && normalizedOptions.some((option) => option.url === savedImage)) setSelectedImage(savedImage);
     } catch {}
-  }, [storageKey]);
+  }, [storageKey, imageStorageKey]);
 
   useEffect(() => {
     try {
@@ -75,7 +83,13 @@ export default function TubDesigner({ listingId, address, sourceImage, initialPl
     } catch {}
   }, [storageKey, placement]);
 
-  if (!sourceImage) return null;
+  useEffect(() => {
+    try {
+      if (selectedImage) window.localStorage.setItem(imageStorageKey, selectedImage);
+    } catch {}
+  }, [imageStorageKey, selectedImage]);
+
+  if (!selectedImage) return null;
 
   function setPoint(clientX, clientY) {
     const rect = stageRef.current?.getBoundingClientRect();
@@ -88,7 +102,7 @@ export default function TubDesigner({ listingId, address, sourceImage, initialPl
   }
 
   function copyJson() {
-    const payload = JSON.stringify({ listingId, address, sourceImage, placement }, null, 2);
+    const payload = JSON.stringify({ listingId, address, sourceImage: selectedImage, placement }, null, 2);
     navigator.clipboard?.writeText(payload);
     setCopied(true);
     setTimeout(() => setCopied(false), 1200);
@@ -126,7 +140,17 @@ export default function TubDesigner({ listingId, address, sourceImage, initialPl
       </button>
       {open && (
         <div className="designerPanel">
-          <div className="designerStatus">Design base: original · tub overlay: sharp vector export</div>
+          <div className="designerStatus">Design base: selected photo · tub overlay: sharp vector export</div>
+          {normalizedOptions.length > 1 && (
+            <label className="designerPhotoPicker">
+              Photo to edit
+              <select value={selectedImage} onChange={(event) => setSelectedImage(event.target.value)}>
+                {normalizedOptions.map((option) => (
+                  <option value={option.url} key={option.url}>{option.label}</option>
+                ))}
+              </select>
+            </label>
+          )}
           <div
             ref={stageRef}
             className="designerStage"
@@ -141,7 +165,7 @@ export default function TubDesigner({ listingId, address, sourceImage, initialPl
             onPointerUp={() => { dragging.current = false; }}
             onPointerCancel={() => { dragging.current = false; }}
           >
-            <img ref={imageRef} src={sourceImage} alt={`${address} tub design base`} loading="lazy" draggable="false" />
+            <img ref={imageRef} src={selectedImage} alt={`${address} tub design base`} loading="lazy" draggable="false" />
             <div
               className="designTub"
               style={{
