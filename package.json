@@ -7,15 +7,11 @@
     "build": "next build",
     "start": "next start",
     "export-review": "python scripts/export_review_for_next.py",
-    "refresh-review": "python scripts/export_review_for_next.py",
-    "upscale:fal": "node scripts/upscale_fal.mjs",
-    "print:exports": "node scripts/make_print_exports.mjs"
+    "refresh-review": "python scripts/export_review_for_next.py"
   },
   "dependencies": {
-    "@fal-ai/client": "^1.10.0",
     "next": "^16.2.4",
     "react": "^19.2.5",
-    "react-dom": "^19.2.5",
-    "sharp": "^0.34.5"
+    "react-dom": "^19.2.5"
   }
 }

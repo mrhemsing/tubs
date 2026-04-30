@@ -31,7 +31,6 @@ const areaBanners = {
   'Cranbrook/Kimberley': '/banner-cranbrook-kimberley.jpg',
   'Fernie/Sparwood': '/banner-fernie-sparwood.jpg',
 };
-const useAiUpscaledImages = process.env.NEXT_PUBLIC_USE_AI_UPSCALED === '1';
 
 function loadData() {
   const file = path.join(process.cwd(), 'public', 'review-data.json');
@@ -42,25 +41,6 @@ function loadData() {
     const byListing = Object.fromEntries(mockups.map((m) => [m.listingId, m]));
     data.cards = data.cards.map((card) => ({ ...card, tubMockup: byListing[card.listingId] || null }));
     data.summary.tubMockups = mockups.length;
-  }
-  const upscaleFile = path.join(process.cwd(), 'public', 'upscaled-4x.json');
-  if (useAiUpscaledImages && fs.existsSync(upscaleFile)) {
-    const upscaled = JSON.parse(fs.readFileSync(upscaleFile, 'utf8')).images || [];
-    const byUrl = Object.fromEntries(upscaled.map((item) => [item.url, item.upscaled]));
-    data.cards = data.cards.map((card) => ({
-      ...card,
-      thumbs: (card.thumbs || []).map((thumb) => ({ ...thumb, originalUrl: thumb.url, url: byUrl[thumb.url] || thumb.url, upscaled: Boolean(byUrl[thumb.url]) })),
-      tubMockup: card.tubMockup ? {
-        ...card.tubMockup,
-        originalMockup: card.tubMockup.mockup,
-        mockup: byUrl[card.tubMockup.mockup] || card.tubMockup.mockup,
-        upscaled: Boolean(byUrl[card.tubMockup.mockup]),
-        originalSourceImage: card.tubMockup.sourceImage,
-        sourceImage: byUrl[card.tubMockup.sourceImage] || card.tubMockup.sourceImage,
-        sourceUpscaled: Boolean(byUrl[card.tubMockup.sourceImage]),
-      } : null,
-    }));
-    data.summary.upscaled4x = upscaled.length;
   }
   return data;
 }
@@ -128,7 +108,7 @@ function CandidateCard({ card, displayRank = card.rank }) {
         <section className="photoPanel">
           {primary ? (
             <a className="primaryPhoto" href={primary.url}>
-              <span className="photoLabel">Best candidate {primary.label}{primary.upscaled ? ' · 4x' : ''}</span>
+              <span className="photoLabel">Best candidate {primary.label}</span>
               <img src={primary.url} alt={`${card.address} best candidate ${primary.label}`} loading="lazy" />
             </a>
           ) : (
@@ -137,7 +117,7 @@ function CandidateCard({ card, displayRank = card.rank }) {
           {card.tubMockup && (
             <>
               <a className="tubMockup" href={card.tubMockup.mockup}>
-                <span className="photoLabel">Tub concept mockup{card.tubMockup.upscaled ? ' · 4x' : ''}</span>
+                <span className="photoLabel">Tub concept mockup</span>
                 <img src={card.tubMockup.mockup} alt={`${card.address} tub concept mockup`} loading="lazy" />
                 <em>Concept mockup only — hot tub digitally added.</em>
               </a>
@@ -145,7 +125,6 @@ function CandidateCard({ card, displayRank = card.rank }) {
                 listingId={card.listingId}
                 address={card.address}
                 sourceImage={card.tubMockup.sourceImage}
-                sourceUpscaled={card.tubMockup.sourceUpscaled}
                 initialPlacement={card.tubMockup.placement}
               />
             </>

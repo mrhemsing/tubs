@@ -52,7 +52,7 @@ function drawTub(ctx, centerX, centerY, size, rotationDeg) {
   ctx.restore();
 }
 
-export default function TubDesigner({ listingId, address, sourceImage, sourceUpscaled, initialPlacement }) {
+export default function TubDesigner({ listingId, address, sourceImage, initialPlacement }) {
   const storageKey = `tub-placement:${listingId}`;
   const stageRef = useRef(null);
   const imageRef = useRef(null);
@@ -88,7 +88,7 @@ export default function TubDesigner({ listingId, address, sourceImage, sourceUps
   }
 
   function copyJson() {
-    const payload = JSON.stringify({ listingId, address, sourceImage, sourceUpscaled, placement }, null, 2);
+    const payload = JSON.stringify({ listingId, address, sourceImage, placement }, null, 2);
     navigator.clipboard?.writeText(payload);
     setCopied(true);
     setTimeout(() => setCopied(false), 1200);
@@ -126,7 +126,7 @@ export default function TubDesigner({ listingId, address, sourceImage, sourceUps
       </button>
       {open && (
         <div className="designerPanel">
-          <div className="designerStatus">Design base: {sourceUpscaled ? 'AI 4x upscaled' : 'original'} · tub overlay: sharp vector export</div>
+          <div className="designerStatus">Design base: original · tub overlay: sharp vector export</div>
           <div
             ref={stageRef}
             className="designerStage"
