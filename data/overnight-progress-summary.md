@@ -1,4 +1,4 @@
-# Tubs progress summary — 2026-04-29 20:48 PDT
+# Tubs progress summary — 2026-04-29 21:33 PDT
 
 ## Heartbeat to-do status
 
@@ -41,14 +41,15 @@
      - `data/mls_photo_inventory/README.md`
    - Reuse rights remain **unknown_research_only**.
 
-5. **SeedVR/R2/deploy readiness**
-   - SeedVR local assets: **857/857** present.
-   - R2 upload completed: **857/857** objects uploaded to bucket `tubs` under prefix `seedvr-4x/`.
-   - Public R2 image fetch verified: **200 image/jpeg** from `https://pub-f76325cc62ad4a85bd9b7eb123482f9c.r2.dev/seedvr-4x/...`.
-   - `npm run build` passed with the public R2 SeedVR URL active.
-   - GitHub is clean and pushed at `61ca293`.
+5. **Live site / SeedVR R2 verification**
+   - GitHub is clean and pushed.
+   - Live `https://tubs.b-average.com/` returns **200**.
+   - Live `https://tubs.b-average.com/columbia-valley` returns **200** and contains the public R2 SeedVR URL.
+   - Browser snapshot confirms visible review cards label active **SeedVR 4x** assets and show **215 SeedVR 4x images active** for Columbia Valley.
+   - Public R2 sample image fetch still returns **200 image/jpeg**.
+   - `npm run build` passed locally with `.env.local` active.
 
 ## Current blocker / next best action
 
-- No data/workflow blockers remain for the current to-do list.
-- Next best action: verify the live deployed `tubs.b-average.com` build after deployment finishes, then spot-check a few review cards for R2-loaded SeedVR images and the new photo picker in editing mode.
+- No blockers remain for the current to-do list.
+- Next best action: Matt should visually spot-check a few live cards and open **Edit tub layer** to choose photos in the new editor picker; browser automation click verification is unavailable in this gateway build because Playwright act support is missing.
