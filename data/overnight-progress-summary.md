@@ -1,4 +1,4 @@
-# Tubs progress summary — 2026-04-29 20:03 PDT
+# Tubs progress summary — 2026-04-29 20:48 PDT
 
 ## Heartbeat to-do status
 
@@ -8,7 +8,7 @@
    - Sheets: `data/contact_sheets/<area>/<listing-folder>/aerial_contact_sheet.jpg`
 
 2. **Geocode fallback**
-   - Coordinate fallback/recollection pass remains clean.
+   - Coordinate fallback/recollection remains clean.
    - Repaired: **0**
    - Unresolved: **0**
    - Contact-sheet index reports **0** listings needing geocode fallback.
@@ -41,13 +41,14 @@
      - `data/mls_photo_inventory/README.md`
    - Reuse rights remain **unknown_research_only**.
 
-5. **SeedVR/R2 status**
+5. **SeedVR/R2/deploy readiness**
    - SeedVR local assets: **857/857** present.
    - R2 upload completed: **857/857** objects uploaded to bucket `tubs` under prefix `seedvr-4x/`.
-   - GitHub is clean and pushed at `df3bff1`.
+   - Public R2 image fetch verified: **200 image/jpeg** from `https://pub-f76325cc62ad4a85bd9b7eb123482f9c.r2.dev/seedvr-4x/...`.
+   - `npm run build` passed with the public R2 SeedVR URL active.
+   - GitHub is clean and pushed at `61ca293`.
 
 ## Current blocker / next best action
 
-- Need the bucket's **public** R2 URL (`*.r2.dev`) or a custom domain.
-- The provided `https://ecef92aafc34f23688fc8d77f9486db7.r2.cloudflarestorage.com` endpoint is the private S3 API endpoint and returns an auth error for browser image loading.
-- Once Matt provides the public URL, set `NEXT_PUBLIC_SEEDVR_BASE_URL` to that base and verify the review UI loads SeedVR images from R2.
+- No data/workflow blockers remain for the current to-do list.
+- Next best action: verify the live deployed `tubs.b-average.com` build after deployment finishes, then spot-check a few review cards for R2-loaded SeedVR images and the new photo picker in editing mode.
