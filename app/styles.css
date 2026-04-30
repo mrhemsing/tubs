@@ -47,6 +47,8 @@ h1 { font-size: clamp(34px, 5vw, 64px); line-height: .95; margin: 0 0 18px; lett
 .areaNav a { text-decoration: none; color: var(--blue); background: #eff6ff; border: 1px solid #bfdbfe; padding: 9px 12px; border-radius: 999px; font-size: 13px; font-weight: 850; }
 .areaNav a:hover { background: #dbeafe; }
 .areaNav a.active { color: #fff; background: var(--blue); border-color: var(--blue); box-shadow: 0 8px 18px rgba(29, 78, 216, .28); }
+.areaNav a.utilityLink { color: #047857; background: #ecfdf5; border-color: #a7f3d0; }
+.areaNav a.utilityLink:hover { background: #d1fae5; }
 .navMobileLabel { display: none; }
 .anchorLabel { scroll-margin-top: 110px; margin-top: 42px; color: var(--blue); font-weight: 900; letter-spacing: .08em; text-transform: uppercase; font-size: 13px; }
 .areaSection { margin-top: 34px; scroll-margin-top: 110px; }
@@ -59,6 +61,7 @@ h1 { font-size: clamp(34px, 5vw, 64px); line-height: .95; margin: 0 0 18px; lett
 .areaBanner .areaStats { justify-content: flex-end; }
 .areaStats span { border: 1px solid var(--line); background: rgba(255,255,255,.72); border-radius: 999px; padding: 7px 10px; }
 .cards { display: grid; gap: 18px; }
+.card { scroll-margin-top: 96px; }
 .seedvrPage { max-width: 1320px; }
 .seedvrGrid { grid-template-columns: 1fr; }
 .compareGrid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
@@ -124,11 +127,20 @@ h2 { margin: 0; font-size: 23px; letter-spacing: -.025em; }
 .designerPhotoPicker select { width: 100%; border: 1px solid #86efac; border-radius: 12px; background: #fff; color: #14532d; padding: 9px 10px; font: inherit; text-transform: none; letter-spacing: 0; }
 .designerStage { position: relative; overflow: hidden; border-radius: 14px; background: #0f172a; touch-action: none; cursor: crosshair; user-select: none; }
 .designerStage img { width: 100%; height: 330px; object-fit: cover; display: block; pointer-events: none; }
-.designTub { position: absolute; aspect-ratio: 1 / 1; border-radius: 22%; background: #f8fafc; border: 2px solid rgba(15,23,42,.35); box-shadow: 4px 7px 13px rgba(0,0,0,.34); pointer-events: none; }
-.designTub::before, .designTub::after { content: ''; position: absolute; border-radius: 999px; background: rgba(15,23,42,.72); }
-.designTub::before { left: 16%; top: 16%; width: 20%; height: 10%; }
-.designTub::after { right: 15%; bottom: 16%; width: 20%; height: 10%; }
-.designTubWater { position: absolute; inset: 18%; border-radius: 19%; background: radial-gradient(circle at 35% 35%, #efffff, #7dd3fc 46%, #38bdf8); border: 2px solid rgba(255,255,255,.8); }
+.designTub { position: absolute; aspect-ratio: 1 / 1; border-radius: 12%; background: linear-gradient(135deg, #fff 0%, #eef2f7 52%, #d9e2ec 100%); border: 2px solid rgba(15,23,42,.45); box-shadow: 4px 7px 13px rgba(0,0,0,.34), inset 0 0 0 6px rgba(255,255,255,.72), inset 0 -12px 22px rgba(100,116,139,.22); pointer-events: none; overflow: hidden; }
+.designTub::before, .designTub::after { content: ''; position: absolute; border-radius: 999px; background: #111827; z-index: 3; box-shadow: 0 1px 2px rgba(255,255,255,.28) inset; }
+.designTub::before { left: 13%; top: 12%; width: 20%; height: 7%; transform: rotate(-32deg); }
+.designTub::after { right: 10%; bottom: 13%; width: 20%; height: 7%; transform: rotate(-43deg); }
+.designTubWater { position: absolute; left: 16%; top: 15%; width: 70%; height: 72%; border-radius: 36% 29% 34% 28% / 28% 34% 31% 38%; background: radial-gradient(circle at 34% 30%, #f7feff 0 11%, #d9f8ff 28%, #9be3f3 62%, #60c7df 100%); border: 2px solid rgba(255,255,255,.92); box-shadow: inset 0 0 14px rgba(255,255,255,.72), inset 0 -9px 18px rgba(8,145,178,.28); z-index: 1; }
+.designTubWater::before, .designTubWater::after { content: ''; position: absolute; border: 1px solid rgba(255,255,255,.45); border-left-color: transparent; border-bottom-color: transparent; border-radius: 50%; }
+.designTubWater::before { left: 18%; top: 22%; width: 44%; height: 20%; transform: rotate(-14deg); }
+.designTubWater::after { right: 14%; bottom: 24%; width: 48%; height: 22%; transform: rotate(15deg); }
+.designTubPanel { position: absolute; left: 41.5%; top: 3.8%; width: 17%; height: 7%; border-radius: 18%; background: linear-gradient(135deg, #475569, #1f2937); z-index: 4; box-shadow: inset 0 1px 2px rgba(255,255,255,.35); }
+.designTubPanel::before { content: ''; position: absolute; left: 17%; top: 28%; width: 33%; height: 22%; border-radius: 999px; background: #94a3b8; }
+.designTubPanel::after { content: ''; position: absolute; right: 18%; top: 32%; width: 12%; aspect-ratio: 1; border-radius: 50%; background: #e2e8f0; }
+.designTubJet { position: absolute; width: 4.8%; aspect-ratio: 1; border-radius: 50%; background: radial-gradient(circle at 34% 30%, #f8fafc 0 18%, #64748b 52%, #111827 100%); z-index: 4; box-shadow: 0 1px 2px rgba(255,255,255,.35) inset; }
+.designTubJet::after { content: ''; position: absolute; left: 28%; top: 26%; width: 28%; height: 20%; border-radius: 999px; background: rgba(255,255,255,.7); }
+.jet1 { left: 26%; top: 28%; } .jet2 { left: 20%; top: 35%; } .jet3 { left: 30%; top: 42%; } .jet4 { right: 24%; top: 29%; } .jet5 { right: 15%; top: 38%; } .jet6 { right: 24%; bottom: 29%; } .jet7 { right: 15%; bottom: 22%; } .jet8 { right: 31%; bottom: 17%; } .jet9 { left: 29%; bottom: 24%; } .jet10 { left: 19%; bottom: 31%; } .jet11 { left: 44%; top: 52%; } .jet12 { left: 55%; top: 49%; } .jet13 { left: 50%; bottom: 28%; } .jet14 { left: 60%; bottom: 31%; } .jet15 { left: 36%; top: 8%; } .jet16 { right: 35%; top: 8%; } .jet17 { left: 8%; top: 47%; } .jet18 { right: 7%; top: 49%; }
 .designerControls { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; margin-top: 10px; align-items: end; }
 .designerControls label { display: grid; gap: 4px; color: #166534; font-size: 12px; font-weight: 900; text-transform: uppercase; letter-spacing: .05em; }
 .designerControls input { width: 100%; }
@@ -164,7 +176,7 @@ h2 { margin: 0; font-size: 23px; letter-spacing: -.025em; }
 
 @media (max-width: 560px) {
   .toolbar { position: static; top: auto; padding: 0; border: 0; background: transparent; backdrop-filter: none; }
-  .areaNav { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 7px; }
+  .areaNav { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 7px; }
   .areaNav a { padding: 11px 4px; font-size: 13px; line-height: 1.08; text-align: center; white-space: normal; display: flex; align-items: center; justify-content: center; min-height: 58px; border-radius: 22px; }
   .navDesktopLabel { display: none; }
   .navMobileLabel { display: flex; flex-direction: column; align-items: center; gap: 1px; }

@@ -126,7 +126,7 @@ function CandidateCard({ card, displayRank = card.rank }) {
   const remaining = card.thumbs?.slice(1) || [];
 
   return (
-    <article className={`card ${sourceClass(card.recommendedSource)}`}>
+    <article className={`card ${sourceClass(card.recommendedSource)}`} id={`listing-${card.listingId}`}>
       <header className="cardHeader">
         <div className="rank">#{displayRank}</div>
         <div className="titleBlock">
@@ -308,6 +308,14 @@ export default function ReviewPage({ areaFilter = null }) {
               <span className="navMobileLabel">{mobileAreaLabels[area].map((part) => <span key={part}>{part}</span>)}</span>
             </a>
           ))}
+          <a className="utilityLink" href="/arcgis-contact-sheets.html">
+            <span className="navDesktopLabel">ArcGIS sheet gallery</span>
+            <span className="navMobileLabel"><span>ArcGIS</span><span>Sheets</span></span>
+          </a>
+          <a className="utilityLink" href="/visual-review-queue.html">
+            <span className="navDesktopLabel">Visual review queue</span>
+            <span className="navMobileLabel"><span>Review</span><span>Queue</span></span>
+          </a>
         </nav>
       </section>
 
