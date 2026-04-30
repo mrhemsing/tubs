@@ -59,6 +59,11 @@ h1 { font-size: clamp(34px, 5vw, 64px); line-height: .95; margin: 0 0 18px; lett
 .areaBanner .areaStats { justify-content: flex-end; }
 .areaStats span { border: 1px solid var(--line); background: rgba(255,255,255,.72); border-radius: 999px; padding: 7px 10px; }
 .cards { display: grid; gap: 18px; }
+.seedvrPage { max-width: 1320px; }
+.seedvrGrid { grid-template-columns: 1fr; }
+.compareGrid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; }
+.compareGrid .primaryPhoto img { height: 420px; }
+@media (max-width: 860px) { .compareGrid { grid-template-columns: 1fr; } }
 .addressSection { margin-top: 44px; }
 .compactHeader h2 { font-size: 28px; }
 .tableWrap { overflow-x: auto; background: var(--card); border: 1px solid var(--line); border-radius: 20px; box-shadow: 0 8px 24px rgba(15, 23, 42, 0.04); }
