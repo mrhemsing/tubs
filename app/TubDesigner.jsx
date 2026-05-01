@@ -164,6 +164,7 @@ export default function TubDesigner({ listingId, address, sourceImage, imageOpti
   const storageKey = `tub-placement:${listingId}`;
   const imageStorageKey = `tub-design-image:${listingId}`;
   const savedMockupKey = `tub-saved-mockup:${listingId}`;
+  const boxRef = useRef(null);
   const stageRef = useRef(null);
   const imageRef = useRef(null);
   const dragging = useRef(false);
@@ -210,18 +211,32 @@ export default function TubDesigner({ listingId, address, sourceImage, imageOpti
   }
 
   function buildSavedTubNode(savedPlacement) {
-    const tub = stageRef.current?.querySelector('.designTub')?.cloneNode(true);
-    if (!tub) return null;
-    tub.classList.add('savedConceptTub');
+    const tub = document.createElement('div');
+    tub.className = 'designTub savedConceptTub';
     tub.style.left = `${savedPlacement.xPct}%`;
     tub.style.top = `${savedPlacement.yPct}%`;
     tub.style.width = `${savedPlacement.sizePct}%`;
     tub.style.transform = `translate(-50%, -50%) rotate(${savedPlacement.rotation}deg)`;
+
+    const water = document.createElement('div');
+    water.className = 'designTubWater';
+    tub.appendChild(water);
+
+    const panel = document.createElement('div');
+    panel.className = 'designTubPanel';
+    tub.appendChild(panel);
+
+    for (let i = 1; i <= 18; i += 1) {
+      const jet = document.createElement('span');
+      jet.className = `designTubJet jet${i}`;
+      tub.appendChild(jet);
+    }
+
     return tub;
   }
 
   function applySavedMockup(savedMockup) {
-    const article = stageRef.current?.closest('article');
+    const article = boxRef.current?.closest('article');
     const link = article?.querySelector('.tubMockup');
     const img = link?.querySelector('img');
     const label = link?.querySelector('.photoLabel');
@@ -261,7 +276,7 @@ export default function TubDesigner({ listingId, address, sourceImage, imageOpti
   }
 
   return (
-    <section className="designerBox">
+    <section className="designerBox" ref={boxRef}>
       <button className="designerToggle" type="button" onClick={() => setOpen((value) => !value)}>
         {open ? 'Hide editable tub layer' : 'Edit tub layer'}
       </button>
