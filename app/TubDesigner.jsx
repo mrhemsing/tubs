@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react';
 
-const fallbackPlacement = { xPct: 58, yPct: 62, sizePct: 18, rotation: 0 };
+const fallbackPlacement = { xPct: 58, yPct: 62, sizePct: 12, rotation: 0 };
 
 function clamp(value, min, max) {
   return Math.min(max, Math.max(min, value));
@@ -337,7 +337,7 @@ export default function TubDesigner({ listingId, address, sourceImage, imageOpti
               Size
               <input
                 type="range"
-                min="8"
+                min="3"
                 max="34"
                 step="0.5"
                 value={placement.sizePct}
