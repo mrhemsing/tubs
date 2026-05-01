@@ -118,6 +118,8 @@ h2 { margin: 0; font-size: 23px; letter-spacing: -.025em; }
 .tubMockup img { width: 100%; height: 260px; object-fit: cover; display: block; transition: transform .18s ease; }
 .tubMockup:hover img { transform: scale(1.02); }
 .tubMockup.savedConceptMockup img { height: 330px; }
+.savedConceptFrame { position: relative; overflow: hidden; height: 330px; }
+.savedConceptFrame img { width: 100%; height: 330px; object-fit: cover; display: block; }
 .tubMockup .savedConceptTub { position: absolute; pointer-events: none; z-index: 2; }
 .tubMockup em { display: block; padding: 8px 11px; color: #166534; font-size: 12px; font-style: normal; font-weight: 800; background: #dcfce7; }
 .designerBox { margin-top: 10px; }

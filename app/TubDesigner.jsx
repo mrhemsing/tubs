@@ -245,14 +245,22 @@ export default function TubDesigner({ listingId, address, sourceImage, imageOpti
     const savedSourceImage = savedMockup?.sourceImage || selectedImage;
     if (!link || !img || !savedSourceImage) return false;
 
+    let frame = link.querySelector('.savedConceptFrame');
+    if (!frame) {
+      frame = document.createElement('div');
+      frame.className = 'savedConceptFrame';
+      link.insertBefore(frame, note || null);
+      frame.appendChild(img);
+    }
+
     img.src = savedSourceImage;
     link.href = savedSourceImage;
     link.classList.add('savedConceptMockup');
     if (label) label.textContent = 'Tub concept mockup - saved edit';
     if (note) note.textContent = 'Saved concept mockup - hot tub digitally added.';
-    link.querySelectorAll('.savedConceptTub').forEach((node) => node.remove());
+    frame.querySelectorAll('.savedConceptTub').forEach((node) => node.remove());
     const tub = buildSavedTubNode(savedPlacement);
-    if (tub) link.insertBefore(tub, note || null);
+    if (tub) frame.appendChild(tub);
     return true;
   }
 
