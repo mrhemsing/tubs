@@ -21,7 +21,9 @@ GALLERY_DIR = ROOT / "public" / "arcgis-contact-sheets"
 
 OUT_JSON = OUT_DIR / "current_progress_audit.json"
 OUT_CSV = OUT_DIR / "current_progress_by_area.csv"
-OUT_MD = DATA / "progress_summary_2026-04-30.md"
+def progress_summary_path() -> Path:
+    today = datetime.now().astimezone().date().isoformat()
+    return DATA / f"progress_summary_{today}.md"
 
 
 def read_csv(path: Path) -> list[dict[str, str]]:
@@ -127,6 +129,7 @@ def main() -> None:
         "recommended_sources_json",
     ])
     OUT_JSON.write_text(json.dumps(audit, indent=2), encoding="utf-8")
+    out_md = progress_summary_path()
 
     md_lines = [
         f"# Tubs progress summary — {audit['generated_at']}",
@@ -150,11 +153,11 @@ def main() -> None:
             f"{row['arcgis_placeholder_only_properties']} | {row['mls_thumbnails']} | {row['mls_proxy_candidates']} |"
         )
     md_lines.extend(["", "Outputs:", f"- `{OUT_JSON.relative_to(ROOT)}`", f"- `{OUT_CSV.relative_to(ROOT)}`"])
-    OUT_MD.write_text("\n".join(md_lines) + "\n", encoding="utf-8")
+    out_md.write_text("\n".join(md_lines) + "\n", encoding="utf-8")
 
     print(f"Wrote {OUT_JSON.relative_to(ROOT)}")
     print(f"Wrote {OUT_CSV.relative_to(ROOT)}")
-    print(f"Wrote {OUT_MD.relative_to(ROOT)}")
+    print(f"Wrote {out_md.relative_to(ROOT)}")
     print(f"Blockers: {audit['blockers'] or 'none'}")
 
 

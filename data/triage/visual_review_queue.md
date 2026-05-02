@@ -3,9 +3,9 @@
 Purpose: fastest human pass through the best overhead/backyard candidates, with direct anchors into the review UI.
 
 - Total properties: **300**
-- Strong candidates: **251**
+- Strong candidates: **241**
 - Possible candidates needing verification: **43**
-- Fallback/no-candidate rows: **6**
+- Fallback/no-candidate rows: **16**
 - Rights note: MLS/listing photos are research-only until rights are verified.
 
 ## First 40 to review

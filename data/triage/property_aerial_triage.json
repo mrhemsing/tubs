@@ -1,7 +1,7 @@
 [
   {
     "priority_rank": "1",
-    "review_status": "vision_reviewed_batch_001",
+    "review_status": "needs_review",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10679423",
     "address": "1681 KOOCANUSA LAKE Drive",
@@ -17,18 +17,18 @@
     "center_tile_bytes": "11725",
     "center_tile_brightness": "131.5",
     "center_tile_contrast": "54.1",
-    "backyard_visibility": "good",
-    "overhead_quality": "good",
-    "hot_tub_visible": "no",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "29",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 001: print_mockup_potential=high; best_candidate_tile=center; Clear lakeside property with yard, beach, and shoreline context; no obvious hot tub or pool.",
+    "notes": "",
     "aerial_placeholder_tiles": 0,
     "aerial_real_tiles": 9
   },
   {
     "priority_rank": "2",
-    "review_status": "vision_reviewed_batch_001",
+    "review_status": "needs_review",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10681059",
     "address": "2260 BLACK HAWK Drive",
@@ -44,18 +44,18 @@
     "center_tile_bytes": "6195",
     "center_tile_brightness": "133.0",
     "center_tile_contrast": "53.1",
-    "backyard_visibility": "poor",
-    "overhead_quality": "poor",
-    "hot_tub_visible": "no",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "35",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 001: print_mockup_potential=low; best_candidate_tile=none; Very blurry and mostly road, trees, and undeveloped land; no clear house or usable backyard crop.",
+    "notes": "",
     "aerial_placeholder_tiles": 1,
     "aerial_real_tiles": 8
   },
   {
     "priority_rank": "3",
-    "review_status": "vision_reviewed_batch_001",
+    "review_status": "needs_review",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20068707",
     "address": "1643 Koocanusa Lake Drive",
@@ -71,18 +71,18 @@
     "center_tile_bytes": "11006",
     "center_tile_brightness": "140.4",
     "center_tile_contrast": "50.4",
-    "backyard_visibility": "partial",
-    "overhead_quality": "good",
-    "hot_tub_visible": "no",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "48",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 001: print_mockup_potential=medium; best_candidate_tile=other; Center tile is mostly road and driveway; adjacent right-side tiles show better homes and lawns near water.",
+    "notes": "",
     "aerial_placeholder_tiles": 0,
     "aerial_real_tiles": 9
   },
   {
     "priority_rank": "4",
-    "review_status": "vision_reviewed_batch_001",
+    "review_status": "needs_review",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20078363",
     "address": "1357 Cypress Drive",
@@ -98,18 +98,18 @@
     "center_tile_bytes": "7441",
     "center_tile_brightness": "116.1",
     "center_tile_contrast": "49.7",
-    "backyard_visibility": "partial",
-    "overhead_quality": "poor",
-    "hot_tub_visible": "no",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "84",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 001: print_mockup_potential=low; best_candidate_tile=center; Blurry residential view with some yard and tree cover, but details are weak for print marketing.",
+    "notes": "",
     "aerial_placeholder_tiles": 0,
     "aerial_real_tiles": 9
   },
   {
     "priority_rank": "5",
-    "review_status": "vision_reviewed_batch_001",
+    "review_status": "needs_review",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20049830",
     "address": "1256 Valley View Drive",
@@ -125,18 +125,18 @@
     "center_tile_bytes": "6626",
     "center_tile_brightness": "138.2",
     "center_tile_contrast": "46.0",
-    "backyard_visibility": "partial",
-    "overhead_quality": "fair",
-    "hot_tub_visible": "no",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "35",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 001: print_mockup_potential=medium; best_candidate_tile=center; Center tile includes a visible structure and yard beside a curved road, though resolution is soft.",
+    "notes": "",
     "aerial_placeholder_tiles": 0,
     "aerial_real_tiles": 9
   },
   {
     "priority_rank": "6",
-    "review_status": "vision_reviewed_batch_001",
+    "review_status": "needs_review",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20020438",
     "address": "1250 VALLEY VIEW Drive",
@@ -152,18 +152,18 @@
     "center_tile_bytes": "6856",
     "center_tile_brightness": "146.4",
     "center_tile_contrast": "44.7",
-    "backyard_visibility": "poor",
-    "overhead_quality": "poor",
-    "hot_tub_visible": "no",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "40",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 001: print_mockup_potential=low; best_candidate_tile=none; Center tile is dominated by cul-de-sac pavement with only partial neighboring structures and lawns.",
+    "notes": "",
     "aerial_placeholder_tiles": 0,
     "aerial_real_tiles": 9
   },
   {
     "priority_rank": "7",
-    "review_status": "vision_reviewed_batch_001",
+    "review_status": "needs_review",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10683923",
     "address": "2135 WHISKEY JACK Drive",
@@ -179,18 +179,18 @@
     "center_tile_bytes": "6462",
     "center_tile_brightness": "152.2",
     "center_tile_contrast": "44.9",
-    "backyard_visibility": "poor",
-    "overhead_quality": "poor",
-    "hot_tub_visible": "no",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "37",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 001: print_mockup_potential=low; best_candidate_tile=none; Blurry, mostly wooded or undeveloped view with road frontage; no clear property or backyard feature.",
+    "notes": "",
     "aerial_placeholder_tiles": 0,
     "aerial_real_tiles": 9
   },
   {
     "priority_rank": "8",
-    "review_status": "vision_reviewed_batch_001",
+    "review_status": "needs_review",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20046554",
     "address": "532 Granzow Road",
@@ -206,18 +206,18 @@
     "center_tile_bytes": "13035",
     "center_tile_brightness": "55.2",
     "center_tile_contrast": "39.6",
-    "backyard_visibility": "partial",
-    "overhead_quality": "fair",
-    "hot_tub_visible": "unclear",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "68",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 001: print_mockup_potential=medium; best_candidate_tile=other; Wooded acreage setting with partial roofs and yard areas; tree cover obscures the center, and a dark rectangular feature in another tile is ambiguous.",
+    "notes": "",
     "aerial_placeholder_tiles": 0,
     "aerial_real_tiles": 9
   },
   {
     "priority_rank": "9",
-    "review_status": "vision_reviewed_batch_001",
+    "review_status": "needs_review",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10683952",
     "address": "1204 VALLEY VIEW Drive",
@@ -233,18 +233,18 @@
     "center_tile_bytes": "6565",
     "center_tile_brightness": "130.8",
     "center_tile_contrast": "40.6",
-    "backyard_visibility": "partial",
-    "overhead_quality": "fair",
-    "hot_tub_visible": "no",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "76",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 001: print_mockup_potential=medium; best_candidate_tile=center; Center tile shows the home edge, lawn, driveway, and road; somewhat soft but usable for a basic overhead crop.",
+    "notes": "",
     "aerial_placeholder_tiles": 0,
     "aerial_real_tiles": 9
   },
   {
     "priority_rank": "10",
-    "review_status": "vision_reviewed_batch_001",
+    "review_status": "needs_review",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20022704",
     "address": "1206 VALLEY VIEW Drive",
@@ -260,18 +260,18 @@
     "center_tile_bytes": "6565",
     "center_tile_brightness": "130.8",
     "center_tile_contrast": "40.6",
-    "backyard_visibility": "partial",
-    "overhead_quality": "fair",
-    "hot_tub_visible": "no",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "67",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 001: print_mockup_potential=medium; best_candidate_tile=center; Same contact-sheet area as prior image, with partial house and yard visible in center; no obvious pool or hot tub.",
+    "notes": "",
     "aerial_placeholder_tiles": 0,
     "aerial_real_tiles": 9
   },
   {
     "priority_rank": "11",
-    "review_status": "vision_reviewed_batch_002",
+    "review_status": "needs_review",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20059379",
     "address": "1265 VALLEY VIEW Place",
@@ -287,18 +287,18 @@
     "center_tile_bytes": "6696",
     "center_tile_brightness": "114.5",
     "center_tile_contrast": "40.5",
-    "backyard_visibility": "partial",
-    "overhead_quality": "fair",
-    "hot_tub_visible": "no_mls_crosscheck",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "44",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 002: print_mockup_potential=medium; best_candidate_tile=center; Center tile shows house and yard but imagery is soft; small circular feature may be a tub/pool or yard object. MLS crosscheck batch 001: backyard_photos=yes; drone_or_aerial=no; hot_tub_or_pool=no; best_mls_photos=27,29,30,26,28; Strong backyard/outdoor MLS candidates with deck, lawn, landscaping, mountain views, and rear/side yard context. No visible aerial/drone or hot tub/pool.",
+    "notes": "",
     "aerial_placeholder_tiles": 0,
     "aerial_real_tiles": 9
   },
   {
     "priority_rank": "12",
-    "review_status": "vision_reviewed_batch_002",
+    "review_status": "needs_review",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20028580",
     "address": "1309 BIRCHWOOD Place",
@@ -314,18 +314,18 @@
     "center_tile_bytes": "7562",
     "center_tile_brightness": "86.9",
     "center_tile_contrast": "40.3",
-    "backyard_visibility": "partial",
-    "overhead_quality": "poor",
-    "hot_tub_visible": "no",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "76",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 002: print_mockup_potential=low; best_candidate_tile=center; Heavily treed lot with obscured yard and blurry imagery; limited usable backyard detail.",
+    "notes": "",
     "aerial_placeholder_tiles": 0,
     "aerial_real_tiles": 9
   },
   {
     "priority_rank": "13",
-    "review_status": "vision_reviewed_batch_002",
+    "review_status": "needs_review",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20034035",
     "address": "2202 Black Hawk Drive",
@@ -341,18 +341,18 @@
     "center_tile_bytes": "5867",
     "center_tile_brightness": "180.1",
     "center_tile_contrast": "38.7",
-    "backyard_visibility": "poor",
-    "overhead_quality": "poor",
-    "hot_tub_visible": "no",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "68",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 002: print_mockup_potential=low; best_candidate_tile=none; Mostly undeveloped or bare lot/road area; no clear backyard amenity.",
+    "notes": "",
     "aerial_placeholder_tiles": 1,
     "aerial_real_tiles": 8
   },
   {
     "priority_rank": "14",
-    "review_status": "vision_reviewed_batch_002",
+    "review_status": "needs_review",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10658951",
     "address": "9444 MOYIE SHORES ESTATES W Road",
@@ -368,18 +368,18 @@
     "center_tile_bytes": "12103",
     "center_tile_brightness": "104.1",
     "center_tile_contrast": "36.9",
-    "backyard_visibility": "poor",
-    "overhead_quality": "fair",
-    "hot_tub_visible": "no",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "40",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 002: print_mockup_potential=low; best_candidate_tile=none; Wooded rural setting with property mostly hidden by trees; no visible backyard focal point.",
+    "notes": "",
     "aerial_placeholder_tiles": 0,
     "aerial_real_tiles": 9
   },
   {
     "priority_rank": "15",
-    "review_status": "vision_reviewed_batch_002",
+    "review_status": "needs_review",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10621595",
     "address": "9382 MOYIE SHORES ESTATE Road",
@@ -395,18 +395,18 @@
     "center_tile_bytes": "11123",
     "center_tile_brightness": "133.2",
     "center_tile_contrast": "33.2",
-    "backyard_visibility": "partial",
-    "overhead_quality": "fair",
-    "hot_tub_visible": "no_mls_crosscheck",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "15",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 002: print_mockup_potential=medium; best_candidate_tile=center; Center/right area shows a lot with yard and structures; possible round feature but not confidently identifiable. MLS crosscheck batch 001: backyard_photos=yes; drone_or_aerial=no; hot_tub_or_pool=no; best_mls_photos=7,8,12,14,3,6,11; Excellent outdoor/waterfront MLS candidates including rear exterior, decks, lake views, dock/marina, shoreline, and wooded setting. No true aerial/drone imagery; lake visible but no pool or hot tub.",
+    "notes": "",
     "aerial_placeholder_tiles": 0,
     "aerial_real_tiles": 9
   },
   {
     "priority_rank": "16",
-    "review_status": "vision_reviewed_batch_002",
+    "review_status": "needs_review",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10641909",
     "address": "7822 MONROE LAKE Road",
@@ -422,18 +422,18 @@
     "center_tile_bytes": "12870",
     "center_tile_brightness": "112.8",
     "center_tile_contrast": "31.1",
-    "backyard_visibility": "partial",
-    "overhead_quality": "fair",
-    "hot_tub_visible": "no",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "4",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 002: print_mockup_potential=medium; best_candidate_tile=center; Lakefront property context is attractive, but yard detail is partly obscured by trees and resolution.",
+    "notes": "",
     "aerial_placeholder_tiles": 0,
     "aerial_real_tiles": 9
   },
   {
     "priority_rank": "17",
-    "review_status": "vision_reviewed_batch_002",
+    "review_status": "needs_review",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20084254",
     "address": "2252 Black Hawk Drive",
@@ -449,18 +449,18 @@
     "center_tile_bytes": "5800",
     "center_tile_brightness": "178.3",
     "center_tile_contrast": "32.6",
-    "backyard_visibility": "poor",
-    "overhead_quality": "poor",
-    "hot_tub_visible": "no",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "69",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 002: print_mockup_potential=low; best_candidate_tile=center; Center tile includes house/driveway but backyard is indistinct and image is washed out.",
+    "notes": "",
     "aerial_placeholder_tiles": 2,
     "aerial_real_tiles": 7
   },
   {
     "priority_rank": "18",
-    "review_status": "vision_reviewed_batch_002",
+    "review_status": "needs_review",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10683161",
     "address": "2313 FALCON Court",
@@ -476,18 +476,18 @@
     "center_tile_bytes": "5232",
     "center_tile_brightness": "181.8",
     "center_tile_contrast": "33.0",
-    "backyard_visibility": "partial",
-    "overhead_quality": "poor",
-    "hot_tub_visible": "no",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "59",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 002: print_mockup_potential=low; best_candidate_tile=center; House and lot are visible but very blurry with little usable backyard detail.",
+    "notes": "",
     "aerial_placeholder_tiles": 1,
     "aerial_real_tiles": 8
   },
   {
     "priority_rank": "19",
-    "review_status": "vision_reviewed_batch_002",
+    "review_status": "needs_review",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20035045",
     "address": "2411 Osprey Court",
@@ -503,18 +503,18 @@
     "center_tile_bytes": "5800",
     "center_tile_brightness": "178.3",
     "center_tile_contrast": "32.6",
-    "backyard_visibility": "poor",
-    "overhead_quality": "poor",
-    "hot_tub_visible": "no",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "51",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 002: print_mockup_potential=low; best_candidate_tile=center; Center tile shows driveway/roadside and building edge; backyard not clearly visible.",
+    "notes": "",
     "aerial_placeholder_tiles": 2,
     "aerial_real_tiles": 7
   },
   {
     "priority_rank": "20",
-    "review_status": "vision_reviewed_batch_002",
+    "review_status": "needs_review",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10675001",
     "address": "2134 WHISKEY JACK Drive",
@@ -530,18 +530,18 @@
     "center_tile_bytes": "5440",
     "center_tile_brightness": "188.5",
     "center_tile_contrast": "30.5",
-    "backyard_visibility": "poor",
-    "overhead_quality": "poor",
-    "hot_tub_visible": "no",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "34",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 002: print_mockup_potential=low; best_candidate_tile=none; Mostly bare land/road with no clear residence or backyard amenity in the center tile.",
+    "notes": "",
     "aerial_placeholder_tiles": 0,
     "aerial_real_tiles": 9
   },
   {
     "priority_rank": "21",
-    "review_status": "vision_reviewed_batch_002",
+    "review_status": "needs_review",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20078352",
     "address": "2071 Golden Eagle Drive",
@@ -557,18 +557,18 @@
     "center_tile_bytes": "5843",
     "center_tile_brightness": "141.0",
     "center_tile_contrast": "29.3",
-    "backyard_visibility": "poor",
-    "overhead_quality": "poor",
-    "hot_tub_visible": "no",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "64",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 002: print_mockup_potential=low; best_candidate_tile=none; Center tile appears to be vacant or underdeveloped terrain; no usable backyard candidate.",
+    "notes": "",
     "aerial_placeholder_tiles": 0,
     "aerial_real_tiles": 9
   },
   {
     "priority_rank": "22",
-    "review_status": "vision_reviewed_batch_002",
+    "review_status": "needs_review",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20080409",
     "address": "1668 Tranquility Road",
@@ -584,18 +584,18 @@
     "center_tile_bytes": "11507",
     "center_tile_brightness": "64.5",
     "center_tile_contrast": "27.9",
-    "backyard_visibility": "poor",
-    "overhead_quality": "fair",
-    "hot_tub_visible": "no",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "45",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 002: print_mockup_potential=low; best_candidate_tile=none; Dense tree canopy dominates center tile; property/backyard is obscured.",
+    "notes": "",
     "aerial_placeholder_tiles": 0,
     "aerial_real_tiles": 9
   },
   {
     "priority_rank": "23",
-    "review_status": "vision_reviewed_batch_002",
+    "review_status": "needs_review",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20021326",
     "address": "2264 BLACK HAWK Drive",
@@ -611,18 +611,18 @@
     "center_tile_bytes": "5011",
     "center_tile_brightness": "186.9",
     "center_tile_contrast": "27.8",
-    "backyard_visibility": "poor",
-    "overhead_quality": "poor",
-    "hot_tub_visible": "no",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "70",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 002: print_mockup_potential=low; best_candidate_tile=none; Center tile is mainly road intersection/unfinished area; no visible backyard.",
+    "notes": "",
     "aerial_placeholder_tiles": 0,
     "aerial_real_tiles": 9
   },
   {
     "priority_rank": "24",
-    "review_status": "vision_reviewed_batch_002",
+    "review_status": "needs_review",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10667637",
     "address": "22-9481 ESTATES Road",
@@ -638,18 +638,18 @@
     "center_tile_bytes": "12396",
     "center_tile_brightness": "91.5",
     "center_tile_contrast": "22.5",
-    "backyard_visibility": "partial",
-    "overhead_quality": "fair",
-    "hot_tub_visible": "no",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "43",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 002: print_mockup_potential=medium; best_candidate_tile=center; Center tile shows a cleared rural area within trees; no clear house or amenity, but usable open-space context.",
+    "notes": "",
     "aerial_placeholder_tiles": 0,
     "aerial_real_tiles": 9
   },
   {
     "priority_rank": "25",
-    "review_status": "vision_reviewed_batch_002",
+    "review_status": "needs_review",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20069119",
     "address": "2030 GOLDEN EAGLE Drive",
@@ -665,18 +665,18 @@
     "center_tile_bytes": "4546",
     "center_tile_brightness": "194.6",
     "center_tile_contrast": "18.8",
-    "backyard_visibility": "poor",
-    "overhead_quality": "poor",
-    "hot_tub_visible": "no",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "76",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 002: print_mockup_potential=low; best_candidate_tile=none; Mostly road and vacant/bare lot; house appears only in adjacent tile, not a strong backyard crop.",
+    "notes": "",
     "aerial_placeholder_tiles": 0,
     "aerial_real_tiles": 9
   },
   {
     "priority_rank": "26",
-    "review_status": "vision_reviewed_batch_002",
+    "review_status": "needs_review",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10671578",
     "address": "2140 WHISKEY JACK Drive",
@@ -692,18 +692,18 @@
     "center_tile_bytes": "5245",
     "center_tile_brightness": "178.3",
     "center_tile_contrast": "18.9",
-    "backyard_visibility": "poor",
-    "overhead_quality": "poor",
-    "hot_tub_visible": "no",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "51",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 002: print_mockup_potential=low; best_candidate_tile=none; Center tile is largely bare ground/track marks with no discernible backyard or residence.",
+    "notes": "",
     "aerial_placeholder_tiles": 0,
     "aerial_real_tiles": 9
   },
   {
     "priority_rank": "27",
-    "review_status": "vision_reviewed_batch_002",
+    "review_status": "needs_review",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10679212",
     "address": "2108 WHISKEY JACK Drive",
@@ -719,18 +719,18 @@
     "center_tile_bytes": "4396",
     "center_tile_brightness": "203.9",
     "center_tile_contrast": "13.5",
-    "backyard_visibility": "poor",
-    "overhead_quality": "poor",
-    "hot_tub_visible": "no",
+    "backyard_visibility": "unreviewed",
+    "overhead_quality": "unreviewed",
+    "hot_tub_visible": "unreviewed",
     "mls_photo_count": "41",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 002: print_mockup_potential=low; best_candidate_tile=none; Center tile shows roadway and pale open ground; no usable backyard scene.",
+    "notes": "",
     "aerial_placeholder_tiles": 2,
     "aerial_real_tiles": 7
   },
   {
     "priority_rank": "28",
-    "review_status": "vision_reviewed_batch_002",
+    "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10574816",
     "address": "1 BIGHORN SHEEP Lane",
@@ -751,13 +751,13 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "8",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 002: print_mockup_potential=low; best_candidate_tile=none; Map data not available; no imagery to evaluate.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
     "priority_rank": "29",
-    "review_status": "vision_reviewed_batch_002",
+    "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10563296",
     "address": "1007 4TH Avenue",
@@ -778,13 +778,13 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "7",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 002: print_mockup_potential=low; best_candidate_tile=none; Map data not available; no imagery to evaluate.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
     "priority_rank": "30",
-    "review_status": "vision_reviewed_batch_002",
+    "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10667320",
     "address": "1018 SWANSEA Road",
@@ -805,13 +805,13 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "58",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 002: print_mockup_potential=low; best_candidate_tile=none; Map data not available; no imagery to evaluate.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
     "priority_rank": "31",
-    "review_status": "vision_reviewed_batch_003_no_aerial_imagery",
+    "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10658844",
     "address": "1059 SWANSEA Road",
@@ -832,13 +832,13 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "40",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
     "priority_rank": "32",
-    "review_status": "vision_reviewed_batch_003_no_aerial_imagery",
+    "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10675551",
     "address": "1101 6TH Street",
@@ -859,13 +859,13 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "32",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
     "priority_rank": "33",
-    "review_status": "vision_reviewed_batch_003_no_aerial_imagery",
+    "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10657869",
     "address": "1122 HILLTOP Road",
@@ -886,13 +886,13 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "40",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
     "priority_rank": "34",
-    "review_status": "vision_reviewed_batch_003_no_aerial_imagery",
+    "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "20021647",
     "address": "13-640 UPPER LAKEVIEW Road",
@@ -913,13 +913,13 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "29",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
     "priority_rank": "35",
-    "review_status": "vision_reviewed_batch_003_no_aerial_imagery",
+    "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "20049552",
     "address": "1325 12 Avenue",
@@ -940,13 +940,13 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "57",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
     "priority_rank": "36",
-    "review_status": "vision_reviewed_batch_003_no_aerial_imagery",
+    "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "20026178",
     "address": "137 12A Avenue",
@@ -967,13 +967,13 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "79",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
     "priority_rank": "37",
-    "review_status": "vision_reviewed_batch_003_no_aerial_imagery",
+    "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10683098",
     "address": "1440 CANTERBURY Close",
@@ -994,13 +994,13 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "42",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
     "priority_rank": "38",
-    "review_status": "vision_reviewed_batch_003_no_aerial_imagery",
+    "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10589073",
     "address": "1453 STODDART Avenue",
@@ -1021,13 +1021,13 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "10",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
     "priority_rank": "39",
-    "review_status": "vision_reviewed_batch_003_no_aerial_imagery",
+    "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10647009",
     "address": "1502 PINERIDGE MOUNTAIN Place",
@@ -1048,13 +1048,13 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "40",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
     "priority_rank": "40",
-    "review_status": "vision_reviewed_batch_003_no_aerial_imagery",
+    "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "20049602",
     "address": "1509 10th Avenue",
@@ -1075,13 +1075,13 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "49",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
     "priority_rank": "41",
-    "review_status": "vision_reviewed_batch_003_no_aerial_imagery",
+    "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10573769",
     "address": "1513 LAKEVIEW Lane",
@@ -1102,13 +1102,13 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "10",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
     "priority_rank": "42",
-    "review_status": "vision_reviewed_batch_003_no_aerial_imagery",
+    "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10685465",
     "address": "1715 3RD Avenue",
@@ -1129,13 +1129,13 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "42",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
     "priority_rank": "43",
-    "review_status": "vision_reviewed_batch_003_no_aerial_imagery",
+    "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10675078",
     "address": "1745 SWANSEA Avenue",
@@ -1156,13 +1156,13 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "42",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
     "priority_rank": "44",
-    "review_status": "vision_reviewed_batch_003_no_aerial_imagery",
+    "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10521676",
     "address": "1753 2ND Avenue",
@@ -1183,13 +1183,13 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "1",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
     "priority_rank": "45",
-    "review_status": "vision_reviewed_batch_003_no_aerial_imagery",
+    "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10676060",
     "address": "1825 TAYNTON Road",
@@ -1210,13 +1210,13 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "99",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
     "priority_rank": "46",
-    "review_status": "vision_reviewed_batch_003_no_aerial_imagery",
+    "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "20020845",
     "address": "1921 PINERIDGE MOUNTAIN Trail",
@@ -1237,13 +1237,13 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "2",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
     "priority_rank": "47",
-    "review_status": "vision_reviewed_batch_003_no_aerial_imagery",
+    "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10650416",
     "address": "1973 GREYWOLF Drive",
@@ -1264,13 +1264,13 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "24",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
     "priority_rank": "48",
-    "review_status": "vision_reviewed_batch_003_no_aerial_imagery",
+    "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10680589",
     "address": "2510 COBBLESTONE Trail",
@@ -1291,13 +1291,13 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "34",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
     "priority_rank": "49",
-    "review_status": "vision_reviewed_batch_003_no_aerial_imagery",
+    "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10631447",
     "address": "2527 LEDGEROCK Ridge",
@@ -1318,13 +1318,13 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "16",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
     "priority_rank": "50",
-    "review_status": "vision_reviewed_batch_003_no_aerial_imagery",
+    "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10677502",
     "address": "2537 LEDGEROCK Ridge",
@@ -1345,7 +1345,7 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "66",
     "source_risk": "research_only_verify_license",
-    "notes": "Vision batch 003: print_mockup_potential=low; best_candidate_tile=none; All aerial tiles show 'Map data not yet available'; no property features visible.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
@@ -1426,7 +1426,7 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "70",
     "source_risk": "research_only_verify_license",
-    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Coordinate fallback applied: 2577 Sandstone Circle, Invermere, BC (nominatim); recollected ArcGIS z19 tiles. Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
@@ -1831,7 +1831,7 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "38",
     "source_risk": "research_only_verify_license",
-    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Coordinate fallback applied: 4642 Rowan St, Windermere, British Columbia, V0B 2L2 (arcgis_world_geocoder_manual_variant); recollected ArcGIS z19 tiles. Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
@@ -1912,7 +1912,7 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "10",
     "source_risk": "research_only_verify_license",
-    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Coordinate fallback applied: Timber Ridge Road, Area F, East Kootenay, BC (nominatim); recollected ArcGIS z19 tiles. Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
@@ -1993,7 +1993,7 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "20",
     "source_risk": "research_only_verify_license",
-    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Coordinate fallback applied: Holland Creek Ridge Road, Area F, East Kootenay, BC (nominatim); recollected ArcGIS z19 tiles. Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
@@ -2055,6 +2055,33 @@
     "priority_rank": "77",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
+    "listing_id": "10604265",
+    "address": "4827 HOLLAND Crescent",
+    "area": "Kootenay",
+    "subarea": "INRU - Windermere",
+    "latitude": "50.49725211",
+    "longitude": "-116.00174982",
+    "coordinate_confidence": "point_geocode",
+    "best_overhead_candidate": "data\\aerial\\columbia_valley\\4827-holland-crescent-10604265\\esri_world_imagery_z19\\z19_x93204_y176677.jpg",
+    "contact_sheet": "data\\contact_sheets\\columbia_valley\\4827-holland-crescent-10604265\\aerial_contact_sheet.jpg",
+    "aerial_tile_count": "9",
+    "image_quality_score_auto": "7",
+    "center_tile_bytes": "2521",
+    "center_tile_brightness": "204.7",
+    "center_tile_contrast": "5.4",
+    "backyard_visibility": "unclear",
+    "overhead_quality": "poor",
+    "hot_tub_visible": "unclear",
+    "mls_photo_count": "10",
+    "source_risk": "research_only_verify_license",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
+    "aerial_placeholder_tiles": 9,
+    "aerial_real_tiles": 0
+  },
+  {
+    "priority_rank": "78",
+    "review_status": "blocked_no_aerial_imagery",
+    "source_label": "Columbia Valley",
     "listing_id": "10565896",
     "address": "4859 HOLLAND CK RIDGE Road",
     "area": "Kootenay",
@@ -2079,7 +2106,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "78",
+    "priority_rank": "79",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10665854",
@@ -2106,7 +2133,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "79",
+    "priority_rank": "80",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "20084577",
@@ -2133,7 +2160,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "80",
+    "priority_rank": "81",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "20059692",
@@ -2160,7 +2187,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "81",
+    "priority_rank": "82",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10587559",
@@ -2182,12 +2209,12 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "10",
     "source_risk": "research_only_verify_license",
-    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Coordinate fallback applied: Lakeview Meadows Close, Area F, East Kootenay, BC (nominatim); recollected ArcGIS z19 tiles. Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "82",
+    "priority_rank": "83",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10569690",
@@ -2214,7 +2241,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "83",
+    "priority_rank": "84",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10666174",
@@ -2241,7 +2268,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "84",
+    "priority_rank": "85",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10660433",
@@ -2268,7 +2295,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "85",
+    "priority_rank": "86",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10673650",
@@ -2295,7 +2322,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "86",
+    "priority_rank": "87",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10680493",
@@ -2317,12 +2344,12 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "47",
     "source_risk": "research_only_verify_license",
-    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Coordinate fallback applied: 4958 Merlo Rd, Invermere, British Columbia, V0A 1K3 (arcgis_world_geocoder_manual_variant); recollected ArcGIS z19 tiles. Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "87",
+    "priority_rank": "88",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10673667",
@@ -2349,7 +2376,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "88",
+    "priority_rank": "89",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "20026072",
@@ -2376,7 +2403,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "89",
+    "priority_rank": "90",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10573050",
@@ -2403,7 +2430,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "90",
+    "priority_rank": "91",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10682769",
@@ -2430,7 +2457,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "91",
+    "priority_rank": "92",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "20080295",
@@ -2457,7 +2484,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "92",
+    "priority_rank": "93",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10683660",
@@ -2484,7 +2511,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "93",
+    "priority_rank": "94",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10523709",
@@ -2511,7 +2538,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "94",
+    "priority_rank": "95",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10677817",
@@ -2538,7 +2565,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "95",
+    "priority_rank": "96",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10570990",
@@ -2565,7 +2592,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "96",
+    "priority_rank": "97",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10623245",
@@ -2587,12 +2614,12 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "17",
     "source_risk": "research_only_verify_license",
-    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Coordinate fallback applied: 5160 Riverside Dr, Fairmont Hot Springs, British Columbia, V0B 1L1 (arcgis_world_geocoder_manual_variant); recollected ArcGIS z19 tiles. Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "97",
+    "priority_rank": "98",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "20061096",
@@ -2619,7 +2646,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "98",
+    "priority_rank": "99",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10660875",
@@ -2646,7 +2673,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "99",
+    "priority_rank": "100",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10672919",
@@ -2673,7 +2700,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "100",
+    "priority_rank": "101",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10672747",
@@ -2700,7 +2727,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "101",
+    "priority_rank": "102",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10675110",
@@ -2727,7 +2754,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "102",
+    "priority_rank": "103",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10647683",
@@ -2754,7 +2781,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "103",
+    "priority_rank": "104",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "20057362",
@@ -2781,7 +2808,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "104",
+    "priority_rank": "105",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10669795",
@@ -2808,7 +2835,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "105",
+    "priority_rank": "106",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10662424",
@@ -2835,7 +2862,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "106",
+    "priority_rank": "107",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10638399",
@@ -2862,7 +2889,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "107",
+    "priority_rank": "108",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "20021336",
@@ -2889,7 +2916,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "108",
+    "priority_rank": "109",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10645721",
@@ -2916,7 +2943,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "109",
+    "priority_rank": "110",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10670913",
@@ -2943,7 +2970,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "110",
+    "priority_rank": "111",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10646987",
@@ -2970,7 +2997,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "111",
+    "priority_rank": "112",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10665254",
@@ -2997,7 +3024,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "112",
+    "priority_rank": "113",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10639146",
@@ -3024,7 +3051,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "113",
+    "priority_rank": "114",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10673624",
@@ -3051,7 +3078,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "114",
+    "priority_rank": "115",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10654610",
@@ -3078,7 +3105,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "115",
+    "priority_rank": "116",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10588693",
@@ -3100,12 +3127,12 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "3",
     "source_risk": "research_only_verify_license",
-    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Coordinate fallback applied: Copperview Close, Area F, East Kootenay, BC (nominatim); recollected ArcGIS z19 tiles. Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "116",
+    "priority_rank": "117",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10684558",
@@ -3132,7 +3159,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "117",
+    "priority_rank": "118",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "20087320",
@@ -3159,7 +3186,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "118",
+    "priority_rank": "119",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "20040895",
@@ -3186,7 +3213,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "119",
+    "priority_rank": "120",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10665224",
@@ -3213,7 +3240,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "120",
+    "priority_rank": "121",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10683812",
@@ -3240,7 +3267,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "121",
+    "priority_rank": "122",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "20050440",
@@ -3267,7 +3294,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "122",
+    "priority_rank": "123",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "20038863",
@@ -3294,7 +3321,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "123",
+    "priority_rank": "124",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10685328",
@@ -3321,7 +3348,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "124",
+    "priority_rank": "125",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10613313",
@@ -3343,12 +3370,12 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "10",
     "source_risk": "research_only_verify_license",
-    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Coordinate fallback applied: Lakeview Meadows Glen, Area F, East Kootenay, BC (nominatim); recollected ArcGIS z19 tiles. Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "125",
+    "priority_rank": "126",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "20071157",
@@ -3375,7 +3402,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "126",
+    "priority_rank": "127",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Columbia Valley",
     "listing_id": "10664190",
@@ -3402,7 +3429,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "127",
+    "priority_rank": "128",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10606465",
@@ -3424,12 +3451,12 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "10",
     "source_risk": "research_only_verify_license",
-    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Coordinate fallback applied: 6674 Wardner Kikomun Rd, #37, Wardner, British Columbia, V0B 2J0 (arcgis_world_geocoder_manual_variant); recollected ArcGIS z19 tiles. Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "128",
+    "priority_rank": "129",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10673089",
@@ -3456,7 +3483,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "129",
+    "priority_rank": "130",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10685535",
@@ -3483,7 +3510,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "130",
+    "priority_rank": "131",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10674183",
@@ -3510,7 +3537,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "131",
+    "priority_rank": "132",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20027125",
@@ -3537,7 +3564,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "132",
+    "priority_rank": "133",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10667018",
@@ -3564,7 +3591,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "133",
+    "priority_rank": "134",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10612922",
@@ -3591,7 +3618,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "134",
+    "priority_rank": "135",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20079642",
@@ -3618,7 +3645,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "135",
+    "priority_rank": "136",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10683127",
@@ -3645,7 +3672,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "136",
+    "priority_rank": "137",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10654223",
@@ -3672,7 +3699,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "137",
+    "priority_rank": "138",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10667357",
@@ -3699,7 +3726,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "138",
+    "priority_rank": "139",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20021290",
@@ -3726,7 +3753,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "139",
+    "priority_rank": "140",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20083862",
@@ -3753,7 +3780,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "140",
+    "priority_rank": "141",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10672843",
@@ -3775,12 +3802,12 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "39",
     "source_risk": "research_only_verify_license",
-    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Coordinate fallback applied: 150 Sullivan Dr, Kimberley, British Columbia, V1A 0A7 (arcgis_world_geocoder_manual_variant); recollected ArcGIS z19 tiles. Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "141",
+    "priority_rank": "142",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10552417",
@@ -3807,7 +3834,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "142",
+    "priority_rank": "143",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10669905",
@@ -3834,7 +3861,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "143",
+    "priority_rank": "144",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10684522",
@@ -3861,7 +3888,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "144",
+    "priority_rank": "145",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20062684",
@@ -3888,7 +3915,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "145",
+    "priority_rank": "146",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20069196",
@@ -3915,7 +3942,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "146",
+    "priority_rank": "147",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20077373",
@@ -3942,7 +3969,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "147",
+    "priority_rank": "148",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10657484",
@@ -3969,7 +3996,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "148",
+    "priority_rank": "149",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10675733",
@@ -3996,7 +4023,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "149",
+    "priority_rank": "150",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10681930",
@@ -4023,7 +4050,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "150",
+    "priority_rank": "151",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10626846",
@@ -4045,12 +4072,12 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "20",
     "source_risk": "research_only_verify_license",
-    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Coordinate fallback applied: 6674 Wardner Kikomun Rd, #18, Wardner, British Columbia, V0B 2J0 (arcgis_world_geocoder_manual_variant); recollected ArcGIS z19 tiles. Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "151",
+    "priority_rank": "152",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20057967",
@@ -4077,7 +4104,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "152",
+    "priority_rank": "153",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10670897",
@@ -4104,7 +4131,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "153",
+    "priority_rank": "154",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20068527",
@@ -4131,7 +4158,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "154",
+    "priority_rank": "155",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10652500",
@@ -4158,7 +4185,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "155",
+    "priority_rank": "156",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20022971",
@@ -4185,7 +4212,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "156",
+    "priority_rank": "157",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20040986",
@@ -4212,7 +4239,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "157",
+    "priority_rank": "158",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20058040",
@@ -4239,7 +4266,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "158",
+    "priority_rank": "159",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10625065",
@@ -4266,7 +4293,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "159",
+    "priority_rank": "160",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20078342",
@@ -4293,7 +4320,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "160",
+    "priority_rank": "161",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10683832",
@@ -4320,7 +4347,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "161",
+    "priority_rank": "162",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20074790",
@@ -4347,7 +4374,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "162",
+    "priority_rank": "163",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10685240",
@@ -4374,7 +4401,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "163",
+    "priority_rank": "164",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20035684",
@@ -4401,7 +4428,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "164",
+    "priority_rank": "165",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20049485",
@@ -4428,7 +4455,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "165",
+    "priority_rank": "166",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20084357",
@@ -4455,7 +4482,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "166",
+    "priority_rank": "167",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10680848",
@@ -4482,7 +4509,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "167",
+    "priority_rank": "168",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20087226",
@@ -4509,7 +4536,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "168",
+    "priority_rank": "169",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20043585",
@@ -4536,7 +4563,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "169",
+    "priority_rank": "170",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20053388",
@@ -4563,7 +4590,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "170",
+    "priority_rank": "171",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20042580",
@@ -4590,7 +4617,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "171",
+    "priority_rank": "172",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20072535",
@@ -4617,7 +4644,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "172",
+    "priority_rank": "173",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20075439",
@@ -4644,7 +4671,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "173",
+    "priority_rank": "174",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10681908",
@@ -4671,7 +4698,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "174",
+    "priority_rank": "175",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20047369",
@@ -4698,7 +4725,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "175",
+    "priority_rank": "176",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20042910",
@@ -4725,7 +4752,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "176",
+    "priority_rank": "177",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20063623",
@@ -4752,7 +4779,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "177",
+    "priority_rank": "178",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20046086",
@@ -4779,7 +4806,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "178",
+    "priority_rank": "179",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20073830",
@@ -4806,7 +4833,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "179",
+    "priority_rank": "180",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20048728",
@@ -4833,7 +4860,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "180",
+    "priority_rank": "181",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20071254",
@@ -4860,7 +4887,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "181",
+    "priority_rank": "182",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20026282",
@@ -4887,7 +4914,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "182",
+    "priority_rank": "183",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20045387",
@@ -4914,7 +4941,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "183",
+    "priority_rank": "184",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20080078",
@@ -4941,7 +4968,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "184",
+    "priority_rank": "185",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20050060",
@@ -4968,7 +4995,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "185",
+    "priority_rank": "186",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20087063",
@@ -4995,7 +5022,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "186",
+    "priority_rank": "187",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20021100",
@@ -5022,7 +5049,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "187",
+    "priority_rank": "188",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20022685",
@@ -5049,7 +5076,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "188",
+    "priority_rank": "189",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20027834",
@@ -5076,7 +5103,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "189",
+    "priority_rank": "190",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10470205",
@@ -5103,7 +5130,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "190",
+    "priority_rank": "191",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20003058",
@@ -5130,7 +5157,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "191",
+    "priority_rank": "192",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20048760",
@@ -5157,7 +5184,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "192",
+    "priority_rank": "193",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10682881",
@@ -5184,7 +5211,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "193",
+    "priority_rank": "194",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20073637",
@@ -5211,7 +5238,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "194",
+    "priority_rank": "195",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20040797",
@@ -5238,7 +5265,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "195",
+    "priority_rank": "196",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10669940",
@@ -5265,7 +5292,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "196",
+    "priority_rank": "197",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20070160",
@@ -5292,7 +5319,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "197",
+    "priority_rank": "198",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20081980",
@@ -5319,7 +5346,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "198",
+    "priority_rank": "199",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20037931",
@@ -5346,7 +5373,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "199",
+    "priority_rank": "200",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20022594",
@@ -5373,7 +5400,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "200",
+    "priority_rank": "201",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20022519",
@@ -5400,7 +5427,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "201",
+    "priority_rank": "202",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10574318",
@@ -5427,7 +5454,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "202",
+    "priority_rank": "203",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10685008",
@@ -5454,7 +5481,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "203",
+    "priority_rank": "204",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10679813",
@@ -5481,7 +5508,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "204",
+    "priority_rank": "205",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20060670",
@@ -5508,7 +5535,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "205",
+    "priority_rank": "206",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10676696",
@@ -5535,7 +5562,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "206",
+    "priority_rank": "207",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20078478",
@@ -5562,7 +5589,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "207",
+    "priority_rank": "208",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10669531",
@@ -5589,7 +5616,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "208",
+    "priority_rank": "209",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20085434",
@@ -5616,7 +5643,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "209",
+    "priority_rank": "210",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10672776",
@@ -5643,7 +5670,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "210",
+    "priority_rank": "211",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20020530",
@@ -5670,7 +5697,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "211",
+    "priority_rank": "212",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20036703",
@@ -5697,7 +5724,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "212",
+    "priority_rank": "213",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10658252",
@@ -5724,7 +5751,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "213",
+    "priority_rank": "214",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20020840",
@@ -5751,7 +5778,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "214",
+    "priority_rank": "215",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10693834",
@@ -5778,7 +5805,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "215",
+    "priority_rank": "216",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10665147",
@@ -5805,7 +5832,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "216",
+    "priority_rank": "217",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20086371",
@@ -5832,7 +5859,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "217",
+    "priority_rank": "218",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10669578",
@@ -5859,7 +5886,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "218",
+    "priority_rank": "219",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10680439",
@@ -5886,7 +5913,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "219",
+    "priority_rank": "220",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10675651",
@@ -5913,7 +5940,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "220",
+    "priority_rank": "221",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20050871",
@@ -5940,7 +5967,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "221",
+    "priority_rank": "222",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "20042244",
@@ -5967,7 +5994,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "222",
+    "priority_rank": "223",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Cranbrook/Kimberley",
     "listing_id": "10678423",
@@ -5989,12 +6016,12 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "24",
     "source_risk": "research_only_verify_license",
-    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Coordinate fallback applied: 9905 Osprey Landing Dr, Wardner, British Columbia, V0B 2J0 (arcgis_world_geocoder_manual_variant); recollected ArcGIS z19 tiles. Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "223",
+    "priority_rank": "224",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10681651",
@@ -6021,7 +6048,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "224",
+    "priority_rank": "225",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10674172",
@@ -6048,7 +6075,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "225",
+    "priority_rank": "226",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10559698",
@@ -6075,7 +6102,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "226",
+    "priority_rank": "227",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10663402",
@@ -6102,7 +6129,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "227",
+    "priority_rank": "228",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10636711",
@@ -6129,7 +6156,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "228",
+    "priority_rank": "229",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10676037",
@@ -6156,7 +6183,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "229",
+    "priority_rank": "230",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20066310",
@@ -6183,7 +6210,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "230",
+    "priority_rank": "231",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10637598",
@@ -6210,7 +6237,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "231",
+    "priority_rank": "232",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10672499",
@@ -6237,7 +6264,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "232",
+    "priority_rank": "233",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10659866",
@@ -6264,7 +6291,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "233",
+    "priority_rank": "234",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10663856",
@@ -6291,7 +6318,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "234",
+    "priority_rank": "235",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20060624",
@@ -6318,7 +6345,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "235",
+    "priority_rank": "236",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10675686",
@@ -6345,7 +6372,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "236",
+    "priority_rank": "237",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10663121",
@@ -6372,7 +6399,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "237",
+    "priority_rank": "238",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10681443",
@@ -6399,7 +6426,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "238",
+    "priority_rank": "239",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10682383",
@@ -6426,7 +6453,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "239",
+    "priority_rank": "240",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10670512",
@@ -6453,7 +6480,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "240",
+    "priority_rank": "241",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10656960",
@@ -6480,7 +6507,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "241",
+    "priority_rank": "242",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10629259",
@@ -6507,7 +6534,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "242",
+    "priority_rank": "243",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10681347",
@@ -6534,7 +6561,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "243",
+    "priority_rank": "244",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10652596",
@@ -6561,7 +6588,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "244",
+    "priority_rank": "245",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10671641",
@@ -6588,7 +6615,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "245",
+    "priority_rank": "246",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20043865",
@@ -6615,7 +6642,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "246",
+    "priority_rank": "247",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10615862",
@@ -6642,7 +6669,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "247",
+    "priority_rank": "248",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10677481",
@@ -6669,7 +6696,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "248",
+    "priority_rank": "249",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10681575",
@@ -6696,7 +6723,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "249",
+    "priority_rank": "250",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10579894",
@@ -6723,7 +6750,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "250",
+    "priority_rank": "251",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10681344",
@@ -6750,7 +6777,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "251",
+    "priority_rank": "252",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10644420",
@@ -6777,7 +6804,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "252",
+    "priority_rank": "253",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10675368",
@@ -6804,7 +6831,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "253",
+    "priority_rank": "254",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10654287",
@@ -6831,7 +6858,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "254",
+    "priority_rank": "255",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10670943",
@@ -6858,7 +6885,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "255",
+    "priority_rank": "256",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10670868",
@@ -6885,7 +6912,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "256",
+    "priority_rank": "257",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10599160",
@@ -6912,7 +6939,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "257",
+    "priority_rank": "258",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10676027",
@@ -6939,7 +6966,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "258",
+    "priority_rank": "259",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20073619",
@@ -6966,7 +6993,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "259",
+    "priority_rank": "260",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10628923",
@@ -6993,7 +7020,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "260",
+    "priority_rank": "261",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10629333",
@@ -7020,7 +7047,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "261",
+    "priority_rank": "262",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10655082",
@@ -7047,7 +7074,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "262",
+    "priority_rank": "263",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10666517",
@@ -7074,7 +7101,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "263",
+    "priority_rank": "264",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10673661",
@@ -7101,7 +7128,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "264",
+    "priority_rank": "265",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10577345",
@@ -7128,7 +7155,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "265",
+    "priority_rank": "266",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10559208",
@@ -7155,7 +7182,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "266",
+    "priority_rank": "267",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10545164",
@@ -7182,7 +7209,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "267",
+    "priority_rank": "268",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10616755",
@@ -7209,7 +7236,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "268",
+    "priority_rank": "269",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10622169",
@@ -7236,7 +7263,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "269",
+    "priority_rank": "270",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10605182",
@@ -7263,7 +7290,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "270",
+    "priority_rank": "271",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10676258",
@@ -7290,7 +7317,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "271",
+    "priority_rank": "272",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10608316",
@@ -7317,7 +7344,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "272",
+    "priority_rank": "273",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10561093",
@@ -7339,12 +7366,12 @@
     "hot_tub_visible": "unclear",
     "mls_photo_count": "8",
     "source_risk": "research_only_verify_license",
-    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.; Coordinate fallback applied: 5401 Boomerang Way, Fernie, British Columbia, V0B 1M6 (arcgis_world_geocoder_manual_variant); recollected ArcGIS z19 tiles. Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
+    "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "273",
+    "priority_rank": "274",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10660236",
@@ -7371,7 +7398,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "274",
+    "priority_rank": "275",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10674370",
@@ -7398,7 +7425,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "275",
+    "priority_rank": "276",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20053873",
@@ -7425,7 +7452,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "276",
+    "priority_rank": "277",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10665347",
@@ -7452,7 +7479,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "277",
+    "priority_rank": "278",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10665467",
@@ -7479,7 +7506,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "278",
+    "priority_rank": "279",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10638277",
@@ -7506,7 +7533,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "279",
+    "priority_rank": "280",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20066454",
@@ -7533,7 +7560,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "280",
+    "priority_rank": "281",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10673062",
@@ -7560,7 +7587,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "281",
+    "priority_rank": "282",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10661891",
@@ -7587,7 +7614,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "282",
+    "priority_rank": "283",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20022380",
@@ -7614,7 +7641,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "283",
+    "priority_rank": "284",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20020418",
@@ -7641,7 +7668,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "284",
+    "priority_rank": "285",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10682918",
@@ -7668,7 +7695,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "285",
+    "priority_rank": "286",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10636454",
@@ -7695,7 +7722,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "286",
+    "priority_rank": "287",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10669856",
@@ -7722,7 +7749,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "287",
+    "priority_rank": "288",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10614914",
@@ -7749,7 +7776,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "288",
+    "priority_rank": "289",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20022908",
@@ -7776,7 +7803,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "289",
+    "priority_rank": "290",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10666129",
@@ -7803,7 +7830,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "290",
+    "priority_rank": "291",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10669621",
@@ -7830,7 +7857,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "291",
+    "priority_rank": "292",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10667796",
@@ -7857,7 +7884,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "292",
+    "priority_rank": "293",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10668743",
@@ -7884,7 +7911,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "293",
+    "priority_rank": "294",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10626775",
@@ -7911,7 +7938,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "294",
+    "priority_rank": "295",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10303426",
@@ -7938,7 +7965,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "295",
+    "priority_rank": "296",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10657168",
@@ -7965,7 +7992,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "296",
+    "priority_rank": "297",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "20039625",
@@ -7992,7 +8019,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "297",
+    "priority_rank": "298",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10678927",
@@ -8019,7 +8046,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "298",
+    "priority_rank": "299",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10675594",
@@ -8046,7 +8073,7 @@
     "aerial_real_tiles": 0
   },
   {
-    "priority_rank": "299",
+    "priority_rank": "300",
     "review_status": "blocked_no_aerial_imagery",
     "source_label": "Fernie/Sparwood",
     "listing_id": "10666059",
@@ -8069,33 +8096,6 @@
     "mls_photo_count": "52",
     "source_risk": "research_only_verify_license",
     "notes": "Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
-    "aerial_placeholder_tiles": 9,
-    "aerial_real_tiles": 0
-  },
-  {
-    "priority_rank": "",
-    "review_status": "blocked_no_aerial_imagery",
-    "source_label": "Columbia Valley",
-    "listing_id": "10604265",
-    "address": "4827 HOLLAND Crescent",
-    "area": "Kootenay",
-    "subarea": "INRU - Windermere",
-    "latitude": "50.49725211",
-    "longitude": "-116.00174982",
-    "coordinate_confidence": "point_geocode",
-    "best_overhead_candidate": "data\\aerial\\columbia_valley\\4827-holland-crescent-10604265\\esri_world_imagery_z19\\z19_x93204_y176677.jpg",
-    "contact_sheet": "",
-    "aerial_tile_count": "9",
-    "image_quality_score_auto": "7",
-    "center_tile_bytes": "2521",
-    "center_tile_brightness": "204.7",
-    "center_tile_contrast": "5.4",
-    "backyard_visibility": "unclear",
-    "overhead_quality": "poor",
-    "hot_tub_visible": "unclear",
-    "mls_photo_count": "10",
-    "source_risk": "research_only_verify_license",
-    "notes": "No usable coordinate yet; needs parcel/manual lookup.; Coordinate fallback applied: 4827 Holland Creek Ridge Rd, Invermere, British Columbia, V0A 1K3 (arcgis_world_geocoder_manual_variant); recollected ArcGIS z19 tiles. Listing address says 4827 HOLLAND Crescent, but ArcGIS resolves exact PointAddress for 4827 Holland Creek Ridge Rd; needs human address-label verification. Automated placeholder detection: all aerial tiles appear to be Esri no-imagery placeholders; use MLS/contact-sheet path instead.",
     "aerial_placeholder_tiles": 9,
     "aerial_real_tiles": 0
   }

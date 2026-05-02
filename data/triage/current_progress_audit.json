@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T07:20:13-07:00",
+  "generated_at": "2026-05-01T04:22:48-07:00",
   "properties": 300,
   "arcgis_contact_sheet_index_rows": 300,
   "public_arcgis_gallery_exists": true,
@@ -14,12 +14,13 @@
     "subaddress_geocode": 2
   },
   "recommended_sources": {
-    "arcgis_overhead_house_backyard_candidate": 10,
     "bing_overhead_house_backyard_candidate": 15,
+    "blocked_arcgis_no_imagery": 2,
     "google_overhead_house_backyard_candidate": 174,
     "mapbox_overhead_house_backyard_candidate": 3,
     "mls_drone_or_aerial_candidate": 49,
     "mls_ground_backyard_context_only": 4,
+    "needs_aerial_review": 8,
     "no_usable_aerial_candidate_after_full_review": 2,
     "possible_bing_overhead_needs_verify": 7,
     "possible_google_overhead_needs_verify": 18,
@@ -41,7 +42,7 @@
       "mls_thumbnails": 2434,
       "mls_proxy_candidates": 2165,
       "mls_proxy_candidate_listings": 100,
-      "recommended_sources_json": "{\"bing_overhead_house_backyard_candidate\": 7, \"google_overhead_house_backyard_candidate\": 45, \"mapbox_overhead_house_backyard_candidate\": 1, \"mls_drone_or_aerial_candidate\": 21, \"mls_ground_backyard_context_only\": 2, \"possible_bing_overhead_needs_verify\": 4, \"possible_google_overhead_needs_verify\": 11, \"possible_mls_elevated_candidate_needs_verify\": 9}"
+      "recommended_sources_json": "{\"bing_overhead_house_backyard_candidate\": 7, \"blocked_arcgis_no_imagery\": 2, \"google_overhead_house_backyard_candidate\": 45, \"mapbox_overhead_house_backyard_candidate\": 1, \"mls_drone_or_aerial_candidate\": 21, \"possible_bing_overhead_needs_verify\": 4, \"possible_google_overhead_needs_verify\": 11, \"possible_mls_elevated_candidate_needs_verify\": 9}"
     },
     {
       "source_label": "Cranbrook/Kimberley",
@@ -52,7 +53,7 @@
       "mls_thumbnails": 2629,
       "mls_proxy_candidates": 2302,
       "mls_proxy_candidate_listings": 99,
-      "recommended_sources_json": "{\"arcgis_overhead_house_backyard_candidate\": 3, \"bing_overhead_house_backyard_candidate\": 4, \"google_overhead_house_backyard_candidate\": 66, \"mapbox_overhead_house_backyard_candidate\": 1, \"mls_drone_or_aerial_candidate\": 15, \"no_usable_aerial_candidate_after_full_review\": 1, \"possible_bing_overhead_needs_verify\": 3, \"possible_mls_elevated_candidate_needs_verify\": 7}"
+      "recommended_sources_json": "{\"bing_overhead_house_backyard_candidate\": 4, \"google_overhead_house_backyard_candidate\": 66, \"mapbox_overhead_house_backyard_candidate\": 1, \"mls_drone_or_aerial_candidate\": 15, \"mls_ground_backyard_context_only\": 1, \"needs_aerial_review\": 2, \"no_usable_aerial_candidate_after_full_review\": 1, \"possible_bing_overhead_needs_verify\": 3, \"possible_mls_elevated_candidate_needs_verify\": 7}"
     },
     {
       "source_label": "Fernie/Sparwood",
@@ -63,7 +64,7 @@
       "mls_thumbnails": 2404,
       "mls_proxy_candidates": 2136,
       "mls_proxy_candidate_listings": 100,
-      "recommended_sources_json": "{\"arcgis_overhead_house_backyard_candidate\": 7, \"bing_overhead_house_backyard_candidate\": 4, \"google_overhead_house_backyard_candidate\": 63, \"mapbox_overhead_house_backyard_candidate\": 1, \"mls_drone_or_aerial_candidate\": 13, \"mls_ground_backyard_context_only\": 2, \"no_usable_aerial_candidate_after_full_review\": 1, \"possible_google_overhead_needs_verify\": 7, \"possible_mls_elevated_candidate_needs_verify\": 2}"
+      "recommended_sources_json": "{\"bing_overhead_house_backyard_candidate\": 4, \"google_overhead_house_backyard_candidate\": 63, \"mapbox_overhead_house_backyard_candidate\": 1, \"mls_drone_or_aerial_candidate\": 13, \"mls_ground_backyard_context_only\": 3, \"needs_aerial_review\": 6, \"no_usable_aerial_candidate_after_full_review\": 1, \"possible_google_overhead_needs_verify\": 7, \"possible_mls_elevated_candidate_needs_verify\": 2}"
     }
   ],
   "blockers": [],

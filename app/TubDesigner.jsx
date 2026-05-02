@@ -275,7 +275,6 @@ export default function TubDesigner({ listingId, address, sourceImage, imageOpti
       setTimeout(() => {
         setSaved(false);
         setSaveMessage('');
-        setOpen(false);
       }, 900);
     } catch (error) {
       setSaveMessage('Could not save in this browser. Try clearing site storage and saving again.');

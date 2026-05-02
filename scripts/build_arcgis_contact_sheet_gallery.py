@@ -37,21 +37,22 @@ def main() -> None:
     triage_rows = read_csv(TRIAGE_CSV)
     triage_by_id = {r["listing_id"]: r for r in triage_rows}
 
-    if OUT_DIR.exists():
-        shutil.rmtree(OUT_DIR)
     OUT_DIR.mkdir(parents=True, exist_ok=True)
 
     rows = []
     missing_sources: list[str] = []
+    written_images: set[Path] = set()
     for i, c in enumerate(contact_rows, start=1):
         listing_id = c["listing_id"]
         t = triage_by_id.get(listing_id, {})
         rank = int(t.get("triage_rank") or i)
-        base = f"{rank:03d}-{slug(c['address'])}-{listing_id}-arcgis-sheet.jpg"
+        existing = sorted(OUT_DIR.glob(f"*-{listing_id}-arcgis-sheet.jpg"))
+        base = existing[0].name if existing else f"{rank:03d}-{slug(c['address'])}-{listing_id}-arcgis-sheet.jpg"
         src = ROOT / c["contact_sheet"].replace("\\", "/")
         dest = OUT_DIR / base
         if src.exists():
             shutil.copy2(src, dest)
+            written_images.add(dest)
             image_url = rel_public(dest)
         else:
             missing_sources.append(str(src.relative_to(ROOT)))
@@ -76,6 +77,10 @@ def main() -> None:
             "image_url": image_url,
             "notes": t.get("notes", ""),
         })
+
+    for stale in OUT_DIR.glob("*.jpg"):
+        if stale not in written_images:
+            stale.unlink()
 
     rows.sort(key=lambda r: (r["rank"], r["address"]))
     source_counts = Counter(r["source_label"] for r in rows)
